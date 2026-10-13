@@ -11,21 +11,30 @@
  "reviews": "46",
  "source_url": "https://www.yellowpages.com/los-gatos-ca/mip/lovelady-diamond-11865981",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "email": "diamonds@gemgate.com",
+ "email_source": "https://gemgate.com/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/glenn-lovelady-919b3b9/",
+ "linkedin_source": "WebSearch: \"Glenn Lovelady\" Lovelady Diamond LinkedIn",
+ "contact_person": "Glenn Lovelady",
+ "role": "Owner",
+ "contact_source": "https://gemgate.com/pages/about",
+ "tel_numbers": [
+  "(408) 358-5336",
+  "(408) 455-9885"
+ ],
+ "tel_source": "https://gemgate.com/pages/contact",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Ste 210",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1981",
+  "estate-buyer",
+  "cutter-trained",
+  "author-mastering-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Jewelry Buyers, Gold, Silver & Platinum Buyers & Dealers"
+ "scope_reason": "Borderline: owner trained as diamond cutter (American School of Diamond Cutting 1980) and the business buys and sells pre-owned diamonds and jewelry ('We purchase ... diamonds, jewelry, scrap gold, platinum and silver, gold and silver coins') - estate diamond buyer; also buys scrap gold.",
+ "verified": true
 }

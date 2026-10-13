@@ -11,21 +11,35 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/schneider-gems-459028878",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "js@schneidergems.com",
+ "email_source": "http://www.schneidergems.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "David Schneider",
+ "role": "Owner",
+ "contact_source": "http://www.schneidergems.com/about",
+ "tel_numbers": [
+  "561.391.3580"
+ ],
+ "tel_source": "http://www.schneidergems.com/",
+ "socials": [
+  "https://m.facebook.com/Schneider-Gems-145393518895770/",
+  "https://www.instagram.com/schneidergems/"
+ ],
  "building": "",
  "suite": "Ste 217",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "3rd-generation",
+  "wholesale",
+  "loose-diamonds",
+  "estate-buying",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Appraisers"
+ "scope_reason": "Site: 'Buy and Sell Wholesale Diamonds and Jewelry'; About: David took over his father's diamond manufacturing business 'and focused on the wholesale distribution of diamonds'; loose diamonds, GIA certified, estate buying.",
+ "verified": true
 }

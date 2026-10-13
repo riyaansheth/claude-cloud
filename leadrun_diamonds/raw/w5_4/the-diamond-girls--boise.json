@@ -25,7 +25,8 @@
  "suite": "Ste 101",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Diamonds, Diamond Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site: 'Boise's #1 Custom & Lab Diamond Jewelry Boutique' selling engagement rings, gold fashion jewelry, luxury watches, special-order jewelry - retail boutique (owners Lisa and Natalie, first names only).",
+ "verified": true
 }

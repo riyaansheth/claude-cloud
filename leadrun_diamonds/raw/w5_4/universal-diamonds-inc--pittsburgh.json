@@ -11,21 +11,31 @@
  "reviews": "48",
  "source_url": "https://www.yellowpages.com/pittsburgh-pa/mip/universal-diamonds-inc-27882866",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "email": "info@universaldiamonds.net",
+ "email_source": "https://universaldiamonds.net/contact/",
+ "linkedin_url": "https://www.linkedin.com/in/girish-jain-9156a513/",
+ "linkedin_source": "WebSearch: \"Nick Jain\" OR \"Girish Jain\" Universal Diamonds Pittsburgh LinkedIn",
+ "contact_person": "Girish Jain",
+ "role": "Member",
+ "contact_source": "https://universaldiamonds.net/about/",
+ "tel_numbers": [
+  "412-391-9650"
+ ],
+ "tel_source": "https://universaldiamonds.net/contact/",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Suite 207",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1978",
+  "manufacturer",
+  "wholesaler",
+  "melee",
+  "multi-generational",
+  "former-importer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Site: 'JEWELRY MANUFACTURER & WHOLESALER SINCE 1978' ... 'from our roots as a loose diamond importer and trader to now a full-service jewelry manufacturer and wholesaler, supplying ... independent retail stores'; calibrated melee. Founder per web search: Narpat 'Nick' Jain; site signs '- Nick, Girish, Vasu, Ruby'.",
+ "verified": true
 }

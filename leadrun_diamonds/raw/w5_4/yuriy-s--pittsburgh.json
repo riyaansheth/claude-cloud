@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Misha Bekman",
+ "role": "Manager",
+ "contact_source": "https://www.yuriysjewelry.com/contact-us",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -25,7 +25,8 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site: jewelry and watch repair origins, 'leading independent dealer of Certified Pre-Owned luxury timepieces', buyer of diamonds/gold/silver/coins, custom engagement rings - retail/repair store.",
+ "verified": true
 }

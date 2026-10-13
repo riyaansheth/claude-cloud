@@ -11,21 +11,31 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/pittsburgh-pa/mip/apex-diamonds-6539400",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@apexdiamonds.com",
+ "email_source": "https://www.apexdiamonds.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Oded Levy",
+ "role": "President",
+ "contact_source": "https://www.city-data.com/business-entities/PA/APEX-DIAMONDS-INC-3295114-PA.html",
+ "tel_numbers": [
+  "+1 (412) 362-6164"
+ ],
+ "tel_source": "https://www.apexdiamonds.com/",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "wholesaler",
+  "to-the-trade",
+  "loose-diamonds",
+  "recutting"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Site: 'At Apex Diamonds, we are more than just a wholesaler. We are a full-service provider to jewelry stores around the world' - loose diamonds, GIA stud inventory, matching & re-cutting.",
+ "verified": true
 }
