@@ -4,8 +4,8 @@
  "phone": "",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/jaron-solomon-23360715/",
+ "linkedin_source": "WebSearch extended: \"Jaron Solomon\" LinkedIn (result title 'Jaron Solomon - Solomon Brothers Jewelers')",
  "contact_person": "Jaron Solomon",
  "role": "President",
  "contact_source": "https://www.businesstraveller.com/sponsored/solomon-brothers-jewelers/",
@@ -18,9 +18,17 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://m.weddingwire.com/biz/solomon-brothers-jewelers/589b3d18e3e382df.html",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "404-266-0266",
+  "678-381-1478",
+  "404-926-2051"
+ ],
+ "tel_source": "https://www.solomonbrothers.com/",
+ "socials": [
+  "https://facebook.com/solomonbrothersjewelers",
+  "https://instagram.com/solomonbrothers",
+  "https://tiktok.com/@solomonbrothersjewelers"
+ ],
  "building": "Tower Place 100",
  "suite": "Ste 1700",
  "trade_memberships": [],
@@ -32,5 +40,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "Company says it cuts and polishes its own diamonds; large in-stock loose diamond selection (Tower Place 100, 17th floor).",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

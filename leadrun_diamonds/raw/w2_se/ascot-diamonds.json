@@ -4,8 +4,8 @@
  "phone": "",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/matthewklidjian/",
+ "linkedin_source": "WebSearch extended: \"Matthew Klidjian\" Ascot Diamonds LinkedIn (result title 'Matthew Klidjian - Personal Jeweler & Diamond Professional', Ascot Diamonds founding partner)",
  "contact_person": "Matthew Klidjian",
  "role": "Founder",
  "contact_source": "https://asbn.com/archived-shows/atlanta-business-profile/the-atlanta-small-business-profile-matthew-klidjian",
@@ -18,18 +18,29 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://www.ascotdiamonds.com/locations/atlanta",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "404-844-0800",
+  "866-382-8020"
+ ],
+ "tel_source": "https://www.ascotdiamonds.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/ascotdiamondsatlanta",
+  "https://www.instagram.com/ascotdiamondsatlanta",
+  "https://twitter.com/ascotdiamonds"
+ ],
  "building": "",
  "suite": "Ste E",
- "trade_memberships": [],
+ "trade_memberships": [
+  "GIA"
+ ],
  "hooks": [
   "since-1978",
   "natural",
-  "buys-diamonds"
+  "buys-diamonds",
+  "lab-grown"
  ],
  "is_diamond_trade": true,
  "scope_reason": "Diamond specialist (LinkedIn: founded 1978, HQ Atlanta) with large diamond inventory and sell/trade-your-diamond program; locations Atlanta, DC area, Dallas, NY, Davidson NC (215 S Main St #205). Klidjian = Founding Partner Atlanta.",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }
