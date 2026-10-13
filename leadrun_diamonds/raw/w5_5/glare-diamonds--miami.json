@@ -11,21 +11,31 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/glare-diamonds-471224604",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "service@glarediamonds.com",
+ "email_source": "https://www.glarediamonds.com/contact_us.php",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(866) 473-7793"
+ ],
+ "tel_source": "https://www.glarediamonds.com/contact_us.php",
+ "socials": [
+  "http://www.facebook.com/GlareDiamonds",
+  "https://twitter.com/#!/GlareDiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "loose-diamonds",
+  "gia-certified",
+  "online"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds"
+ "scope_reason": "About page: 'Glare Diamonds is a diamond company ... committed to selling diamonds to businesses and customers' with GIA-certified loose diamonds sold 'directly from partner manufacturers'.",
+ "verified": true
 }

@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: site unreachable (listed domain iza.org is the IZA Institute of Labor Economics, unrelated to Iza & Sons)",
+ "verified": false
 }

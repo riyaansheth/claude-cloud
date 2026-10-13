@@ -11,21 +11,32 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/fort-lauderdale-fl/mip/ofer-mizrahi-diamonds-inc-579821082",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@om-diamonds.com",
+ "email_source": "https://www.om-diamonds.com/omd-usa",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+1 312-558-9060",
+  "+1 646-5582553",
+  "+1 617-899-3419"
+ ],
+ "tel_source": "https://www.om-diamonds.com/omd-usa",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale",
+  "natural",
+  "lab-grown",
+  "multi-office",
+  "we-buy-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "OMD USA page titled 'Diamond Wholesaler USA: New York, Boston, Dallas | OMD'; offers natural and lab-grown diamond inventory with Fort Lauderdale headquarters at 200 E Broward Blvd.",
+ "verified": true
 }

@@ -11,21 +11,28 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/sophil-gems-8895671",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@sophil.com",
+ "email_source": "https://www.sophil.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(954) 629-2269",
+  "954 401 8332"
+ ],
+ "tel_source": "https://www.sophil.com/",
+ "socials": [
+  "https://instagram.com/sophil51",
+  "https://www.facebook.com/Sophil-204412529753905/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Sophil is a custom fine-jewelry designer ('Custom Jewelry Design for Diamonds, Pearls, Emeralds & More') working from Olivier Salon, with repairs; no wholesale or loose-diamond trade shown.",
+ "verified": true
 }

@@ -11,21 +11,30 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/silver-spring-md/mip/la-zaro-jewelry-8491741",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@lazarodiamonds.com",
+ "email_source": "https://lazarodiamonds.com/contact/",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Augusto Lazaro\" Lazaro Diamonds LinkedIn (no matching /in/ profile)",
+ "contact_person": "Augusto P. Lazaro",
+ "role": "Founder",
+ "contact_source": "https://lazarodiamonds.com/about-us/",
+ "tel_numbers": [
+  "301-587-8605"
+ ],
+ "tel_source": "https://lazarodiamonds.com/contact/",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "Jewelers Board of Trade"
+ ],
+ "hooks": [
+  "since-1986",
+  "diamond-dealer",
+  "custom-design"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "About page: 'Lazaro Diamonds was founded by Augusto P. Lazaro diamond dealer in the Washington DC metropolitan area since 1986' and offers 'Wholesale diamonds direct to the public'.",
+ "verified": true
 }

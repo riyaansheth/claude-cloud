@@ -11,21 +11,24 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/enfield-ct/mip/gem-jewelry-1621014",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "westhartford@gemjewelry.com",
+ "email_source": "https://gemjewelry.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "860-236-1986"
+ ],
+ "tel_source": "https://gemjewelry.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Diamond Buyers, Jewelers-Wholesale & Manufacturers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Retail store: 'West Hartford's Premier Jeweler Since 1905' selling engagement settings, pearls and Movado watches online; no wholesale/loose-diamond trade.",
+ "verified": true
 }

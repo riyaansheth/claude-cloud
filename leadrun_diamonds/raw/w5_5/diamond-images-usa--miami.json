@@ -11,21 +11,28 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/diamond-images-usa-506487552",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@diamondimagesusa.com",
+ "email_source": "https://www.diamondimagesusa.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "305.761.1520"
+ ],
+ "tel_source": "https://www.diamondimagesusa.com/",
  "socials": [],
- "building": "",
+ "building": "Seybold Building",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "gia-certified",
+  "bridal",
+  "custom-design"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Diamonds"
+ "scope_reason": "Seybold Building (36 NE 1st St #1016) bridal jeweler: 'SPECIALIZING IN G.I.A CERTIFIED IDEAL CUT DIAMONDS ... We take pride in our work by selecting the worlds finest quality diamonds' plus custom designs; borderline bridal specialist.",
+ "verified": true
 }
