@@ -1,0 +1,194 @@
+[
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_4/danforth-jewelry-design-diamonds--austin.json",
+  "business": "Danforth Jewelry Design & Diamonds",
+  "city": "Austin, TX",
+  "market": "Austin, TX",
+  "website": "http://www.danforthjewelry.com",
+  "have": [
+   "linkedin"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_4/the-austin-diamond-room--austin.json",
+  "business": "The Austin Diamond Room",
+  "city": "Austin, TX",
+  "market": "Austin, TX",
+  "website": "http://diamondrooms.com",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/international-diamond-products-corp--bound-brook.json",
+  "business": "International Diamond Products Corp",
+  "city": "Bound Brook, NJ",
+  "market": "Iselin, NJ",
+  "website": "http://www.internationaldiamondproducts.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_sd_pr_hou/redmond-diamond-center.json",
+  "business": "Redmond Diamond Center",
+  "city": "Carlsbad, CA",
+  "market": "San Diego, CA",
+  "website": "",
+  "have": [
+   "linkedin"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/diamondsandestates-com--davie.json",
+  "business": "DiamondsandEstates.com",
+  "city": "Davie, FL",
+  "market": "Fort Lauderdale, FL",
+  "website": "http://www.diamondsandestates.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/berman-s-jewelers--ellicott-city.json",
+  "business": "Berman's Jewelers",
+  "city": "Ellicott City, MD",
+  "market": "Bethesda, MD",
+  "website": "http://www.bermansjewelers.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/precious-gems-jewelers--folsom.json",
+  "business": "Precious Gems Jewelers",
+  "city": "Folsom, CA",
+  "market": "Sacramento, CA",
+  "website": "http://www.pgjewelers.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/excelsior-diamonds--gotha.json",
+  "business": "Excelsior Diamonds",
+  "city": "Gotha, FL",
+  "market": "Orlando, FL",
+  "website": "http://www.excelsior-diamonds.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/distinctive-diamonds--indianapolis.json",
+  "business": "Distinctive Diamonds",
+  "city": "Indianapolis, IN",
+  "market": "Indianapolis, IN",
+  "website": "http://www.distinctivediamondsinc.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/alvin-wilson-co--lakeland.json",
+  "business": "Alvin Wilson Co",
+  "city": "Lakeland, FL",
+  "market": "Tampa, FL",
+  "website": "http://alvinwilson.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/the-jewelry-factory-direct-diamond-importer--livonia.json",
+  "business": "The Jewelry Factory - Direct Diamond Importer",
+  "city": "Livonia, MI",
+  "market": "Southfield, MI",
+  "website": "http://www.jewelryexchange.com/jewelryfactory-livonia-detroit-diamonds-jewelry-store-jewelryrepair",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/chandel-jewelers--midland-park.json",
+  "business": "Chandel Jewelers",
+  "city": "Midland Park, NJ",
+  "market": "Hackensack, NJ",
+  "website": "http://chandeljewelers.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/west-african-mines-inc--murray.json",
+  "business": "West African Mines Inc",
+  "city": "Murray, UT",
+  "market": "Salt Lake City, UT",
+  "website": "https://westafricanmines.com/contact-us",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/worldwide--northbrook.json",
+  "business": "Worldwide",
+  "city": "Northbrook, IL",
+  "market": "Chicago, IL",
+  "website": "https://worldwidediamonds.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/sledges-estate-jewelers--orange.json",
+  "business": "Sledges Estate Jewelers",
+  "city": "Orange, CA",
+  "market": "Irvine, CA",
+  "website": "http://www.sledgejewelry.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_4/the-jewelry-exchange-direct-diamond-importers--redwood-city.json",
+  "business": "The Jewelry Exchange - Direct Diamond Importers",
+  "city": "Redwood City, CA",
+  "market": "San Jose, CA",
+  "website": "https://www.jewelryexchange.com/redwoodcity-sanfrancisco-diamonds-jewelry-store-jewelryrepair",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/the-jewelry-exchange-direct-diamond-importer--saint-louis.json",
+  "business": "The Jewelry Exchange | Direct Diamond Importer",
+  "city": "Saint Louis, MO",
+  "market": "Saint Louis, MO",
+  "website": "https://www.jewelryexchange.com/overland-stlouis-diamonds-jewelry-store-jewelryrepair",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_4/lindeburg-co--san-carlos.json",
+  "business": "Lindeburg & Co",
+  "city": "San Carlos, CA",
+  "market": "San Jose, CA",
+  "website": "http://www.lindeburg.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/value-diamond-tool-co--santa-ana.json",
+  "business": "Value Diamond Tool Co",
+  "city": "Santa Ana, CA",
+  "market": "Irvine, CA",
+  "website": "http://www.valuediamond.net",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/steven-s-jewelers--skokie.json",
+  "business": "Steven's Jewelers",
+  "city": "Skokie, IL",
+  "market": "Chicago, IL",
+  "website": "http://sethandreid.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/the-jewelry-exchange-direct-diamond-importers--sudbury.json",
+  "business": "The Jewelry Exchange | Direct Diamond Importers",
+  "city": "Sudbury, MA",
+  "market": "Boston, MA",
+  "website": "https://www.jewelryexchange.com/sudbury-boston-diamonds-jewelry-store-jewelryrepair",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/israel-diamond-supply--tulsa.json",
+  "business": "Israel Diamond Supply",
+  "city": "Tulsa, OK",
+  "market": "Tulsa, OK",
+  "website": "http://israeldiamond.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/m-a-laurie-jewelers-ltd--williamsville.json",
+  "business": "M A Laurie Jewelers Ltd",
+  "city": "Williamsville, NY",
+  "market": "Buffalo, NY",
+  "website": "http://lauriejewelers.com",
+  "have": []
+ }
+]

@@ -1,0 +1,326 @@
+[
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_se/ascot-trading-company-llc-ascot-diamonds-arlington.json",
+  "business": "Ascot Trading Company, LLC (Ascot Diamonds Arlington)",
+  "city": "Arlington, VA",
+  "market": "Washington, DC",
+  "website": "https://www.ascotdiamonds.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/diamond-heart-training-institute--berkeley.json",
+  "business": "Diamond Heart & Training Institute",
+  "city": "Berkeley, CA",
+  "market": "San Francisco, CA",
+  "website": "https://www.diamondapproach.org/group-detail/733",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_la/bul-inc.json",
+  "business": "Bul, Inc.",
+  "city": "Burbank, CA",
+  "market": "Los Angeles, CA",
+  "website": "https://www.bulinc.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/whitemarsh-jewelers--conshohocken.json",
+  "business": "Whitemarsh Jewelers",
+  "city": "Conshohocken, PA",
+  "market": "Philadelphia, PA",
+  "website": "http://whitemarshjewelers.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/cdi-diamonds-jewelry--dublin.json",
+  "business": "Cdi Diamonds & Jewelry",
+  "city": "Dublin, OH",
+  "market": "Columbus, OH",
+  "website": "http://www.cdidia.com",
+  "have": [
+   "linkedin"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_se/washington-diamond.json",
+  "business": "Washington Diamond",
+  "city": "Falls Church, VA",
+  "market": "Washington, DC",
+  "website": "https://www.washingtondiamond.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/dia-gems-inc--falls-church.json",
+  "business": "Dia-Gems Inc",
+  "city": "Falls Church, VA",
+  "market": "Washington, DC",
+  "website": "http://www.diagemsinc.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/daviko-gems--gaithersburg.json",
+  "business": "Daviko Gems",
+  "city": "Gaithersburg, MD",
+  "market": "Bethesda, MD",
+  "website": "http://www.kentlandsjewelers.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/jewelry-exchange-of-maryland--gaithersburg.json",
+  "business": "Jewelry Exchange Of Maryland",
+  "city": "Gaithersburg, MD",
+  "market": "Rockville, MD",
+  "website": "http://jewelry-exchange.com",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_4/diamond-specialists-inc--honolulu.json",
+  "business": "Diamond Specialists Inc",
+  "city": "Honolulu, HI",
+  "market": "Honolulu, HI",
+  "website": "https://www.thediamondspecialistsinc.com/diamond-fancy-shapes.html",
+  "have": [
+   "linkedin"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/krasner-jewelers--la-jolla.json",
+  "business": "Krasner Jewelers",
+  "city": "La Jolla, CA",
+  "market": "San Diego, CA",
+  "website": "http://www.krasnerjewelers.com",
+  "have": [
+   "linkedin"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/ari-diamonds-inc--layton.json",
+  "business": "Ari Diamonds Inc",
+  "city": "Layton, UT",
+  "market": "Salt Lake City, UT",
+  "website": "http://www.aridiamonds.com",
+  "have": [
+   "email",
+   "linkedin",
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_4/genesis-diamonds--louisville.json",
+  "business": "Genesis Diamonds",
+  "city": "Louisville, KY",
+  "market": "Louisville, KY",
+  "website": "http://www.genesisdiamonds.net/kentucky-designer-engagement-rings.html",
+  "have": [
+   "linkedin"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/diamonds-direct-charleston--mount-pleasant.json",
+  "business": "Diamonds Direct Charleston",
+  "city": "Mount Pleasant, SC",
+  "market": "Charleston, SC",
+  "website": "https://diamondsdirect.com/charleston-sc",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/j-b-diamonds--newport-beach.json",
+  "business": "J B Diamonds",
+  "city": "Newport Beach, CA",
+  "market": "Irvine, CA",
+  "website": "https://jbdiamonds.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/diamonds-direct-oklahoma-city--oklahoma-city.json",
+  "business": "Diamonds Direct Oklahoma City",
+  "city": "Oklahoma City, OK",
+  "market": "Oklahoma City, OK",
+  "website": "https://diamondsdirect.com/oklahoma-city-ok",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/michael-bay-estate-buyer--oklahoma-city.json",
+  "business": "Michael Bay Estate Buyer",
+  "city": "Oklahoma City, OK",
+  "market": "Oklahoma City, OK",
+  "website": "https://www.cash4goldokc.com/about-us",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/northwest-diamonds-jewelry--portland.json",
+  "business": "Northwest Diamonds Jewelry",
+  "city": "Portland, OR",
+  "market": "Portland, OR",
+  "website": "http://www.northwestdiamonds.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/tel-aviv-diamond-co--portland.json",
+  "business": "Tel-Aviv Diamond Co",
+  "city": "Portland, OR",
+  "market": "Portland, OR",
+  "website": "http://www.telavivdiamondco.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/millers-international-diamonds-jewelers--portland.json",
+  "business": "Millers International Diamonds & Jewelers",
+  "city": "Portland, OR",
+  "market": "Portland, OR",
+  "website": "http://www.portlandoregongoldbuyer.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/millers-international-jewelers-diamonds--portland.json",
+  "business": "Millers International Jewelers & Diamonds",
+  "city": "Portland, OR",
+  "market": "Portland, OR",
+  "website": "http://www.millersdiamonds.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/rose-jewelry--portland.json",
+  "business": "Rose Jewelry",
+  "city": "Portland, OR",
+  "market": "Portland, OR",
+  "website": "https://www.rosejewelrystore.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_se/masica-diamonds.json",
+  "business": "Masica Diamonds",
+  "city": "Rockville, MD",
+  "market": "Washington, DC",
+  "website": "https://masicadiamonds.com",
+  "have": [
+   "linkedin"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/elan-diamond-importers--rockville.json",
+  "business": "Elan Diamond Importers",
+  "city": "Rockville, MD",
+  "market": "Rockville, MD",
+  "website": "http://www.elandiamondimporters.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/rocky-mountain-diamond-co--salt-lake-city.json",
+  "business": "Rocky Mountain Diamond Co",
+  "city": "Salt Lake City, UT",
+  "market": "Salt Lake City, UT",
+  "website": "http://www.rockymountaindiamond.com",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/west-african-mines-inc--salt-lake-city.json",
+  "business": "West African Mines Inc",
+  "city": "Salt Lake City, UT",
+  "market": "Salt Lake City, UT",
+  "website": "http://www.westafricanmines.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/michael-angelo-jewelers--salt-lake-city.json",
+  "business": "Michael Angelo Jewelers",
+  "city": "Salt Lake City, UT",
+  "market": "Salt Lake City, UT",
+  "website": "http://aaajewelryutah.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/the-karat-patch--san-pedro.json",
+  "business": "The Karat Patch",
+  "city": "San Pedro, CA",
+  "market": "Irvine, CA",
+  "website": "http://thekaratpatch.com/oilfield-jewelry",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/hrausa-ltd--seattle.json",
+  "business": "Hrausa LTD",
+  "city": "Seattle, WA",
+  "market": "Seattle, WA",
+  "website": "https://www.hragroup.com/contact-us",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_west/eig-diamonds.json",
+  "business": "EIG Diamonds",
+  "city": "Seattle, WA",
+  "market": "Seattle, WA",
+  "website": "https://www.eigdiamonds.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_west/west-coast-diamond-gem-inc.json",
+  "business": "West Coast Diamond & Gem Inc",
+  "city": "Seattle, WA",
+  "market": "Seattle, WA",
+  "website": "https://www.westcoastdiamondandgem.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_west/pacific-gem-inc.json",
+  "business": "Pacific Gem Inc",
+  "city": "Seattle, WA",
+  "market": "Seattle, WA",
+  "website": "https://www.pacificgeminc.com",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_west/seattle-diamonds.json",
+  "business": "Seattle Diamonds",
+  "city": "Seattle, WA",
+  "market": "Seattle, WA",
+  "website": "https://seattlediamonds.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/the-gold-diamond-center--st-petersburg.json",
+  "business": "The Gold & Diamond Center",
+  "city": "St Petersburg, FL",
+  "market": "Sarasota, FL",
+  "website": "http://www.goldanddiamondstpete.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/diamotec-inc--torrance.json",
+  "business": "Diamotec, Inc",
+  "city": "Torrance, CA",
+  "market": "Irvine, CA",
+  "website": "https://diamotec.com/about",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/birni-jewelers--vienna.json",
+  "business": "Birni Jewelers",
+  "city": "Vienna, VA",
+  "market": "Washington, DC",
+  "website": "http://www.mayjewelers.com",
+  "have": []
+ }
+]

@@ -1,0 +1,224 @@
+[
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/bella-diamonds-and-watches--albuquerque.json",
+  "business": "Bella Diamonds and Watches",
+  "city": "Albuquerque, NM",
+  "market": "Albuquerque, NM",
+  "website": "http://www.belladiamondsandwatches.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/le-roque-designs-inc--aventura.json",
+  "business": "Le Roque Designs Inc",
+  "city": "Aventura, FL",
+  "market": "Boca Raton, FL",
+  "website": "http://leroquedesigns.com/shop#!",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_la/jewel-mart-habib-diamonds.json",
+  "business": "Jewel Mart/Habib Diamonds",
+  "city": "Bridgeview, IL",
+  "market": "Los Angeles, CA",
+  "website": "https://www.diamondsbuyer.net",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/dallas-wholesale-diamonds--carrollton.json",
+  "business": "Dallas Wholesale Diamonds",
+  "city": "Carrollton, TX",
+  "market": "Fort Worth, TX",
+  "website": "https://shira-diamonds.com/product/custom-womens-wedding-band-dallas",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/ohio-loan-co-inc--dayton.json",
+  "business": "Ohio Loan Co Inc",
+  "city": "Dayton, OH",
+  "market": "Cincinnati, OH",
+  "website": "http://www.ohioloanco.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/empire-diamond-corporation--encino.json",
+  "business": "Empire Diamond Corporation",
+  "city": "Encino, CA",
+  "market": "Beverly Hills, CA",
+  "website": "http://www.dialadiamond.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/hardys-jewelry--fort-worth.json",
+  "business": "Hardys Jewelry",
+  "city": "Fort Worth, TX",
+  "market": "Fort Worth, TX",
+  "website": "http://www.hardysjewelry.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/prestige-diamonds--hallandale-beach.json",
+  "business": "Prestige Diamonds",
+  "city": "Hallandale Beach, FL",
+  "market": "Boca Raton, FL",
+  "website": "http://prestigetechservices.net",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/april-diamonds--irvine.json",
+  "business": "April Diamonds",
+  "city": "Irvine, CA",
+  "market": "Irvine, CA",
+  "website": "http://www.aprildiamonds.net/cgi-bin/april-diamonds/index.html",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_west/sky-diamonds.json",
+  "business": "Sky Diamonds",
+  "city": "Las Vegas, NV",
+  "market": "Las Vegas, NV",
+  "website": "https://skydiamonds.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_west/d-r-house-of-diamonds.json",
+  "business": "D&R House of Diamonds",
+  "city": "Las Vegas, NV",
+  "market": "Las Vegas, NV",
+  "website": "https://dandrhouseofdiamonds.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_west/rich-custom-jewelry.json",
+  "business": "Rich Custom Jewelry",
+  "city": "Las Vegas, NV",
+  "market": "Las Vegas, NV",
+  "website": "https://www.richcustomjewelry.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/rapnet--las-vegas.json",
+  "business": "Rapnet",
+  "city": "Las Vegas, NV",
+  "market": "Las Vegas, NV",
+  "website": "http://rapnet.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/heritage-jewelers--lockport.json",
+  "business": "Heritage Jewelers",
+  "city": "Lockport, IL",
+  "market": "Chicago, IL",
+  "website": "http://heritagecustomjewelers.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/paul-s-jewelers--milwaukee.json",
+  "business": "Paul's Jewelers",
+  "city": "Milwaukee, WI",
+  "market": "Milwaukee, WI",
+  "website": "https://www.paulsjewelers.com/about.htm",
+  "have": [
+   "linkedin"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/kessler-diamond-center--milwaukee.json",
+  "business": "Kessler Diamond Center",
+  "city": "Milwaukee, WI",
+  "market": "Milwaukee, WI",
+  "website": "https://www.kesslersdiamonds.com/contact-us",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/naples-diamond-service--naples.json",
+  "business": "Naples Diamond Service",
+  "city": "Naples, FL",
+  "market": "Naples, FL",
+  "website": "http://naplesdiamond.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/randy-s-jewelry-inc--o-fallon.json",
+  "business": "Randy's Jewelry Inc",
+  "city": "O Fallon, MO",
+  "market": "Saint Louis, MO",
+  "website": "http://youtu.be/hoyZp0EMBl4",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/anthony-jewelers--palmyra.json",
+  "business": "Anthony Jewelers",
+  "city": "Palmyra, NJ",
+  "market": "Philadelphia, PA",
+  "website": "http://www.anthonyjewelerspalmyra.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/the-jewelry-exchange-direct-diamond-importers--renton.json",
+  "business": "The Jewelry Exchange | Direct Diamond Importers",
+  "city": "Renton, WA",
+  "market": "Seattle, WA",
+  "website": "https://www.jewelryexchange.com/renton-seattle-diamonds-jewelry-store-jewelryrepair",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/the-jewelry-exchange-direct-diamond-importer--saint-paul.json",
+  "business": "The Jewelry Exchange - Direct Diamond Importer",
+  "city": "Saint Paul, MN",
+  "market": "Minneapolis, MN",
+  "website": "https://www.jewelryexchange.com/eagan-minneapolis-diamonds-jewelry-store-jewelryrepair",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/the-jeweler--san-clemente.json",
+  "business": "The Jeweler",
+  "city": "San Clemente, CA",
+  "market": "Irvine, CA",
+  "website": "http://www.gerrythejeweler.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_la/himelsein-inc-national-pacific-corporation.json",
+  "business": "Himelsein Inc./National Pacific Corporation",
+  "city": "Santa Barbara, CA",
+  "market": "Los Angeles, CA",
+  "website": "https://himelseingroup.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/southeast-houston-gold-diamonds-exchange--south-houston.json",
+  "business": "Southeast Houston Gold & Diamonds Exchange",
+  "city": "South Houston, TX",
+  "market": "Houston, TX",
+  "website": "http://hnex.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/pollack-jewelers--sunrise.json",
+  "business": "Pollack Jewelers",
+  "city": "Sunrise, FL",
+  "market": "Boca Raton, FL",
+  "website": "http://pollackjewelers.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/the-jewelry-exchange-direct-diamond-importer--tustin.json",
+  "business": "The Jewelry Exchange | Direct Diamond Importer",
+  "city": "Tustin, CA",
+  "market": "Irvine, CA",
+  "website": "https://www.jewelryexchange.com/tustin-losangeles-diamonds-jewelry-store-jewelryrepair",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/black-diamond-group--woburn.json",
+  "business": "Black Diamond Group",
+  "city": "Woburn, MA",
+  "market": "Boston, MA",
+  "website": "http://bdboots.com",
+  "have": []
+ }
+]

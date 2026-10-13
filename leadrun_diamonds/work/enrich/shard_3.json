@@ -1,0 +1,262 @@
+[
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/universal-diamond--atlanta.json",
+  "business": "Universal Diamond",
+  "city": "Atlanta, GA",
+  "market": "Atlanta, GA",
+  "website": "http://www.universaldiamond.com",
+  "have": [
+   "linkedin"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_se/ascot-diamonds.json",
+  "business": "Ascot Diamonds",
+  "city": "Atlanta, GA",
+  "market": "Atlanta, GA",
+  "website": "https://www.ascotdiamonds.com",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_se/solomon-brothers-jewelers.json",
+  "business": "Solomon Brothers Jewelers",
+  "city": "Atlanta, GA",
+  "market": "Atlanta, GA",
+  "website": "https://www.solomonbrothers.com",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_se/buckhead-diamond.json",
+  "business": "Buckhead Diamond",
+  "city": "Atlanta, GA",
+  "market": "Atlanta, GA",
+  "website": "https://buckheaddiamond.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_se/gnd-atlanta.json",
+  "business": "GND Atlanta",
+  "city": "Atlanta, GA",
+  "market": "Atlanta, GA",
+  "website": "https://www.gndatlanta.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_se/harlin-diamonds.json",
+  "business": "Harlin Diamonds",
+  "city": "Atlanta, GA",
+  "market": "Atlanta, GA",
+  "website": "https://www.harlindiamonds.net",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/midwest-diamond-distributors--blue-ash.json",
+  "business": "Midwest Diamond Distributors",
+  "city": "Blue Ash, OH",
+  "market": "Cincinnati, OH",
+  "website": "https://www.midwestdiamond.net",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/h-lebow-diamond-brokers--blue-ash.json",
+  "business": "H.Lebow Diamond Brokers",
+  "city": "Blue Ash, OH",
+  "market": "Cincinnati, OH",
+  "website": "http://hlebowdiamondbrokers.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/princess-diamonds--burlington.json",
+  "business": "Princess Diamonds",
+  "city": "Burlington, MA",
+  "market": "Boston, MA",
+  "website": "http://www.princessdiamonds.net",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/marry-me-jewelry--countryside.json",
+  "business": "Marry Me Jewelry",
+  "city": "Countryside, IL",
+  "market": "Chicago, IL",
+  "website": "http://marrymejewelry.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/sidney-schlusselberg-co--el-paso.json",
+  "business": "Sidney Schlusselberg Co",
+  "city": "El Paso, TX",
+  "market": "El Paso, TX",
+  "website": "http://www.supersidney.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_midwest/michigan-wholesale-diamonds.json",
+  "business": "Michigan Wholesale Diamonds",
+  "city": "Farmington Hills, MI",
+  "market": "Detroit, MI",
+  "website": "https://www.michiganwholesalediamonds.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/diamonds-direct-richmond--glen-allen.json",
+  "business": "Diamonds Direct Richmond",
+  "city": "Glen Allen, VA",
+  "market": "Richmond, VA",
+  "website": "https://diamondsdirect.com/richmond-va",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/kolt-jewelers--howell.json",
+  "business": "Kolt Jewelers",
+  "city": "Howell, MI",
+  "market": "Southfield, MI",
+  "website": "http://koltjewelers.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/blumenthal-jewelers--la-mesa.json",
+  "business": "Blumenthal Jewelers",
+  "city": "La Mesa, CA",
+  "market": "San Diego, CA",
+  "website": "http://www.blumenthaljewelers.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/the-diamond-world--leawood.json",
+  "business": "The Diamond World",
+  "city": "Leawood, KS",
+  "market": "Kansas City, MO",
+  "website": "http://www.thediamondworld.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_4/diamond-brokers-of-memphis--memphis.json",
+  "business": "Diamond Brokers of Memphis",
+  "city": "Memphis, TN",
+  "market": "Memphis, TN",
+  "website": "http://www.diamondbrokersofmemphis.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_4/claire-ellers-jewelry--memphis.json",
+  "business": "Claire Ellers Jewelry",
+  "city": "Memphis, TN",
+  "market": "Memphis, TN",
+  "website": "http://claireellersjewelry.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/diamonds-direct-birmingham--mountain-brook.json",
+  "business": "Diamonds Direct Birmingham",
+  "city": "Mountain Brook, AL",
+  "market": "Birmingham, AL",
+  "website": "https://diamondsdirect.com/birmingham-al",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/the-jewelry-exchange-direct-diamond-importer--norristown.json",
+  "business": "The Jewelry Exchange | Direct Diamond Importer",
+  "city": "Norristown, PA",
+  "market": "Philadelphia, PA",
+  "website": "https://www.jewelryexchange.com/norristown-philadelphia-diamonds-jewelry-store-jewelryrepair",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/mikado-diamonds-llc--omaha.json",
+  "business": "Mikado Diamonds, LLC",
+  "city": "Omaha, NE",
+  "market": "Omaha, NE",
+  "website": "http://www.facebook.com/MikadoDiamonds",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/jeweler-s-bench--provo.json",
+  "business": "Jeweler's Bench",
+  "city": "Provo, UT",
+  "market": "Salt Lake City, UT",
+  "website": "http://www.thejewelersbenchprovo.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_la/baggins-inc.json",
+  "business": "Baggins Inc.",
+  "city": "Rolling Hills, CA",
+  "market": "Los Angeles, CA",
+  "website": "https://bagginspearls.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/diamond-source-sa--san-antonio.json",
+  "business": "Diamond Source SA",
+  "city": "San Antonio, TX",
+  "market": "San Antonio, TX",
+  "website": "http://www.diamondsourcesa.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/diamonds-direct-san-antonio--san-antonio.json",
+  "business": "Diamonds Direct San Antonio",
+  "city": "San Antonio, TX",
+  "market": "San Antonio, TX",
+  "website": "https://diamondsdirect.com/san-antonio-tx",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/lloyd-s-diamonds--san-antonio.json",
+  "business": "Lloyd's Diamonds",
+  "city": "San Antonio, TX",
+  "market": "San Antonio, TX",
+  "website": "http://www.lloydsdiamonds.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/top-rate-diamonds--sandy-springs.json",
+  "business": "Top Rate Diamonds",
+  "city": "Sandy Springs, GA",
+  "market": "Atlanta, GA",
+  "website": "https://topratediamonds.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/la-zaro-jewelry--silver-spring.json",
+  "business": "La Zaro Jewelry",
+  "city": "Silver Spring, MD",
+  "market": "Bethesda, MD",
+  "website": "https://lazarodiamonds.com/contact",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/forevermark-us-inc--stamford.json",
+  "business": "Forevermark US Inc",
+  "city": "Stamford, CT",
+  "market": "Stamford, CT",
+  "website": "https://www.forevermark.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/kimberley-jewelers--troy.json",
+  "business": "Kimberley Jewelers",
+  "city": "Troy, MI",
+  "market": "Southfield, MI",
+  "website": "http://www.diamondvaultoftroy.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/hermans-fine-jewelry--west-des-moines.json",
+  "business": "Hermans Fine Jewelry",
+  "city": "West Des Moines, IA",
+  "market": "Des Moines, IA",
+  "website": "http://www.hermansfinejewelry.com",
+  "have": []
+ }
+]

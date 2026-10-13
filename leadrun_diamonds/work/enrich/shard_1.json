@@ -1,0 +1,252 @@
+[
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/schlanderer-sons--ann-arbor.json",
+  "business": "Schlanderer & Sons",
+  "city": "Ann Arbor, MI",
+  "market": "Southfield, MI",
+  "website": "http://www.schlandererandsonsjewelry.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/b-d-diamond-pro--bellevue.json",
+  "business": "B & D Diamond Pro",
+  "city": "Bellevue, NE",
+  "market": "Omaha, NE",
+  "website": "https://diamondpro.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/diamond-cutters--buffalo.json",
+  "business": "Diamond Cutters",
+  "city": "Buffalo, NY",
+  "market": "Buffalo, NY",
+  "website": "http://wnydiamonds.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/columbus-diamond-gold--columbus.json",
+  "business": "Columbus Diamond & Gold",
+  "city": "Columbus, OH",
+  "market": "Columbus, OH",
+  "website": "http://www.columbusdiamondandgold.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/diamonds-direct-columbus--columbus.json",
+  "business": "Diamonds Direct Columbus",
+  "city": "Columbus, OH",
+  "market": "Columbus, OH",
+  "website": "https://diamondsdirect.com/columbus-oh",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/diamond-guild--dedham.json",
+  "business": "Diamond Guild",
+  "city": "Dedham, MA",
+  "market": "Providence, RI",
+  "website": "http://thediamondguild.com",
+  "have": [
+   "email",
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/brian-walters-jeweler-goldsmith--excelsior.json",
+  "business": "Brian Walters Jeweler Goldsmith",
+  "city": "Excelsior, MN",
+  "market": "Minneapolis, MN",
+  "website": "http://www.bwrings.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/malakan-diamond-company--fresno.json",
+  "business": "Malakan Diamond Company",
+  "city": "Fresno, CA",
+  "market": "Fresno, CA",
+  "website": "http://malakandiamond.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/federal-jewelry-loan-inc--fresno.json",
+  "business": "Federal Jewelry & Loan Inc",
+  "city": "Fresno, CA",
+  "market": "Fresno, CA",
+  "website": "http://www.federaljewelryandloan.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/buy-diamond-direct--hollywood.json",
+  "business": "Buy Diamond Direct",
+  "city": "Hollywood, FL",
+  "market": "Boca Raton, FL",
+  "website": "http://www.buydiamonddirect.com/pages/policies.asp",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/diamonds-direct-jacksonville--jacksonville.json",
+  "business": "Diamonds Direct Jacksonville",
+  "city": "Jacksonville, FL",
+  "market": "Jacksonville, FL",
+  "website": "https://diamondsdirect.com/jacksonville-fl",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/dimaggio-fine-art-and-jewelry--lathrup-village.json",
+  "business": "DiMaggio Fine Art And Jewelry",
+  "city": "Lathrup Village, MI",
+  "market": "Southfield, MI",
+  "website": "http://www.dfajb.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_4/diamond-brokers-of-los-altos--los-altos.json",
+  "business": "Diamond Brokers of Los Altos",
+  "city": "Los Altos, CA",
+  "market": "San Jose, CA",
+  "website": "https://www.diamondbrokerslosaltos.com/contact-feedback",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/equity-diamond-brokers--montgomery.json",
+  "business": "Equity Diamond Brokers",
+  "city": "Montgomery, OH",
+  "market": "Cincinnati, OH",
+  "website": "https://www.equitydiamondbrokers.com",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/city-diamond-exchange--nashville.json",
+  "business": "City Diamond Exchange",
+  "city": "Nashville, TN",
+  "market": "Nashville, TN",
+  "website": "http://www.citydiamondexchange.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/kelvin-schroeder-jewelers--oak-creek.json",
+  "business": "Kelvin Schroeder Jewelers",
+  "city": "Oak Creek, WI",
+  "market": "Milwaukee, WI",
+  "website": "https://www.ksjewelersoc.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_west/deep-diamonds.json",
+  "business": "Deep Diamonds",
+  "city": "Phoenix, AZ",
+  "market": "Phoenix, AZ",
+  "website": "https://www.deepdiamonds.net",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_west/phoenix-wholesale-diamonds.json",
+  "business": "Phoenix Wholesale Diamonds",
+  "city": "Phoenix, AZ",
+  "market": "Phoenix, AZ",
+  "website": "https://phoenixwholesalediamonds.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_4/rochester-diamonds-gold-inc--rochester.json",
+  "business": "Rochester Diamonds & Gold Inc",
+  "city": "Rochester, NY",
+  "market": "Rochester, NY",
+  "website": "http://rdidiamonds.com",
+  "have": [
+   "linkedin",
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/bernie-s-son-jewelers--saint-petersburg.json",
+  "business": "Bernie's & Son Jewelers",
+  "city": "Saint Petersburg, FL",
+  "market": "Sarasota, FL",
+  "website": "http://www.berniesandson.net",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_sd_pr_hou/the-golden-jeweler-boutique.json",
+  "business": "The Golden Jeweler Boutique",
+  "city": "San Juan, PR",
+  "market": "San Juan, PR",
+  "website": "https://thegoldenjeweler.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/diamond-vault--sarasota.json",
+  "business": "Diamond Vault",
+  "city": "Sarasota, FL",
+  "market": "Sarasota, FL",
+  "website": "http://diamondvaultjewelers.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/estate-large-diamond-buyers--southfield.json",
+  "business": "Estate Large Diamond Buyers",
+  "city": "Southfield, MI",
+  "market": "Southfield, MI",
+  "website": "https://www.estatelargediamondbuyers.com/contact",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_midwest/reaver-diamond-company.json",
+  "business": "Reaver Diamond Company",
+  "city": "Southfield, MI",
+  "market": "Detroit, MI",
+  "website": "https://www.reaverdiamond.com",
+  "have": [
+   "email"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/american-gem-corporation--southfield.json",
+  "business": "American Gem Corporation",
+  "city": "Southfield, MI",
+  "market": "Southfield, MI",
+  "website": "https://www.americangemsociety.org",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_west/elite-fine-jewelers.json",
+  "business": "Elite Fine Jewelers",
+  "city": "Tempe, AZ",
+  "market": "Scottsdale, AZ",
+  "website": "https://www.elitefinejewelers.com",
+  "have": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_la/bia-million.json",
+  "business": "Bia Million",
+  "city": "Valley Village, CA",
+  "market": "Los Angeles, CA",
+  "website": "https://biamillion.com",
+  "have": [
+   "direct"
+  ]
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/jb-enterprise--yonkers.json",
+  "business": "Jb Enterprise",
+  "city": "Yonkers, NY",
+  "market": "Stamford, CT",
+  "website": "http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=2423&bid=004&cnty=US&mobi=true",
+  "have": []
+ }
+]

@@ -24,3 +24,23 @@ Never fabricate; every value must come from a page or search result you saw.
 4. Commit ONLY those `leadrun_diamonds/raw/yp/*.json` files; push to your outcome branch after every batch.
 
 Finish with: listings scraped, verified, in scope, dropped (by reason), owners found, LinkedIn found, emails found.
+
+## Enrich worker (round 2, given SHARD=k)
+Goal: turn leads in cities that have NO qualified lead yet into qualified ones (2 of 3: real email,
+personal LinkedIn of a named owner, direct/mobile number ≠ main line from the business's own site/socials).
+Targets: `leadrun_diamonds/work/enrich/shard_<k>.json` — each item has `file` (a raw JSON you edit IN PLACE,
+keeping every other field), `have` (criteria it already meets) and `website`.
+For each target:
+1. Re-confirm it is diamond TRADE (AGENT_BRIEF Wave-4 rules); if not, set is_diamond_trade=false + drop_reason.
+2. Owner: About/Team/Contact pages; else BBB profile "Business Management", OpenCorporates officers, LinkedIn
+   company "People" snippets in search results, press/JCK/National Jeweler articles. Set contact_person, role,
+   contact_source.
+3. LinkedIn: WebSearch mode "extended" `"First Last" <Business> <city> LinkedIn` (and a variant without city).
+   Record only a linkedin.com/in/ URL that literally appears and is tied to that person + business.
+4. Email: mailto/text on own site pages (also /contact-us, /appointment, footer), Facebook "About"
+   (mbasic.facebook.com/<page>/about), Instagram bio via search snippet. Domain must relate to the business
+   (or a personal freemail the business itself publishes). Set email + email_source.
+5. Direct line: every extra tel: number on the own site / socials into tel_numbers, tel_source = own URL(s) only.
+Set `"enriched": true` on every target you processed. Budget ≤ 120 WebSearch calls; use up to 4 subagents
+(split your shard by city). Commit ONLY the raw files you edited; push to your outcome branch after every
+~10 targets. Report: targets, now-qualified estimate, owners, LinkedIn, emails, direct lines found, drops.
