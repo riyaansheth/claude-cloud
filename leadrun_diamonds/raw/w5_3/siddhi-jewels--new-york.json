@@ -11,21 +11,28 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/siddhi-jewels-481111055",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@siddhijewels.com",
+ "email_source": "https://www.siddhijewels.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+919820999059"
+ ],
+ "tel_source": "https://www.siddhijewels.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "b2b",
+  "diamond-jewelry-supplier",
+  "india-based"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site terms: 'Siddhi Jewels operates as a B2B diamond jewellery supplier, catering to retailers and businesses'; site lists address in Vile Parle East, Mumbai (no NY address shown).",
+ "verified": true
 }

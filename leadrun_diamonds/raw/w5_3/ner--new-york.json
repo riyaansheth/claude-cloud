@@ -20,12 +20,19 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/share/15heNwZmHbM/?mibextid=wwXIfr",
+  "https://www.instagram.com/ner_diamond?igsh=MTVpZDJpcWE3NW9mMg%3D%3D&utm_source=qr"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "gia-certified",
+  "supplier"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site (NER Diamond) titled 'Premium Certified Diamonds & Jewelry Supplier' with 'GIA Certified - Extensive Collection of Certified Diamonds' search by shape; thin site, no about text.",
+ "verified": true
 }

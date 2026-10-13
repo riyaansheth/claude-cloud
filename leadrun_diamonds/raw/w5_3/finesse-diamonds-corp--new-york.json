@@ -22,10 +22,11 @@
  "tel_source": "",
  "socials": [],
  "building": "",
- "suite": "Ste 2001",
+ "suite": "",
  "trade_memberships": [],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "unverified: YP website belongs to a different business - hod.live is House of Diamonds, Inc and never mentions Finesse (only a truncated phone '212-944-944' resembles the YP number)",
+ "verified": false
 }
