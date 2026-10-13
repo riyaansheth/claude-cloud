@@ -25,6 +25,8 @@ def export(max_batches=8, log=print):
     have_people = {r["bkey"] for r in con.execute("SELECT DISTINCT bkey FROM people")}
     queued = set()
     for f in config.AGENT_DIR.glob("names_*.jsonl"):
+        if f.stem.endswith("_answers"):
+            continue
         for line in f.read_text().splitlines():
             if line.strip():
                 queued.add(json.loads(line)["bkey"])
@@ -60,6 +62,8 @@ def import_answers(log=print):
     con = db.connect()
     texts = {}
     for f in config.AGENT_DIR.glob("names_[0-9]*.jsonl"):
+        if f.stem.endswith("_answers"):
+            continue
         for line in f.read_text().splitlines():
             if line.strip():
                 x = json.loads(line)
@@ -75,7 +79,7 @@ def import_answers(log=print):
             if not src or not name:
                 continue
             # The name must literally appear in the page text the agent was given.
-            if (not re.search(re.escape(name), src["text"]) or not plausible_name(name, src["business"], need_given=False)):
+            if (not re.search(re.escape(name), src["text"]) or not plausible_name(name, "", need_given=False)):
                 rej += 1
                 continue
             db.add_person(con, a["bkey"], name, a.get("role") or "Featured On About Page",
