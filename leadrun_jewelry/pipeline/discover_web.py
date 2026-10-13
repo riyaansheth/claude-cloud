@@ -85,10 +85,16 @@ def run_gmaps(br, markets, log=print, max_places=120):
                 db.log_event(con, "gmaps", f"soft-block-{br.last_status}", url)
                 continue
             links = []
-            for a in BeautifulSoup(html, "lxml").select("a.hfpxzc[href*='/maps/place/']"):
+            soup = BeautifulSoup(html, "lxml")
+            for a in soup.select("a.hfpxzc[href*='/maps/place/']"):
                 href = a["href"]
                 if href not in links:
                     links.append(href)
+            if not links and soup.select_one("h1.DUwDvf"):
+                # Maps jumped straight to one place: keep it rather than lose it.
+                place_url = br.page.url
+                if "/maps/place/" in place_url:
+                    ingest(con, parse_gmaps_place(html, place_url, market), stats)
             for href in links[:max_places]:
                 try:
                     place = br.get_html(href, wait_selector="h1", min_gap=1.5)

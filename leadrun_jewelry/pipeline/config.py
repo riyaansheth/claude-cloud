@@ -57,7 +57,8 @@ def market_label(city, st):
 
 
 GMAPS_QUERIES = ["jewelry store", "custom jewelry", "jewelry repair",
-                 "estate jewelry", "goldsmith"]
+                 "estate jewelry", "goldsmith jeweler"]
+# (bare "goldsmith <city>" makes Maps jump straight to a business named "The Goldsmith")
 YP_TERMS = ["jewelers"]
 BBB_CATEGORIES = ["Jewelry Stores", "Jewelry Repair"]
 
