@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Steven C. Woodnick",
+ "role": "Owner",
+ "contact_source": "https://www.dnb.com/business-directory/company-profiles.jewelry_exchange.806471596f8785b3a089aaba863919aa.html (D&B key principal; Yelp business owner \"Steve W.\")",
  "tel_numbers": [
   "410-703-4809"
  ],
@@ -33,10 +33,12 @@
   "43-years",
   "estate",
   "diamond-buyer",
-  "by-appointment"
+  "by-appointment",
+  "gaithersburg-showroom-closed-by-appointment"
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Borderline: About page: 'For 43 years in Gaithersburg, The Jewelry Exchange of Maryland has specialized in buying and selling Diamonds and estate jewelry as well as all phases of custom design'; Gaithersburg store now closed, sales online and by appointment in Annapolis (estate diamond buyer/seller).",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

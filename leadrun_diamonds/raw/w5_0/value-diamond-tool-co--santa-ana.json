@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (valuediamond.net returns 503 on http and redirects to a parked/for-sale page on https)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "unverified: site unreachable (valuediamond.net returns 503 on http and redirects to a parked/for-sale page on https) | Enrich: CA corp VALUE DIAMOND TOOL COMPANY is Terminated (OpenCorporates 1683512); site parked; name indicates diamond tooling, not gem-diamond trade.",
+ "verified": false,
+ "enriched": true
 }

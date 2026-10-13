@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Bill Doddridge",
+ "role": "Founder",
+ "contact_source": "https://www.dnb.com/business-directory/company-profiles.goldenwest_diamond_corporation.71015fa83df933d94c8b8a64b0b63c31.html",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (jewelryexchange.com returns Cloudflare 403 challenge)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "unverified: site unreachable (jewelryexchange.com returns Cloudflare 403 challenge) | Enrich: jewelryexchange.com says 'With 12 showrooms nationwide, The Jewelry Exchange is proud to be the largest direct diamond importer'; owned by Goldenwest Diamond Corp (also runs Jewelry Factory) - multi-state retail showroom chain (Shane Co-type), dropped as chain.",
+ "verified": false,
+ "enriched": true
 }

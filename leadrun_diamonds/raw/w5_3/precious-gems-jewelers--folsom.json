@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Roman Oleynik",
+ "role": "Founder",
+ "contact_source": "https://www.scrapmonster.com/company/precious-gems-jewelers/52173",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (pgjewelers.com now redirects to an unrelated Arabic sports-streaming site lubodar.info - domain lapsed/hijacked)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "unverified: site unreachable (pgjewelers.com now redirects to an unrelated Arabic sports-streaming site lubodar.info - domain lapsed/hijacked) | Enrich: company profile - founded 1995 by Swiss-certified watchmaker Roman Oleynik; current/vintage fine jewelry, watch & clock repair/restoration, appraisals - no diamond trade. CA corp PRECIOUS GEMS JEWELERS, INC. terminated (OpenCorporates); domain hijacked.",
+ "verified": false,
+ "enriched": true
 }

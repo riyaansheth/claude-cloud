@@ -13,8 +13,8 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/mattodesky/",
+ "linkedin_source": "WebSearch extended: \"Matt O'Desky\" Diamond Room Austin LinkedIn -> \"Matt ODesky - Austin Diamond District\" (Voyage Dallas interview: Austin Diamond District was the earlier name of his Austin Diamond Room business)",
  "contact_person": "Matt O'Desky",
  "role": "Owner",
  "contact_source": "https://diamondrooms.com/about/",
@@ -45,5 +45,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site: private by-appointment jeweler, 'Browse our private selection of natural and lab-grown loose diamonds', 'We Cut Out The Middle Men ... (Not a Retail Store)', in-house CAD/HIP casting - bridal specialist sourcing own loose stones.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

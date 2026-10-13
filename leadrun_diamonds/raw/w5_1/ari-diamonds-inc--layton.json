@@ -41,5 +41,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Bridal jeweler sourcing its own loose stones: \"We source diamonds directly from cutters and manufacturers around the world\"; natural and lab-grown, family-owned since 1994.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

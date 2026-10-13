@@ -39,5 +39,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Appointment-only custom/bridal studio: 'You compare stones in person with Milton or Daniel Krasner, both GIA Graduate Gemologists' and 'Choose your stone, setting, and proportions'; family-owned since 1943 - bridal specialist sourcing stones (borderline, no explicit loose inventory).",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

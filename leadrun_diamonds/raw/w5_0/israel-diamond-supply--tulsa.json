@@ -39,5 +39,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site: 'Israel Diamond Supply is recognized as one of the largest diamond wholesalers to the public', founded 1991, selling loose natural and lab-grown diamonds and bridal (bridal specialist with own loose stones).",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

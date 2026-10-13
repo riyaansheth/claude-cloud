@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Vera Lindeburg",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ca/san-carlos/profile/jewelry-stores/lindeburg-and-company-1116-539016",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (lindeburg.com: HTTP 403 Forbidden / bad TLS cert)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "unverified: site unreachable (lindeburg.com: HTTP 403 Forbidden / bad TLS cert) | Enrich: BBB - 'custom jewelry design & repairs on premises since 1917, also offers emblems, ad specialty & metal eyeglass repair', 1 employee - no diamond trade.",
+ "verified": false,
+ "enriched": true
 }
