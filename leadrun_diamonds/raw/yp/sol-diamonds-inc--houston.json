@@ -11,21 +11,36 @@
  "reviews": "26",
  "source_url": "https://www.yellowpages.com/houston-tx/mip/sol-diamonds-inc-474049591",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@soldiamondsinc.com",
+ "email_source": "https://soldiamondsinc.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(713) 339-2266"
+ ],
+ "tel_source": "https://soldiamondsinc.com/contact",
+ "socials": [
+  "https://www.facebook.com/soldiamondsinc",
+  "https://www.instagram.com/soldiamonds",
+  "https://www.pinterest.com/soldiamonds"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA GG"
+ ],
+ "hooks": [
+  "25+ years",
+  "wholesale diamonds",
+  "lab-grown",
+  "by appointment only",
+  "6222 Richmond Ave #784"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "By-appointment dealer in 'Houston's renowned Diamond District' with 'Wholesale Diamonds Houston TX' pages and loose earth-mined and lab-grown diamonds; 'The founders of SOL Diamonds are both graduates of the Gemological Institute of America... and source stones'.",
+ "verified": true
 }

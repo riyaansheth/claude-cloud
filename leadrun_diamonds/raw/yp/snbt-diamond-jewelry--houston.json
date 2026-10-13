@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Diamonds"
+ "scope_reason": "unverified: site unreachable (domain parked at GoDaddy)",
+ "verified": false
 }

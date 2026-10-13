@@ -11,21 +11,29 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/hirschberg-enterprises-565111730",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "charles@hirschberg.com",
+ "email_source": "https://hirschbergs.com/contact",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Charles Hirschberg\" Hirschberg Enterprises diamonds Dallas LinkedIn",
+ "contact_person": "Charles Hirschberg",
+ "role": "Owner",
+ "contact_source": "https://hirschbergs.com/contact",
+ "tel_numbers": [
+  "(214) 707-8654"
+ ],
+ "tel_source": "https://hirschbergs.com/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "40+ years",
+  "wholesale diamonds",
+  "by appointment, secure location",
+  "gold & metals"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "scope_reason": "Site: 'For Over 40 Years Hirschberg Enterprises - a wholesale diamond company that has been proudly serving the Dallas, Texas area'; Charles Hirschberg is 'a renowned diamond dealer' with an industry network for sourcing inventory.",
+ "verified": true
 }

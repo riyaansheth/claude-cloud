@@ -18,14 +18,20 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "303-872-2500"
+ ],
+ "tel_source": "https://www.bulowjewelers.com/contact-us",
+ "socials": [
+  "https://www.instagram.com/bulowjewelers/",
+  "https://www.pinterest.com/bulowjewelers"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Family-owned Denver jewelry store offering engagement rings, lab-grown rings, estate/gold buying, custom work and watch repair ('Come in to check out our selection of fine jewelry'); no wholesale or loose-diamond trade.",
+ "verified": true
 }
