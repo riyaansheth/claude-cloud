@@ -18,11 +18,8 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [
-  "214-466-1776",
-  "832-737-8899"
- ],
- "tel_source": "https://shira-diamonds.com/contact/",
+ "tel_numbers": [],
+ "tel_source": "",
  "socials": [
   "https://www.facebook.com/ShiraDiamondsAbilene/",
   "https://www.instagram.com/shiradiamonds_/"
@@ -37,6 +34,6 @@
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "Listed website is Shira Diamonds (not the listing's own name), which says 'Shira Diamonds is a diamond manufacturer and loose diamond importer in Dallas, Texas' and 'the only TRUE diamond wholesaler open to the public'.",
- "verified": true
+ "scope_reason": "unverified: listed website belongs to a differently named business and never names this listing \u2014 Listed website is Shira Diamonds (not the listing's own name), which says 'Shira Diamonds is a diamond manufacturer and loose diamond importer in Dallas, Texas' and 'the only TRUE diamond wholesaler open to the public'.",
+ "verified": false
 }

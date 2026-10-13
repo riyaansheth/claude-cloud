@@ -11,17 +11,15 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/unique-stones-inc-466586944",
  "lead_origin": "YellowPages",
- "email": "cs@ddiamondjewelry.com",
- "email_source": "https://ddiamondjewelry.com/contact/",
+ "email": "",
+ "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [
-  "(800) 635-9002"
- ],
- "tel_source": "https://ddiamondjewelry.com/contact/",
+ "tel_numbers": [],
+ "tel_source": "",
  "socials": [
   "https://www.instagram.com/ddiamondjewelry/"
  ],
@@ -36,6 +34,6 @@
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "Listed site ddiamondjewelry.com (D Diamond Jewelry, 8221 Glades Rd, Boca Raton): 'Our company is a direct diamond importer... you are dealing with a diamond importer and also a manufacturer of fine jewelry'; the site does not name Unique Stones Inc itself.",
- "verified": true
+ "scope_reason": "unverified: listed website belongs to a differently named business and never names this listing \u2014 Listed site ddiamondjewelry.com (D Diamond Jewelry, 8221 Glades Rd, Boca Raton): 'Our company is a direct diamond importer... you are dealing with a diamond importer and also a manufacturer of fine jewelry'; the site does not name Unique Stones Inc itself.",
+ "verified": false
 }
