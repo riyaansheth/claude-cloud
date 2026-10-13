@@ -12,7 +12,8 @@ from .util import phone_digits, fmt_phone, root_url, state_from_zip
 
 OVERPASS = ["https://overpass-api.de/api/interpreter",
             "https://overpass.kumi.systems/api/interpreter",
-            "https://overpass.private.coffee/api/interpreter"]
+            "https://overpass.private.coffee/api/interpreter",
+            "https://maps.mail.ru/osm/tools/overpass/api/interpreter"]
 
 
 def query_for(bbox):

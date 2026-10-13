@@ -81,8 +81,12 @@ def fetch(url, *, data=None, min_gap=1.0, timeout=25, retries=2, use_cache=True,
                     cp.write_bytes(f"{r.status_code}\n{r.url}\n".encode() + text.encode())
                 return r.status_code, r.url, text
         except requests.exceptions.ProxyError as e:
-            # Sandbox egress proxy refused CONNECT — retrying will not help.
-            raise Blocked(f"egress-blocked {host}: {e}") from e
+            # Only a 403 on CONNECT is an egress-policy refusal. A 502 or a dropped
+            # tunnel means the destination itself is down: an ordinary failure.
+            if "403" in str(e):
+                raise Blocked(f"egress-blocked {host}: {e}") from e
+            last_exc = e
+            break
         except requests.RequestException as e:
             last_exc = e
             time.sleep(2 ** attempt)
