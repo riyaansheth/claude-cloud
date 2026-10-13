@@ -104,7 +104,7 @@ def run_gmaps(br, markets, log=print, max_places=120):
 def parse_yp(html, market, page_url):
     s = BeautifulSoup(html, "lxml")
     out = []
-    for card in s.select("div.result, div.srp-listing"):
+    for card in s.select("div.result"):
         a = card.select_one("a.business-name")
         if not a:
             continue
