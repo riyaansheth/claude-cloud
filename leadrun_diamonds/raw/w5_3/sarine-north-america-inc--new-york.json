@@ -25,7 +25,8 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Own site: Sarine is a technology vendor ('technologies that optimize value for rough diamonds', AI-based grading, traceability) - equipment/software supplier, not a diamond trader.",
+ "verified": true
 }

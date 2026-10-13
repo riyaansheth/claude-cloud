@@ -11,21 +11,29 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/nashville-tn/mip/city-diamond-exchange-464962782",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "citydiamondexchange@gmail.com",
+ "email_source": "https://citydiamondexchangedotcom.wordpress.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "615-516-6001"
+ ],
+ "tel_source": "https://citydiamondexchangedotcom.wordpress.com/",
  "socials": [],
  "building": "",
- "suite": "Ste 3010",
+ "suite": "Suite 3010",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "diamond-buyer",
+  "rough",
+  "estate-buyer",
+  "borderline-gold-buyer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Diamond Buyers"
+ "scope_reason": "Own site: 'CDE has traded and sold millions of dollars worth of polished and rough diamonds to jewelry stores across the U.S, Europe, and Israel' and buys 'from diamond dealers, gold stores, pawn shops, and the public' - borderline: also markets gold buying, Rolex and pawn.",
+ "verified": true
 }

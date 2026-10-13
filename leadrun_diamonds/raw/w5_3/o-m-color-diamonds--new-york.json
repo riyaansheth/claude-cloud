@@ -11,21 +11,31 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/o-m-color-diamonds-545424133",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "omcolordia@yahoo.com",
+ "email_source": "https://www.omcolordiamonds.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "212-391-8858"
+ ],
+ "tel_source": "https://www.omcolordiamonds.com/contact",
  "socials": [],
- "building": "",
- "suite": "",
+ "building": "15 W 47th St",
+ "suite": "Suite 1702",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "fancy-color",
+  "melee",
+  "manufacturer",
+  "natural",
+  "india",
+  "antwerp"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds"
+ "scope_reason": "Own site: niche in natural fancy color diamonds 'is the manufacturing a consistent supply of carefully well graded ... stones ranging from 0.7mm to 1/2 carats'; affiliates in Mumbai and Antwerp.",
+ "verified": true
 }

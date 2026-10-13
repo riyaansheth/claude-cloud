@@ -11,21 +11,40 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/scottsdale-az/mip/gary-w-wright-co-582300371",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "Info@garywwrightco.com",
+ "email_source": "https://garywwrightco.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Gary W Wright",
+ "role": "President",
+ "contact_source": "https://www.manta.com/c/mm5zq8p/gary-w-wright-company",
+ "tel_numbers": [
+  "602-264-5300",
+  "800-428-0700"
+ ],
+ "tel_source": "https://garywwrightco.com/contact-us/",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "AGS",
+  "DDC",
+  "WFDB",
+  "RapNet",
+  "Polygon",
+  "JBT",
+  "IDEX",
+  "GIA Alumni",
+  "JVC"
+ ],
+ "hooks": [
+  "since-1982",
+  "hearts-and-arrows",
+  "fine-make",
+  "ags-supplier"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Own site: 'family business ... started in 1982 ... an AGS-registered supplier', 'first in the industry to introduce Hearts & Arrows diamonds to America'; affiliations DDC, WFDB, AGS, RapNet, Polygon, JBT, IDEX.",
+ "verified": true
 }

@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "unverified: YP website belongs to a different business - simplexdiam.com is SimplexDiam, Inc (IGT, 50 W 47th St Ste 2011, 212-883-0888), not Triple X Diamonds at 47 W 47th St / (212) 768-2818; YP category Diamonds-Wholesale unconfirmed.",
+ "verified": false
 }

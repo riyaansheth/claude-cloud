@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "unverified: YP website belongs to a different business - imperialdiamonds.com is Imperial Diamonds Inc (18 E 48th St Room 2102, 212-302-4305), not Lab Grown Diamond Inc at 37 W 47th St / (212) 221-0118; no link between them shown on the site.",
+ "verified": false
 }
