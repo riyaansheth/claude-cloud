@@ -89,6 +89,11 @@ def main():
     sheet(wb, "All Leads", COLUMNS, all_rows, WIDTHS)
     sheet(wb, "Dropped", ["Business", "Market", "Reason", "Stage", "Source", "Why"], dropped,
           {"Business": 34, "Market": 18, "Reason": 16, "Source": 48, "Why": 70})
+    # open on the lead details, not the summary
+    wb.move_sheet("Summary", offset=2)
+    wb.active = wb.sheetnames.index("Qualified")
+    for w in wb.worksheets:
+        w.sheet_view.tabSelected = w.title == "Qualified"
     out = RUN_DIR / "diamond_leads.xlsx"
     wb.save(out)
     print(f"wrote {out} — all={n} qualified={len(qual)} dropped={len(dropped)}")
