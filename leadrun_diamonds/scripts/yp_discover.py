@@ -122,14 +122,22 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--pages", type=int, default=3)
     ap.add_argument("--cities", nargs="*")
+    ap.add_argument("--shard", help="i/n: take every n-th city starting at i (0-based) from CITIES")
+    ap.add_argument("--skip-first", type=int, default=0, help="skip the first N cities of CITIES")
+    ap.add_argument("--terms", nargs="*", default=TERMS)
+    ap.add_argument("--outdir", default="yp", help="folder under raw/")
     args = ap.parse_args()
+    cities = args.cities or CITIES[args.skip_first:]
+    if args.shard:
+        i, n = map(int, args.shard.split("/"))
+        cities = cities[i::n]
     con = sqlite3.connect(DB_PATH)
     con.execute(SCHEMA)
-    outdir = RAW_DIR / "yp"
+    outdir = RAW_DIR / args.outdir
     outdir.mkdir(parents=True, exist_ok=True)
     kept = dropped = skipped = 0
-    for market in args.cities or CITIES:
-        for term in TERMS:
+    for market in cities:
+        for term in args.terms:
             for page in range(1, args.pages + 1):
                 url = (f"{BASE}/search?search_terms={quote_plus(term)}"
                        f"&geo_location_terms={quote_plus(market)}" + (f"&page={page}" if page > 1 else ""))

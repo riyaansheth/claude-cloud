@@ -11,19 +11,28 @@ from pathlib import Path
 
 from common import DB_PATH, RAW_DIR, RUN_DIR
 
-size = int(sys.argv[1]) if len(sys.argv) > 1 else 40
+import argparse
+ap = argparse.ArgumentParser()
+ap.add_argument("--size", type=int, default=40)
+ap.add_argument("--dir", default="yp", help="folder under raw/ holding the listings")
+ap.add_argument("--markets", nargs="*", help="only these markets")
+ap.add_argument("--out", default="batches", help="folder under work/")
+args = ap.parse_args()
+size = args.size
 con = sqlite3.connect(DB_PATH)
 crawl = {k: json.loads(e) for k, e in con.execute("SELECT listing_key, emails FROM crawl WHERE status='ok'")}
 todo = []
-for f in sorted((RAW_DIR / "yp").glob("*.json")):
+for f in sorted((RAW_DIR / args.dir).glob("*.json")):
     r = json.loads(f.read_text())
+    if args.markets and r.get("market") not in args.markets:
+        continue
     if not r.get("is_diamond_trade") or r.get("verified") or not r.get("website"):
         continue
-    emails = crawl.get(f"yp/{f.stem}", {})
+    emails = crawl.get(f"{args.dir}/{f.stem}", {})
     todo.append(dict(file=str(f), business=r["business"], market=r["market"], website=r["website"],
                      phone=r["phone"], emails=list(emails)))
 todo.sort(key=lambda t: (not t["emails"], t["market"]))
-out = RUN_DIR / "work" / "batches"
+out = RUN_DIR / "work" / args.out
 out.mkdir(parents=True, exist_ok=True)
 for old in out.glob("batch_*.json"):
     old.unlink()

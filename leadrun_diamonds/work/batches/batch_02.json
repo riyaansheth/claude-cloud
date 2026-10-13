@@ -1,0 +1,322 @@
+[
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/united-gems--chicago.json",
+  "business": "United Gems",
+  "market": "Chicago, IL",
+  "website": "http://www.united-gem.com",
+  "phone": "(312) 641-3006",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/worldwide--northbrook.json",
+  "business": "Worldwide",
+  "market": "Chicago, IL",
+  "website": "https://worldwidediamonds.com",
+  "phone": "(847) 832-1000",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/zaremba-company--chicago.json",
+  "business": "Zaremba & Company",
+  "market": "Chicago, IL",
+  "website": "https://www.zarembamanagement.com",
+  "phone": "(312) 855-1223",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/aura-diamonds--dallas.json",
+  "business": "Aura Diamonds",
+  "market": "Dallas, TX",
+  "website": "http://www.designsbyaura.com",
+  "phone": "(214) 389-2323",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/bella-diamanti--dallas.json",
+  "business": "Bella Diamanti",
+  "market": "Dallas, TX",
+  "website": "http://www.belladiamanti.com",
+  "phone": "(214) 748-5500",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/cook-diamonds-inc--dallas.json",
+  "business": "Cook Diamonds Inc.",
+  "market": "Dallas, TX",
+  "website": "http://www.cookdiamonds.com",
+  "phone": "(214) 745-1622",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/dallas-wholesale-diamonds--carrollton.json",
+  "business": "Dallas Wholesale Diamonds",
+  "market": "Dallas, TX",
+  "website": "https://shira-diamonds.com/product/custom-womens-wedding-band-dallas",
+  "phone": "(214) 336-8629",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/diamond-wholesale-exchange--dallas.json",
+  "business": "Diamond Wholesale Exchange",
+  "market": "Dallas, TX",
+  "website": "https://dwedallas.wordpress.com",
+  "phone": "(972) 386-9088",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/diamonds-direct-dallas--dallas.json",
+  "business": "Diamonds Direct Dallas",
+  "market": "Dallas, TX",
+  "website": "https://diamondsdirect.com/dallas-tx",
+  "phone": "(972) 342-6663",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/diamondtrade-com--dallas-tx.json",
+  "business": "Diamondtrade.Com",
+  "market": "Dallas, TX",
+  "website": "http://diamondtrade.com",
+  "phone": "(972) 991-7717",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/discovery-diamond--dallas.json",
+  "business": "Discovery Diamond",
+  "market": "Dallas, TX",
+  "website": "http://discoverydiamond.com",
+  "phone": "(214) 673-5292",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/f-m-trading-company-inc--dallas.json",
+  "business": "F M Trading Company Inc",
+  "market": "Dallas, TX",
+  "website": "http://www.movietradingcompany.com",
+  "phone": "(972) 239-4900",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/frisco-engagement-rings--frisco.json",
+  "business": "Frisco Engagement Rings",
+  "market": "Dallas, TX",
+  "website": "http://friscoengagementrings.com",
+  "phone": "(972) 207-1180",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/gem-reflections--dallas.json",
+  "business": "Gem Reflections",
+  "market": "Dallas, TX",
+  "website": "http://www.gemreflectionsdallas.com",
+  "phone": "(214) 748-1588",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/gold-diamond-outlet--dallas.json",
+  "business": "Gold & Diamond Outlet",
+  "market": "Dallas, TX",
+  "website": "https://www.facebook.com/goldanddiamond.outlet",
+  "phone": "(972) 572-2265",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/hirschberg-enterprises--dallas.json",
+  "business": "Hirschberg Enterprises",
+  "market": "Dallas, TX",
+  "website": "https://hirschbergs.com",
+  "phone": "(214) 707-8654",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/mariloff-diamonds-fine-jewelry--dallas.json",
+  "business": "Mariloff Diamonds & Fine Jewelry",
+  "market": "Dallas, TX",
+  "website": "https://www.mariloff.com",
+  "phone": "(214) 744-2490",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/misane-inc--dallas.json",
+  "business": "Misane Inc",
+  "market": "Dallas, TX",
+  "website": "https://www.misanejewelry.com",
+  "phone": "(972) 387-1063",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/ramy-robinov-diamonds--dallas.json",
+  "business": "Ramy Robinov Diamonds",
+  "market": "Dallas, TX",
+  "website": "http://www.dallasdiamonds.com",
+  "phone": "(972) 788-5288",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/rdi-trading--dallas.json",
+  "business": "Rdi Trading",
+  "market": "Dallas, TX",
+  "website": "http://www.rditrading.com",
+  "phone": "(972) 458-2076",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/rdi-wholesale-diamonds--dallas.json",
+  "business": "Rdi Wholesale Diamonds",
+  "market": "Dallas, TX",
+  "website": "http://rditrading.com",
+  "phone": "(972) 458-7182",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/rs-diamond-broker--dallas.json",
+  "business": "RS Diamond Broker",
+  "market": "Dallas, TX",
+  "website": "https://www.rsdiamondbroker.com",
+  "phone": "(469) 709-8005",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/sdc-diamonds--dallas.json",
+  "business": "SDC Diamonds",
+  "market": "Dallas, TX",
+  "website": "https://www.dallasmarketcenter.com/exhibitors/detail.aspx",
+  "phone": "(214) 850-4505",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/shapiro-diamonds-dallas-engagement-rings--dallas.json",
+  "business": "Shapiro Diamonds Dallas Engagement Rings",
+  "market": "Dallas, TX",
+  "website": "https://shapirodiamonds.com",
+  "phone": "(972) 239-2122",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/sj-diamonds--dallas.json",
+  "business": "SJ DIAMONDS",
+  "market": "Dallas, TX",
+  "website": "http://www.sjdiam.com",
+  "phone": "(214) 217-0187",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/swiss-watch-diamond-exchange--dallas.json",
+  "business": "Swiss Watch & Diamond Exchange",
+  "market": "Dallas, TX",
+  "website": "http://swisswatch.net",
+  "phone": "(214) 361-4367",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/the-diamond-broker--dallas.json",
+  "business": "The Diamond Broker",
+  "market": "Dallas, TX",
+  "website": "http://www.thediamondbroker.net",
+  "phone": "(972) 490-6060",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/bulow-jewelers--denver.json",
+  "business": "Bulow Jewelers",
+  "market": "Denver, CO",
+  "website": "https://www.bulowjewelers.com/contact-us",
+  "phone": "(303) 592-1695",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/frey-gems--denver.json",
+  "business": "Frey Gems",
+  "market": "Denver, CO",
+  "website": "http://www.freygems.com",
+  "phone": "(303) 294-0789",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/the-jewelry-exchange-direct-diamond-importer--englewood.json",
+  "business": "The Jewelry Exchange | Direct Diamond Importer",
+  "market": "Denver, CO",
+  "website": "https://www.jewelryexchange.com/greenwoodvillage-denver-diamonds-jewelry-store-jewelryrepair",
+  "phone": "(303) 770-1000",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/williams-jewelers--englewood.json",
+  "business": "Williams Jewelers",
+  "market": "Denver, CO",
+  "website": "http://www.williamsjewelers.net",
+  "phone": "(303) 761-9700",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/activ-gem-inc--houston.json",
+  "business": "Activ Gem Inc",
+  "market": "Houston, TX",
+  "website": "http://www.agidiamonds.com",
+  "phone": "(713) 552-0014",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/designer-jewels-inc--houston.json",
+  "business": "Designer Jewels Inc",
+  "market": "Houston, TX",
+  "website": "http://designerjewels.com",
+  "phone": "(713) 623-6996",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/diamond-cutters-international--houston.json",
+  "business": "Diamond Cutters International",
+  "market": "Houston, TX",
+  "website": "http://diamondcuttersintl.com",
+  "phone": "(713) 222-2728",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/diamonds-and-time--houston.json",
+  "business": "Diamonds And Time",
+  "market": "Houston, TX",
+  "website": "https://www.davidoffdiamonds.com/contact-us",
+  "phone": "(713) 974-4040",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/diamonds-from-you--houston.json",
+  "business": "Diamonds From You",
+  "market": "Houston, TX",
+  "website": "http://www.diamondsfromyou.com",
+  "phone": "(713) 517-2154",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/houston-jewelry--houston.json",
+  "business": "Houston Jewelry",
+  "market": "Houston, TX",
+  "website": "https://www.houstonjewelry.com",
+  "phone": "(713) 784-1000",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/jewelry-appraisal-services--bellaire.json",
+  "business": "Jewelry Appraisal Services",
+  "market": "Houston, TX",
+  "website": "http://www.jewelryappraisalservices.com",
+  "phone": "(713) 622-9070",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/jewelry-depot-houston-engagement-rings-store--houston.json",
+  "business": "Jewelry Depot Houston Engagement Rings Store",
+  "market": "Houston, TX",
+  "website": "http://jewelrydepothouston.com",
+  "phone": "(713) 789-7977",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/jonathan-s-fine-jewelers--houston.json",
+  "business": "Jonathan's Fine Jewelers",
+  "market": "Houston, TX",
+  "website": "http://www.diamondbuyers.com",
+  "phone": "(713) 977-9885",
+  "emails": []
+ }
+]

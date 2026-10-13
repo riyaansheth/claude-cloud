@@ -1,0 +1,322 @@
+[
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/antwerp-sales--atlanta.json",
+  "business": "Antwerp Sales",
+  "market": "Atlanta, GA",
+  "website": "http://naibg.com",
+  "phone": "(404) 231-3125",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/capetown-diamond-corp--roswell.json",
+  "business": "Capetown Diamond Corp",
+  "market": "Atlanta, GA",
+  "website": "http://capetowndiamond.com",
+  "phone": "(404) 365-9503",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/chambers-j-j-co--atlanta.json",
+  "business": "Chambers J J & Co",
+  "market": "Atlanta, GA",
+  "website": "http://jjchambers.com",
+  "phone": "(404) 231-4777",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/factory-s-inc--marietta.json",
+  "business": "Factory's Inc",
+  "market": "Atlanta, GA",
+  "website": "https://www.factorysinc.com",
+  "phone": "(404) 874-8886",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/j-s-fearnley--atlanta.json",
+  "business": "J.S. Fearnley",
+  "market": "Atlanta, GA",
+  "website": "https://www.jsfearnley.com",
+  "phone": "(404) 812-6464",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/star-gems-inc--norcross.json",
+  "business": "Star Gems, Inc",
+  "market": "Atlanta, GA",
+  "website": "http://stargems.com",
+  "phone": "(770) 394-6727",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/the-diamond-connection--atlanta.json",
+  "business": "The Diamond Connection",
+  "market": "Atlanta, GA",
+  "website": "http://diamond-connection.com",
+  "phone": "(404) 266-1997",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/top-rate-diamonds--sandy-springs.json",
+  "business": "Top Rate Diamonds",
+  "market": "Atlanta, GA",
+  "website": "https://topratediamonds.com",
+  "phone": "(404) 824-7190",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/universal-diamond--atlanta.json",
+  "business": "Universal Diamond",
+  "market": "Atlanta, GA",
+  "website": "http://www.universaldiamond.com",
+  "phone": "(404) 995-3800",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/amoroso-jewelers--boston.json",
+  "business": "Amoroso Jewelers",
+  "market": "Boston, MA",
+  "website": "http://amorosojewelers.com",
+  "phone": "(617) 742-9900",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/barmakian-brothers--boston.json",
+  "business": "Barmakian Brothers",
+  "market": "Boston, MA",
+  "website": "http://www.barmakian.com",
+  "phone": "(617) 227-3724",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/bedrosian-jewelry--boston.json",
+  "business": "Bedrosian Jewelry",
+  "market": "Boston, MA",
+  "website": "http://www.bedrosianjewelry.com",
+  "phone": "(617) 227-9452",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/black-diamond-group--woburn.json",
+  "business": "Black Diamond Group",
+  "market": "Boston, MA",
+  "website": "http://bdboots.com",
+  "phone": "(781) 939-7800",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/cohasset-jewelers--cohasset.json",
+  "business": "Cohasset Jewelers",
+  "market": "Boston, MA",
+  "website": "https://www.cohassetjewelers.com",
+  "phone": "(781) 544-2869",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/diamond-guild--dedham.json",
+  "business": "Diamond Guild",
+  "market": "Boston, MA",
+  "website": "http://thediamondguild.com",
+  "phone": "(781) 326-8600",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/estate-buying-group-harry-h-solomon-co-inc--boston.json",
+  "business": "Estate Buying Group-Harry H Solomon Co Inc",
+  "market": "Boston, MA",
+  "website": "https://www.diamondjewelrybuyerboston.com",
+  "phone": "(617) 542-1868",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/i-ds-trading-inc--boston.json",
+  "business": "I DS Trading Inc",
+  "market": "Boston, MA",
+  "website": "https://www.idstrading.com",
+  "phone": "(617) 720-5233",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/princess-diamonds--burlington.json",
+  "business": "Princess Diamonds",
+  "market": "Boston, MA",
+  "website": "http://www.princessdiamonds.net",
+  "phone": "(781) 362-4767",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/regency-jewelers--boston.json",
+  "business": "Regency Jewelers",
+  "market": "Boston, MA",
+  "website": "http://www.regencydiamond.com",
+  "phone": "(617) 523-5138",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/rogers-jewelry--quincy.json",
+  "business": "Rogers Jewelry",
+  "market": "Boston, MA",
+  "website": "http://rogersjewelry.com",
+  "phone": "(617) 773-3636",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/romm-diamonds--brockton.json",
+  "business": "Romm Diamonds",
+  "market": "Boston, MA",
+  "website": "https://www.rommdiamonds.com",
+  "phone": "(508) 587-8332",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/safris-ltd--boston.json",
+  "business": "Safris Ltd",
+  "market": "Boston, MA",
+  "website": "https://www.safariltd.com",
+  "phone": "(617) 367-0132",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/sheldon-jewelers--framingham.json",
+  "business": "Sheldon Jewelers",
+  "market": "Boston, MA",
+  "website": "http://www.sheldonjewelers.com",
+  "phone": "(508) 620-1976",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/the-jewelry-exchange-direct-diamond-importers--sudbury.json",
+  "business": "The Jewelry Exchange | Direct Diamond Importers",
+  "market": "Boston, MA",
+  "website": "https://www.jewelryexchange.com/sudbury-boston-diamonds-jewelry-store-jewelryrepair",
+  "phone": "(978) 443-0550",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/chicago-gold-gallery--chicago.json",
+  "business": "Chicago Gold Gallery",
+  "market": "Chicago, IL",
+  "website": "https://www.chicagogoldgallery.com",
+  "phone": "(773) 338-7787",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/crystal-gems--chicago.json",
+  "business": "Crystal Gems",
+  "market": "Chicago, IL",
+  "website": "https://www.crystalgemsinc.com",
+  "phone": "(312) 368-1850",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/diamantra-inc--chicago.json",
+  "business": "Diamantra Inc",
+  "market": "Chicago, IL",
+  "website": "http://diamantra.com",
+  "phone": "(312) 854-3999",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/diamonds-inc--chicago.json",
+  "business": "Diamonds Inc.",
+  "market": "Chicago, IL",
+  "website": "http://diamondschicago.com",
+  "phone": "(312) 854-3340",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/dnr-diamonds--chicago.json",
+  "business": "DNR Diamonds",
+  "market": "Chicago, IL",
+  "website": "https://www.mor-diamonds.com/contact-us",
+  "phone": "(312) 372-1475",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/e-m-trading--chicago.json",
+  "business": "E M Trading",
+  "market": "Chicago, IL",
+  "website": "http://www.em-trading.com/contact-us#main-content",
+  "phone": "(312) 251-1252",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/heritage-jewelers--lockport.json",
+  "business": "Heritage Jewelers",
+  "market": "Chicago, IL",
+  "website": "http://heritagecustomjewelers.com",
+  "phone": "(815) 838-9591",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/idc-corp--chicago.json",
+  "business": "Idc Corp",
+  "market": "Chicago, IL",
+  "website": "http://idj.com",
+  "phone": "(312) 346-4756",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/karat-jewelry-group-inc--chicago.json",
+  "business": "Karat Jewelry Group Inc",
+  "market": "Chicago, IL",
+  "website": "http://karatjewelrygroup.com",
+  "phone": "(312) 854-3056",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/linda-levinson-designs--chicago.json",
+  "business": "Linda Levinson Designs",
+  "market": "Chicago, IL",
+  "website": "https://lindalevinsondesigns.com",
+  "phone": "(312) 951-6943",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/m-geller-ltd--chicago.json",
+  "business": "M Geller Ltd",
+  "market": "Chicago, IL",
+  "website": "https://www.mgellerdiamonds.com",
+  "phone": "(312) 984-1041",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/marry-me-jewelry--countryside.json",
+  "business": "Marry Me Jewelry",
+  "market": "Chicago, IL",
+  "website": "http://marrymejewelry.com",
+  "phone": "(630) 627-7963",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/rahmanim-s-imports--chicago.json",
+  "business": "Rahmanim's Imports",
+  "market": "Chicago, IL",
+  "website": "http://www.ridiamonds.com",
+  "phone": "(312) 236-2200",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/singh-design-in--chicago.json",
+  "business": "Singh Design In",
+  "market": "Chicago, IL",
+  "website": "http://hakimisgem.com",
+  "phone": "(312) 422-8435",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/star-brilliant--chicago.json",
+  "business": "Star Brilliant",
+  "market": "Chicago, IL",
+  "website": "http://brilliantfs.com",
+  "phone": "(312) 214-1900",
+  "emails": []
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/steven-s-jewelers--skokie.json",
+  "business": "Steven's Jewelers",
+  "market": "Chicago, IL",
+  "website": "http://sethandreid.com",
+  "phone": "(847) 674-1202",
+  "emails": []
+ }
+]
