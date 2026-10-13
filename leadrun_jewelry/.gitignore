@@ -7,3 +7,7 @@ __pycache__/
 *.pyc
 .pytest_cache/
 tests/_work/
+# Run outputs live on the claude/jewelry-leads-results branch (pipeline/autopush.py)
+jewelry_all.csv
+jewelry_qualified.csv
+REPORT.md
