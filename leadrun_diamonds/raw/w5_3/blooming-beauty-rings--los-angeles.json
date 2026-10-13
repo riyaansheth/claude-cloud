@@ -18,14 +18,24 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(213) 222-8868"
+ ],
+ "tel_source": "https://bloomingbeautyring.com/",
+ "socials": [
+  "https://www.instagram.com/bloomingrings/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "since-2006",
+  "family-owned",
+  "custom-bridal"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Designers"
+ "scope_reason": "About page: 'a designer and manufacturer of unique engagement ring settings... Located in the heart of the Los Angeles diamond district' (handmade diamond rings; also sells Lustour 'diamond alternative' stones).",
+ "verified": true
 }

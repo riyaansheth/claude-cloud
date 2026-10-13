@@ -14,18 +14,27 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Mike Youkilis\" Midwest Diamond Distributors LinkedIn (no /in/ profile for Mike found)",
+ "contact_person": "Mike Youkilis",
+ "role": "Owner",
+ "contact_source": "https://www.midwestdiamond.net/about.php",
+ "tel_numbers": [
+  "(513) 769-7222",
+  "(800) 900-6139"
+ ],
+ "tel_source": "https://www.midwestdiamond.net/contact.php",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Suite 114",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1999",
+  "family-owned",
+  "gia-graduate-on-staff",
+  "wholesale-to-jewelers"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Homepage: 'We have developed comprehensive basic diamond programs that enhance the jewelers return on investment' - diamond jewelry distributor supplying retail jewelers.",
+ "verified": true
 }

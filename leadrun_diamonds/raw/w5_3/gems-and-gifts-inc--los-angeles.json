@@ -2,7 +2,7 @@
  "business": "Gems And Gifts Inc",
  "category_as_listed": "Diamonds-Wholesale, Jewelers",
  "phone": "(213) 935-8653",
- "website": "http://opencorporates.com/companies/us_ca/3479109",
+ "website": "",
  "address": "606 S Hill St",
  "city": "Los Angeles",
  "state": "CA",
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: no own website (listing pointed to OpenCorporates, which shows GEMS & GIFTS, INC. at 606 S Hill St Ste 1105 with status Suspended Ftb/Sos)",
+ "verified": false
 }

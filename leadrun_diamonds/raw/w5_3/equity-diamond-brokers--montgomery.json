@@ -18,14 +18,32 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(800) 367-9213"
+ ],
+ "tel_source": "https://www.equitydiamondbrokers.com/",
+ "socials": [
+  "https://www.facebook.com/edbdiamondbrokers",
+  "https://www.instagram.com/equitydiamondbrokers/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "CBG",
+  "IGO",
+  "RJO"
+ ],
+ "hooks": [
+  "since-1972",
+  "wholesale-to-independent-jewelers",
+  "loose-diamonds",
+  "manufacturer",
+  "lab-grown",
+  "jck-exhibitor",
+  "rebranded-irena-jewels"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Diamonds, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "About page: 'Founded in 1972 as Equity Diamond Brokers' (now Irena Jewels), a diamond jewelry wholesaler serving independent jewelers with 'a robust loose diamond inventory' via Laxmi Diamond (De Beers Sightholder) and Aneri Jewels.",
+ "verified": true
 }

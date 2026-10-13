@@ -15,17 +15,31 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Aspen Demirdjian",
+ "role": "Featured On About Page",
+ "contact_source": "https://www.aspendiamond.com/aspen_demirdjian",
+ "tel_numbers": [
+  "(213) 624.2088",
+  "888-624.2088"
+ ],
+ "tel_source": "https://www.aspendiamond.com/contacts, https://www.aspendiamond.com/",
+ "socials": [
+  "https://www.facebook.com/aspendiamond",
+  "https://instagram.com/aspendiamond/",
+  "https://twitter.com/AspenDiamond",
+  "https://www.pinterest.com/aspendiamond/"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Suite A",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "3rd-generation",
+  "loose-diamonds",
+  "custom-design",
+  "montreal-boutique"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Buyers"
+ "scope_reason": "Site: 'As a diamond professional, ASPEN has been the face and the name of one of the fastest growing companies in the diamond industry'; offers loose diamonds/diamond search and its namesake has 'a background in diamond wholesaling'.",
+ "verified": true
 }

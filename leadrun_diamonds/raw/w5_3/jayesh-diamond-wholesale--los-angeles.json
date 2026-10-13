@@ -11,21 +11,31 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/jayesh-diamond-wholesale-467826163",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "question@gddiamond.com",
+ "email_source": "https://www.gddiamond.com/contact_us.asp",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Rajendra Verma\" GD Diamond Los Angeles LinkedIn (none found)",
+ "contact_person": "Rajendra Verma",
+ "role": "Owner",
+ "contact_source": "https://www.gddiamond.com/about_us.asp",
+ "tel_numbers": [
+  "1-213-614-9808",
+  "1-800-573-7594"
+ ],
+ "tel_source": "https://www.gddiamond.com/contact_us.asp",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Ste. 910",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-2000",
+  "loose-diamonds",
+  "natural",
+  "gia-egl-certified",
+  "online-retail"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "GD Diamond (gddiamond.com, 608 S. Hill St. Ste. 910): owner 'Mr. Verma is specialized in loose stone diamonds {00.1 to 10 carat}' and the site sells 'Certified Loose Diamonds' (EGL/GIA) plus diamond jewelry, mostly online retail.",
+ "verified": true
 }
