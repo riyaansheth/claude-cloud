@@ -2,7 +2,7 @@
  "business": "Abe Mor Diamond Corporation",
  "category_as_listed": "Diamond Cutters",
  "phone": "(212) 799-7153",
- "website": "https://www.thediamondoak.com",
+ "website": "https://thediamondoak.com",
  "address": "62 W 47th St",
  "city": "New York",
  "state": "NY",
@@ -18,14 +18,19 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+1 212 799-7153",
+  "+1 646 956-5766",
+  "+1 (917) 842-7273"
+ ],
+ "tel_source": "https://thediamondoak.com/pages/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "thediamondoak.com/pages/about: The Diamond Oak (62 W 47th St Ste 401, same 212-799-7153 number) sells pre-owned branded jewelry - 'we focus exclusively on must-have brands, including Tiffany, Cartier, Bulgari, Harry Winston' - the founder left the family's Abe Mor Diamond Cutters in 2016; retail resale, not trade.",
+ "verified": true
 }

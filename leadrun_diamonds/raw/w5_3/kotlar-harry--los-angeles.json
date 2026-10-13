@@ -2,7 +2,7 @@
  "business": "Kotlar Harry",
  "category_as_listed": "Diamonds-Wholesale, Jewelers",
  "phone": "(213) 626-0428",
- "website": "http://harrykotlar.com",
+ "website": "https://harrykotlar.com",
  "address": "607 S Hill St",
  "city": "Los Angeles",
  "state": "CA",
@@ -14,18 +14,29 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"David Wiener\" Harry Kotlar LinkedIn (only unrelated namesakes)",
+ "contact_person": "David Wiener",
+ "role": "President",
+ "contact_source": "https://www.thejewelleryeditor.com/jewellery/article/harry-kotlar-classic-diamond-jewelry-red-carpet/",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/harrykotlarjewelry",
+  "https://www.instagram.com/harrykotlar/",
+  "https://twitter.com/harrykotlar"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1948",
+  "3rd-generation",
+  "manufacturer",
+  "large-stones",
+  "loose-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "harrykotlar.com/legacy: from 1948 'Harry supplies diamonds to manufacturers and dealers', later 'stones up to 8 carats to large jewelry manufacturers and diamond dealers'; today a diamond jewelry manufacturer with a Retailer Login, loose-stone search and the AGS-inscribed Kotlar Cushion.",
+ "verified": true
 }

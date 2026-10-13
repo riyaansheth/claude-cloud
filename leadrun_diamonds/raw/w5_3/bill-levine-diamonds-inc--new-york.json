@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Alan Levine",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/ny/ardsley/profile/wholesale-jewelry/maya-j-0121-87148725/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "unverified: site unreachable (bossmannyc.com returns a provider error page); BBB lists Bill Levine Diamonds Inc. as alternate name of Maya J (Ardsley, NY), categories Wholesale Jewelry / Jewelry Stores",
+ "verified": false
 }

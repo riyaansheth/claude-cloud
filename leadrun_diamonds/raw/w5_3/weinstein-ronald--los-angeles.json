@@ -2,7 +2,7 @@
  "business": "Weinstein, Ronald",
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(213) 629-5474",
- "website": "http://loeb.com",
+ "website": "",
  "address": "607 S Hill St",
  "city": "Los Angeles",
  "state": "CA",
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: listed website loeb.com is Loeb & Loeb LLP (law firm), unrelated to this listing; no own site found",
+ "verified": false
 }

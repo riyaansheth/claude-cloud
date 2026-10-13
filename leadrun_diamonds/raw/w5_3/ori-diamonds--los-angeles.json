@@ -2,7 +2,7 @@
  "business": "Ori Diamonds",
  "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
  "phone": "(213) 327-0077",
- "website": "https://www.ori-diamonds.com/contact.html",
+ "website": "https://www.ori-diamonds.com",
  "address": "550 S Hill St",
  "city": "Los Angeles",
  "state": "CA",
@@ -11,21 +11,38 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/ori-diamonds-542661658",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@ori-diamonds.com",
+ "email_source": "https://www.ori-diamonds.com/about.html",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Roy Balulu\" ORI Diamonds LinkedIn (no /in/ profile found)",
+ "contact_person": "Roy Balulu",
+ "role": "Owner",
+ "contact_source": "https://www.ori-diamonds.com/about.html",
+ "tel_numbers": [
+  "(213) 327-0077",
+  "213-268-7249"
+ ],
+ "tel_source": "https://www.ori-diamonds.com/about.html",
+ "socials": [
+  "https://www.facebook.com/people/ORI-diamonds-inc/100063623591012/",
+  "https://www.instagram.com/ori.diamonds/"
+ ],
  "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "suite": "Ste 1395",
+ "trade_memberships": [
+  "RapNet",
+  "Polygon"
+ ],
+ "hooks": [
+  "2nd-generation",
+  "cutter",
+  "layouts",
+  "parcels",
+  "gia",
+  "40-years"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "ori-diamonds.com/about: 'satellite branch of ORI Diamonds Israel... managed today by 2nd generation diamond experts, merchants, cutters, and polishers' supplying diamond layouts, single stones, certified/non-certified stones and parcels 'to jewelers and private clients'.",
+ "verified": true
 }

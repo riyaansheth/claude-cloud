@@ -2,7 +2,7 @@
  "business": "Lbm Diamonds",
  "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Jewelers",
  "phone": "(213) 627-8010",
- "website": "http://bluediamond.com",
+ "website": "",
  "address": "606 S Hill St Ste 1101",
  "city": "Los Angeles",
  "state": "CA",
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelers"
+ "scope_reason": "unverified: listed website bluediamond.com is Blue Diamond Growers (almonds), unrelated to this business; no own site found",
+ "verified": false
 }

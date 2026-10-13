@@ -13,19 +13,26 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/bony-levy-000478169/",
+ "linkedin_source": "\"Bony Levy\" Bony Levy jewelry LinkedIn",
+ "contact_person": "Bony Levy",
+ "role": "Founder",
+ "contact_source": "https://bonylevy.com/about-us/",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/BonyLevy/",
+  "https://www.instagram.com/bonylevy/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "bonylevy.com/about-us: Bony 'learned extensive diamond knowledge from his father working as a boy in his family's business. After taking the diamond business to Los Angeles, Bony Levy fine jewelry was established' - LA diamond/gold jewelry designer-manufacturer (borderline: site itself sells direct online).",
+ "verified": true
 }
