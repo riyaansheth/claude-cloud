@@ -2,8 +2,8 @@
   "business": "Phoenix Wholesale Diamonds",
   "category_as_listed": "Diamonds Wholesale",
   "phone": "(480) 703 9823",
-  "email": "",
-  "email_source": "",
+  "email": "yucel@yucel.co",
+  "email_source": "https://phoenixwholesalediamonds.com/",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Yucel Yalim",
@@ -18,8 +18,10 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://phoenixwholesalediamonds.com/",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "(480) 703 9823"
+  ],
+  "tel_source": "https://phoenixwholesalediamonds.com/",
   "socials": [],
   "building": "",
   "suite": "",
@@ -33,5 +35,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: wholesaler of fine diamonds serving retail jewelers since 2003, worked as broker/importer/distributor; footer entity The Cultured Woman, LLC",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

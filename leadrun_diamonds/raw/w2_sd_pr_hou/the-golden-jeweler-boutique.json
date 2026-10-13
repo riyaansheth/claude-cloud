@@ -2,8 +2,8 @@
   "business": "The Golden Jeweler Boutique",
   "category_as_listed": "",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "thegoldenjewelerboutique@gmail.com",
+  "email_source": "https://thegoldenjeweler.com/policies/contact-information",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Christian Santiago",
@@ -18,8 +18,10 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://thegoldenjeweler.com/",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "787-721-4474"
+  ],
+  "tel_source": "https://thegoldenjeweler.com/",
   "socials": [
     "https://www.facebook.com/p/The-Golden-Jeweler-Boutique-100094052917999/"
   ],
@@ -36,5 +38,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Old San Juan jeweler doing design and manufacture, offers natural and lab-grown diamonds; Christian Santiago named as expert jeweler. Borderline bridal/custom.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

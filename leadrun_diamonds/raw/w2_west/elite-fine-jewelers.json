@@ -2,8 +2,8 @@
   "business": "Elite Fine Jewelers",
   "category_as_listed": "",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "ashley@elitefj.com",
+  "email_source": "https://www.elitefinejewelers.com/pages/contact-us",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "",
@@ -18,9 +18,13 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.elitefinejewelers.com/blogs/stay-in-the-loupe-with-elite-fj/loose-diamonds-scottsdale",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "480-699-6639"
+  ],
+  "tel_source": "https://www.elitefinejewelers.com/",
+  "socials": [
+    "https://www.instagram.com/elitefinejewelers/"
+  ],
   "building": "",
   "suite": "",
   "trade_memberships": [],
@@ -30,5 +34,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Near Scottsdale-Tempe border; offers bulk and wholesale rates on loose diamonds for select buyers (borderline retail)",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

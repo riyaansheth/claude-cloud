@@ -35,6 +35,7 @@
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "Borderline: family retail jeweler 'since 1937', third generation, that says 'We specialize in ideal cut, top-quality GIA certified diamonds in all shapes and sizes' and promotes 'SPECTACULAR LOOSE DIAMONDS', guaranteeing GIA grading 'on ALL loose diamonds we sell' (finished jewelry is bought from designers/manufacturers).",
- "verified": true
+ "scope_reason": "Borderline: family retail jeweler 'since 1937', third generation; About page: 'We guarantee grading accuracy to Gemological Institute of America standards on ALL loose diamonds we sell. We select all of our jewelry from the finest designers and manufacturers.' Retail store selling loose GIA diamonds; no owner surname given beyond 'Kelvin personally inspects'.",
+ "verified": true,
+ "enriched": true
 }

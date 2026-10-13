@@ -2,8 +2,8 @@
   "business": "Deep Diamonds",
   "category_as_listed": "Wholesale Jewelry",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "deepdiamonds@cox.net",
+  "email_source": "https://www.deepdiamonds.net/contact/",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Praful N. Shah",
@@ -18,8 +18,11 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://nextdoor.com/pages/deep-diamondsdiamonds-jewelry-direct-diamond-importers/",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "602-535-4648",
+    "602-315-6388"
+  ],
+  "tel_source": "https://www.deepdiamonds.net/contact/",
   "socials": [],
   "building": "",
   "suite": "#120",
@@ -29,6 +32,7 @@
     "since-1989"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "'Direct diamond importers'; BBB wholesale-jewelry category, started 1989. Own About page names Nimrod Barshad as Founder/CEO (conflicts with BBB owner Praful/Lina Shah)",
-  "drop_reason": ""
+  "scope_reason": "Own contact page: 'In business for more than 25 years in the wholesale end of the diamond business, we have recently expanded to provide retail sales'; BBB category wholesale jewelry, owner Praful N. Shah per BBB. (About page 'Leader Board' names Nimrod Barshad etc. are theme placeholder text - ignored.)",
+  "drop_reason": "",
+  "enriched": true
 }

@@ -21,7 +21,7 @@
  "tel_numbers": [
   "615-516-6001"
  ],
- "tel_source": "https://citydiamondexchangedotcom.wordpress.com/",
+ "tel_source": "http://citydiamondexchange.com/",
  "socials": [],
  "building": "",
  "suite": "Suite 3010",
@@ -35,5 +35,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site: 'CDE has traded and sold millions of dollars worth of polished and rough diamonds to jewelry stores across the U.S, Europe, and Israel' and buys 'from diamond dealers, gold stores, pawn shops, and the public' - borderline: also markets gold buying, Rolex and pawn.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

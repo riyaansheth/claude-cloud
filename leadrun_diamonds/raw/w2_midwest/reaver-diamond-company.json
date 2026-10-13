@@ -2,8 +2,8 @@
   "business": "Reaver Diamond Company",
   "category_as_listed": "Jewelry Wholesale & Manufacturers",
   "phone": "248-645-9200",
-  "email": "Chris@ReaverDiamond.com",
-  "email_source": "https://www.weddingwire.com/biz/reaver-diamond-company-southfield/76f0aefff56af083.html",
+  "email": "ContactUs@ReaverDiamond.com",
+  "email_source": "https://www.reaverdiamond.com/about-us/",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Steve Reaver",
@@ -32,5 +32,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Diamond-named family firm (Reaver family in Detroit since 1959, current LLC 2004 per Crain's) listed under Superpages Jewelry Wholesale & Manufacturers; BBB categorises as jewelry store - borderline retail. Email belongs to manager Chris, not owner.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

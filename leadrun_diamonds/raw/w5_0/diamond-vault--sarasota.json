@@ -16,8 +16,8 @@
  "linkedin_url": "",
  "linkedin_source": "\"Ali Chokr\" Diamond Vault LinkedIn (no matching /in/ profile)",
  "contact_person": "Ali Chokr",
- "role": "Founder",
- "contact_source": "https://diamondvaultjewelers.com/pages/about",
+ "role": "President",
+ "contact_source": "https://diamondvaultjewelers.com/pages/about (founder); https://www.bbb.org/us/fl/sarasota/profile/jewelry-stores/diamond-vault-the-0653-6145971 (Mr. Ali Chokr, President)",
  "tel_numbers": [
   "(941) 921-4016"
  ],
@@ -41,5 +41,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "About page: founder Ali Chokr 'entered the diamond wholesale business and invested in diamond jewelry'; site offers 'an unrivaled selection of GIA certified diamonds and diamond jewelry' with a trademark Diamond Wall, on-site workshop and estate buying.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

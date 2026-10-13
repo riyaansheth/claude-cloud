@@ -39,5 +39,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "About: \"family-run jewelry boutique and bespoke design house\" since 1976 that specializes \"in GIA-certified diamonds\" with \"access to a global inventory\"; master jeweler Garo Oustayan, third-generation, manufactures the \"Garvani\" line.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }
