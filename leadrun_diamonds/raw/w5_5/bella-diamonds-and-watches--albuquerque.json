@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelers-Wholesale & Manufacturers, Watches"
+ "scope_reason": "unverified: site unreachable (domain now serves an Indonesian gambling page)",
+ "verified": false
 }
