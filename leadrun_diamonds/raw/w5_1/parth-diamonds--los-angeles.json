@@ -11,8 +11,8 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/parth-diamonds-551308474",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "contact@parthdiamonds.com",
+ "email_source": "https://parthdiamonds.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -20,12 +20,25 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.instagram.com/parthdiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1996",
+  "30-years",
+  "lab-grown",
+  "CVD",
+  "HPHT",
+  "melee",
+  "wholesale",
+  "manufacturer",
+  "cutting-factory-Gujarat"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "Site: \"NATIONAL LEADING WHOLESALER & MANUFACTURER OF LABORATORY GROWN (CVD & HPHT) DIAMONDS\"; settled in the LA jewelry district in 1996 and serves \"manufacturers, other diamond dealers, retailers\".",
+ "verified": true
 }

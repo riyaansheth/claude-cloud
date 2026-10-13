@@ -11,21 +11,24 @@
  "reviews": "28",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/j-g-l-and-company-471057215",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@benjamincompany.com",
+ "email_source": "https://www.benjamincompany.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(213) 622-0260"
+ ],
+ "tel_source": "https://www.benjamincompany.com/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Listed site benjamincompany.com is an online finished-jewelry store (\"FREE SHIPPING 30-DAY RETURNS\"); its About text describes \"Fine Jewelry Pros ... based in San Diego\" - no loose-diamond/wholesale line and no mention of JGL.",
+ "verified": true
 }

@@ -11,21 +11,31 @@
  "reviews": "15",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/vora-gems-467626690",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "voragemsinc@gmail.com",
+ "email_source": "https://www.voragems.com/contact-us",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Prakash Vora\" Vora Gems LinkedIn",
+ "contact_person": "Prakash Vora",
+ "role": "Founder (with Mala Vora)",
+ "contact_source": "https://www.voragems.com/about-us",
+ "tel_numbers": [
+  "(800) 867-2515"
+ ],
+ "tel_source": "https://www.voragems.com/contact-us",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1980",
+  "family-owned",
+  "recutting",
+  "diamond-grooving",
+  "stone-matching",
+  "gemstones"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Site: \"a family-owned gem supplier business founded in 1980\" offering trade services incl. \"Recutting Colored Stones & Diamonds\", \"Diamond Grooving\" for invisible settings and diamond matching - mainly colored stones, with a diamond cutting/matching line.",
+ "verified": true
 }

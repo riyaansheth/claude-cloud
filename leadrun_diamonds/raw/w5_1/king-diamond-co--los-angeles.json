@@ -11,21 +11,24 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/king-diamond-co-478573518",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@ladiamond.com",
+ "email_source": "https://www.ladiamond.com/pages/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+12139980000"
+ ],
+ "tel_source": "https://www.ladiamond.com/pages/contact-us",
  "socials": [],
  "building": "",
  "suite": "Ste 105",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Listed site ladiamond.com (L.A Diamond) is a consumer bridal store (\"Whether you're looking for an engagement ring, a loose diamond, or custom jewelry\") with free shipping/financing; no wholesale or trade line and no mention of King Diamond Co.",
+ "verified": true
 }

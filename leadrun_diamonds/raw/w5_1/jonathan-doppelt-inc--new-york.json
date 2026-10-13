@@ -11,21 +11,31 @@
  "reviews": "39",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/jonathan-doppelt-inc-560780899",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@jonathandoppelt.com",
+ "email_source": "http://jonathandoppelt.com/",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Jonathan Doppelt\" Jonathan Doppelt Inc LinkedIn",
+ "contact_person": "Jonathan Doppelt",
+ "role": "Owner (\"third generation of family ownership ... actively at the helm\")",
+ "contact_source": "http://jonathandoppelt.com/",
+ "tel_numbers": [
+  "212.644.9760"
+ ],
+ "tel_source": "http://jonathandoppelt.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1918",
+  "3rd-generation",
+  "cutter",
+  "rough",
+  "fancy-color",
+  "manufacturer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "Site: \"Jonathan Doppelt is involved in the sourcing of every rough diamond right through to the cutting, polishing and final settings\", supplying \"high jewelry houses such as Bvlgari, Cartier and Van Cleef and Arpels\" (site shows PHP errors but is up).",
+ "verified": true
 }

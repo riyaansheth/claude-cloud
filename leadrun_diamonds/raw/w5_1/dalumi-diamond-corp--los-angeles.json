@@ -11,21 +11,38 @@
  "reviews": "32",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/dalumi-diamond-corp-532812807",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@dalumi.com",
+ "email_source": "https://www.dalumi.com/contact",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Biana Catapano\" Dalumi LinkedIn",
+ "contact_person": "Biana Catapano",
+ "role": "USA contact person (580 Fifth Ave NY office)",
+ "contact_source": "https://www.dalumi.com/contact",
+ "tel_numbers": [
+  "+1 212-644-9030",
+  "+1 (917) 612-2151"
+ ],
+ "tel_source": "https://www.dalumi.com/contact",
+ "socials": [
+  "https://www.facebook.com/dalumidiamonds",
+  "https://www.instagram.com/dalumidiamonds",
+  "https://www.linkedin.com/company/dalumi-group"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "De Beers Sightholder"
+ ],
+ "hooks": [
+  "since-1960",
+  "2nd-generation",
+  "manufacturer",
+  "natural",
+  "yellow-diamonds",
+  "Botswana-factory"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Site: \"Dalumi specializes in manufacturing, polishing, and marketing finest quality natural diamonds\" and \"Since 1993, we've been a De Beers Sightholder\".",
+ "verified": true
 }

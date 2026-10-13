@@ -11,21 +11,32 @@
  "reviews": "31",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/emperor-diamonds-inc-474770736",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "emperordiamonds@gmail.com",
+ "email_source": "https://emperordiamondsinc.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(213) 688-9595",
+  "(213) 489-4598"
+ ],
+ "tel_source": "https://emperordiamondsinc.com/contact-us/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1982",
+  "wholesale",
+  "manufacturer",
+  "importer",
+  "match-pairs",
+  "GIA-certified"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site: \"Emperor Diamonds Inc., established in 1982 is a leading manufacturer and importer of diamonds\" with \"over 40 years of excellence in the wholesale diamond business\".",
+ "verified": true
 }

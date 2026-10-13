@@ -11,21 +11,24 @@
  "reviews": "21",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/diamond-hotline-467842992",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@weddingbandswholesale.com",
+ "email_source": "https://www.weddingbandswholesale.com/contact-us/i-3",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "800-515-1561"
+ ],
+ "tel_source": "https://www.weddingbandswholesale.com/contact-us/i-3",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Listed site weddingbandswholesale.com is an online bridal-jewelry store (\"30 Day Returns\", shopping cart) \"creating fine gold and platinum bridal jewelry\"; no loose-diamond trade line and no mention of Diamond Hotline.",
+ "verified": true
 }

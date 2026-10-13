@@ -11,21 +11,33 @@
  "reviews": "26",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/hetal-diamonds-inc-501872561",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@jbediamonds.com",
+ "email_source": "https://jbediamonds.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(212) 221-1095"
+ ],
+ "tel_source": "https://jbediamonds.com/contact-us/",
+ "socials": [
+  "http://www.pinterest.com/jbediamond",
+  "https://twitter.com/jbediamonds",
+  "https://www.facebook.com/jbediamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1975",
+  "GIA-certified",
+  "estate-buyer",
+  "online-trading"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "Listed site JBE Diamonds: \"one of the largest diamond trading companies in the US. We buy and sell diamonds that are certified by the GIA\"; in the business \"since 1975\" in the Diamond District.",
+ "verified": true
 }
