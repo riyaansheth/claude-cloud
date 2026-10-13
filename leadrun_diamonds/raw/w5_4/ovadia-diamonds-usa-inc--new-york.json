@@ -18,14 +18,22 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "2123198840"
+ ],
+ "tel_source": "https://www.ovadiadiamonds.com/contact-us",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Suite #822",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1998",
+  "wholesaler",
+  "gia-certified",
+  "custom-jewelry"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "ovadiadiamonds.com: 'specializing in the wholesale and retail of sustainably sourced diamonds' since 1998; 'Wholesale and Retail Sales of high-quality, GIA-certified diamonds'",
+ "verified": true
 }

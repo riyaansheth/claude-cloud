@@ -24,8 +24,15 @@
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "cutter",
+  "rough-to-polished",
+  "certified-diamonds",
+  "family-owned",
+  "sells-direct-online"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "unverified: listed website belongs to a different business \u2014 diamondcutters.com (Diamond Cutters Inc.): 'family owned business that brings over thirty years of expertise to the art of hand-selecting, cutting and polishing rough diamonds... our own polishing facilities'; site does not mention the Katzoff name and its NYC number (212.869.0476) differs from the YP number",
+ "verified": false
 }

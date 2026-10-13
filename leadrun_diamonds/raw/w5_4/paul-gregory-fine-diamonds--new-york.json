@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: site unreachable (YP website 580fifth.com is the 580 Fifth Ave building (World Diamond Tower) site, not the business's own site)",
+ "verified": false
 }

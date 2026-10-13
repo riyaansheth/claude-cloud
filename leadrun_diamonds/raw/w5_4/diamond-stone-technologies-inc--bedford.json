@@ -25,7 +25,8 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "diamondstonetechnologies.com: 'one of the industry's leading manufacturers of diamond segmented tooling for all types of natural stone' (industrial saw belts/blades), not gem diamonds",
+ "verified": true
 }

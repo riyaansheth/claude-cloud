@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: site unreachable (hansadiamonds.com: 503 upstream connect timeout over http, connection reset over https)",
+ "verified": false
 }

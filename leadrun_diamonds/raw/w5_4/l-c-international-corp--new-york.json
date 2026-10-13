@@ -18,14 +18,30 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "800.223.0248",
+  "1-212-688-1198"
+ ],
+ "tel_source": "http://lcidiamonds.com/about-us/",
  "socials": [],
  "building": "",
- "suite": "Ste 1009",
- "trade_memberships": [],
- "hooks": [],
+ "suite": "Suite 1309",
+ "trade_memberships": [
+  "DDC",
+  "World Federation of Diamond Bourses",
+  "DMIA",
+  "GIA Gem Trade Laboratory"
+ ],
+ "hooks": [
+  "since-1910",
+  "cutter",
+  "wholesaler",
+  "large-stones",
+  "gia",
+  "ags"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "lcidiamonds.com/about-us: 'in the diamond business since 1910 and has been one of the nation's leading diamond wholesalers and cutters since 1939'; diamonds 0.50 ct and up graded by GIA, AGS & EGL",
+ "verified": true
 }
