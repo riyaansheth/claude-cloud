@@ -66,10 +66,22 @@ class UF:
 def load(con):
     rows = con.execute("SELECT listing_key, data, status, drop_reason, drop_stage, found_at FROM listings "
                        "ORDER BY listing_key").fetchall()
+    crawl = {}
+    if con.execute("SELECT 1 FROM sqlite_master WHERE name='crawl'").fetchone():
+        for key, emails, tels, socials in con.execute(
+                "SELECT listing_key, emails, tels, socials FROM crawl WHERE status='ok'"):
+            crawl[key] = (json.loads(emails), json.loads(tels), json.loads(socials))
     keep, dropped, invalid = [], [], []
     for key, data, status, reason, stage, found_at in rows:
         rec = json.loads(data)
         rec["_key"], rec["_found_at"] = key, found_at
+        # site-crawl results (scripts/crawl.py): harvested from the business's own pages only
+        c_emails, c_tels, c_socials = crawl.get(key, ({}, [], []))
+        rec["_own_tels"] = c_tels
+        rec["socials"] = as_list(rec.get("socials")) + c_socials
+        if classify_email(rec.get("email", ""))[1] != "ok" and c_emails:
+            best = sorted(c_emails, key=lambda e: (is_role_email(e), e))[0]
+            rec["email"], rec["email_source"] = best, c_emails[best]
         if status == "keep":
             # kill-list gate #2 (builder) — catches anything that slipped past discovery
             r2 = kill_reason(rec.get("business", ""), rec.get("category_as_listed", ""))
@@ -144,7 +156,13 @@ def completeness(r):
             + len(as_list(r.get("tel_numbers"))) * 0.1 + len(as_list(r.get("trade_memberships"))) * 0.1)
 
 
-def own_source(url, website, socials):
+def own_source(src, website, socials):
+    """True only if EVERY URL cited as the tel source is the business's own site or a social page."""
+    urls = re.findall(r"https?://[^\s,;()]+", src or "")
+    return bool(urls) and all(_own_host(u, website) for u in urls)
+
+
+def _own_host(url, website):
     h = host_of(url)
     if not h:
         return False
@@ -180,6 +198,7 @@ def merge_cluster(cluster, shared_phone):
         socials += rs
         if own_source(r.get("tel_source", ""), r.get("website", "") or base.get("website", ""), rs):
             tels += as_list(r.get("tel_numbers"))
+        tels += r.get("_own_tels", [])
         mems += as_list(r.get("trade_memberships"))
         hooks += [h.lower() for h in as_list(r.get("hooks"))]
     base["_tels"], base["_socials"] = tels, list(dict.fromkeys(socials))
