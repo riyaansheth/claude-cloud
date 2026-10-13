@@ -11,21 +11,32 @@
  "reviews": "38",
  "source_url": "https://www.yellowpages.com/framingham-ma/mip/sheldon-jewelers-5458788",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sheldonjewelers@gmail.com",
+ "email_source": "https://www.sheldonjewelers.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Sheldon Smith",
+ "role": "Founder (est. 1985)",
+ "contact_source": "https://www.sheldonjewelers.com/",
+ "tel_numbers": [
+  "15086201976"
+ ],
+ "tel_source": "https://www.sheldonjewelers.com/",
+ "socials": [
+  "https://www.facebook.com/SheldonJewelers",
+  "https://www.tiktok.com/@officialsheldonjewelers"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Buyers, Jewelers"
+ "hooks": [
+  "since-1985",
+  "family-owned",
+  "estate",
+  "custom-design"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Site headline \"Gold, Diamond and Estate Jewelry Buyer in Framingham, MA\": buys jewelry, flatware, coins and large diamonds from the public and resells pre-owned/branded pieces, plus custom design; no wholesale or loose-diamond trade.",
+ "verified": true
 }

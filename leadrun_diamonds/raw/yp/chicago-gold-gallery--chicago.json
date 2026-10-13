@@ -11,21 +11,27 @@
  "reviews": "6",
  "source_url": "https://www.yellowpages.com/chicago-il/mip/chicago-gold-gallery-455504772",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "chgogoldgallery@aol.com",
+ "email_source": "https://www.chicagogoldgallery.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "7733387787"
+ ],
+ "tel_source": "https://www.chicagogoldgallery.com/contact-us/",
+ "socials": [
+  "https://twitter.com/ChiGoldGallery",
+  "https://www.facebook.com/Chicago-Gold-Gallery-336570573035071"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Site: \"Since 1980, our experienced professionals have been purchasing gold, silver, diamonds, coins, watches, guitars, sterling silverware & collectibles\" \u2014 a public gold/valuables buyer.",
+ "verified": true
 }

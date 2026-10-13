@@ -11,21 +11,30 @@
  "reviews": "13",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/orchid-gems-548567930",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "dev@orchidgems.com",
+ "email_source": "https://orchidgems.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "1 (909) 569-7624"
+ ],
+ "tel_source": "https://orchidgems.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale",
+  "loose-diamonds",
+  "lab-grown",
+  "made-to-order",
+  "bridal"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Site: \"Located in Los Angeles, Orchid Gems is dedicated to supporting retailers with a reliable supply of high-quality diamonds and jewelry\"; Los Angeles Wholesale Office, loose diamonds & gemstones, made-to-order and lab-grown lines, private viewings for wholesale needs.",
+ "verified": true
 }

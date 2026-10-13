@@ -11,21 +11,38 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/poli-trading-co-542085589",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@politradingco.com",
+ "email_source": "https://politradingco.com/pages/connect",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "213.689.8443"
+ ],
+ "tel_source": "https://politradingco.com/pages/connect",
+ "socials": [
+  "https://www.instagram.com/politradingco"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "AGTA GemFair exhibitor",
+  "GemGeneve exhibitor"
+ ],
+ "hooks": [
+  "wholesale",
+  "loose-diamonds",
+  "antique-cuts",
+  "fancy-color",
+  "parcels",
+  "memo",
+  "cutting",
+  "trade-only-accounts"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site: Poli Trading Company offers \"the traditional buy/sell/trade business that one could expect from a diamond wholesaler\" - white, fancy, antique/reclaimed diamonds and parcels for jewelry designers, memo for qualified accounts, cutting and sourcing; by appointment at 550 S. Hill St #1649; exhibits at AGTA GemFair and GemGeneve.",
+ "verified": true
 }

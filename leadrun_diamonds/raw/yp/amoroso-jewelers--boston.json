@@ -11,21 +11,34 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/boston-ma/mip/amoroso-jewelers-495407421",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@amorosojewelers.com",
+ "email_source": "https://www.amorosojewelers.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "John Amoroso",
+ "role": "GIA graduate (family-owned business)",
+ "contact_source": "https://www.amorosojewelers.com/about-us",
+ "tel_numbers": [
+  "617-742-9900"
+ ],
+ "tel_source": "https://www.amorosojewelers.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/AmorosoJewelers.Co/",
+  "https://www.instagram.com/amorosojewelers/"
+ ],
  "building": "",
  "suite": "Ste 305",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "family-owned",
+  "70-years",
+  "gia-graduates",
+  "custom-design",
+  "manufacturer",
+  "jewelers-building"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "Family-owned GIA-gemologist jeweler in Boston's Jewelers Building that says it creates its own pieces with local and overseas craftsmen \"rather than buy them finished from a manufacturer\"; custom designs, engagement rings, diamonds.",
+ "verified": true
 }

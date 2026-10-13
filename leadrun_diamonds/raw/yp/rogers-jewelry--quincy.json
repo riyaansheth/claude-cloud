@@ -11,21 +11,31 @@
  "reviews": "77",
  "source_url": "https://www.yellowpages.com/quincy-ma/mip/rogers-jewelry-12904590",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@rogersjewelry.com",
+ "email_source": "https://rogersjewelry.com/contact/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "617.773.3636"
+ ],
+ "tel_source": "https://rogersjewelry.com/contact/",
+ "socials": [
+  "https://www.facebook.com/rogersjewelryquincycenter",
+  "https://x.com/rogersjewelry01"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
+ "trade_memberships": [
+  "Jewelers of America",
+  "New England Jewelers Association",
+  "GIA Alumni Association"
+ ],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamond Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site calls itself \"a full-service jewelry store\" serving Quincy since 1944, with estate jewelry, a \"Quincy Pawn Purchase Center\" and \"We Buy Gold\"; no wholesale or trade activity.",
+ "verified": true
 }

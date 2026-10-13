@@ -11,21 +11,35 @@
  "reviews": "32",
  "source_url": "https://www.yellowpages.com/chicago-il/mip/e-m-trading-459616558",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "ami.s@em-trading.com",
+ "email_source": "https://www.em-trading.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "3122511252",
+  "8006570136"
+ ],
+ "tel_source": "https://www.em-trading.com/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1994",
+  "wholesale",
+  "b2b-only",
+  "cutter",
+  "loose-diamonds",
+  "lab-grown",
+  "natural",
+  "memo",
+  "we-buy-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Site: E.M. Trading (\"diamond Cutters\", 29 E Madison #1308) opened in 1994 and is \"a trusted wholesale diamond partner serving independent jewelry stores nationwide\", working \"exclusively B2B\" with offices in the US, India and Israel; retailer memo program.",
+ "verified": true
 }
