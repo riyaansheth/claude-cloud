@@ -18,14 +18,28 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(212) 302 0002"
+ ],
+ "tel_source": "https://www.lilijewelry.com/info/contact/",
+ "socials": [
+  "https://www.facebook.com/lili.jewelry",
+  "https://www.instagram.com/lilijewelry",
+  "https://twitter.com/JewelryLili",
+  "https://www.pinterest.com/lilijewelry1277",
+  "https://www.youtube.com/user/lilidiamondsil"
+ ],
  "building": "",
- "suite": "",
+ "suite": "suite 2500",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "Lili Diamonds est. 1980",
+  "patented cuts: Lily, Orchidea, Crisscut, Meteor",
+  "2007 contract with Louis Vuitton group",
+  "offices NY, Tel Aviv (Ramat Gan), Hong Kong"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Listed site is Lili Jewelry, \"a leading brand of Lili Diamonds (est 1980)\", a diamond manufacturer of patented cuts (Lily, Orchidea, Crisscut, Meteor) that \"has individual agreements with the leading luxury companies for supplying them exclusive signature diamonds\"; NY office at 580 Fifth Avenue suite 2500.",
+ "verified": true
 }

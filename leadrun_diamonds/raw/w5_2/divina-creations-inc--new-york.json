@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Designers"
+ "scope_reason": "unverified: site unreachable (listed site kriova.com is an unactivated \"Time to Upgrade!\" site-builder placeholder)",
+ "verified": false
 }

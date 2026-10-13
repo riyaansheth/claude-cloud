@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds-Industrial"
+ "scope_reason": "unverified: site unreachable (redirects to janelinc.com which returns a Cloudflare 403 challenge)",
+ "verified": false
 }

@@ -18,14 +18,23 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "205-995-7990"
+ ],
+ "tel_source": "https://isbelljewelers.com/contact/",
+ "socials": [
+  "https://www.facebook.com/IsbellJewelers/",
+  "https://www.instagram.com/isbell_jewelers/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers"
+ "hooks": [
+  "custom design",
+  "estate/vintage/antique"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Retail showroom: \"Birmingham's Leader in Custom Jewelry Designs. Fine. Custom. Estate. Vintage. Antique.\" plus \"We Buy Gold\"; no wholesale or loose-diamond trade mentioned.",
+ "verified": true
 }

@@ -18,14 +18,24 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "212-343-1917"
+ ],
+ "tel_source": "https://johnparadisojewelry.com/contact",
+ "socials": [
+  "http://instagram.com/johnparadisojewelry",
+  "https://www.pinterest.com/jp86b/"
+ ],
  "building": "",
- "suite": "",
+ "suite": "LL Suite 2A",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "by appointment only",
+  "pieces for celebrities and sports players",
+  "74 Bowery"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Bridal Supplies-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "By-appointment \"Diamond Engagement Ring Specialist\" where \"every piece is designed and handcrafted specifically for each client\" (custom bridal maker; site does not detail loose-stone sourcing).",
+ "verified": true
 }
