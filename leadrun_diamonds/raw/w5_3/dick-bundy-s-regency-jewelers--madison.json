@@ -11,21 +11,29 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/madison-tn/mip/dick-bundys-regency-jewelers-8958932",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "john@dbrj.com",
+ "email_source": "http://www.dbrj.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "615-859-5268"
+ ],
+ "tel_source": "http://www.dbrj.com/",
  "socials": [],
  "building": "",
  "suite": "Ste 272",
- "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "trade_memberships": [
+  "AGS"
+ ],
+ "hooks": [
+  "family-owned",
+  "gia-graduate"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site: retail store 'providing a large selection of diamond and colored gemstone jewelry' plus custom design, jewelry and watch repair, appraisals and engraving; AGS member, family owned 48 years - no loose-diamond, wholesale or trade offering.",
+ "verified": true
 }

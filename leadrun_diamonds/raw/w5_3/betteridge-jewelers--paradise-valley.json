@@ -13,19 +13,29 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_url": "https://www.linkedin.com/in/peter-betteridge-06baba41/",
+ "linkedin_source": "WebSearch extended: \"Peter Betteridge\" Betteridge Jewelers Scottsdale LinkedIn (result title \"Peter Betteridge - BETTERIDGE JEWELERS\")",
+ "contact_person": "Peter Betteridge",
+ "role": "Founder",
+ "contact_source": "https://betteridgejewelers.com/history",
+ "tel_numbers": [
+  "480.948.0777"
+ ],
+ "tel_source": "https://betteridgejewelers.com/",
+ "socials": [
+  "https://www.facebook.com/Betteridge-Jewelers-169499063147726/"
+ ],
  "building": "",
  "suite": "Ste 102",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers"
+ "hooks": [
+  "since-1897",
+  "5th-generation",
+  "estate",
+  "watches"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site: Scottsdale fine/estate jewelry store ('Fifth Generation Jewelers', bridal, estate, pre-owned watches, repair, 'Sell to Us' for jewelry, watches, gold and silver) - retail of finished pieces, no loose-diamond or trade offering.",
+ "verified": true
 }

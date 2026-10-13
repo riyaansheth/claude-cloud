@@ -11,21 +11,24 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/scottsdale-az/mip/titan-diamond-usa-577232294",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "monty@titandiamond.net",
+ "email_source": "https://titandiamondbladesusa.com/about-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "480-459-8570"
+ ],
+ "tel_source": "https://titandiamondbladesusa.com/about-us/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Own site: 'Titan Diamond blades USA ... the best source for all of our client's diamond tool needs' - diamond saw blades, core bits and grinding tools for construction, not gem-diamond trade.",
+ "verified": true
 }

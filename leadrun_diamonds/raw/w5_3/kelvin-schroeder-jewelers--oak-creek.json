@@ -20,12 +20,21 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/Kelvin-Schroeder-Jewelers-of-Oak-Creek-346726485435191/?fref=ts"
+ ],
  "building": "",
  "suite": "Ste 300",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1937",
+  "3rd-generation",
+  "natural",
+  "gia-certified",
+  "loose-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Watch Repair"
+ "scope_reason": "Borderline: family retail jeweler 'since 1937', third generation, that says 'We specialize in ideal cut, top-quality GIA certified diamonds in all shapes and sizes' and promotes 'SPECTACULAR LOOSE DIAMONDS', guaranteeing GIA grading 'on ALL loose diamonds we sell' (finished jewelry is bought from designers/manufacturers).",
+ "verified": true
 }

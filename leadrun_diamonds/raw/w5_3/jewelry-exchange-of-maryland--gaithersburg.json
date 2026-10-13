@@ -18,14 +18,25 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "410-703-4809"
+ ],
+ "tel_source": "https://jewelry-exchange.com/pages/about-us",
+ "socials": [
+  "https://www.facebook.com/JewelryExchangeOfMaryland",
+  "https://www.instagram.com/jewelryexchangeofmd/"
+ ],
  "building": "",
  "suite": "Ste 103",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "43-years",
+  "estate",
+  "diamond-buyer",
+  "by-appointment"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Buyers, Diamond Buyers"
+ "scope_reason": "Borderline: About page: 'For 43 years in Gaithersburg, The Jewelry Exchange of Maryland has specialized in buying and selling Diamonds and estate jewelry as well as all phases of custom design'; Gaithersburg store now closed, sales online and by appointment in Annapolis (estate diamond buyer/seller).",
+ "verified": true
 }

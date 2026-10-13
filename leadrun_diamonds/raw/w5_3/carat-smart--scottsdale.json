@@ -15,17 +15,29 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Ilan Wexsler",
+ "role": "Managing Member",
+ "contact_source": "https://www.bbb.org/us/az/scottsdale/profile/diamond/carat-smart-usa-1126-1000038427",
+ "tel_numbers": [
+  "866.365.3935",
+  "480.945.1232"
+ ],
+ "tel_source": "https://www.caratsmartdiamonds.com/",
  "socials": [],
  "building": "",
  "suite": "Ste 1050",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale",
+  "memo",
+  "melee",
+  "israel-affiliate",
+  "branded-cut",
+  "35-years",
+  "diamond-buyer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Diamonds, Diamonds-Wholesale"
+ "scope_reason": "Own site: diamond wholesaler ('We are not the largest diamond wholesale company ... work with only the number of retail customers we can handle so that ... customer gets goods on memo'), 'more than 35 years' experience', HQ Scottsdale with affiliates in Israel, password-protected trade site, calibrated melee, branded Smart Cut diamonds, buys excess diamond inventory. Owner name/title from BBB (third-party directory, read via WebSearch result; BBB page itself returned 403).",
+ "verified": true
 }
