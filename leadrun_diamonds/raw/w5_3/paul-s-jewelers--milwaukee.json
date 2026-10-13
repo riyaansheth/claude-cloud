@@ -11,8 +11,8 @@
  "reviews": "3",
  "source_url": "https://www.yellowpages.com/milwaukee-wi/mip/pauls-jewelers-462093022",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@paulsjewelers.com",
+ "email_source": "https://www.paulsjewelers.com/pages/contact-us",
  "linkedin_url": "https://www.linkedin.com/in/mprejbeanu/",
  "linkedin_source": "WebSearch extended: \"Mircea Prejbeanu\" jewelry LinkedIn (result tied profile to Paul's Jewelers; About page names him Mircea \"Mitch\" Prejbeanu)",
  "contact_person": "Mitch Prejbeanu",
@@ -21,11 +21,12 @@
  "tel_numbers": [
   "+14143215764"
  ],
- "tel_source": "https://www.paulsjewelers.com/",
+ "tel_source": "https://www.paulsjewelers.com/pages/contact-us",
  "socials": [
   "https://www.facebook.com/paulsjewelers",
   "https://www.instagram.com/paulsjewelersmke/?hl=en",
-  "https://ca.pinterest.com/paulsjewelers/"
+  "https://ca.pinterest.com/paulsjewelers/",
+  "https://www.instagram.com/paulsjewelersmke/"
  ],
  "building": "",
  "suite": "",
@@ -40,5 +41,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Borderline: Milwaukee custom-design/repair jeweler 'Serving Milwaukee Since 1967' whose owner Mitch Prejbeanu runs a 40-year-old jewelry manufacturing company and describes Paul's as 'a nationally known, state-of-the-art retail/manufacturing facility' with 8 goldsmiths, 2 GGs and CAD; sells lab-grown diamonds and buys gold.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

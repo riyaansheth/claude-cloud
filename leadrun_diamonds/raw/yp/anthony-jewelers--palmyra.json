@@ -15,16 +15,18 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "Nick",
- "role": "Manager (store operations)",
- "contact_source": "https://www.anthonyjewelers.com/pages/ourstore",
+ "contact_person": "Anthony Fratto Jr",
+ "role": "Principal",
+ "contact_source": "https://www.bbb.org/us/nj/palmyra/profile/jewelry-stores/anthony-jewelers-0221-80002003/details",
  "tel_numbers": [
   "(856) 829-2206"
  ],
- "tel_source": "https://www.anthonyjewelers.com/pages/ourstore",
+ "tel_source": "https://www.anthonyjewelers.com/contact",
  "socials": [
   "https://www.facebook.com/anthonyjewelerspalmyra",
-  "https://www.instagram.com/anthonyjewelerspalmyra"
+  "https://www.instagram.com/anthonyjewelerspalmyra",
+  "https://www.facebook.com/anthonyjewelerspalmyra/",
+  "https://www.instagram.com/anthonyjewelerspalmyra/"
  ],
  "building": "",
  "suite": "",
@@ -42,5 +44,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site: 3rd-generation family jeweler since 1953 \"specializing in Engagement Rings, Loose Diamonds, Custom Design\"; made buying trips to Antwerp and \"established our important relationships with some of the world's leading diamontaires\" (bridal specialist sourcing its own stones; also does repairs).",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

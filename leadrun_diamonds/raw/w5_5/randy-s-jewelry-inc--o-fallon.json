@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Randy Hudson",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/mo/o-fallon/profile/jewelry-stores/randys-jewelers-0734-110143143/details",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (listed website is a YouTube video link, no own site)",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

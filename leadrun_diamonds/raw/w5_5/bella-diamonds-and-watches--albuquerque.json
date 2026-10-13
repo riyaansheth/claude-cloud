@@ -15,12 +15,14 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Tess Conti",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/nm/albuquerque/profile/jewelry-stores/bella-diamond-watches-inc-0806-99131831/details",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://facebook.com/belladiamondsandwatches"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
@@ -28,5 +30,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (domain now serves an Indonesian gambling page)",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Alan E. Lunder",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/ma/woburn/profile/wholesale-shoes/black-diamond-group-inc-0021-388132/details",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: listed website belongs to an unrelated business (fire-boot store)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Listing phone (781) 939-7800 matches BBB \"Black Diamond Group, Inc.\" (Woburn, category Wholesale Shoes, President Alan E. Lunder) and listed site bdboots.com sells Black Diamond fire boots/tactical gear - not diamonds",
+ "verified": false,
+ "enriched": true
 }
