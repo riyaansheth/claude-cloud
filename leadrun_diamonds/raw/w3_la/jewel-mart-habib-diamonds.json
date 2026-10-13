@@ -29,6 +29,7 @@
  ],
  "hooks": [],
  "is_diamond_trade": true,
- "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Jewelry (Gem Trade); secondary: Diamonds, Gemstones",
- "drop_reason": ""
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Jewelry (Gem Trade); secondary: Diamonds, Gemstones | enrich-0: diamondsbuyer.net connection reset; DCWC directory entry has no contact name; OpenCorporates IL 'MAS GOLD, INC.' used alias JEWEL MART until 2023 (dissolved) - not confirmed as this listing; no owner found",
+ "drop_reason": "",
+ "enriched": true
 }

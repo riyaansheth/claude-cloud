@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable (DNS does not resolve)",
- "verified": false
+ "scope_reason": "unverified: site unreachable (DNS does not resolve) | enrich-0: own site DNS/tunnel failure; no BBB match; OpenCorporates shows only an inactive FL entity 'LE ROQUE DESIGNS BY MICHELLE M INC.' (P15000002097, officers hidden) - not confirmed as this listing; WebSearch found no owner",
+ "verified": false,
+ "enriched": true
 }

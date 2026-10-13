@@ -42,5 +42,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "About page: \"Bella International, our wholesale diamond division\" has served the retail trade since 2000; inventory of \"thousands of GIA and EGL-certified as well as non-certified diamonds\" plus custom design and manufacturing.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

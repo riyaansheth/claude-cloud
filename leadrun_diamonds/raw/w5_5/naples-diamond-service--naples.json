@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable (naplesdiamond.com now redirects to polgari.jewelershowcase.com, an unrelated jeweler with a (631) number)",
- "verified": false
+ "scope_reason": "unverified: site unreachable (naplesdiamond.com now redirects to polgari.jewelershowcase.com, an unrelated jeweler with a (631) number) | enrich-0: no BBB match, no web mention of 'Naples Diamond Service' or its phone (WebSearch x2)",
+ "verified": false,
+ "enriched": true
 }
