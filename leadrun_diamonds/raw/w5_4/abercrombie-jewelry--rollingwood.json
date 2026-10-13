@@ -11,21 +11,32 @@
  "reviews": "37",
  "source_url": "https://www.yellowpages.com/rollingwood-tx/mip/abercrombie-jewelry-475967930",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "agpmaustin@gmail.com",
+ "email_source": "https://abercrombiejewelry.com/contact/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Ron Rosenberg",
+ "role": "Founder",
+ "contact_source": "https://abercrombiejewelry.com/about/",
+ "tel_numbers": [
+  "512-328-7530"
+ ],
+ "tel_source": "https://abercrombiejewelry.com/contact/",
+ "socials": [
+  "https://www.instagram.com/abercrombiejewelry/",
+  "https://twitter.com/AbercrombieATX",
+  "https://www.pinterest.com/abercrombiejewelry/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Buyers"
+ "hooks": [
+  "since-1989",
+  "estate",
+  "2nd-generation"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site: \"Austin's Trusted Estate, Vintage & Antique Jewelry Store ... full range of jewelry repairs, purchase jewelry and diamonds\" - consumer estate/vintage retail store and gold/coin/watch buyer, not diamond trade.",
+ "verified": true
 }

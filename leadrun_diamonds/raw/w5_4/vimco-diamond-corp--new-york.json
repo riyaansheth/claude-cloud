@@ -11,21 +11,32 @@
  "reviews": "29",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/vimco-diamond-corp-458617426",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@vimcodiamond.com",
+ "email_source": "https://vimcodiamond.com/pages/contact",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "WebSearch extended: \"Anu Hirawat\" Vimco Diamond LinkedIn - only /company/ page, no personal profile URL",
+ "contact_person": "Anu Hirawat",
+ "role": "President",
+ "contact_source": "https://vimcodiamond.com/blogs/news",
+ "tel_numbers": [
+  "(212) 302-7188"
+ ],
+ "tel_source": "https://vimcodiamond.com/pages/contact",
+ "socials": [
+  "https://www.instagram.com/vimcodiamondcorp/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1985",
+  "gia",
+  "loose-diamonds",
+  "wholesale-jewelry",
+  "founder-president"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Site About: established 1985 by a GIA-trained founder; \"Initially, we specialized in selling loose diamonds, but ... quickly propelled us into the world of wholesale jewelry.\"",
+ "verified": true
 }

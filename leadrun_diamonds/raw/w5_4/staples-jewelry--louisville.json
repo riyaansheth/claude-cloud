@@ -11,21 +11,24 @@
  "reviews": "39",
  "source_url": "https://www.yellowpages.com/louisville-ky/mip/staples-jewelry-476114232?lid=1002194000482",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@louisvillebuygold.com",
+ "email_source": "https://www.louisvillebuygold.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(502) 425-2302"
+ ],
+ "tel_source": "https://www.louisvillebuygold.com/",
  "socials": [],
  "building": "",
  "suite": "Ste 103",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Appraisers"
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Site: \"Louisville Buy Gold by Staples Jewelry is the trusted name for gold and precious metal sales ... same-day payments on gold\" - consumer gold/silver/coin buyer.",
+ "verified": true
 }

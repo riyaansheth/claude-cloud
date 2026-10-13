@@ -11,21 +11,34 @@
  "reviews": "33",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/asian-star-co-ltd-503050125",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@asianstargroup.com",
+ "email_source": "https://www.asianstargroup.com/contact-us/",
+ "linkedin_url": "https://www.linkedin.com/in/vipul-shah-1aa31060/",
+ "linkedin_source": "WebSearch extended: \"Vipul Shah\" Asian Star diamonds LinkedIn",
+ "contact_person": "Vipul Shah",
+ "role": "CEO",
+ "contact_source": "https://www.asianstargroup.com/about-us/",
+ "tel_numbers": [
+  "+12123540666"
+ ],
+ "tel_source": "https://www.asianstargroup.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/AsianStarCompanyLimited",
+  "https://www.instagram.com/theasianstargroup/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1971",
+  "manufacturer",
+  "natural",
+  "3rd-generation",
+  "jewelry-manufacturer",
+  "ny-contact-mehul-shroff"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Buyers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Site: \"Certified Natural & Polished Diamond Dealers\" with \"100,000 sq. ft. for diamond cutting & polishing\"; New York office listed for \"Jewellery | Loose Polished\" - diamond manufacturer.",
+ "verified": true
 }

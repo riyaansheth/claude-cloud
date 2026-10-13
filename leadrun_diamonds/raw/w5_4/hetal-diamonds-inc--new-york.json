@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "unverified: listed website belongs to a different business - http://jbediamonds.com is the site of JBE Diamonds Inc (580 5th Ave, 212-221-1095, diamond buyer/trader); no mention of Hetal Diamonds and phone/address differ from the listing. Contacts from that site not attached.",
+ "verified": false
 }
