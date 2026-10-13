@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (diamondsdirect.com returns a Cloudflare 403 challenge on every page)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Diamonds Direct is a 20-30 store chain acquired by Signet Jewelers in 2021 ($490M) per National Jeweler; own site diamondsdirect.com is Cloudflare-blocked.",
+ "verified": false,
+ "enriched": true
 }

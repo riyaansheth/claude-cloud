@@ -11,13 +11,13 @@
  "reviews": "3",
  "source_url": "https://www.yellowpages.com/gaithersburg-md/mip/daviko-gems-7140003",
  "lead_origin": "YellowPages",
- "email": "info@kentlandsjewelers.com",
- "email_source": "https://kentlandsjewelers.com/diamond-importer/",
+ "email": "dwachnish@gmail.com",
+ "email_source": "https://kentlandsjewelers.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "David",
- "role": "Owner",
- "contact_source": "https://kentlandsjewelers.com/",
+ "contact_person": "David Wachnish",
+ "role": "President",
+ "contact_source": "https://www.manta.com/d/mmnsxmn/kentlands-jewelers (Manta: President David Wachnish; own site https://kentlandsjewelers.com/about-us/ names \"David, Owner\", GIA diamond grading)",
  "tel_numbers": [
   "301.975.0705"
  ],
@@ -36,5 +36,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Website is Kentlands Jewelers (listing phone 301.975.0705 matches): 'We directly import diamonds, gems and precious stones' and 'We import diamonds directly from Israel', though it is also a retail store doing gold buying and repair; owner previously ran 'a very successful wholesale business selling diamonds ... to most jewelry stores in the Maryland, Virginia, and DC area'.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

@@ -11,8 +11,8 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/honolulu-hi/mip/diamond-specialists-inc-563243059",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "inquiries@TheDiamondSpecialists.com",
+ "email_source": "https://www.thediamondspecialistsinc.com/about-us.html",
  "linkedin_url": "https://www.linkedin.com/in/russell-oshita-1894b027/",
  "linkedin_source": "WebSearch extended: \"Russell Oshita\" \"Diamond Specialists\" LinkedIn (result title: Russell Oshita - Sales - The Diamond Specialists Inc.)",
  "contact_person": "Russell Oshita",
@@ -41,5 +41,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "thediamondspecialistsinc.com ('Loose Diamonds Hawaii'): by-appointment diamond specialist selling strictly graded diamonds 'with GIA and AGS Grading Reports' since 1986, founded with an 'honest wholesaler [who] had connections to cutters around the world'",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Not a jewelry business: diamondapproach.org/group-detail/733 is a \"Diamond Heart\" spiritual-study group of the Diamond Approach / Ridhwan Foundation (Berkeley).",
+ "verified": false,
+ "enriched": true
 }

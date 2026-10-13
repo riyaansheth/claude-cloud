@@ -1,37 +1,40 @@
 {
-  "business": "Seattle Diamonds",
-  "category_as_listed": "Jewelry",
-  "phone": "",
-  "email": "",
-  "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Dave Hall",
-  "role": "Owner",
-  "contact_source": "https://seattlediamonds.com/about",
-  "website": "https://seattlediamonds.com",
-  "address": "900 Lenora St (W-100 Private Entrance)",
-  "city": "Seattle",
-  "state": "WA",
-  "market": "Seattle, WA",
-  "lead_origin": "Web Search",
-  "rating": "",
-  "reviews": "",
-  "source_url": "https://seattlediamonds.com/about",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
-  "building": "",
-  "suite": "W-100",
-  "trade_memberships": [
-    "American Society of Appraisers"
-  ],
-  "hooks": [
-    "since-1985",
-    "master-gemologist-appraiser",
-    "by-appointment"
-  ],
-  "is_diamond_trade": true,
-  "scope_reason": "Private by-appointment diamond jeweler since 1985 led by owner/president Master Gemologist Appraiser Dave Hall; leans retail/custom - borderline",
-  "drop_reason": ""
+ "business": "Seattle Diamonds",
+ "category_as_listed": "Jewelry",
+ "phone": "",
+ "email": "Dave@SeattleDiamonds.com",
+ "email_source": "https://seattlediamonds.com/about-us/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Dave Hall",
+ "role": "Owner",
+ "contact_source": "https://seattlediamonds.com/about",
+ "website": "https://seattlediamonds.com",
+ "address": "900 Lenora St (W-100 Private Entrance)",
+ "city": "Seattle",
+ "state": "WA",
+ "market": "Seattle, WA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://seattlediamonds.com/about",
+ "tel_numbers": [
+  "206.625.0105"
+ ],
+ "tel_source": "https://seattlediamonds.com/contact/",
+ "socials": [],
+ "building": "",
+ "suite": "W-100",
+ "trade_memberships": [
+  "American Society of Appraisers"
+ ],
+ "hooks": [
+  "since-1985",
+  "master-gemologist-appraiser",
+  "by-appointment"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Private by-appointment diamond jeweler since 1985 led by owner/president Master Gemologist Appraiser Dave Hall; leans retail/custom - borderline",
+ "drop_reason": "",
+ "enriched": true
 }
