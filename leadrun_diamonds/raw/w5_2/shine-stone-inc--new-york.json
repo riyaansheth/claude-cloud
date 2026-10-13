@@ -20,12 +20,16 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.instagram.com/atasayjewelry/",
+  "https://www.facebook.com/atasay/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers-Wholesale & Manufacturers"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Listed website is atasay.com (name differs from listing), a Turkish-language consumer e-commerce site of the Atasay jewelry chain selling finished gold and diamond jewelry (phone 0850 800 42 82), with no NY trade presence shown.",
+ "verified": true
 }

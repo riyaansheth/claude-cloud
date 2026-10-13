@@ -11,21 +11,39 @@
  "reviews": "14",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/ishay-ben-david-inc-574373556",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@fancycolordiamond.net",
+ "email_source": "https://fancycolordiamond.net/pages/contact",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Ishay Ben-David\" IBD Fancy Colors LinkedIn",
+ "contact_person": "Ishay Ben-David",
+ "role": "Founder",
+ "contact_source": "https://fancycolordiamond.net/pages/about-us",
+ "tel_numbers": [
+  "212-944-5441",
+  "800-411-0951"
+ ],
+ "tel_source": "https://fancycolordiamond.net/pages/contact",
+ "socials": [
+  "https://www.facebook.com/fancycolordiamond",
+  "https://www.instagram.com/fancycolordiamond",
+  "https://twitter.com/fancycolordiam",
+  "https://www.pinterest.com/fancycolordiamond",
+  "https://www.youtube.com/fancycolordiamond"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "NY DDC (Ishay Ben-David board member, Board of Arbitration)",
+  "WFDB"
+ ],
+ "hooks": [
+  "since 1979",
+  "natural fancy color diamonds",
+  "family: wife Ruthy, son Elan",
+  "trade members program"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "'IBD Fancy Colors was founded by Ishay Ben-David ... a leading source for natural fancy colored diamonds in the industry'; family-owned since 1979 in the World Diamond Tower with a trade-members wholesale account program.",
+ "verified": true
 }

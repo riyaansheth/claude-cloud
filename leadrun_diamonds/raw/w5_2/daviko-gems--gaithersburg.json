@@ -11,21 +11,30 @@
  "reviews": "3",
  "source_url": "https://www.yellowpages.com/gaithersburg-md/mip/daviko-gems-7140003",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@kentlandsjewelers.com",
+ "email_source": "https://kentlandsjewelers.com/diamond-importer/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "David",
+ "role": "Owner",
+ "contact_source": "https://kentlandsjewelers.com/",
+ "tel_numbers": [
+  "301.975.0705"
+ ],
+ "tel_source": "https://kentlandsjewelers.com/",
  "socials": [],
  "building": "",
  "suite": "Ste B",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "diamond importer (direct from Israel)",
+  "owner GIA-trained, former diamond wholesaler",
+  "15+ years in Kentlands",
+  "buys estate diamonds",
+  "melee to fancy colors"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Watches"
+ "scope_reason": "Website is Kentlands Jewelers (listing phone 301.975.0705 matches): 'We directly import diamonds, gems and precious stones' and 'We import diamonds directly from Israel', though it is also a retail store doing gold buying and repair; owner previously ran 'a very successful wholesale business selling diamonds ... to most jewelry stores in the Maryland, Virginia, and DC area'.",
+ "verified": true
 }

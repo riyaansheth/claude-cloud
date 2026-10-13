@@ -18,14 +18,20 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(703) 448-0866"
+ ],
+ "tel_source": "https://mayjewelers.com/",
+ "socials": [
+  "https://www.facebook.com/MayJewelers/",
+  "https://www.instagram.com/mayjewelers/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Repairing"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Listed website is May Jewelers (name differs from listing), a family-owned retail store: 'Celebrating our 46th year serving the Washington DC area', selling watches, repair, gold coins & bars and GIA diamonds to consumers.",
+ "verified": true
 }

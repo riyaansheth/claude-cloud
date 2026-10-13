@@ -11,21 +11,36 @@
  "reviews": "29",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/vimco-diamond-corp-458617426",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@vimcodiamond.com",
+ "email_source": "https://vimcodiamond.com/pages/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(212) 302-7188"
+ ],
+ "tel_source": "https://vimcodiamond.com/pages/contact",
+ "socials": [
+  "https://www.instagram.com/vimcodiamondcorp/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "JBT (since 1985)",
+  "IDCA (since 1986)",
+  "RJC (since 2017)",
+  "RJO (since 2025)",
+  "CBG (since 2012)"
+ ],
+ "hooks": [
+  "JBT member since 1985",
+  "sells via buying groups RJO/CBG",
+  "trade shows"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Vimco Diamond Corp shows diamond jewelry collections plus trade badges 'JBT Member Since 1985', 'IDCA Member Since 1986', 'RJO Member Since 2025', 'CBG Member Since 2012' and trade-show appointments - a diamond jewelry supplier to retailers (no About text on site).",
+ "verified": true
 }
