@@ -14,18 +14,25 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Moti Ferder\" Lugano Diamonds LinkedIn (not recorded: he has left the company; lead dropped)",
+ "contact_person": "Moti Ferder",
+ "role": "Founder",
+ "contact_source": "https://luganodiamonds.com/our-story",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/luganodiamonds",
+  "https://www.instagram.com/luganodiamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "hooks": [
+  "founded 2004",
+  "news (JCK/National Jeweler) reports co-founder/CEO Moti Ferder left amid an internal investigation"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Site's Our Story calls Lugano 'a premiere retail business for diamonds and jewelry' with boutiques in Aspen, Miami, Newport Beach and Ocala: multi-boutique luxury retailer.",
+ "verified": true
 }

@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "unverified: no own website (listing URL is a directory/third-party/placeholder page) (listed site is a Facebook page)",
+ "verified": false
 }

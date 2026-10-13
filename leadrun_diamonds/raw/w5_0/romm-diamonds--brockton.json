@@ -14,18 +14,27 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"George Hannoush\" Romm Diamonds LinkedIn (two profiles tied to Hannoush Jewelers, none to Romm; not recorded)",
+ "contact_person": "George Hannoush",
+ "role": "Owner",
+ "contact_source": "https://www.rommdiamonds.com/about",
+ "tel_numbers": [
+  "(508) 587-2533"
+ ],
+ "tel_source": "https://www.rommdiamonds.com/contact",
+ "socials": [
+  "https://facebook.com/rommdiamondsbrockton",
+  "https://instagram.com/rommdiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Diamond Buyers"
+ "hooks": [
+  "founded 1900",
+  "new ownership (Hannoush family)"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site presents Romm as 'Brockton's Home for Fine Jewelry' selling designer brands (Gabriel & Co, ArtCarved, Stuller), watches, repair and gold buying: a family retail jeweler.",
+ "verified": true
 }

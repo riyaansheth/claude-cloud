@@ -11,21 +11,30 @@
  "reviews": "36",
  "source_url": "https://www.yellowpages.com/henrico-va/mip/adolf-jewelers-14032722",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "hello@havelustre.com",
+ "email_source": "https://www.havelustre.com/pages/contact",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Robin Adolf Salzberg\" Lustre Fine Jewelry LinkedIn (no linkedin.com/in/ result)",
+ "contact_person": "Robin Adolf Salzberg",
+ "role": "Founder",
+ "contact_source": "https://www.havelustre.com/pages/about-lustre",
+ "tel_numbers": [
+  "804-285-3671"
+ ],
+ "tel_source": "https://www.havelustre.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/havelustre/",
+  "https://www.instagram.com/havelustre/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelry Repairing, Diamonds-Wholesale"
+ "hooks": [
+  "successor to Adolf Jewelers (50+ years)",
+  "co-founders Robin Adolf Salzberg and Daniel Wright"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "adolfjewelers.com redirects to Lustre Fine Jewelry ('your trusted, local, jewelry store in Richmond, VA') selling designer, gold, gemstone and estate jewelry plus repairs: retail-only.",
+ "verified": true
 }

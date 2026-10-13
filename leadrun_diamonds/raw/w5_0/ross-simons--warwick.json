@@ -20,12 +20,17 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/Ross.Simons.Jewelry",
+  "https://www.instagram.com/rosssimons/",
+  "https://www.youtube.com/user/RossSimonsJewelry"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Gift Shops, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "ross-simons.com is a national jewelry e-tail/catalog chain ('Fine Jewelry. Fabulous Prices.') selling finished jewelry incl. CZ and simulated gemstones.",
+ "verified": true
 }

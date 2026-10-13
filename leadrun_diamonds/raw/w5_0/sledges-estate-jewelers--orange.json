@@ -14,18 +14,27 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Chuck Sledge\" Sledge's Estate Jewelry LinkedIn (no linkedin.com/in/ result)",
+ "contact_person": "Chuck Sledge",
+ "role": "Owner",
+ "contact_source": "https://sledgejewelry.com/about-us/",
+ "tel_numbers": [
+  "(714) 639-7636"
+ ],
+ "tel_source": "https://sledgejewelry.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/pages/Sledges-Estate-Jewlery/150003045206700"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "family owned since 1945",
+  "estate diamond buyer",
+  "owner Chuck Sledge 40 years at store"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Antiques"
+ "scope_reason": "Site says the store 'specialize[s] in antiques and estate engagement rings, diamonds, and jewelry. From estates, we acquire some of the finest diamonds from the 40's, 50's, and 60's' (estate-diamond buyer; also retail/repair).",
+ "verified": true
 }

@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Watches"
+ "scope_reason": "unverified: no own website (listing URL is a directory/third-party/placeholder page) (dallasmarketcenter.com exhibitor directory)",
+ "verified": false
 }

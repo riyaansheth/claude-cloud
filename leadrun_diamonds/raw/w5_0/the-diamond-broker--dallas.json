@@ -14,18 +14,31 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Seymour Wolchuck\" The Diamond Broker LinkedIn (no confirmed linkedin.com/in/ result for him)",
+ "contact_person": "Seymour Wolchuck",
+ "role": "Founder",
+ "contact_source": "https://gooddiamond.co/about/",
+ "tel_numbers": [
+  "972-490-6060"
+ ],
+ "tel_source": "https://gooddiamond.co/contact/",
+ "socials": [
+  "https://www.facebook.com/DallasDiamondBroker/",
+  "https://www.instagram.com/thediamondbroker/"
+ ],
  "building": "",
  "suite": "Ste 120",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "over 30 years in business",
+  "rebranded from The Diamond Broker to Good Diamond Co.",
+  "loose diamonds at broker-direct prices",
+  "buys diamonds",
+  "appointment only",
+  "current partner 'Ray' (surname not shown)"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Gold, Silver & Platinum Buyers & Dealers, Jewelers"
+ "scope_reason": "Site (now Good Diamond Co.) says it was 'one of the first diamond stores in the Dallas Fort Worth Metroplex to sell diamond engagement rings and loose diamonds to the public at broker-direct wholesale prices' and also buys diamonds ('Sell a Diamond').",
+ "verified": true
 }
