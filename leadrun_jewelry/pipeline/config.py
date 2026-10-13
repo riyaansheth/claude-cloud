@@ -12,6 +12,7 @@ CACHE_DIR = ROOT / "cache"                             # raw HTML/JSON cache
 AGENT_DIR = ROOT / "agent_queue"                       # narrow-end subagent work
 LOG_DIR = ROOT / "logs"
 QUALIFIED_CSV = ROOT / "jewelry_qualified.csv"
+QUALIFIED_XLSX = ROOT / "jewelry_qualified.xlsx"
 ALL_CSV = ROOT / "jewelry_all.csv"
 REPORT_MD = ROOT / "REPORT.md"
 

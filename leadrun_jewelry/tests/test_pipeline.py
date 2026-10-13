@@ -22,6 +22,7 @@ def tmpdb(monkeypatch):
     monkeypatch.setattr(config, "ALL_CSV", WORK / "all.csv")
     monkeypatch.setattr(config, "QUALIFIED_CSV", WORK / "q.csv")
     monkeypatch.setattr(config, "REPORT_MD", WORK / "REPORT.md")
+    monkeypatch.setattr(config, "QUALIFIED_XLSX", WORK / "q.xlsx")
     db._local.__dict__.clear()
     yield db.connect()
     db._local.__dict__.clear()
@@ -274,6 +275,9 @@ def test_builder_end_to_end(tmpdb):
     assert "role-email" in b["Signals"] and b["Signals"].startswith("1 of 3")
     assert b["Segment"] == "Custom / bespoke jeweler"
     assert [r["Business"] for r in q] == ["Hartwell Jewelers"]
+    from openpyxl import load_workbook
+    ws = load_workbook(config.QUALIFIED_XLSX)["Qualified Leads"]
+    assert [c.value for c in ws[1]] == config.COLUMNS and ws.cell(2, 1).value == "Hartwell Jewelers"
     report = config.REPORT_MD.read_text()
     assert "dropped_out_of_scope" in report and "| pawn |" in report
 

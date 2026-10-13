@@ -439,4 +439,6 @@ def build(log=print):
         f"{pending} awaiting crawl for segment")
     from . import report
     report.write(con, out_all, out_q, len(listings))
+    from . import export_xlsx
+    export_xlsx.write()
     return {"listings": len(listings), "businesses": len(out_all), "qualified": len(out_q)}

@@ -12,7 +12,8 @@ import time
 from . import config
 
 RESULTS_BRANCH = "claude/jewelry-leads-results"
-FILES = [config.ALL_CSV, config.QUALIFIED_CSV, config.REPORT_MD]
+FILES = [config.ALL_CSV, config.QUALIFIED_CSV, config.REPORT_MD,
+         config.QUALIFIED_XLSX]
 TRAILER = ("Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n"
            "Claude-Session: https://claude.ai/code/session_011EVb4KaNaj6AQ86xbNTbBs")
 
