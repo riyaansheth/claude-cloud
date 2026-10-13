@@ -17,7 +17,7 @@
 4. **Push to GitHub was refused (403):** the Claude GitHub App has no access to riyaansheth/claude-cloud.
    Commits exist locally on branch `claude/sweet-cerf-k5mpge` only.
 
-**Consequence: 0 rows clear the 2-of-3 bar.** The pool below is real (every row has a real source URL)
+**Update 11:42 UTC: egress opened mid-run; scripts/crawl.py then crawled the business sites (see crawl table) and 17 rows cleared the 2-of-3 bar.** Earlier, before egress opened, 0 rows cleared it. The pool below is real (every row has a real source URL)
 but it is a discovery list, not a qualified sheet. Nothing was padded or relabelled to raise the count.
 One row (DVG Diamonds) briefly scored 2 of 3 until the builder was tightened: its second number came from
 Yelp, not its own site, so it does not count as a direct line.

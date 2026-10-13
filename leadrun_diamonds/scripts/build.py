@@ -230,6 +230,12 @@ def build_row(b):
     person = " ".join((b.get("contact_person") or "").split())
     li_ok = bool(li) and linkedin_is_personal(li, b.get("business", ""), person)
     cands = mobile_candidates(b["_phone_d"], b["_tels"])
+    phone_from_site = False
+    if not b["_phone_d"] and cands:
+        # no directory-listed main line: the site's first local number IS the main line, not a direct one
+        main = next((d for d in cands if not is_toll_free(d)), cands[0])
+        b["_phone_d"], b["phone"], phone_from_site = main, fmt(main), True
+        cands = [d for d in cands if d != main]
     direct_ok = any(not is_toll_free(d) for d in cands)
     score = email_ok + li_ok + direct_ok
 
@@ -268,6 +274,8 @@ def build_row(b):
         flags.append("placeholder-email")
     if b["_shared_phone"]:
         flags.append("shared-switchboard")
+    if phone_from_site:
+        flags.append("phone-from-site")
     if li and not li_ok:
         flags.append("linkedin-rejected")
     if email_ok and b["_email"].split("@")[1] in FREE_MAIL:
