@@ -1,0 +1,4758 @@
+[
+ {
+  "i": 0,
+  "root": "http://adidiamonds.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='adidiamonds.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HT"
+ },
+ {
+  "i": 1,
+  "root": "http://www.aakashdiamonds.com",
+  "pages": {
+   "https://www.aakashdiamonds.com/password": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Aakash Diamonds"
+   }
+  },
+  "final": "https://www.aakashdiamonds.com/password",
+  "err": ""
+ },
+ {
+  "i": 9,
+  "root": "http://amitdiamonds.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='amitdiamonds.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"H"
+ },
+ {
+  "i": 13,
+  "root": "http://azardesigns.com",
+  "pages": {
+   "https://www.azardesigns.com/": {
+    "mailto": [],
+    "email_text": [
+     "SALES@AZARDESIGNS.COM"
+    ],
+    "tel": [],
+    "phones": [
+     "(213) 627-6670"
+    ],
+    "soc": [
+     "https://twitter.com/azardesigns",
+     "https://www.facebook.com/AzarDesigns",
+     "https://www.instagram.com/azardesigns"
+    ],
+    "titles": [],
+    "title": "HOME | My Site"
+   },
+   "https://www.azardesigns.com/contact": {
+    "mailto": [
+     "info@mysite.com"
+    ],
+    "email_text": [
+     "SALES@AZARDESIGNS.COM",
+     "info@mysite.com"
+    ],
+    "tel": [],
+    "phones": [
+     "(213) 627-6670",
+     "213-627-6670"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "CONTACT  | My Site"
+   },
+   "https://www.azardesigns.com/our-story": {
+    "mailto": [],
+    "email_text": [
+     "SALES@AZARDESIGNS.COM"
+    ],
+    "tel": [],
+    "phones": [
+     "(213) 627-6670"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "OUR STORY | My Site"
+   }
+  },
+  "final": "https://www.azardesigns.com/",
+  "err": ""
+ },
+ {
+  "i": 15,
+  "root": "http://www.bagginsjewelry.com",
+  "pages": {
+   "https://bagginspearls.com": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/BagginsPearls",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/bagginsjewelry"
+    ],
+    "titles": [],
+    "title": "Baggins Pearls"
+   },
+   "https://bagginspearls.com/about-us/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/BagginsPearls",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/bagginsjewelry"
+    ],
+    "titles": [
+     "Anil Maloo President Sign up for our newsletter Baggins Pearls Events Pearl Guide Customer Service Book Sitemap Pearl Types Pearl Jewelry Sh"
+    ],
+    "title": "About Us"
+   },
+   "https://bagginspearls.com/contact/": {
+    "mailto": [
+     "contact@bagginspearls.com"
+    ],
+    "email_text": [
+     "contact@bagginsjewelry.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213.624.2277",
+     "213.624.2278"
+    ],
+    "soc": [
+     "https://www.facebook.com/BagginsPearls",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/bagginsjewelry"
+    ],
+    "titles": [],
+    "title": "Contact Us"
+   }
+  },
+  "final": "https://bagginspearls.com",
+  "err": ""
+ },
+ {
+  "i": 16,
+  "root": "http://www.baliandesigns.com",
+  "pages": {
+   "https://www.baliandesigns.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Home | Balian & Sons"
+   },
+   "https://www.baliandesigns.com/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Jewelry Care | Balian Designs"
+   },
+   "https://www.baliandesigns.com/about-us-1": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Custom Design | Balian Designs"
+   },
+   "https://www.baliandesigns.com/contact-us": {
+    "mailto": [
+     "edbalian@baliandesigns.com"
+    ],
+    "email_text": [
+     "edbalian@baliandesigns.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213.488.0227",
+     "213.488.9387"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Contact Us | Balian Designs"
+   },
+   "https://www.baliandesigns.com/custom-design": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [
+     "It was founded by Harry Balian in 1969 in the same location it is in today"
+    ],
+    "title": "About Us | Balian Designs"
+   }
+  },
+  "final": "https://www.baliandesigns.com/",
+  "err": ""
+ },
+ {
+  "i": 18,
+  "root": "http://www.benjamincompany.com",
+  "pages": {
+   "https://www.benjamincompany.com/": {
+    "mailto": [
+     "info@benjamincompany.com"
+    ],
+    "email_text": [
+     "info@benjamincompany.com"
+    ],
+    "tel": [
+     "(213) 622-0260"
+    ],
+    "phones": [
+     "(213) 622-0260",
+     "800-359-0593"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Benjamin and Company Jewelry"
+   },
+   "https://www.benjamincompany.com/about": {
+    "mailto": [
+     "info@benjamincompany.com"
+    ],
+    "email_text": [
+     "info@benjamincompany.com"
+    ],
+    "tel": [
+     "(213) 622-0260"
+    ],
+    "phones": [
+     "(213) 622-0260",
+     "800-359-0593"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Benjamin and Company Jewelry"
+   },
+   "https://www.benjamincompany.com/about-us": {
+    "mailto": [
+     "info@benjamincompany.com"
+    ],
+    "email_text": [
+     "info@benjamincompany.com"
+    ],
+    "tel": [
+     "(213) 622-0260"
+    ],
+    "phones": [
+     "(213) 622-0260",
+     "800-359-0593"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Benjamin and Company Jewelry"
+   },
+   "https://www.benjamincompany.com/contact": {
+    "mailto": [
+     "info@benjamincompany.com"
+    ],
+    "email_text": [
+     "info@benjamincompany.com"
+    ],
+    "tel": [
+     "(213) 622-0260"
+    ],
+    "phones": [
+     "(213) 622-0260",
+     "800-359-0593"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Benjamin and Company Jewelry"
+   },
+   "https://www.benjamincompany.com/contact-us": {
+    "mailto": [
+     "info@benjamincompany.com"
+    ],
+    "email_text": [
+     "info@benjamincompany.com"
+    ],
+    "tel": [
+     "(213) 622-0260"
+    ],
+    "phones": [
+     "(213) 622-0260",
+     "800-359-0593"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Benjamin and Company Jewelry"
+   },
+   "https://www.benjamincompany.com/information/aboutUs": {
+    "mailto": [
+     "info@benjamincompany.com"
+    ],
+    "email_text": [
+     "info@benjamincompany.com"
+    ],
+    "tel": [
+     "(213) 622-0260"
+    ],
+    "phones": [
+     "(213) 622-0260",
+     "800-359-0593"
+    ],
+    "soc": [],
+    "titles": [
+     "Fine Jewelry Pros conforms to the Kimberly act of 2003: In April 2003, the Congress of The United States of America and President George Bush passed a law adopting the Kimberly Process, which requires all US diamond retailers to buy all their diamon"
+    ],
+    "title": "Benjamin and Company Jewelry"
+   }
+  },
+  "final": "https://www.benjamincompany.com/",
+  "err": ""
+ },
+ {
+  "i": 19,
+  "root": "http://www.berjk.com",
+  "pages": {
+   "https://berjk.com/": {
+    "mailto": [
+     "berj@berjk.com"
+    ],
+    "email_text": [
+     "berj@berjk.com"
+    ],
+    "tel": [
+     "+12139248800"
+    ],
+    "phones": [
+     "(213) 924-8800"
+    ],
+    "soc": [
+     "https://www.facebook.com/BERJ-KOUYOUMJIAN-JEWELRY-534739089932538/timeline/"
+    ],
+    "titles": [],
+    "title": "Handmade Gold Jewelry - Berj"
+   },
+   "https://berjk.com/about-us/": {
+    "mailto": [
+     "berj@berjk.com"
+    ],
+    "email_text": [
+     "berj@berjk.com"
+    ],
+    "tel": [
+     "+12139248800"
+    ],
+    "phones": [
+     "(213) 924-8800"
+    ],
+    "soc": [
+     "https://www.facebook.com/BERJ-KOUYOUMJIAN-JEWELRY-534739089932538/timeline/"
+    ],
+    "titles": [],
+    "title": "About Us - Berj - Jewelry Craftsmanship Story"
+   },
+   "https://berjk.com/contact-us/": {
+    "mailto": [
+     "berj@berjk.com",
+     "berko211@aol.com"
+    ],
+    "email_text": [
+     "berj@berjk.com",
+     "berko211@aol.com"
+    ],
+    "tel": [
+     "+12139248800"
+    ],
+    "phones": [
+     "(213) 924-8800"
+    ],
+    "soc": [
+     "https://www.facebook.com/BERJ-KOUYOUMJIAN-JEWELRY-534739089932538/timeline/"
+    ],
+    "titles": [],
+    "title": "Contact Us - Berj - Jewelry Consultation Form"
+   }
+  },
+  "final": "https://berjk.com/",
+  "err": ""
+ },
+ {
+  "i": 21,
+  "root": "http://biamillion.com",
+  "pages": {
+   "https://biamillion.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [
+     "(818) 585-8280",
+     "(818) 766-1431"
+    ],
+    "soc": [
+     "https://facebook.com/BiaMillion",
+     "https://instagram.com/biamilliondiamond",
+     "https://www.facebook.com/BiaMillion",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/biamilliondiamond"
+    ],
+    "titles": [],
+    "title": "BIA MILLION CUSTOM CREMATION BANDS, JEWELRY AND DIAMONDS"
+   },
+   "https://biamillion.com/about/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [
+     "(818) 585-8280",
+     "(818) 766-1431"
+    ],
+    "soc": [
+     "https://facebook.com/BiaMillion",
+     "https://instagram.com/biamilliondiamond",
+     "https://www.facebook.com/BiaMillion",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/biamilliondiamond"
+    ],
+    "titles": [],
+    "title": "About \u2013 BIA MILLION CUSTOM CREMATION BANDS, JEWELRY AND DIAMONDS"
+   },
+   "https://biamillion.com/contact/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [
+     "(818) 585-8280",
+     "(818) 766-1431"
+    ],
+    "soc": [
+     "https://facebook.com/BiaMillion",
+     "https://instagram.com/biamilliondiamond",
+     "https://www.facebook.com/BiaMillion",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/biamilliondiamond"
+    ],
+    "titles": [],
+    "title": "Contact \u2013 BIA MILLION CUSTOM CREMATION BANDS, JEWELRY AND DIAMONDS"
+   }
+  },
+  "final": "https://biamillion.com/",
+  "err": ""
+ },
+ {
+  "i": 24,
+  "root": "http://www.bulinc.com",
+  "pages": {
+   "https://www.bulinc.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "bulinc.com | 525: SSL handshake failed"
+   }
+  },
+  "final": "https://www.bulinc.com/",
+  "err": "status 525"
+ },
+ {
+  "i": 25,
+  "root": "http://www.carlkgumpert.com",
+  "pages": {
+   "https://carlkgumpert.com/": {
+    "mailto": [
+     "sales@carlkgumpert.com"
+    ],
+    "email_text": [
+     "sales@carlkgumpert.com"
+    ],
+    "tel": [
+     "213-626-6531"
+    ],
+    "phones": [
+     "213-626-6531"
+    ],
+    "soc": [
+     "https://www.facebook.com/p/Carl-K-Gumpert-Inc-100063683808061",
+     "https://www.instagram.com/gumpertfinejewelry",
+     "https://www.linkedin.com/company/carl-k-gumpert-inc",
+     "https://x.com/shopify"
+    ],
+    "titles": [],
+    "title": "carlkgumpert"
+   },
+   "https://carlkgumpert.com/pages/about": {
+    "mailto": [
+     "sales@carlkgumpert.com"
+    ],
+    "email_text": [
+     "sales@carlkgumpert.com"
+    ],
+    "tel": [
+     "213-626-6531"
+    ],
+    "phones": [
+     "213-626-6531"
+    ],
+    "soc": [
+     "https://www.facebook.com/p/Carl-K-Gumpert-Inc-100063683808061",
+     "https://www.instagram.com/gumpertfinejewelry",
+     "https://www.linkedin.com/company/carl-k-gumpert-inc",
+     "https://x.com/shopify"
+    ],
+    "titles": [],
+    "title": "About\n \u2013 carlkgumpert"
+   },
+   "https://carlkgumpert.com/pages/contact": {
+    "mailto": [
+     "sales@carlkgumpert.com"
+    ],
+    "email_text": [
+     "sales@carlkgumpert.com"
+    ],
+    "tel": [
+     "213-626-6531"
+    ],
+    "phones": [
+     "213-626-6531",
+     "213.626.6531",
+     "213.627.4406",
+     "800.843.6998"
+    ],
+    "soc": [
+     "https://www.facebook.com/p/Carl-K-Gumpert-Inc-100063683808061",
+     "https://www.instagram.com/gumpertfinejewelry",
+     "https://www.linkedin.com/company/carl-k-gumpert-inc",
+     "https://x.com/shopify"
+    ],
+    "titles": [],
+    "title": "Contact\n \u2013 carlkgumpert"
+   },
+   "https://carlkgumpert.com/policies/contact-information": {
+    "mailto": [
+     "sales@carlkgumpert.com"
+    ],
+    "email_text": [
+     "sales@carlkgumpert.com"
+    ],
+    "tel": [
+     "213-626-6531"
+    ],
+    "phones": [
+     "213-626-6531"
+    ],
+    "soc": [
+     "https://www.facebook.com/p/Carl-K-Gumpert-Inc-100063683808061",
+     "https://www.instagram.com/gumpertfinejewelry",
+     "https://www.linkedin.com/company/carl-k-gumpert-inc",
+     "https://x.com/shopify"
+    ],
+    "titles": [],
+    "title": "Contact information\n \u2013 carlkgumpert"
+   }
+  },
+  "final": "https://carlkgumpert.com/",
+  "err": ""
+ },
+ {
+  "i": 26,
+  "root": "http://www.caspianjewelry.com",
+  "pages": {
+   "https://caspianjewelry.com/password": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Caspian Design"
+   }
+  },
+  "final": "https://caspianjewelry.com/password",
+  "err": ""
+ },
+ {
+  "i": 28,
+  "root": "http://www.chammasjewelry.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.chammasjewelry.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionEr"
+ },
+ {
+  "i": 30,
+  "root": "http://www.chinaartjewelry.com",
+  "pages": {
+   "https://www.chinaartjewelry.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://instagram.com/chinaartjewelry",
+     "https://www.facebook.com/chinaartjewel",
+     "https://www.instagram.com/chinaartjewelry"
+    ],
+    "titles": [],
+    "title": "China Art & Jewelry"
+   },
+   "https://www.chinaartjewelry.com/pages/contact": {
+    "mailto": [],
+    "email_text": [
+     "chinaartjewelry@gmail.com"
+    ],
+    "tel": [],
+    "phones": [
+     "(213)-489-7505",
+     "(747)-888-7202"
+    ],
+    "soc": [
+     "https://instagram.com/chinaartjewelry",
+     "https://www.facebook.com/chinaartjewel",
+     "https://www.instagram.com/chinaartjewelry"
+    ],
+    "titles": [],
+    "title": "Contact\n \u2013 China Art & Jewelry"
+   },
+   "https://www.chinaartjewelry.com/pages/our-story": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://instagram.com/chinaartjewelry",
+     "https://www.facebook.com/chinaartjewel",
+     "https://www.instagram.com/chinaartjewelry"
+    ],
+    "titles": [],
+    "title": "Our Story\n \u2013 China Art & Jewelry"
+   }
+  },
+  "final": "https://www.chinaartjewelry.com/",
+  "err": ""
+ },
+ {
+  "i": 32,
+  "root": "http://www.continentalpearl.com",
+  "pages": {
+   "https://continentalpearl.com/": {
+    "mailto": [
+     "info@continentalpearl.com"
+    ],
+    "email_text": [
+     "info@continentalpearl.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213-612-0252"
+    ],
+    "soc": [
+     "https://www.instagram.com/continentalpearl/"
+    ],
+    "titles": [],
+    "title": "Continental Pearl Loose Pearl, Pearl Necklaces & Jewelry \u2013 Loose Pearl, Pearl Necklaces & Jewelry"
+   },
+   "https://continentalpearl.com/about/": {
+    "mailto": [
+     "info@continentalpearl.com"
+    ],
+    "email_text": [
+     "info@continentalpearl.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213-612-0252"
+    ],
+    "soc": [
+     "https://www.instagram.com/continentalpearl/"
+    ],
+    "titles": [],
+    "title": "About Us \u2013 Continental Pearl Loose Pearl, Pearl Necklaces & Jewelry"
+   },
+   "https://continentalpearl.com/about-us/": {
+    "mailto": [
+     "info@continentalpearl.com"
+    ],
+    "email_text": [
+     "info@continentalpearl.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213-612-0252"
+    ],
+    "soc": [
+     "https://www.instagram.com/continentalpearl/"
+    ],
+    "titles": [],
+    "title": "about-us \u2013 Continental Pearl Loose Pearl, Pearl Necklaces & Jewelry"
+   },
+   "https://continentalpearl.com/contact-us/": {
+    "mailto": [
+     "ankit@continentalpearl.com",
+     "info@continentalpearl.com",
+     "suraj@continentalpearl.com",
+     "yogesh@continentalpearl.com"
+    ],
+    "email_text": [
+     "ankit@continentalpearl.com",
+     "info@continentalpearl.com",
+     "suraj@continentalpearl.com",
+     "yogesh@continentalpearl.com"
+    ],
+    "tel": [
+     "213-612-0252",
+     "213-612-0686",
+     "310-691-6135",
+     "81-78-222-2244",
+     "81-90-3617-3306",
+     "852-3705-2687",
+     "852-9016-0259"
+    ],
+    "phones": [
+     "213-612-0252",
+     "213-612-0686",
+     "310-691-6135"
+    ],
+    "soc": [
+     "https://www.instagram.com/continentalpearl/"
+    ],
+    "titles": [],
+    "title": "Contact Us \u2013 Continental Pearl Loose Pearl, Pearl Necklaces & Jewelry"
+   }
+  },
+  "final": "https://continentalpearl.com/",
+  "err": ""
+ },
+ {
+  "i": 34,
+  "root": "http://www.cvddiamondinc.com",
+  "pages": {
+   "https://cvddiamondinc.com/": {
+    "mailto": [
+     "Info@CVDDiamondInc.com"
+    ],
+    "email_text": [
+     "Info@CVDDiamondInc.com"
+    ],
+    "tel": [
+     "+12136291091",
+     "2136291091"
+    ],
+    "phones": [
+     "(213) 629-1091"
+    ],
+    "soc": [
+     "https://www.facebook.com/cvddiamondinc",
+     "https://www.instagram.com/cvd_diamond_inc"
+    ],
+    "titles": [],
+    "title": "CVD Diamond Manufacturer | Lab Grown Diamonds Los Angeles | NYC"
+   },
+   "https://cvddiamondinc.com/about-us/": {
+    "mailto": [
+     "Info@CVDDiamondInc.com"
+    ],
+    "email_text": [
+     "Info@CVDDiamondInc.com"
+    ],
+    "tel": [
+     "2136291091"
+    ],
+    "phones": [
+     "(213) 629-1091"
+    ],
+    "soc": [
+     "https://www.facebook.com/cvddiamondinc",
+     "https://www.instagram.com/cvd_diamond_inc"
+    ],
+    "titles": [],
+    "title": "About CVD Diamond Inc | Manufacturer of Lab Grown Diamonds"
+   },
+   "https://cvddiamondinc.com/contact-us/": {
+    "mailto": [
+     "Info@CVDDiamondInc.com"
+    ],
+    "email_text": [
+     "Info@CVDDiamondInc.com"
+    ],
+    "tel": [
+     "+1 (626) 320-2954",
+     "+12136291091",
+     "+1\u00a0(213)\u00a0442-6701",
+     "2136291091"
+    ],
+    "phones": [
+     "(213) 629-1091",
+     "(213)\u00a0442-6701",
+     "(626) 320-2954"
+    ],
+    "soc": [
+     "https://www.facebook.com/cvddiamondinc",
+     "https://www.instagram.com/cvd_diamond_inc"
+    ],
+    "titles": [],
+    "title": "Contact | Wholesale Lab Grown Diamonds | Diamond Manufacturer | Los Angeles"
+   }
+  },
+  "final": "https://cvddiamondinc.com/",
+  "err": ""
+ },
+ {
+  "i": 35,
+  "root": "http://bridalsemimounts.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='bridalsemimounts.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionErro"
+ },
+ {
+  "i": 37,
+  "root": "http://www.davidklassjewelry.com",
+  "pages": {
+   "https://davidklassjewelry.com/password": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "David Klass Jewelry"
+   }
+  },
+  "final": "https://davidklassjewelry.com/password",
+  "err": ""
+ },
+ {
+  "i": 38,
+  "root": "http://www.dbsdiam.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.dbsdiam.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HT"
+ },
+ {
+  "i": 39,
+  "root": "http://www.denakempjewelry.com",
+  "pages": {
+   "https://www.denakempjewelry.com/": {
+    "mailto": [
+     "info@denakemp.com"
+    ],
+    "email_text": [
+     "info@denakemp.com"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "http://www.facebook.com/1462535770735485",
+     "http://www.facebook.com/2008/fbml"
+    ],
+    "titles": [],
+    "title": "Dena Kemp"
+   },
+   "https://www.denakempjewelry.com/about": {
+    "mailto": [
+     "info@denakemp.com"
+    ],
+    "email_text": [
+     "info@denakemp.com"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "http://www.facebook.com/1462535770735485",
+     "http://www.facebook.com/2008/fbml"
+    ],
+    "titles": [],
+    "title": "Dena Kemp-About"
+   },
+   "https://www.denakempjewelry.com/contact": {
+    "mailto": [
+     "info@denakemp.com"
+    ],
+    "email_text": [
+     "info@denakemp.com"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "http://www.facebook.com/1462535770735485",
+     "http://www.facebook.com/2008/fbml"
+    ],
+    "titles": [],
+    "title": "Dena Kemp-Contact Us"
+   }
+  },
+  "final": "https://www.denakempjewelry.com/",
+  "err": ""
+ },
+ {
+  "i": 40,
+  "root": "http://www.designer-diamonds.de",
+  "pages": {
+   "https://www.designer-diamonds.de/": {
+    "mailto": [
+     "augsburg@designer-diamonds.de",
+     "mail@designer-optik.de",
+     "muenchen@designer-diamonds.de"
+    ],
+    "email_text": [
+     "augsburg@designer-diamonds.de",
+     "mail@designer-optik.de",
+     "muenchen@designer-diamonds.de"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/DesignerDiamondsMuenchenAugsburg",
+     "https://www.instagram.com/designer.diamonds",
+     "https://www.tiktok.com/@designerdiamonds",
+     "https://www.youtube.com/@designerdiamonds9377"
+    ],
+    "titles": [],
+    "title": "Verlobungsringe und Eheringe M\u00fcnchen & Augsburg - Designer Diamonds"
+   },
+   "https://www.designer-diamonds.de/en/pages/contact": {
+    "mailto": [
+     "augsburg@designer-diamonds.com",
+     "mail@designer-optik.de",
+     "munich@designer-diamonds.com"
+    ],
+    "email_text": [
+     "augsburg@designer-diamonds.com",
+     "mail@designer-optik.de",
+     "munich@designer-diamonds.com"
+    ],
+    "tel": [
+     "0049821159021",
+     "00498914902057",
+     "082131983644"
+    ],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/DesignerDiamondsMuenchenAugsburg",
+     "https://www.instagram.com/designer.diamonds",
+     "https://www.tiktok.com/@designerdiamonds",
+     "https://www.youtube.com/@designerdiamonds9377"
+    ],
+    "titles": [],
+    "title": "Contact Designer Diamonds in Munich & Augsburg"
+   }
+  },
+  "final": "https://www.designer-diamonds.de/",
+  "err": ""
+ },
+ {
+  "i": 41,
+  "root": "http://www.diamgate.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.diamgate.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"H"
+ },
+ {
+  "i": 43,
+  "root": "http://www.diamventures.com",
+  "pages": {
+   "https://www.diamventures.com/": {
+    "mailto": [
+     "diamventuresusa@gmail.com"
+    ],
+    "email_text": [
+     "diamventuresusa@gmail.com"
+    ],
+    "tel": [
+     "(657) 201-9180",
+     "+1 (657) 201-9180"
+    ],
+    "phones": [
+     "(657) 201-9180"
+    ],
+    "soc": [],
+    "titles": [
+     "y Portfolio Our Services About FAQ Blog Contact Us Your Trusted Custom Jewelry Manufacturing and Natural Diamond Supply Partner From CAD to final production, we act as your behind-the-scenes team\u2014so you can close more clients without taking on inv"
+    ],
+    "title": "Custom Jewelry Manufacturer & Diamond Supplier in the USA"
+   },
+   "https://www.diamventures.com/contact-us": {
+    "mailto": [
+     "diamventuresusa@gmail.com"
+    ],
+    "email_text": [
+     "diamventuresusa@gmail.com"
+    ],
+    "tel": [
+     "+1 (657) 201-9180",
+     "213-623-6520",
+     "213-840-7641"
+    ],
+    "phones": [
+     "(657) 201-9180"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Contact Us to Start Your Project | Diam Ventures"
+   }
+  },
+  "final": "https://www.diamventures.com/",
+  "err": ""
+ },
+ {
+  "i": 44,
+  "root": "http://diamondcenterinc.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='diamondcenterinc.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionErro"
+ },
+ {
+  "i": 49,
+  "root": "http://www.dtcusa.com",
+  "pages": {
+   "https://www.dtcusa.com/": {
+    "mailto": [
+     "info@dtcusa.com"
+    ],
+    "email_text": [
+     "info@dtcusa.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213 624 4811",
+     "310 246 1000"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "DTC USA / Diamond trading company"
+   },
+   "https://www.dtcusa.com/about": {
+    "mailto": [
+     "info@dtcusa.com"
+    ],
+    "email_text": [
+     "info@dtcusa.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213 624 4811",
+     "310 246 1000"
+    ],
+    "soc": [],
+    "titles": [
+     "Aria Ahdoot President An honored member of Inventory Web Specials Gallery Events About Us Contact 9777 Wilshire Blvd"
+    ],
+    "title": "DTC USA / Diamond trading company"
+   },
+   "https://www.dtcusa.com/contact": {
+    "mailto": [
+     "dtchk@dtcusa.com",
+     "info@dtcusa.com"
+    ],
+    "email_text": [
+     "dtchk@dtcusa.com",
+     "info@dtcusa.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213 624 4811",
+     "310 246 1000"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "DTC USA / Diamond trading company"
+   }
+  },
+  "final": "https://www.dtcusa.com/",
+  "err": ""
+ },
+ {
+  "i": 53,
+  "root": "http://www.dignityjewelry.com",
+  "pages": {
+   "https://dignityjewelry.com/": {
+    "mailto": [
+     "sales@dignityjewelry.com"
+    ],
+    "email_text": [
+     "sales@dignityjewelry.com"
+    ],
+    "tel": [
+     "%20(213)%20804-5457"
+    ],
+    "phones": [
+     "(213) 804-5457"
+    ],
+    "soc": [
+     "https://www.facebook.com/dignityjewelry",
+     "https://www.instagram.com/govindhaldia_dignityjewels"
+    ],
+    "titles": [],
+    "title": "Dignity Jewels Inc \u2013 Your Jewelry Store \u2013 You dream it, We make it"
+   },
+   "https://dignityjewelry.com/about-us-3/": {
+    "mailto": [
+     "sales@dignityjewelry.com"
+    ],
+    "email_text": [
+     "sales@dignityjewelry.com"
+    ],
+    "tel": [
+     "%20(213)%20804-5457"
+    ],
+    "phones": [
+     "(213) 804-5457"
+    ],
+    "soc": [
+     "https://www.facebook.com/dignityjewelry",
+     "https://www.instagram.com/govindhaldia_dignityjewels"
+    ],
+    "titles": [],
+    "title": "About us \u2013 Dignity Jewels Inc"
+   },
+   "https://dignityjewelry.com/contact-us/": {
+    "mailto": [
+     "sales@dignityjewelry.com"
+    ],
+    "email_text": [
+     "govind@dignityjewelry.com",
+     "sales@dignityjewelry.com"
+    ],
+    "tel": [
+     "%20(213)%20804-5457"
+    ],
+    "phones": [
+     "(213) 804-5457",
+     "213-804-5457"
+    ],
+    "soc": [
+     "https://www.facebook.com/dignityjewelry",
+     "https://www.instagram.com/govindhaldia_dignityjewels"
+    ],
+    "titles": [],
+    "title": "Contact us \u2013 Dignity Jewels Inc"
+   }
+  },
+  "final": "https://dignityjewelry.com/",
+  "err": ""
+ },
+ {
+  "i": 55,
+  "root": "https://eg-labs.com",
+  "pages": {
+   "https://eg-labs.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "E.G. Labs - Experts Gemological Laboratories"
+   },
+   "https://eg-labs.com/about": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "E.G. Labs - Experts Gemological Laboratories"
+   },
+   "https://eg-labs.com/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "E.G. Labs - Experts Gemological Laboratories"
+   }
+  },
+  "final": "https://eg-labs.com/",
+  "err": ""
+ },
+ {
+  "i": 63,
+  "root": "http://www.jrdiamgroup.com",
+  "pages": {
+   "https://www.jrdiamgroup.com/": {
+    "mailto": [
+     "europe@jrdiamgroup.com",
+     "gulf@jrdiamgroup.com",
+     "hk@jrdiamgroup.com",
+     "info@jrdiamgroup.com",
+     "info@sahilstargroup.com",
+     "la@jrdiamgroup.com",
+     "usa@jrdiamgroup.com"
+    ],
+    "email_text": [
+     "europe@jrdiamgroup.com",
+     "gulf@jrdiamgroup.com",
+     "hk@jrdiamgroup.com",
+     "info@jrdiamgroup.com",
+     "info@sahilstargroup.com",
+     "la@jrdiamgroup.com",
+     "usa@jrdiamgroup.com"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/jrjewels"
+    ],
+    "titles": [],
+    "title": "JR Diam Group | A Touch of Timeless Sparkle"
+   }
+  },
+  "final": "https://www.jrdiamgroup.com/",
+  "err": ""
+ },
+ {
+  "i": 66,
+  "root": "http://www.flawlessjewelry.com",
+  "pages": {
+   "https://www.flawlessjewelry.com/": {
+    "mailto": [
+     "hello@flawlessjewelry.com"
+    ],
+    "email_text": [
+     "hello@flawlessjewelry.com"
+    ],
+    "tel": [
+     "+12134889300"
+    ],
+    "phones": [
+     "213 488 9300"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Flawless Jewelry | Current Jewelry and Watch Finds"
+   },
+   "https://www.flawlessjewelry.com/about": {
+    "mailto": [
+     "hello@flawlessjewelry.com"
+    ],
+    "email_text": [
+     "hello@flawlessjewelry.com"
+    ],
+    "tel": [
+     "+12134889300"
+    ],
+    "phones": [
+     "213 488 9300"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "About Flawless Jewelry | Current Jewelry and Watch Finds"
+   },
+   "https://www.flawlessjewelry.com/contact": {
+    "mailto": [
+     "hello@flawlessjewelry.com"
+    ],
+    "email_text": [
+     "hello@flawlessjewelry.com"
+    ],
+    "tel": [
+     "+12134889300"
+    ],
+    "phones": [
+     "213 488 9300"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Contact Flawless Jewelry | Current Finds"
+   }
+  },
+  "final": "https://www.flawlessjewelry.com/",
+  "err": ""
+ },
+ {
+  "i": 67,
+  "root": "http://www.fcdinvest.diamonds",
+  "pages": {
+   "https://www.fcdinvest.diamonds/": {
+    "mailto": [
+     "info@fcdinvest.diamonds"
+    ],
+    "email_text": [
+     "info@fcdinvest.diamonds"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "http://www.instagram.com/fcdinvest",
+     "https://www.linkedin.com/in/rayahlevy",
+     "https://www.pinterest.com/FCDinvest",
+     "https://www.pinterest.com/FCDinvest/_saved"
+    ],
+    "titles": [
+     "Warmly, Rayah Levy President, FCD Invest Learn More \u201cWe purchased our first sculpture from Rayah and could NOT be happier with both the final produc",
+     "\" Mark Wolfe - Producer, Writer, Director, Studio Executive, Non-Profit Board President FCD INVEST EDUCATION & INSIGHTS Below is a sample of our recent blogs"
+    ],
+    "title": "Home | FCD Invest"
+   },
+   "https://www.fcdinvest.diamonds/connect": {
+    "mailto": [
+     "info@fcdinvest.diamonds"
+    ],
+    "email_text": [
+     "info@fcdinvest.diamonds"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "http://www.instagram.com/fcdinvest",
+     "https://www.linkedin.com/in/rayahlevy",
+     "https://www.pinterest.com/FCDinvest/_saved"
+    ],
+    "titles": [],
+    "title": "Connect | FCD Invest"
+   },
+   "https://www.fcdinvest.diamonds/explore-fcdinvest/executive-team": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "http://www.instagram.com/fcdinvest",
+     "http://www.linkedin.com/in/alejaseabron",
+     "http://www.linkedin.com/in/rayahlevy",
+     "https://www.linkedin.com/in/rayahlevy",
+     "https://www.pinterest.com/FCDinvest/_saved"
+    ],
+    "titles": [
+     "Rayah Levy FCD Invest President Wealth Preservation | Asset & Fund Manager | Due Diligence Expert | Philanthropist A-Rated Investment-Grade Fancy Color",
+     "Diamonds | Fine Art RAYAH LEVY President Diamond Club West Coast Board Member | World Diamond Federation Bourses Expert and Member | Get-Diamonds Board Member |",
+     "ber \u200b Rayah Levy is a distinguished international expert in wealth preservation and luxury asset management, serving as President of FCD Invest, a firm specializing in customized strategies for high-net-worth clients",
+     "Rayah Levy's LinkedIn Aleja Seabron, PMP FCD Invest Executive Vice President Project Manager | Researcher | Business Strategy | Media & Communications\u200b A-Rated Investment-Grade Fancy Color Diamond"
+    ],
+    "title": "Rayah Levy | FCD Invest"
+   },
+   "https://www.fcdinvest.diamonds/post/argyle-mine-closure-pink-diamond-scarcity": {
+    "mailto": [
+     "info@fcdinvest.diamonds"
+    ],
+    "email_text": [
+     "info@fcdinvest.diamonds"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "http://www.instagram.com/fcdinvest",
+     "https://www.linkedin.com/in/rayahlevy",
+     "https://www.pinterest.com/FCDinvest/_saved"
+    ],
+    "titles": [
+     "Closure Changed Everything: What Every Investor Needs to Understand About Pink Diamond Scarcity Rayah Levy, FCD Invest President Apr 29 4 min read Updated: Sep 10 In November 2020, an event occurred that permanently altered the landscape of luxury",
+     "Written by Rayah Levy, FCD Invest President As President of FCD Invest, Rayah oversees strategy, client engagement, and the firm\u2019s Due Diligence Division"
+    ],
+    "title": "The Argyle Closure Changed Everything: What Every Investor Needs to Understand About Pink Diamond Scarcity"
+   }
+  },
+  "final": "https://www.fcdinvest.diamonds/",
+  "err": ""
+ },
+ {
+  "i": 68,
+  "root": "http://www.nicediamond.com",
+  "pages": {
+   "https://www.nicediamond.com/": {
+    "mailto": [],
+    "email_text": [
+     "webadmin@nicediamond.com"
+    ],
+    "tel": [
+     "12127643916"
+    ],
+    "phones": [
+     "(212) 764-3916"
+    ],
+    "soc": [
+     "https://www.facebook.com/NiceDiamonds",
+     "https://www.instagram.com/nicediamondsusa"
+    ],
+    "titles": [],
+    "title": "Nice Diamonds"
+   },
+   "https://www.nicediamond.com/Home/Aboutus": {
+    "mailto": [],
+    "email_text": [
+     "webadmin@nicediamond.com"
+    ],
+    "tel": [
+     "12127643916"
+    ],
+    "phones": [
+     "(212) 764-3916"
+    ],
+    "soc": [
+     "https://www.facebook.com/NiceDiamonds",
+     "https://www.instagram.com/nicediamondsusa"
+    ],
+    "titles": [
+     "Our president, Nilesh Sheth, had served on the Executive Board of IDCA for over seven years and was President of the association in 2018-2019"
+    ],
+    "title": "Nice Diamonds"
+   },
+   "https://www.nicediamond.com/Home/Connect": {
+    "mailto": [
+     "ny@nicediamond.com"
+    ],
+    "email_text": [
+     "ny@nicediamond.com",
+     "webadmin@nicediamond.com"
+    ],
+    "tel": [
+     "12127643916"
+    ],
+    "phones": [
+     "(212) 764-3916"
+    ],
+    "soc": [
+     "https://www.facebook.com/NiceDiamonds",
+     "https://www.instagram.com/nicediamondsusa"
+    ],
+    "titles": [],
+    "title": "Nice Diamonds"
+   },
+   "https://www.nicediamond.com/home/aboutus": {
+    "mailto": [],
+    "email_text": [
+     "webadmin@nicediamond.com"
+    ],
+    "tel": [
+     "12127643916"
+    ],
+    "phones": [
+     "(212) 764-3916"
+    ],
+    "soc": [
+     "https://www.facebook.com/NiceDiamonds",
+     "https://www.instagram.com/nicediamondsusa"
+    ],
+    "titles": [
+     "Our president, Nilesh Sheth, had served on the Executive Board of IDCA for over seven years and was President of the association in 2018-2019"
+    ],
+    "title": "Nice Diamonds"
+   },
+   "https://www.nicediamond.com/home/connect": {
+    "mailto": [
+     "ny@nicediamond.com"
+    ],
+    "email_text": [
+     "ny@nicediamond.com",
+     "webadmin@nicediamond.com"
+    ],
+    "tel": [
+     "12127643916"
+    ],
+    "phones": [
+     "(212) 764-3916"
+    ],
+    "soc": [
+     "https://www.facebook.com/NiceDiamonds",
+     "https://www.instagram.com/nicediamondsusa"
+    ],
+    "titles": [],
+    "title": "Nice Diamonds"
+   }
+  },
+  "final": "https://www.nicediamond.com/",
+  "err": ""
+ },
+ {
+  "i": 72,
+  "root": "http://www.losangelesdiamondseller.com",
+  "pages": {
+   "https://www.losangelesdiamondseller.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+(877) 623-9494",
+     "+1-877-623-9494",
+     "18776239494",
+     "2136239494"
+    ],
+    "phones": [
+     "213-623-9494",
+     "877-623-9494",
+     "877.623.9494"
+    ],
+    "soc": [
+     "http://www.linkedin.com/pub/frank-poors/18/8a5/829",
+     "https://twitter.com/GemDynasty",
+     "https://www.facebook.com/pages/Gem-Dynasty-Farshad-Poorsalimi/253669001339",
+     "https://www.youtube.com/user/GemDynasty"
+    ],
+    "titles": [],
+    "title": "Los Angeles Diamond Seller, Wholesale Loose Diamonds, Online Store"
+   },
+   "https://www.losangelesdiamondseller.com/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+(877) 623-9494",
+     "+1-877-623-9494",
+     "18776239494"
+    ],
+    "phones": [
+     "877-623-9494"
+    ],
+    "soc": [
+     "http://www.linkedin.com/pub/frank-poors/18/8a5/829",
+     "https://twitter.com/GemDynasty",
+     "https://www.facebook.com/pages/Gem-Dynasty-Farshad-Poorsalimi/253669001339",
+     "https://www.youtube.com/user/GemDynasty"
+    ],
+    "titles": [],
+    "title": "Sell Diamonds for Cash in LA - Los Angeles Diamond Seller"
+   },
+   "https://www.losangelesdiamondseller.com/contact/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+(877) 623-9494",
+     "+1-877-623-9494",
+     "8776239494"
+    ],
+    "phones": [
+     "877-623-9494",
+     "877.623.9494"
+    ],
+    "soc": [
+     "http://www.linkedin.com/pub/frank-poors/18/8a5/829",
+     "https://twitter.com/GemDynasty",
+     "https://www.facebook.com/pages/Gem-Dynasty-Farshad-Poorsalimi/253669001339",
+     "https://www.youtube.com/user/GemDynasty"
+    ],
+    "titles": [],
+    "title": "Contact Us"
+   },
+   "https://www.losangelesdiamondseller.com/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+(877) 623-9494",
+     "+1-877-623-9494",
+     "8776239494"
+    ],
+    "phones": [
+     "877-623-9494",
+     "877.623.9494"
+    ],
+    "soc": [
+     "http://www.linkedin.com/pub/frank-poors/18/8a5/829",
+     "https://twitter.com/GemDynasty",
+     "https://www.facebook.com/pages/Gem-Dynasty-Farshad-Poorsalimi/253669001339",
+     "https://www.youtube.com/user/GemDynasty"
+    ],
+    "titles": [],
+    "title": "Contact Us"
+   }
+  },
+  "final": "https://www.losangelesdiamondseller.com/",
+  "err": ""
+ },
+ {
+  "i": 73,
+  "root": "http://www.kkgiinc.com",
+  "pages": {
+   "https://jupitergem.com/": {
+    "mailto": [
+     "info@jupitergem.com"
+    ],
+    "email_text": [
+     "info@jupitergem.com"
+    ],
+    "tel": [
+     "+13238443675",
+     "13238443675"
+    ],
+    "phones": [
+     "323 844 3675",
+     "323-844-3675",
+     "818-940-8447"
+    ],
+    "soc": [
+     "https://twitter.com/jupitergem",
+     "https://www.facebook.com/jupitergem",
+     "https://www.instagram.com/jupitergem_com",
+     "https://www.instagram.com/jupitergem_kkgi",
+     "https://www.pinterest.com/jupitergemcom",
+     "https://www.youtube.com/channel/UC69c0BAeydp6toYGvWTMIyA"
+    ],
+    "titles": [],
+    "title": "JupiterGem: Exceptional Gems and Jewelry"
+   },
+   "https://jupitergem.com/about-us": {
+    "mailto": [
+     "info@jupitergem.com"
+    ],
+    "email_text": [
+     "info@jupitergem.com"
+    ],
+    "tel": [
+     "+13238443675",
+     "13238443675"
+    ],
+    "phones": [
+     "323 844 3675",
+     "323-844-3675",
+     "818-940-8447"
+    ],
+    "soc": [
+     "https://twitter.com/jupitergem",
+     "https://www.facebook.com/jupitergem",
+     "https://www.instagram.com/jupitergem_com",
+     "https://www.instagram.com/jupitergem_kkgi",
+     "https://www.pinterest.com/jupitergemcom",
+     "https://www.youtube.com/channel/UC69c0BAeydp6toYGvWTMIyA"
+    ],
+    "titles": [],
+    "title": "About us"
+   },
+   "https://jupitergem.com/contact": {
+    "mailto": [
+     "info@jupitergem.com"
+    ],
+    "email_text": [
+     "info@jupitergem.com"
+    ],
+    "tel": [
+     "+13238443675",
+     "13238443675"
+    ],
+    "phones": [
+     "323 844 3675",
+     "323-844-3675",
+     "818 940 8447",
+     "818-940-8447"
+    ],
+    "soc": [
+     "https://twitter.com/jupitergem",
+     "https://www.facebook.com/jupitergem",
+     "https://www.instagram.com/jupitergem_com",
+     "https://www.instagram.com/jupitergem_kkgi",
+     "https://www.pinterest.com/jupitergemcom",
+     "https://www.youtube.com/channel/UC69c0BAeydp6toYGvWTMIyA"
+    ],
+    "titles": [],
+    "title": "Contact Us"
+   }
+  },
+  "final": "https://jupitergem.com/",
+  "err": ""
+ },
+ {
+  "i": 77,
+  "root": "http://gemswest.com",
+  "pages": {
+   "https://gemswest.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "2135451415"
+    ],
+    "phones": [
+     "(213) 545-1415"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "jewelry buyer | GEMS WEST"
+   }
+  },
+  "final": "https://gemswest.com/",
+  "err": ""
+ },
+ {
+  "i": 79,
+  "root": "http://www.gersonandhorowitz.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.gersonandhorowitz.com', port=80): Max retries exceeded with url: / (Caused by NameResolutio"
+ },
+ {
+  "i": 80,
+  "root": "http://www.goldempirejewelry.com",
+  "pages": {
+   "https://goldempirejewelry.com/": {
+    "mailto": [
+     "info@goldempirejewelry.com"
+    ],
+    "email_text": [
+     "info@goldempirejewelry.com"
+    ],
+    "tel": [
+     "2136266012"
+    ],
+    "phones": [
+     "(213) 626-6012"
+    ],
+    "soc": [
+     "https://www.facebook.com/GoldEmpireJewelry",
+     "https://www.instagram.com/goldempirejewelry",
+     "https://www.instagram.com/goldempirejewelry/"
+    ],
+    "titles": [],
+    "title": "Gold Empire Jewelry | Custom Engagement Rings & Diamonds in LA"
+   },
+   "https://goldempirejewelry.com/pages/about-us": {
+    "mailto": [
+     "info@goldempirejewelry.com"
+    ],
+    "email_text": [
+     "info@goldempirejewelry.com"
+    ],
+    "tel": [
+     "2136266012"
+    ],
+    "phones": [
+     "(213) 626-6012"
+    ],
+    "soc": [
+     "https://www.facebook.com/GoldEmpireJewelry",
+     "https://www.instagram.com/goldempirejewelry/"
+    ],
+    "titles": [
+     "1978 Edmund Kalo, Founder Founded in the historic Los Angeles Jewelry District, Gold Empire Jewelry was built on a simple principle: offer extrao"
+    ],
+    "title": "About Gold Empire Jewelry | Family-Owned LA Jeweler Since 1978"
+   },
+   "https://goldempirejewelry.com/pages/contact": {
+    "mailto": [
+     "info@goldempirejewelry.com"
+    ],
+    "email_text": [
+     "info@goldempirejewelry.com"
+    ],
+    "tel": [
+     "2136266012"
+    ],
+    "phones": [
+     "(213) 626-6012"
+    ],
+    "soc": [
+     "https://www.facebook.com/GoldEmpireJewelry",
+     "https://www.instagram.com/goldempirejewelry/"
+    ],
+    "titles": [],
+    "title": "Contact\n \u2013 Gold Empire Jewelry"
+   }
+  },
+  "final": "https://goldempirejewelry.com/",
+  "err": ""
+ },
+ {
+  "i": 82,
+  "root": "http://www.goldenstatejewelry.com",
+  "pages": {
+   "https://goldenstatejewelry.com/": {
+    "mailto": [
+     "sales@goldenstatejewelry.com"
+    ],
+    "email_text": [
+     "sales@goldenstatejewelry.com"
+    ],
+    "tel": [
+     "213-627-9677"
+    ],
+    "phones": [
+     "213-627-9677"
+    ],
+    "soc": [
+     "https://instagram.com/goldenstatejewelryla"
+    ],
+    "titles": [],
+    "title": "Golden State Jewelry LA\n\n        \u2013\n        GSJ - Golden State Jewelry"
+   },
+   "https://goldenstatejewelry.com/pages/contact": {
+    "mailto": [
+     "sales@goldenstatejewelry.com"
+    ],
+    "email_text": [
+     "sales@goldenstatejewelry.com"
+    ],
+    "tel": [
+     "213-627-9677"
+    ],
+    "phones": [
+     "213-627-9677"
+    ],
+    "soc": [
+     "https://instagram.com/goldenstatejewelryla"
+    ],
+    "titles": [],
+    "title": "Contact\n\n        \u2013\n        GSJ - Golden State Jewelry"
+   }
+  },
+  "final": "https://goldenstatejewelry.com/",
+  "err": ""
+ },
+ {
+  "i": 84,
+  "root": "http://agarwaldiam.in",
+  "pages": {
+   "https://agarwaldiam.in/": {
+    "mailto": [
+     "bansalgoldy@gmail.com"
+    ],
+    "email_text": [
+     "bansalgoldy@gmail.com"
+    ],
+    "tel": [
+     "+91 022-42325757",
+     "+91 9323520745"
+    ],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "AD"
+   },
+   "https://agarwaldiam.in/Home/AboutUs": {
+    "mailto": [
+     "bansalgoldy@gmail.com"
+    ],
+    "email_text": [
+     "bansalgoldy@gmail.com"
+    ],
+    "tel": [
+     "+91 022-42325757",
+     "+91 9323520745"
+    ],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "AD"
+   }
+  },
+  "final": "https://agarwaldiam.in/",
+  "err": ""
+ },
+ {
+  "i": 85,
+  "root": "http://www.guildlabs.com",
+  "pages": {
+   "https://www.guildlabs.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "2136240137"
+    ],
+    "phones": [
+     "213.624.0137",
+     "213.624.2114"
+    ],
+    "soc": [],
+    "titles": [
+     "Guild Labs President Charles Carmona's excellent reputation was established through decades of experience in the field, along with continuin"
+    ],
+    "title": "Guild Labs - Gemological Laboratory, Los Angeles"
+   },
+   "https://www.guildlabs.com/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "2136240137"
+    ],
+    "phones": [
+     "213.624.0137",
+     "213.624.2114"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "About Guild Labs - Los Angeles"
+   },
+   "https://www.guildlabs.com/contact": {
+    "mailto": [
+     "cicarmona@gmail.com"
+    ],
+    "email_text": [
+     "charles@guildlabs.com"
+    ],
+    "tel": [
+     "2136240137"
+    ],
+    "phones": [
+     "213.624.0137",
+     "213.624.2114"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Contact Guild Labs - Los Angeles"
+   }
+  },
+  "final": "https://www.guildlabs.com/",
+  "err": ""
+ },
+ {
+  "i": 87,
+  "root": "http://www.hdayan.com",
+  "pages": {
+   "https://www.hdayan.com/": {
+    "mailto": [
+     "concierge@hdayan.com"
+    ],
+    "email_text": [
+     "concierge@hdayan.com"
+    ],
+    "tel": [
+     "+12136274799"
+    ],
+    "phones": [
+     "(213) 627-4799"
+    ],
+    "soc": [
+     "http://instagram.com/squarespace",
+     "http://www.facebook.com/2008/fbml",
+     "https://www.instagram.com/hdayan_diamonds",
+     "https://www.instagram.com/p/CF0Xu5HHTue/embed/&quot;&gt;&lt;/iframe&gt;",
+     "https://www.instagram.com/p/CFINTJMnhAK/embed/&quot;&gt;&lt;/iframe&gt;",
+     "https://www.instagram.com/p/CFNEHAFn8Hc/embed/&quot;&gt;&lt;/iframe&gt;",
+     "https://www.instagram.com/p/CFcin8mHN0F/embed/&quot;&gt;&lt;/iframe&gt;"
+    ],
+    "titles": [],
+    "title": "H. Dayan Diamonds | Fine Jewelry Diamond Concierge"
+   },
+   "https://www.hdayan.com/contact": {
+    "mailto": [
+     "concierge@hdayan.com"
+    ],
+    "email_text": [
+     "concierge@hdayan.com"
+    ],
+    "tel": [
+     "+12136274799"
+    ],
+    "phones": [
+     "(213) 627-4799"
+    ],
+    "soc": [
+     "http://instagram.com/squarespace",
+     "http://www.facebook.com/2008/fbml"
+    ],
+    "titles": [],
+    "title": "Contact Us | H. Dayan Fine Jewelry Diamond Concierge  \u2014 H. Dayan"
+   }
+  },
+  "final": "https://www.hdayan.com/",
+  "err": ""
+ },
+ {
+  "i": 88,
+  "root": "http://www.himelseingroup.com",
+  "pages": {
+   "https://himelseingroup.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Himelsein Natural | Natural Diamond High Jewelry\n \u2013 Himelsein Group"
+   },
+   "https://himelseingroup.com/pages/about": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "About\n \u2013 Himelsein Group"
+   },
+   "https://himelseingroup.com/pages/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Contact\n \u2013 Himelsein Group"
+   }
+  },
+  "final": "https://himelseingroup.com/",
+  "err": ""
+ },
+ {
+  "i": 89,
+  "root": "http://www.horizondiamondsonline.net",
+  "pages": {
+   "https://www.horizondiamondsonline.net/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Horizon Diamonds - Online Diamond Listing and Search | Login"
+   },
+   "https://www.horizondiamondsonline.net/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Horizon Diamonds - Online Diamond Listing and Search | Contact"
+   }
+  },
+  "final": "https://www.horizondiamondsonline.net/",
+  "err": ""
+ },
+ {
+  "i": 92,
+  "root": "https://infonetworks.com",
+  "pages": {
+   "https://infonetworks.com/": {
+    "mailto": [
+     "sales@infonetworks.com",
+     "support@infonetworks.com"
+    ],
+    "email_text": [
+     "sales@infonetworks.com"
+    ],
+    "tel": [
+     "+18884542000"
+    ],
+    "phones": [
+     "888-454-2000"
+    ],
+    "soc": [
+     "https://www.facebook.com/p/InfoNetworks-61567564640445",
+     "https://www.instagram.com/infonetworksmsp",
+     "https://www.linkedin.com/company/infonetworks",
+     "https://x.com/InfoNetworksMSP"
+    ],
+    "titles": [
+     "ructure / IT IT Director / Manager Network Architect / Engineer Procurement / Finance Lead Facilities / Operations Lead Founder / Owner Other Anything else our engineer should know? (optional) \u2190 Back Review my design \u2192 Review your design Here's wh"
+    ],
+    "title": "InfoNetworks Managed IT for Business"
+   }
+  },
+  "final": "https://infonetworks.com/",
+  "err": ""
+ },
+ {
+  "i": 93,
+  "root": "https://www.intlhouseofplatinum.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPSConnectionPool(host='www.intlhouseofplatinum.com', port=443): Max retries exceeded with url: / (Caused by ProxyErro"
+ },
+ {
+  "i": 94,
+  "root": "http://www.itjewelers.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.itjewelers.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("
+ },
+ {
+  "i": 96,
+  "root": "http://www.jackweirandsons.com",
+  "pages": {
+   "https://jackweirandsons.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/jackweirandsons",
+     "https://www.instagram.com/jackweirandsons",
+     "https://www.pinterest.com/jackweirandsons/_shop",
+     "https://www.tiktok.com/@jackweirandsons",
+     "https://www.youtube.com/channel/UCMjUlaBVAkfVRT8aX9l1NFA/featured"
+    ],
+    "titles": [],
+    "title": "Curated Diamonds & Vintage Jewelry, Beverly Hills\n      \n      \n       \u2013 Jack Weir & Sons"
+   },
+   "https://jackweirandsons.com/blogs/news/jewelry-insurance-to-have-or-to-waive": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://pinterest.com/pin/create/link/",
+     "https://twitter.com/intent/tweet",
+     "https://www.facebook.com/jackweirandsons",
+     "https://www.facebook.com/sharer.php",
+     "https://www.instagram.com/jackweirandsons",
+     "https://www.pinterest.com/jackweirandsons/_shop",
+     "https://www.tiktok.com/@jackweirandsons",
+     "https://www.youtube.com/channel/UCMjUlaBVAkfVRT8aX9l1NFA/featured"
+    ],
+    "titles": [],
+    "title": "All About Jewelry Insurance\n      \n      \n       \u2013 Jack Weir & Sons"
+   },
+   "https://jackweirandsons.com/blogs/news/the-power-of-statement-jewelry": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://pinterest.com/pin/create/link/",
+     "https://twitter.com/intent/tweet",
+     "https://www.facebook.com/jackweirandsons",
+     "https://www.facebook.com/sharer.php",
+     "https://www.instagram.com/jackweirandsons",
+     "https://www.instagram.com/p/DWPmkreAVH0/",
+     "https://www.pinterest.com/jackweirandsons/_shop",
+     "https://www.tiktok.com/@jackweirandsons",
+     "https://www.youtube.com/channel/UCMjUlaBVAkfVRT8aX9l1NFA/featured"
+    ],
+    "titles": [],
+    "title": "Statement Jewelry: Cocktail Rings, Bold Pieces, and How to Wear Them -\n      \n      \n       \u2013 Jack Weir & Sons"
+   },
+   "https://jackweirandsons.com/pages/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/jackweirandsons",
+     "https://www.instagram.com/jackweirandsons",
+     "https://www.pinterest.com/jackweirandsons/_shop",
+     "https://www.tiktok.com/@jackweirandsons",
+     "https://www.youtube.com/channel/UCMjUlaBVAkfVRT8aX9l1NFA/featured"
+    ],
+    "titles": [
+     "Wyler is now CEO, with Jack leading the board and managing his favorite international clients overseas"
+    ],
+    "title": "About Jack Weir & Sons"
+   },
+   "https://jackweirandsons.com/pages/contact-us-1": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [
+     "(310) 276-1280"
+    ],
+    "soc": [
+     "https://www.facebook.com/jackweirandsons",
+     "https://www.instagram.com/jackweirandsons",
+     "https://www.pinterest.com/jackweirandsons/_shop",
+     "https://www.tiktok.com/@jackweirandsons",
+     "https://www.youtube.com/channel/UCMjUlaBVAkfVRT8aX9l1NFA/featured"
+    ],
+    "titles": [],
+    "title": "Contact Us\n      \n      \n       \u2013 Jack Weir & Sons"
+   }
+  },
+  "final": "https://jackweirandsons.com/",
+  "err": ""
+ },
+ {
+  "i": 97,
+  "root": "http://www.janvierla.com",
+  "pages": {
+   "https://janvierla.com/": {
+    "mailto": [
+     "info@janvierla.com"
+    ],
+    "email_text": [
+     "info@janvierla.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213 221 7565"
+    ],
+    "soc": [
+     "https://www.instagram.com/janvier_la"
+    ],
+    "titles": [],
+    "title": "Fine Jewelry and Custom Engagement Rings, Made in Los Angeles\n \u2013 Janvier LA"
+   },
+   "https://janvierla.com/pages/about-us": {
+    "mailto": [
+     "info@janvierla.com"
+    ],
+    "email_text": [
+     "info@janvierla.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213 221 7565"
+    ],
+    "soc": [
+     "https://www.instagram.com/janvier_la"
+    ],
+    "titles": [],
+    "title": "About Janvier | Fine Jewelry & Custom Engagement Rings\n \u2013 Janvier LA"
+   },
+   "https://janvierla.com/pages/contact-us": {
+    "mailto": [
+     "info@janvierla.com"
+    ],
+    "email_text": [
+     "info@janvierla.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213 221 7565"
+    ],
+    "soc": [
+     "https://www.instagram.com/janvier_la"
+    ],
+    "titles": [],
+    "title": "Contact Us | Janvier\n \u2013 Janvier LA"
+   }
+  },
+  "final": "https://janvierla.com/",
+  "err": ""
+ },
+ {
+  "i": 99,
+  "root": "http://www.jbnco.com",
+  "pages": {
+   "https://jbnco.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [
+     "213-291-3500"
+    ],
+    "soc": [
+     "https://www.instagram.com/johnnybandco"
+    ],
+    "titles": [],
+    "title": "Johnny B & Co \u2013 Fine Jewelry and Diamonds"
+   },
+   "https://jbnco.com/about-us/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [
+     "213-291-3500"
+    ],
+    "soc": [
+     "https://www.instagram.com/johnnybandco"
+    ],
+    "titles": [],
+    "title": "About Us \u2013 Johnny B & Co"
+   },
+   "https://jbnco.com/contact-us/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [
+     "213-291-3500"
+    ],
+    "soc": [
+     "https://www.instagram.com/johnnybandco"
+    ],
+    "titles": [],
+    "title": "Contact Us \u2013 Johnny B & Co"
+   }
+  },
+  "final": "https://jbnco.com/",
+  "err": ""
+ },
+ {
+  "i": 101,
+  "root": "http://www.diamondsbuyer.net",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.diamondsbuyer.net', port=80): Max retries exceeded with url: / (Caused by NameResolutionErr"
+ },
+ {
+  "i": 102,
+  "root": "https://www.jewelersmutual.com",
+  "pages": {
+   "https://www.jewelersmutual.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/JewelersMutual",
+     "https://www.instagram.com/JewelersMutual",
+     "https://www.linkedin.com/company/jewelers-mutual-insurance-company",
+     "https://www.tiktok.com/@jewelersmutual",
+     "https://www.twitter.com/JewelersMutual",
+     "https://www.youtube.com/channel/UCnGtWH7nxZhWXJ0YdKB1VvA"
+    ],
+    "titles": [],
+    "title": "Jewelry Insurance with 110 Years of Expertise | Jewelers Mutual"
+   },
+   "https://www.jewelersmutual.com/about": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/JewelersMutual",
+     "https://www.instagram.com/JewelersMutual",
+     "https://www.linkedin.com/company/jewelers-mutual-insurance-company",
+     "https://www.tiktok.com/@jewelersmutual",
+     "https://www.twitter.com/JewelersMutual",
+     "https://www.youtube.com/channel/UCnGtWH7nxZhWXJ0YdKB1VvA",
+     "https://www.youtube.com/embed/apFGvjO5Wkc"
+    ],
+    "titles": [
+     "Power Partner Jewelers Mutual\u00a0was named to Inc",
+     "\u2019s Power Partner Awards list, which recognizes the best business-to-business providers for small businesses (2023, 2024, and 2025)"
+    ],
+    "title": "Our story | Jewelers Mutual"
+   },
+   "https://www.jewelersmutual.com/about/charitable-impact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/JewelersMutual",
+     "https://www.instagram.com/JewelersMutual",
+     "https://www.linkedin.com/company/jewelers-mutual-insurance-company",
+     "https://www.tiktok.com/@jewelersmutual",
+     "https://www.twitter.com/JewelersMutual",
+     "https://www.youtube.com/channel/UCnGtWH7nxZhWXJ0YdKB1VvA"
+    ],
+    "titles": [
+     "Examples of organizations we support Fox Cities Performing Arts Center As a Platinum Business Partner, we support the Showcase and the arts in our community"
+    ],
+    "title": "Charitable impact | Jewelers Mutual Group"
+   },
+   "https://www.jewelersmutual.com/about/company-leadership": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/JewelersMutual",
+     "https://www.instagram.com/JewelersMutual",
+     "https://www.linkedin.com/company/jewelers-mutual-insurance-company",
+     "https://www.tiktok.com/@jewelersmutual",
+     "https://www.twitter.com/JewelersMutual",
+     "https://www.youtube.com/channel/UCnGtWH7nxZhWXJ0YdKB1VvA"
+    ],
+    "titles": [
+     "Scott Murphy Chief Executive Officer Mike Alexander President Chris Anderson Chief Financial Officer and Treasurer Nancy Finch Chief Experience Officer John Kreul Chief Information",
+     "Officer Bryon Nelson Chief Product and Analytics Officer Mark Willson Vice President, General Counsel Board of directors These seasoned jewelry professionals bring industry knowledge and decades of expert",
+     "Scott Murphy CEO of Jewelers Mutual Patti Griffin Vice Chair of the Board Robert Reeg Chair of the Board Constance Bayne Laura Deutscher"
+    ],
+    "title": "Company leadership | Jewelers Mutual Group"
+   },
+   "https://www.jewelersmutual.com/about/jm-annual-report": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/JewelersMutual",
+     "https://www.instagram.com/JewelersMutual",
+     "https://www.linkedin.com/company/jewelers-mutual-insurance-company",
+     "https://www.tiktok.com/@jewelersmutual",
+     "https://www.twitter.com/JewelersMutual",
+     "https://www.youtube.com/channel/UCnGtWH7nxZhWXJ0YdKB1VvA"
+    ],
+    "titles": [
+     "In this page CEO message Company highlights Financial statement Climate disclosure A message from Scott Murphy Chief Executive Officer,",
+     "This year, we strengthened our executive bench by welcoming Chris Anderson as CFO and promoting Mike Alexander to President",
+     "Power Partner designation",
+     "Individual honors underscored the depth of expertise across our organization, including CEO Scott Murphy\u2019s recognition as a 2025 WI Titan 100 honoree and member of the Wisconsin 275 , our editor-in-chief of Gem+"
+    ],
+    "title": "2025 Jewelers Mutual Annual Report | Jewelers Mutual"
+   },
+   "https://www.jewelersmutual.com/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "800-582-4916",
+     "877-238-5595",
+     "8888842424"
+    ],
+    "phones": [
+     "800-582-4916",
+     "877-238-5595",
+     "888-884-2424"
+    ],
+    "soc": [
+     "https://www.facebook.com/JewelersMutual",
+     "https://www.instagram.com/JewelersMutual",
+     "https://www.linkedin.com/company/jewelers-mutual-insurance-company",
+     "https://www.tiktok.com/@jewelersmutual",
+     "https://www.twitter.com/JewelersMutual",
+     "https://www.youtube.com/channel/UCnGtWH7nxZhWXJ0YdKB1VvA"
+    ],
+    "titles": [],
+    "title": "Contact us | Jewelers Mutual Group"
+   },
+   "https://www.jewelersmutual.com/business/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "",
+     "8005586411",
+     "8005824916",
+     "877-238-5595"
+    ],
+    "phones": [
+     "800-558-6411",
+     "800-582-4916",
+     "833-970-9464",
+     "877-238-5595"
+    ],
+    "soc": [
+     "https://www.facebook.com/JewelersMutual",
+     "https://www.instagram.com/JewelersMutual",
+     "https://www.linkedin.com/company/jewelers-mutual-insurance-company",
+     "https://www.tiktok.com/@jewelersmutual",
+     "https://www.twitter.com/JewelersMutual",
+     "https://www.youtube.com/channel/UCnGtWH7nxZhWXJ0YdKB1VvA"
+    ],
+    "titles": [],
+    "title": "Business Contact | Jewelers Mutual Group"
+   },
+   "https://www.jewelersmutual.com/jewelry-insurance-explained/appraisals": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/JewelersMutual",
+     "https://www.instagram.com/JewelersMutual",
+     "https://www.linkedin.com/company/jewelers-mutual-insurance-company",
+     "https://www.tiktok.com/@jewelersmutual",
+     "https://www.twitter.com/JewelersMutual",
+     "https://www.youtube.com/channel/UCnGtWH7nxZhWXJ0YdKB1VvA",
+     "https://www.youtube.com/embed/KaLJykp10G0"
+    ],
+    "titles": [],
+    "title": "Jewelry appraisals | Jewelers Mutual"
+   }
+  },
+  "final": "https://www.jewelersmutual.com/",
+  "err": ""
+ },
+ {
+  "i": 105,
+  "root": "http://www.jewelsmiths.net",
+  "pages": {
+   "https://www.jewelsmiths.net/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "(405) 848-1688"
+    ],
+    "phones": [
+     "(405) 848-1688"
+    ],
+    "soc": [
+     "https://twitter.com/jewelsmiths1",
+     "https://www.facebook.com/JewelSmiths",
+     "https://www.instagram.com/jewelsmiths",
+     "https://www.pinterest.com/jewelsmithsokc",
+     "https://x.com/jewelsmiths1"
+    ],
+    "titles": [],
+    "title": "JewelSmiths \u2013 Oklahoma City\u2019s Home for Fine Jewelry, Diamonds & Engagement Rings"
+   },
+   "https://www.jewelsmiths.net/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "(405) 848-1688",
+     "4058481688"
+    ],
+    "phones": [
+     "(405) 848-1688"
+    ],
+    "soc": [
+     "https://twitter.com/jewelsmiths1",
+     "https://www.facebook.com/JewelSmiths",
+     "https://www.instagram.com/jewelsmiths",
+     "https://www.pinterest.com/jewelsmithsokc",
+     "https://x.com/jewelsmiths1"
+    ],
+    "titles": [],
+    "title": "Contact Jewel Smiths | Oklahoma City, OK"
+   },
+   "https://www.jewelsmiths.net/contact?location=1": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "(405) 848-1688",
+     "4058481688"
+    ],
+    "phones": [
+     "(405) 848-1688"
+    ],
+    "soc": [
+     "https://twitter.com/jewelsmiths1",
+     "https://www.facebook.com/JewelSmiths",
+     "https://www.instagram.com/jewelsmiths",
+     "https://www.pinterest.com/jewelsmithsokc",
+     "https://x.com/jewelsmiths1"
+    ],
+    "titles": [],
+    "title": "Contact Jewel Smiths | Oklahoma City, OK"
+   },
+   "https://www.jewelsmiths.net/pages/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "(405) 848-1688"
+    ],
+    "phones": [
+     "(405) 848-1688"
+    ],
+    "soc": [
+     "https://www.facebook.com/JewelSmiths",
+     "https://www.instagram.com/jewelsmiths",
+     "https://www.pinterest.com/jewelsmithsokc",
+     "https://x.com/jewelsmiths1"
+    ],
+    "titles": [],
+    "title": "Jewel Smiths Oklahoma City | Custom Engagement Ring Designs"
+   },
+   "https://www.jewelsmiths.net/pages/custom-jewelry": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "(405) 848-1688"
+    ],
+    "phones": [
+     "(405) 848-1688"
+    ],
+    "soc": [
+     "https://www.facebook.com/JewelSmiths",
+     "https://www.instagram.com/jewelsmiths",
+     "https://www.pinterest.com/jewelsmithsokc",
+     "https://x.com/jewelsmiths1"
+    ],
+    "titles": [],
+    "title": "Custom Jewelry Design in Oklahoma City"
+   },
+   "https://www.jewelsmiths.net/pages/lab-grown-diamonds": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "(405) 848-1688"
+    ],
+    "phones": [
+     "(405) 848-1688"
+    ],
+    "soc": [
+     "https://www.facebook.com/JewelSmiths",
+     "https://www.instagram.com/jewelsmiths",
+     "https://www.pinterest.com/jewelsmithsokc",
+     "https://x.com/jewelsmiths1"
+    ],
+    "titles": [],
+    "title": "Lab Grown Diamond Jewelry in Oklahoma City"
+   }
+  },
+  "final": "https://www.jewelsmiths.net/",
+  "err": ""
+ },
+ {
+  "i": 107,
+  "root": "http://www.jonnyritz.com",
+  "pages": {
+   "https://www.jonnyritz.com/": {
+    "mailto": [
+     "jonny@jonnyritz.com"
+    ],
+    "email_text": [
+     "jonny@jonnyritz.com"
+    ],
+    "tel": [
+     "+12134895111",
+     "2134895111"
+    ],
+    "phones": [
+     "(213) 489-5111"
+    ],
+    "soc": [
+     "http://instagram.com/brilliancewithjonnyritz",
+     "http://www.facebook.com/2008/fbml",
+     "https://www.facebook.com/jonnyritzandco"
+    ],
+    "titles": [],
+    "title": "Jonny Ritz & Company"
+   },
+   "https://www.jonnyritz.com/contact-us": {
+    "mailto": [
+     "jonny@jonnyritz.com"
+    ],
+    "email_text": [
+     "jonny@jonnyritz.com"
+    ],
+    "tel": [
+     "+12134895111",
+     "+2134895111"
+    ],
+    "phones": [
+     "(213) 489-5111"
+    ],
+    "soc": [
+     "http://instagram.com/brilliancewithjonnyritz",
+     "http://www.facebook.com/2008/fbml",
+     "https://www.facebook.com/jonnyritzandco"
+    ],
+    "titles": [],
+    "title": "Contact Us \u2014 Jonny Ritz & Company"
+   }
+  },
+  "final": "https://www.jonnyritz.com/",
+  "err": ""
+ },
+ {
+  "i": 112,
+  "root": "http://eighternity.com",
+  "pages": {
+   "https://eighternity.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [
+     "800-527-3002"
+    ],
+    "soc": [
+     "http://instagram.com/elegancebyeighternity",
+     "http://www.facebook.com/2008/fbml",
+     "https://www.facebook.com/EIGHTERNITYFANPAGE"
+    ],
+    "titles": [],
+    "title": "Eighternity"
+   },
+   "https://eighternity.com/contact-eighternity": {
+    "mailto": [
+     "krgems@krgems.com"
+    ],
+    "email_text": [
+     "krgems@krgems.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213-627-6636",
+     "800-527-3002"
+    ],
+    "soc": [
+     "http://instagram.com/elegancebyeighternity",
+     "http://www.facebook.com/2008/fbml",
+     "https://www.facebook.com/EIGHTERNITYFANPAGE"
+    ],
+    "titles": [],
+    "title": "Los Angeles \u2014 Eighternity"
+   }
+  },
+  "final": "https://eighternity.com/",
+  "err": ""
+ },
+ {
+  "i": 113,
+  "root": "http://www.karatrade.com",
+  "pages": {
+   "https://www.karatrade.com/password": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "\u2013 Karatrade Inc"
+   }
+  },
+  "final": "https://www.karatrade.com/password",
+  "err": ""
+ },
+ {
+  "i": 114,
+  "root": "http://www.kattanjewelry.com",
+  "pages": {
+   "https://www.kattanjewelry.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Just a moment..."
+   }
+  },
+  "final": "https://www.kattanjewelry.com/",
+  "err": "status 403"
+ },
+ {
+  "i": 117,
+  "root": "https://kirstenscorner.com",
+  "pages": {
+   "https://kirstenscorner.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/pg/curatedtreasures/shop/",
+     "https://www.instagram.com/kirstenscorner"
+    ],
+    "titles": [],
+    "title": "Kirsten's Corner \u2013 Kirsten's Corner"
+   },
+   "https://kirstenscorner.com/pages/about": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/pg/curatedtreasures/shop/",
+     "https://www.instagram.com/kirstenscorner"
+    ],
+    "titles": [],
+    "title": "About Kirsten's Corner | Kirsten's Corner"
+   },
+   "https://kirstenscorner.com/pages/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/pg/curatedtreasures/shop/",
+     "https://www.instagram.com/kirstenscorner"
+    ],
+    "titles": [],
+    "title": "FAQ \u2013 Kirsten's Corner"
+   },
+   "https://kirstenscorner.com/pages/contact-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/pg/curatedtreasures/shop/",
+     "https://www.instagram.com/kirstenscorner"
+    ],
+    "titles": [],
+    "title": "Contact \u2013 Kirsten's Corner"
+   }
+  },
+  "final": "https://kirstenscorner.com/",
+  "err": ""
+ },
+ {
+  "i": 118,
+  "root": "http://www.kobelli.com",
+  "pages": {
+   "https://kobelli.com/": {
+    "mailto": [],
+    "email_text": [
+     "info@kobelli.com"
+    ],
+    "tel": [],
+    "phones": [
+     "800.432.3222"
+    ],
+    "soc": [
+     "https://twitter.com/kobellijewelry",
+     "https://www.facebook.com/KobelliJewelry",
+     "https://www.instagram.com/kobellijewelry",
+     "https://www.instagram.com/p/DOhprJmEY2_",
+     "https://www.instagram.com/p/DVm3YkgFCfz",
+     "https://www.instagram.com/p/DVr6wrzkcj6",
+     "https://www.pinterest.com/kobelli",
+     "https://www.tiktok.com/@kobelli",
+     "https://www.youtube.com/user/DiamondMeJewelry"
+    ],
+    "titles": [],
+    "title": "Kobelli USA Fine Jewelry Since 1980 Made in Los Angeles"
+   },
+   "https://kobelli.com/pages/about-us": {
+    "mailto": [
+     "info@kobelli.com"
+    ],
+    "email_text": [
+     "avi@kobelli.com",
+     "info@kobelli.com"
+    ],
+    "tel": [
+     "2136890076"
+    ],
+    "phones": [
+     "(213) 689-0076",
+     "(800) 432-3222",
+     "800.432.3222"
+    ],
+    "soc": [
+     "https://twitter.com/kobellijewelry",
+     "https://www.facebook.com/KobelliJewelry",
+     "https://www.instagram.com/kobellijewelry",
+     "https://www.pinterest.com/kobelli",
+     "https://www.tiktok.com/@kobelli",
+     "https://www.youtube.com/user/DiamondMeJewelry"
+    ],
+    "titles": [],
+    "title": "Our Story\n \u2013 Kobelli"
+   },
+   "https://kobelli.com/pages/contact-us": {
+    "mailto": [
+     "info@kobelli.com"
+    ],
+    "email_text": [
+     "avi@kobelli.com",
+     "info@kobelli.com"
+    ],
+    "tel": [
+     "2136890076"
+    ],
+    "phones": [
+     "(213) 689-0076",
+     "(800) 432-3222",
+     "800.432.3222"
+    ],
+    "soc": [
+     "https://twitter.com/kobellijewelry",
+     "https://www.facebook.com/KobelliJewelry",
+     "https://www.instagram.com/kobellijewelry",
+     "https://www.instagram.com/stories/highlights/18000705068309552",
+     "https://www.pinterest.com/kobelli",
+     "https://www.tiktok.com/@kobelli",
+     "https://www.youtube.com/user/DiamondMeJewelry"
+    ],
+    "titles": [],
+    "title": "Contact Kobelli Fine Jewelry | Help"
+   },
+   "https://kobelli.com/pages/about": {
+    "mailto": [
+     "info@kobelli.com"
+    ],
+    "email_text": [
+     "avi@kobelli.com",
+     "info@kobelli.com"
+    ],
+    "tel": [
+     "2136890076"
+    ],
+    "phones": [
+     "(213) 689-0076",
+     "(800) 432-3222",
+     "800.432.3222"
+    ],
+    "soc": [
+     "https://twitter.com/kobellijewelry",
+     "https://www.facebook.com/KobelliJewelry",
+     "https://www.instagram.com/kobellijewelry",
+     "https://www.pinterest.com/kobelli",
+     "https://www.tiktok.com/@kobelli",
+     "https://www.youtube.com/user/DiamondMeJewelry"
+    ],
+    "titles": [],
+    "title": "About Kobelli Fine Jewelry"
+   },
+   "https://kobelli.com/policies/contact-information": {
+    "mailto": [],
+    "email_text": [
+     "Info@kobelli.com",
+     "info@kobelli.com"
+    ],
+    "tel": [],
+    "phones": [
+     "(800) 432-3222",
+     "800.432.3222"
+    ],
+    "soc": [
+     "https://twitter.com/kobellijewelry",
+     "https://www.facebook.com/KobelliJewelry",
+     "https://www.instagram.com/kobellijewelry",
+     "https://www.pinterest.com/kobelli",
+     "https://www.tiktok.com/@kobelli",
+     "https://www.youtube.com/user/DiamondMeJewelry"
+    ],
+    "titles": [],
+    "title": "Contact information\n \u2013 Kobelli"
+   }
+  },
+  "final": "https://kobelli.com/",
+  "err": ""
+ },
+ {
+  "i": 120,
+  "root": "http://www.kothariandcompany.com",
+  "pages": {
+   "https://www.kothariandcompany.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Kothari & Company"
+   },
+   "https://www.kothariandcompany.com/contact": {
+    "mailto": [
+     "ACCOUNTING@KOTHARIANDCOMPANY.COM",
+     "JOSH@KOTHARIANDCOMPANY.COM",
+     "LAUREN@KOTHARIANDCOMPANY.COM",
+     "NAINA@KOTHARIANDCOMPANY.COM",
+     "RAJ@KOTHARIANDCOMPANY.COM"
+    ],
+    "email_text": [
+     "ACCOUNTING@KOTHARIANDCOMPANY.COM",
+     "JOSH@KOTHARIANDCOMPANY.COM",
+     "LAUREN@KOTHARIANDCOMPANY.COM",
+     "NAINA@KOTHARIANDCOMPANY.COM",
+     "RAJ@KOTHARIANDCOMPANY.COM"
+    ],
+    "tel": [],
+    "phones": [
+     "(212) 203-1902",
+     "(213) 627-3456"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Contact"
+   },
+   "https://www.kothariandcompany.com/our-group": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Our Group"
+   }
+  },
+  "final": "https://www.kothariandcompany.com/",
+  "err": ""
+ },
+ {
+  "i": 121,
+  "root": "http://www.krainzcreations.com",
+  "pages": {
+   "https://www.krainzcreations.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/krainzcreations",
+     "https://www.instagram.com/krainz_creations",
+     "https://www.linkedin.com/company/krainz-creations"
+    ],
+    "titles": [
+     "Weinman, CEO of Continental Buying Group Krainz Creations embodies the same dedication to",
+     "Kalpesh Jhaveri Founder & CEO, K",
+     "View More Ronnie Vanderlinden Owner of Diamex, INC"
+    ],
+    "title": "Krainz Creations | Tailored Manufacturing Simplified"
+   },
+   "https://www.krainzcreations.com/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/krainzcreations/",
+     "https://www.instagram.com/krainz_creations/",
+     "https://www.linkedin.com/company/64670531/admin/dashboard/"
+    ],
+    "titles": [],
+    "title": "Krainz Creations | About Us"
+   },
+   "https://www.krainzcreations.com/contact-us": {
+    "mailto": [
+     "info@krainzcreations.com"
+    ],
+    "email_text": [
+     "info@krainzcreations.com"
+    ],
+    "tel": [
+     "(212)%20583-1555"
+    ],
+    "phones": [
+     "(212) 583-1555"
+    ],
+    "soc": [
+     "https://www.facebook.com/krainzcreations",
+     "https://www.facebook.com/krainzcreations/",
+     "https://www.instagram.com/krainz_creations",
+     "https://www.instagram.com/krainz_creations/",
+     "https://www.linkedin.com/company/64670531/admin/dashboard/",
+     "https://www.linkedin.com/company/krainz-creations"
+    ],
+    "titles": [
+     "Krainz Creations | Contact Us Contact Us Partner With Krainz Creations Whether you\u2019re designing a new collection or crafting a"
+    ],
+    "title": "Krainz Creations | Contact Us"
+   },
+   "https://www.krainzcreations.com/our-promise": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/krainzcreations/",
+     "https://www.instagram.com/krainz_creations/",
+     "https://www.linkedin.com/company/64670531/admin/dashboard/"
+    ],
+    "titles": [],
+    "title": "Krainz Creations | Our Promise"
+   }
+  },
+  "final": "https://www.krainzcreations.com/",
+  "err": ""
+ },
+ {
+  "i": 124,
+  "root": "https://labondiamonds.com",
+  "pages": {
+   "https://labondiamonds.com/": {
+    "mailto": [
+     "info@example.com",
+     "sales@labondiamonds.com"
+    ],
+    "email_text": [
+     "info@example.com",
+     "sales@labondiamonds.com"
+    ],
+    "tel": [
+     "+1 315 207 7066",
+     "123456789",
+     "98210009630"
+    ],
+    "phones": [
+     "(213) 688-8704",
+     "(315) 207-7066",
+     "315 207 7066"
+    ],
+    "soc": [
+     "https://twitter.com/LabonDiamonds",
+     "https://www.facebook.com/LabonDiamonds",
+     "https://www.instagram.com/LabonDiamonds",
+     "https://www.pinterest.com/LabonDiamonds",
+     "https://www.youtube.com/channel/UCFOHYjXiRarw4FMW10DiJPQ"
+    ],
+    "titles": [],
+    "title": "Labon"
+   },
+   "https://labondiamonds.com/about": {
+    "mailto": [
+     "info@example.com",
+     "sales@labondiamonds.com"
+    ],
+    "email_text": [
+     "info@example.com",
+     "sales@labondiamonds.com"
+    ],
+    "tel": [
+     "+1 315 207 7066",
+     "123456789",
+     "98210009630"
+    ],
+    "phones": [
+     "(213) 688-8704",
+     "(315) 207-7066",
+     "315 207 7066"
+    ],
+    "soc": [
+     "https://twitter.com/LabonDiamonds",
+     "https://www.facebook.com/LabonDiamonds",
+     "https://www.instagram.com/LabonDiamonds",
+     "https://www.pinterest.com/LabonDiamonds",
+     "https://www.youtube.com/channel/UCFOHYjXiRarw4FMW10DiJPQ"
+    ],
+    "titles": [],
+    "title": "Labon"
+   },
+   "https://labondiamonds.com/contact": {
+    "mailto": [
+     "info@example.com",
+     "sales@labondiamonds.com"
+    ],
+    "email_text": [
+     "info@example.com",
+     "sales@labondiamonds.com"
+    ],
+    "tel": [
+     "+1 315 207 7066",
+     "123456789",
+     "98210009630"
+    ],
+    "phones": [
+     "(213) 688-8704",
+     "(315) 207-7066",
+     "315 207 7066"
+    ],
+    "soc": [
+     "https://twitter.com/LabonDiamonds",
+     "https://www.facebook.com/LabonDiamonds",
+     "https://www.instagram.com/LabonDiamonds",
+     "https://www.pinterest.com/LabonDiamonds",
+     "https://www.youtube.com/channel/UCFOHYjXiRarw4FMW10DiJPQ"
+    ],
+    "titles": [],
+    "title": "Labon"
+   }
+  },
+  "final": "https://labondiamonds.com/",
+  "err": ""
+ },
+ {
+  "i": 125,
+  "root": "http://ladddiamonds.com",
+  "pages": {
+   "https://ladddiamonds.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "403 Forbidden"
+   }
+  },
+  "final": "https://ladddiamonds.com/",
+  "err": "status 403"
+ },
+ {
+  "i": 126,
+  "root": "http://lazardiamonds.com",
+  "pages": {
+   "https://www.lazardiamonds.com/": {
+    "mailto": [
+     "hello@lazardiamonds.com"
+    ],
+    "email_text": [
+     "hello@lazardiamonds.com"
+    ],
+    "tel": [
+     "800-553-5133"
+    ],
+    "phones": [
+     "213-488-0678",
+     "213-629-9036",
+     "800-553-5133"
+    ],
+    "soc": [
+     "https://www.instagram.com/lazar_diamonds"
+    ],
+    "titles": [],
+    "title": "Lazar Diamonds"
+   },
+   "https://www.lazardiamonds.com/pages/contact": {
+    "mailto": [
+     "hello@lazardiamonds.com",
+     "mail@lazardiamonds.com"
+    ],
+    "email_text": [
+     "hello@lazardiamonds.com"
+    ],
+    "tel": [
+     "2134880678",
+     "800-553-5133",
+     "8005535133"
+    ],
+    "phones": [
+     "213-488-0678",
+     "213-629-9036",
+     "800-553-5133"
+    ],
+    "soc": [
+     "https://www.instagram.com/lazar_diamonds"
+    ],
+    "titles": [],
+    "title": "Contact\n \u2013 Lazar Diamonds"
+   }
+  },
+  "final": "https://www.lazardiamonds.com/",
+  "err": ""
+ },
+ {
+  "i": 130,
+  "root": "http://www.ladiamondfactory.com",
+  "pages": {
+   "https://www.ladiamondfactory.com/": {
+    "mailto": [],
+    "email_text": [
+     "info@ladiamondfactory.com"
+    ],
+    "tel": [],
+    "phones": [
+     "(800) 652-7237"
+    ],
+    "soc": [
+     "https://twitter.com/DiamondFactory",
+     "https://www.facebook.com/losangelesdiamondfactory",
+     "https://www.instagram.com/ladiamondfactory"
+    ],
+    "titles": [],
+    "title": "Los Angeles Diamond Factory"
+   },
+   "https://www.ladiamondfactory.com/pages/about-us": {
+    "mailto": [],
+    "email_text": [
+     "info@ladiamondfactory.com"
+    ],
+    "tel": [],
+    "phones": [
+     "(800) 652-7237"
+    ],
+    "soc": [
+     "https://twitter.com/DiamondFactory",
+     "https://www.facebook.com/losangelesdiamondfactory",
+     "https://www.instagram.com/ladiamondfactory"
+    ],
+    "titles": [
+     "Return to shop Title page Home / About Us 30 years in the industry Los Angeles Diamond Factory was founded by Mervyn Hahn in 1981 with the objective of giving the customer first rate service with a superior quality product which"
+    ],
+    "title": "About Us\n \u2013 Los Angeles Diamond Factory"
+   },
+   "https://www.ladiamondfactory.com/pages/contact": {
+    "mailto": [
+     "info@ladiamondfactory.com"
+    ],
+    "email_text": [
+     "info@ladiamondfactory.com"
+    ],
+    "tel": [
+     "(213)6278700",
+     "(818) 342-6663"
+    ],
+    "phones": [
+     "(800) 652-7237"
+    ],
+    "soc": [
+     "https://twitter.com/DiamondFactory",
+     "https://www.facebook.com/losangelesdiamondfactory",
+     "https://www.instagram.com/ladiamondfactory"
+    ],
+    "titles": [],
+    "title": "Contact\n \u2013 Los Angeles Diamond Factory"
+   }
+  },
+  "final": "https://www.ladiamondfactory.com/",
+  "err": ""
+ },
+ {
+  "i": 131,
+  "root": "http://www.luxurydiamondsllc.com",
+  "pages": {
+   "https://www.luxurydiamondsllc.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Luxury Diamonds LLC"
+   }
+  },
+  "final": "https://www.luxurydiamondsllc.com/",
+  "err": ""
+ },
+ {
+  "i": 132,
+  "root": "http://www.kantorgems.com",
+  "pages": {
+   "https://kantorgems.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/KantorGems",
+     "https://www.instagram.com/kantorgems",
+     "https://www.instagram.com/kantorgems/"
+    ],
+    "titles": [],
+    "title": "M. Kantor and Associates\n \u2013 M. Kantor & Associates"
+   },
+   "https://kantorgems.com/pages/contact": {
+    "mailto": [],
+    "email_text": [
+     "kimberly@kantorgems.com"
+    ],
+    "tel": [],
+    "phones": [
+     "(310) 246-2408"
+    ],
+    "soc": [
+     "https://www.facebook.com/KantorGems",
+     "https://www.instagram.com/kantorgems",
+     "https://www.instagram.com/kantorgems/"
+    ],
+    "titles": [],
+    "title": "Contact Us\n \u2013 M. Kantor & Associates"
+   },
+   "https://kantorgems.com/pages/estate-buying": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [
+     "310-246-2408"
+    ],
+    "soc": [
+     "https://www.facebook.com/KantorGems",
+     "https://www.instagram.com/kantorgems/"
+    ],
+    "titles": [],
+    "title": "Estate Buying\n \u2013 M. Kantor & Associates"
+   },
+   "https://kantorgems.com/policies/contact-information": {
+    "mailto": [],
+    "email_text": [
+     "kimberly@kantorgems.com"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/KantorGems",
+     "https://www.instagram.com/kantorgems/"
+    ],
+    "titles": [],
+    "title": "Contact information\n \u2013 M. Kantor & Associates"
+   }
+  },
+  "final": "https://kantorgems.com/",
+  "err": ""
+ },
+ {
+  "i": 133,
+  "root": "http://www.mmjewels.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.mmjewels.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"H"
+ },
+ {
+  "i": 134,
+  "root": "http://msdiamonds.la",
+  "pages": {
+   "https://msdiamonds.la/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "2136275188"
+    ],
+    "phones": [
+     "(213) 627-5188"
+    ],
+    "soc": [
+     "https://www.facebook.com/DiamondsandJewelry",
+     "https://www.instagram.com/msdiamondsandjewelry"
+    ],
+    "titles": [],
+    "title": "MS Diamonds"
+   },
+   "https://msdiamonds.la/about/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "2136275188"
+    ],
+    "phones": [
+     "(213) 627-5188"
+    ],
+    "soc": [
+     "https://www.facebook.com/DiamondsandJewelry",
+     "https://www.instagram.com/msdiamondsandjewelry"
+    ],
+    "titles": [
+     "Founder/President Moshe Salem, a member and President of the Diamond Club West Coast, formed this company with the following vision in mind: \"Being in the diamond business s"
+    ],
+    "title": "About \u2013 MS Diamonds"
+   },
+   "https://msdiamonds.la/contact/": {
+    "mailto": [],
+    "email_text": [
+     "info@msdiamonds.la"
+    ],
+    "tel": [
+     "2136275188"
+    ],
+    "phones": [
+     "(213) 627-5188"
+    ],
+    "soc": [
+     "https://www.facebook.com/DiamondsandJewelry",
+     "https://www.instagram.com/msdiamondsandjewelry"
+    ],
+    "titles": [],
+    "title": "Contact \u2013 MS Diamonds"
+   }
+  },
+  "final": "https://msdiamonds.la/",
+  "err": ""
+ },
+ {
+  "i": 136,
+  "root": "http://www.malca-amit.com",
+  "pages": {
+   "https://www.malca-amit.com/": {
+    "mailto": [],
+    "email_text": [
+     "lms@malca-amit.com"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/MyMalcaAmit",
+     "https://www.linkedin.com/company/malca-amit",
+     "https://www.youtube.com/user/MalcaAmitGlobal"
+    ],
+    "titles": [],
+    "title": "Malca-Amit - Delivering Absolute Peace of Mind"
+   },
+   "https://www.malca-amit.com/about": {
+    "mailto": [],
+    "email_text": [
+     "lms@malca-amit.com"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/MyMalcaAmit",
+     "https://www.linkedin.com/company/malca-amit",
+     "https://www.youtube.com/user/MalcaAmitGlobal"
+    ],
+    "titles": [],
+    "title": "Malca-Amit - About"
+   },
+   "https://www.malca-amit.com/contact": {
+    "mailto": [],
+    "email_text": [
+     "Info.yzf@malca-amit.com",
+     "Napoli.Ops@malca-amit.com",
+     "Operation.VNM@malca-Amit.com",
+     "Sabir.bhr@malca-amit.com",
+     "Sales.TYO@malca-amit.com",
+     "Sales.mal@malca-amit.com",
+     "airport@valex.co.kr",
+     "australia@malca-amit.com",
+     "austria@malca-amit.com",
+     "brett.nortje@malca-amit.co.bw",
+     "charl.roberts@malca-amit.com",
+     "cs.paris@malca-amit.com",
+     "customerservice.anr@malca-amit.com",
+     "denmark@malca-amit.com",
+     "dominicanrepublic@malca-amit.com",
+     "donovan.mothilal@malca-amit.co.za",
+     "export.nice@malca-amit.com",
+     "exportcmb@malca-amit.com",
+     "finland@malca-amit.com",
+     "gayane.evn@malca-amit.com",
+     "graeme.lazarus@malca-amit.co.za",
+     "grant.lakey@malca-amit.co.za",
+     "grievance.ind@malca-amit.com",
+     "guy.pan@malca-amit.com",
+     "hub.ky@malca-amit.com",
+     "import.lax@malca-amit.com",
+     "import.tyo@malca-amit.com",
+     "importcmb@malca-amit.com",
+     "importsJHB@ramgroup.co.za",
+     "indonesia@malca-amit.com",
+     "info.bkk@malca-amit.com",
+     "info.cmb@malca-amit.com",
+     "info.dal@malca-amit.com",
+     "info.ger@malca-amit.com",
+     "info.gva@malca-amit.com",
+     "info.ita@malca-amit.com",
+     "info.kor@malca-amit.com",
+     "info.tlv@malca-amit.com",
+     "info.tor@malca-amit.com",
+     "info.yzf@malca-amit.com",
+     "info.zrh@malca-amit.com",
+     "info1.nyc@malca-amit.com",
+     "info@gemlab.be",
+     "info@gemtrade.be",
+     "ireland@malca-amit.com",
+     "jordan@malca-amit.com",
+     "kineret.bitton@malca-amit.co.za",
+     "linda.dejesus@ramgroup.co.za",
+     "lms@malca-amit.com",
+     "maa.nyc@malca-amit.com",
+     "macau@malca-amit.com",
+     "machi@malca-amit.com",
+     "majk@malca-amit.com",
+     "majkgnd@malca-amit.com",
+     "majkjaipur@malca-amit.com",
+     "majkspz@malca-amit.com",
+     "majksurat@malca-amit.com",
+     "malaysia@malca-amit.com",
+     "namibia@malca-amit.co.za",
+     "nathan.lazarus@ramgroup.co.za",
+     "newzealand@malca-amit.com",
+     "operation.ita@malca-amit.com",
+     "panyu.cn@malca-amit.com",
+     "pek.cn@malca-amit.com",
+     "portugal@malca-amit.com",
+     "sales.HKG@malca-amit.com",
+     "sales.bkk@malca-amit.com",
+     "sales.hou@malca-amit.com",
+     "sales.lax@malca-amit.com",
+     "sales.lon@malca-amit.com",
+     "sales.mia@malca-amit.com",
+     "sales.nl@malca-amit.com",
+     "sales.nyc@malca-amit.com",
+     "shanghai@malca-amit.com",
+     "sharon.nortje@malca-amit.co.bw",
+     "shenyang@malca-amit.com",
+     "shenzhen@malca-amit.com",
+     "singapore@malca-amit.com",
+     "spain@malca-amit.com",
+     "taiwan@malca-amit.com",
+     "tao.cn@malca-amit.com",
+     "turkey@malca-amit.com",
+     "uae@malca-amit.com",
+     "vietnam@malca-amit.com"
+    ],
+    "tel": [],
+    "phones": [
+     "(011) 334 8877",
+     "(011) 334 8878",
+     "(021) 951 6670",
+     "(021) 958 2600",
+     "(212) 819-9636",
+     "(212) 840-1368",
+     "(212) 840-8330",
+     "(213) 627-1103",
+     "(213) 627-1140",
+     "(305) 358-8610"
+    ],
+    "soc": [
+     "https://www.facebook.com/MyMalcaAmit",
+     "https://www.linkedin.com/company/malca-amit",
+     "https://www.youtube.com/user/MalcaAmitGlobal"
+    ],
+    "titles": [],
+    "title": "Contact | Malca-Amit"
+   }
+  },
+  "final": "https://www.malca-amit.com/",
+  "err": ""
+ },
+ {
+  "i": 138,
+  "root": "http://www.sammandlerjewelry.com",
+  "pages": {
+   "https://www.sammandlerjewelry.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [
+     "213.624.1427"
+    ],
+    "soc": [
+     "https://www.youtube.com/watch"
+    ],
+    "titles": [
+     "Watch Our President at Sam Mandler Jewelry VIDEO Best Buys with Alan Mendelson MEMBER OF: FOLLOW US Contact Us About Us All jewelry by S M"
+    ],
+    "title": "Sam Mandler Jewelry"
+   },
+   "https://www.sammandlerjewelry.com/contact-us": {
+    "mailto": [],
+    "email_text": [
+     "lebmar1@sbcglobal.net"
+    ],
+    "tel": [],
+    "phones": [
+     "(213) 489.2827",
+     "(213) 624.1427",
+     "213.624.1427"
+    ],
+    "soc": [
+     "https://www.youtube.com/watch"
+    ],
+    "titles": [
+     "Your details were sent successfully! Send Watch Our President at Sam Mandler Jewelry VIDEO Best Buys with Alan Mendelson MEMBER OF: FOLLOW US Contact Us About Us All jewelry by S M"
+    ],
+    "title": "CONTACT"
+   },
+   "https://www.sammandlerjewelry.com/our-story": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [
+     "213-624-1427",
+     "213.624.1427"
+    ],
+    "soc": [
+     "https://www.youtube.com/watch"
+    ],
+    "titles": [
+     "Suite 1640Los Angeles, Ca 90013 Watch Our President at Sam Mandler Jewelry VIDEO Best Buys with Alan Mendelson MEMBER OF: FOLLOW US Contact Us About Us All jewelry by S M"
+    ],
+    "title": "OUR STORY"
+   }
+  },
+  "final": "https://www.sammandlerjewelry.com/",
+  "err": ""
+ },
+ {
+  "i": 143,
+  "root": "http://www.miraklegems.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.miraklegems.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError"
+ },
+ {
+  "i": 146,
+  "root": "http://www.nadis.com",
+  "pages": {
+   "https://www.nadis.com/": {
+    "mailto": [
+     "info@nadis.com"
+    ],
+    "email_text": [
+     "info@nadis.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213-489-1915",
+     "213.489.1915"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Nadis Diamonds Inc"
+   },
+   "https://www.nadis.com/about-us": {
+    "mailto": [
+     "info@nadis.com"
+    ],
+    "email_text": [
+     "info@nadis.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213-489-1915",
+     "213.489.1915"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "About Us"
+   },
+   "https://www.nadis.com/contact": {
+    "mailto": [
+     "info@nadis.com"
+    ],
+    "email_text": [
+     "info@nadis.com"
+    ],
+    "tel": [],
+    "phones": [
+     "213-489-1915",
+     "213-489-5428",
+     "213.489.1915"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Contact Us"
+   }
+  },
+  "final": "https://www.nadis.com/",
+  "err": ""
+ },
+ {
+  "i": 149,
+  "root": "http://www.neongemsinc.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.neongemsinc.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError"
+ },
+ {
+  "i": 150,
+  "root": "http://www.ninacci.com",
+  "pages": {
+   "https://ninacci.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Ninacci Inc"
+   },
+   "https://ninacci.com/about": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Ninacci Inc"
+   },
+   "https://ninacci.com/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Ninacci Inc"
+   },
+   "https://ninacci.com/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Ninacci Inc"
+   },
+   "https://ninacci.com/contact-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Ninacci Inc"
+   }
+  },
+  "final": "https://ninacci.com/",
+  "err": ""
+ },
+ {
+  "i": 151,
+  "root": "http://novadiamond.us",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='novadiamond.us', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTT"
+ },
+ {
+  "i": 153,
+  "root": "http://www.eternityband.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.eternityband.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionErro"
+ },
+ {
+  "i": 155,
+  "root": "http://www.palakdiamond.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.palakdiamond.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionErro"
+ },
+ {
+  "i": 156,
+  "root": "http://www.paradisediamonds.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.paradisediamonds.com', port=80): Max retries exceeded with url: / (Caused by NameResolution"
+ },
+ {
+  "i": 158,
+  "root": "http://www.philipwolman.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.philipwolman.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionErro"
+ },
+ {
+  "i": 161,
+  "root": "http://www.platinumlearning.com",
+  "pages": {
+   "https://www.platinumlearning.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Home | Platinum Resource Center"
+   },
+   "https://www.platinumlearning.com/about/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "What We Do | Platinum Resource Center"
+   },
+   "https://www.platinumlearning.com/contact-us/": {
+    "mailto": [
+     "jluker@pgiglobal.com",
+     "kreilly@pgiglobal.com"
+    ],
+    "email_text": [
+     "jluker@pgiglobal.com",
+     "kreilly@pgiglobal.com"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [
+     "nical Resources Contact Source Book Inoveo Platinum Contact Us Contact PGI USA by email: Business & Trade: Jenny Luker (President) jluker@pgiglobal",
+     "com Kevin Reilly (Vice President) kreilly@pgiglobal"
+    ],
+    "title": "Contact Us | Platinum Resource Center"
+   }
+  },
+  "final": "https://www.platinumlearning.com/",
+  "err": ""
+ },
+ {
+  "i": 164,
+  "root": "http://www.prijems.com",
+  "pages": {
+   "https://www.prijems.com/": {
+    "mailto": [
+     "sales@prijems.com"
+    ],
+    "email_text": [
+     "sales@prijems.com"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/prijems"
+    ],
+    "titles": [
+     "\" Jay Shah, Founder Prijems \u00b7 Est"
+    ],
+    "title": "PRIJEMS"
+   },
+   "https://www.prijems.com/pages/about-1": {
+    "mailto": [
+     "sales@prijems.com"
+    ],
+    "email_text": [
+     "sales@prijems.com"
+    ],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/prijems"
+    ],
+    "titles": [
+     "\u25c6 Stones with a story \u25c6 Since 1985 \u25c6 Founded by Jay & Priti Shah \u25c6 Fourth-generation family business \u25c6 Harsheel Shah, President since 2010 \u25c6 Los Angeles \u00b7 Mumbai \u00b7 Surat \u25c6 Still family-run, forty-one years on \u25c6 We don't follow trends",
+     "\u25c6 Stones with a story \u25c6 Since 1985 \u25c6 Founded by Jay & Priti Shah \u25c6 Fourth-generation family business \u25c6 Harsheel Shah, President since 2010 \u25c6 Los Angeles \u00b7 Mumbai \u00b7 Surat \u25c6 Still family-run, forty-one years on \u25c6 The Founding Built by two people, no"
+    ],
+    "title": "Our Story - PRIJEMS"
+   },
+   "https://www.prijems.com/pages/contact": {
+    "mailto": [
+     "sales@modernrusticdiamond.com",
+     "sales@prijems.com"
+    ],
+    "email_text": [
+     "sales@modernrusticdiamond.com",
+     "sales@prijems.com"
+    ],
+    "tel": [],
+    "phones": [
+     "(213) 489-1234"
+    ],
+    "soc": [
+     "https://www.instagram.com/prijems"
+    ],
+    "titles": [],
+    "title": "Contact Us - PRIJEMS"
+   }
+  },
+  "final": "https://www.prijems.com/",
+  "err": ""
+ },
+ {
+  "i": 168,
+  "root": "http://www.rahaminov.com",
+  "pages": {
+   "https://www.rahaminov.com/": {
+    "mailto": [
+     "info@rahaminov.com"
+    ],
+    "email_text": [
+     "info@rahaminov.com"
+    ],
+    "tel": [
+     "+12136229866"
+    ],
+    "phones": [
+     "(213) 622-9866"
+    ],
+    "soc": [
+     "https://www.facebook.com/rahaminovdiamonds",
+     "https://www.instagram.com/rahaminovdiamonds",
+     "https://x.com/rahaminodiamonds"
+    ],
+    "titles": [
+     "olored Gemstones Fancy Colored Diamonds Men's Brooches Company Heritage Mov\u00e1l \u00ae Craft Awards Contact Us Resources Press Partner Portal \u00a92026 Rahaminov Diamonds, Inc"
+    ],
+    "title": "Rahaminov Diamonds | Where the diamond inspires the design"
+   },
+   "https://www.rahaminov.com/contact": {
+    "mailto": [
+     "info@rahaminov.com"
+    ],
+    "email_text": [
+     "info@rahaminov.com"
+    ],
+    "tel": [
+     "+12136229866"
+    ],
+    "phones": [
+     "(213) 622-9866"
+    ],
+    "soc": [
+     "https://www.facebook.com/rahaminovdiamonds",
+     "https://www.instagram.com/rahaminovdiamonds",
+     "https://x.com/rahaminodiamonds"
+    ],
+    "titles": [
+     "olored Gemstones Fancy Colored Diamonds Men's Brooches Company Heritage Mov\u00e1l \u00ae Craft Awards Contact Us Resources Press Partner Portal \u00a92026 Rahaminov Diamonds, Inc"
+    ],
+    "title": "Contact"
+   }
+  },
+  "final": "https://www.rahaminov.com/",
+  "err": ""
+ },
+ {
+  "i": 169,
+  "root": "http://www.raregemsinc.com",
+  "pages": {
+   "https://www.raregemsinc.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": ""
+   },
+   "https://www.raregemsinc.com/about": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": ""
+   },
+   "https://www.raregemsinc.com/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": ""
+   },
+   "https://www.raregemsinc.com/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": ""
+   },
+   "https://www.raregemsinc.com/contact-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": ""
+   }
+  },
+  "final": "https://www.raregemsinc.com/",
+  "err": ""
+ },
+ {
+  "i": 172,
+  "root": "http://www.reverejewels.com",
+  "pages": {
+   "https://reverejewels.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "3107752025"
+    ],
+    "phones": [
+     "(310) 775-2025"
+    ],
+    "soc": [
+     "https://twitter.com/reverejewels",
+     "https://www.facebook.com/RevereJewels",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/reverejewels/",
+     "https://www.youtube.com/channel/UCXqYLbjFAwfr0dN8HmGtHUQ"
+    ],
+    "titles": [],
+    "title": "Home - Revere Jewels"
+   },
+   "https://reverejewels.com/about-us/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "3107752025"
+    ],
+    "phones": [
+     "(310) 775-2025"
+    ],
+    "soc": [
+     "https://twitter.com/reverejewels",
+     "https://www.facebook.com/RevereJewels",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/reverejewels/",
+     "https://www.youtube.com/channel/UCXqYLbjFAwfr0dN8HmGtHUQ"
+    ],
+    "titles": [],
+    "title": "About - Revere Jewels"
+   },
+   "https://reverejewels.com/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "3107752025"
+    ],
+    "phones": [
+     "(310) 775-2025"
+    ],
+    "soc": [
+     "https://twitter.com/reverejewels",
+     "https://www.facebook.com/RevereJewels",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/reverejewels/",
+     "https://www.youtube.com/channel/UCXqYLbjFAwfr0dN8HmGtHUQ"
+    ],
+    "titles": [],
+    "title": "About - Revere Jewels"
+   },
+   "https://reverejewels.com/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "3107752025"
+    ],
+    "phones": [
+     "(310) 775-2025"
+    ],
+    "soc": [
+     "https://twitter.com/reverejewels",
+     "https://www.facebook.com/RevereJewels",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/reverejewels/",
+     "https://www.youtube.com/channel/UCXqYLbjFAwfr0dN8HmGtHUQ"
+    ],
+    "titles": [],
+    "title": "Contact - Revere Jewels"
+   },
+   "https://reverejewels.com/contact/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "3107752025"
+    ],
+    "phones": [
+     "(310) 775-2025"
+    ],
+    "soc": [
+     "https://twitter.com/reverejewels",
+     "https://www.facebook.com/RevereJewels",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/reverejewels/",
+     "https://www.youtube.com/channel/UCXqYLbjFAwfr0dN8HmGtHUQ"
+    ],
+    "titles": [],
+    "title": "Contact - Revere Jewels"
+   }
+  },
+  "final": "https://reverejewels.com/",
+  "err": ""
+ },
+ {
+  "i": 178,
+  "root": "http://www.shanidiamonds.com",
+  "pages": {
+   "https://www.shanidiamonds.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/shani.diamonds",
+     "https://www.instagram.com/wixstudio"
+    ],
+    "titles": [
+     "diamonds View More Shani Diamonds Your Trusted Wholesale Partner Office Hours: Monday - Friday 9:30AM - 5:30PM PST Los Angeles, CA Accessibility Policy bottom of page"
+    ],
+    "title": "Home | Shani Diamonds"
+   },
+   "https://www.shanidiamonds.com/contact-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [
+     "First name * Last name * Email * Phone Inquiry * Submit Shani Diamonds Your Trusted Wholesale Partner Office Hours: Monday - Friday 9:30AM - 5:30PM PST Los Angeles, CA Accessibility Policy bottom of page"
+    ],
+    "title": "Contact Us | Shani Diamonds"
+   },
+   "https://www.shanidiamonds.com/our-story": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [
+     "Shani Diamonds Your Trusted Wholesale Partner Office Hours: Monday - Friday 9:30AM - 5:30PM PST Los Angeles, CA Accessibility Policy bottom of page"
+    ],
+    "title": "Our Story | Shani Diamonds"
+   }
+  },
+  "final": "https://www.shanidiamonds.com/",
+  "err": ""
+ },
+ {
+  "i": 181,
+  "root": "http://www.bichachi.com",
+  "pages": {
+   "https://bichachi.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+12125754754",
+     "+12138910750",
+     "+16316121802",
+     "+3234372374",
+     "+97236133620"
+    ],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/bichachi_diamonds_houston",
+     "https://www.instagram.com/bichachi_diamonds_la",
+     "https://www.instagram.com/diamondsmanufacturenyc"
+    ],
+    "titles": [],
+    "title": "Bichachi Diamond Group \u2014 Precision, Multiplied"
+   },
+   "https://bichachi.com/about": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+12125754754",
+     "+12138910750",
+     "+16316121802",
+     "+3234372374",
+     "+97236133620"
+    ],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/bichachi_diamonds_houston",
+     "https://www.instagram.com/bichachi_diamonds_la",
+     "https://www.instagram.com/diamondsmanufacturenyc"
+    ],
+    "titles": [],
+    "title": "Bichachi Diamond Group \u2014 Precision, Multiplied"
+   },
+   "https://bichachi.com/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+12125754754",
+     "+12138910750",
+     "+16316121802",
+     "+3234372374",
+     "+97236133620"
+    ],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/bichachi_diamonds_houston",
+     "https://www.instagram.com/bichachi_diamonds_la",
+     "https://www.instagram.com/diamondsmanufacturenyc"
+    ],
+    "titles": [],
+    "title": "Bichachi Diamond Group \u2014 Precision, Multiplied"
+   },
+   "https://bichachi.com/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+12125754754",
+     "+12138910750",
+     "+16316121802",
+     "+3234372374",
+     "+97236133620"
+    ],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/bichachi_diamonds_houston",
+     "https://www.instagram.com/bichachi_diamonds_la",
+     "https://www.instagram.com/diamondsmanufacturenyc"
+    ],
+    "titles": [],
+    "title": "Bichachi Diamond Group \u2014 Precision, Multiplied"
+   },
+   "https://bichachi.com/contact-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+12125754754",
+     "+12138910750",
+     "+16316121802",
+     "+3234372374",
+     "+97236133620"
+    ],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/bichachi_diamonds_houston",
+     "https://www.instagram.com/bichachi_diamonds_la",
+     "https://www.instagram.com/diamondsmanufacturenyc"
+    ],
+    "titles": [],
+    "title": "Bichachi Diamond Group \u2014 Precision, Multiplied"
+   }
+  },
+  "final": "https://bichachi.com/",
+  "err": ""
+ },
+ {
+  "i": 184,
+  "root": "http://simrancollection.com",
+  "pages": {
+   "https://simrancollection.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Simran Collection Inc."
+   }
+  },
+  "final": "https://simrancollection.com/",
+  "err": ""
+ },
+ {
+  "i": 187,
+  "root": "http://www.soljewelry.com",
+  "pages": {
+   "https://www.soljewelry.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Just a moment..."
+   }
+  },
+  "final": "https://www.soljewelry.com/",
+  "err": "status 403"
+ },
+ {
+  "i": 188,
+  "root": "http://www.thesparklingjewelry.com",
+  "pages": {
+   "https://sparklingjewelry.com": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+18886231817"
+    ],
+    "phones": [
+     "(888) 623-1817"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Sparkling Jewelry"
+   },
+   "https://sparklingjewelry.com/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+18886231817"
+    ],
+    "phones": [
+     "(888) 623-1817"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "About Us | Sparkling Jewelry"
+   },
+   "https://sparklingjewelry.com/contact-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+18886231817"
+    ],
+    "phones": [
+     "(888) 623-1817"
+    ],
+    "soc": [],
+    "titles": [],
+    "title": "Sparkling Jewelry"
+   }
+  },
+  "final": "https://sparklingjewelry.com",
+  "err": ""
+ },
+ {
+  "i": 189,
+  "root": "http://superiorgemlab.com",
+  "pages": {
+   "https://superiorgemlab.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.youtube.com/watch"
+    ],
+    "titles": [],
+    "title": "Home - Superior Gem Lab"
+   },
+   "https://superiorgemlab.com/company-profile/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "About - Superior Gem Lab"
+   },
+   "https://superiorgemlab.com/contact/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+1 213 627 6689"
+    ],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Contact - Superior Gem Lab"
+   }
+  },
+  "final": "https://superiorgemlab.com/",
+  "err": ""
+ },
+ {
+  "i": 190,
+  "root": "http://thediamondsource.com",
+  "pages": {
+   "https://trilliumtrailsevents.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/RAJAGACOR",
+     "https://www.instagram.com/RAJAGACOR",
+     "https://www.youtube.com/channel/RAJAGACOR"
+    ],
+    "titles": [
+     "Terms of Use About iStudio About Us Find an iStudio near you Why Shop at iStudio Elush Corporate Website Apple Premium Partner Products RAJAGACOR SLOT HOKI SLOT GACOR HARI INI SLOT SLOT88 RAJA SLOT SLOT GACOR SLOT ONLINE Services AppleCare+ Corpo",
+     "Terms of Use About iStudio About Us Find an iStudio near you Why Shop at iStudio Elush Corporate Website Apple Premium Partner Subscribe to our emails Email Facebook Instagram YouTube Payment methods American Express Mastercard Visa \u00a9 2026, RAJAG"
+    ],
+    "title": "RAJAGACOR: Daftar Situs Slot Gacor Hari Ini Link Slot88 Super Scatter"
+   }
+  },
+  "final": "https://trilliumtrailsevents.com/",
+  "err": ""
+ },
+ {
+  "i": 191,
+  "root": "http://www.narwongjewelers.com",
+  "pages": {
+   "https://www.narwongjewelers.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://facebook.com/#",
+     "https://instagram.com/#",
+     "https://pinterest.com/#"
+    ],
+    "titles": [],
+    "title": "Nar Wong"
+   },
+   "https://www.narwongjewelers.com/pages/inquiry": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://facebook.com/#",
+     "https://instagram.com/#",
+     "https://pinterest.com/#"
+    ],
+    "titles": [],
+    "title": "Inquiry\n \u2013 Nar Wong"
+   }
+  },
+  "final": "https://www.narwongjewelers.com/",
+  "err": ""
+ },
+ {
+  "i": 195,
+  "root": "http://trumpetandhorn.com",
+  "pages": {
+   "https://trumpetandhorn.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/TrumpetandHorn",
+     "https://www.instagram.com/trumpetandhorn",
+     "https://www.pinterest.com/trumpetandhorn",
+     "https://www.youtube.com/channel/UCO6a4CdksGWixoNomXKBnHg"
+    ],
+    "titles": [],
+    "title": "Vintage Engagement Rings & Jewelry - Trumpet & Horn"
+   },
+   "https://trumpetandhorn.com/blogs/education/all-about-color-your-guide-to-colored-gemstones": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/TrumpetandHorn",
+     "https://www.instagram.com/trumpetandhorn",
+     "https://www.pinterest.com/trumpetandhorn",
+     "https://www.youtube.com/channel/UCO6a4CdksGWixoNomXKBnHg"
+    ],
+    "titles": [],
+    "title": "Sapphire Engagement Rings | Explore the T&H Collection\n  \n  \n   \u2013 Trumpet & Horn"
+   },
+   "https://trumpetandhorn.com/pages/contact-us": {
+    "mailto": [],
+    "email_text": [
+     "concierge@trumpetandhorn.com"
+    ],
+    "tel": [],
+    "phones": [
+     "310-734-7311"
+    ],
+    "soc": [
+     "https://www.facebook.com/TrumpetandHorn",
+     "https://www.instagram.com/trumpetandhorn",
+     "https://www.pinterest.com/trumpetandhorn",
+     "https://www.youtube.com/channel/UCO6a4CdksGWixoNomXKBnHg"
+    ],
+    "titles": [],
+    "title": "Contact Us\n  \n  \n   \u2013 Trumpet & Horn"
+   },
+   "https://trumpetandhorn.com/pages/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.facebook.com/TrumpetandHorn",
+     "https://www.instagram.com/trumpetandhorn",
+     "https://www.pinterest.com/trumpetandhorn",
+     "https://www.youtube.com/channel/UCO6a4CdksGWixoNomXKBnHg"
+    ],
+    "titles": [
+     "In 2023, after a lifelong connection with Wyler Weir, CEO of Jack Weir & Sons, Jerome and Kim passed the torch, selling the brand to Wyler and his father, Jack"
+    ],
+    "title": "Founding a Vintage Engagement Ring Business: The Team\n  \n  \n   \u2013 Trumpet & Horn"
+   }
+  },
+  "final": "https://trumpetandhorn.com/",
+  "err": ""
+ },
+ {
+  "i": 197,
+  "root": "http://www.uneekjewelry.com",
+  "pages": {
+   "https://www.uneekjewelry.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://twitter.com/UneekJewelry",
+     "https://www.facebook.com/UneekFineJewelry",
+     "https://www.facebook.com/tr",
+     "https://www.instagram.com/uneekjewelry",
+     "https://www.linkedin.com/company/uneek-jewelry",
+     "https://www.pinterest.com/uneekjewelry/_created",
+     "https://www.tiktok.com/@uneekjewelry",
+     "https://www.youtube.com/@uneekjewelry"
+    ],
+    "titles": [
+     "e Pyrus Genesis Collection The Rooted Collection Custom Inspiration Look Book Our Blog About Uneek Company Overview Our Founder: Benjamin Javaheri Uneek Philosophy Awards & Accolades Shows & Events Testimonials Featured Retailers Store Locator Une"
+    ],
+    "title": "Luxury Jewelry | Uneek Jewelry"
+   },
+   "https://www.uneekjewelry.com/verify.html?next=/contact-us/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [],
+    "titles": [],
+    "title": "Verifying..."
+   }
+  },
+  "final": "https://www.uneekjewelry.com/",
+  "err": ""
+ },
+ {
+  "i": 199,
+  "root": "https://uscertifiedjewelry.com",
+  "pages": {
+   "https://uscertifiedjewelry.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/uscjfindings"
+    ],
+    "titles": [],
+    "title": "Gold Findings & Coin Bezel Manufacturer USA | US Certified Jewelry\n\u2013 USCERTIFIEDJEWELRY"
+   },
+   "https://uscertifiedjewelry.com/collections/findings/products/10k-yellow-gold-solder-on-open-tapered-bail-findings": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/uscjfindings"
+    ],
+    "titles": [],
+    "title": "10K Gold Die-Struck Solder-On Open Tapered Bail Findings\n\u2013 USCERTIFIEDJEWELRY"
+   },
+   "https://uscertifiedjewelry.com/collections/findings/products/14k-gold-double-bracelet-snap-tongue": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/uscjfindings"
+    ],
+    "titles": [],
+    "title": "10K, 14K & 18K Gold Die-Struck Double Snap Tongue Clasp for Bracelets \n\u2013 USCERTIFIEDJEWELRY"
+   },
+   "https://uscertifiedjewelry.com/collections/findings/products/14k-gold-single-bracelet-snap-tongue": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/uscjfindings"
+    ],
+    "titles": [],
+    "title": "10K, 14K & 18K Gold Die-Struck Single Snap Tongue Clasp for Bracelets \n\u2013 USCERTIFIEDJEWELRY"
+   },
+   "https://uscertifiedjewelry.com/collections/findings/products/14k-gold-solder-on-open-tapered-bail-findings": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/uscjfindings"
+    ],
+    "titles": [],
+    "title": "14K Gold Die-Struck Solder-On Open Tapered Bail Findings\n\u2013 USCERTIFIEDJEWELRY"
+   },
+   "https://uscertifiedjewelry.com/collections/findings/products/14k-yellow-gold-mexican-clasp": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/uscjfindings"
+    ],
+    "titles": [],
+    "title": "10K & 14K Yellow Gold Die-Struck Box Clasp for Bracelets & Necklaces |\n\u2013 USCERTIFIEDJEWELRY"
+   },
+   "https://uscertifiedjewelry.com/collections/findings/products/18k-gold-solder-on-open-tapered-bail-findings": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [],
+    "phones": [],
+    "soc": [
+     "https://www.instagram.com/uscjfindings"
+    ],
+    "titles": [],
+    "title": "18K Gold Die-Struck Solder-On Open Tapered Bail Findings\n\u2013 USCERTIFIEDJEWELRY"
+   }
+  },
+  "final": "https://uscertifiedjewelry.com/",
+  "err": ""
+ },
+ {
+  "i": 202,
+  "root": "http://www.varshadiamonds.com",
+  "pages": {
+   "https://varshadiamonds.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+1%20213-683-0848",
+     "+12136830848"
+    ],
+    "phones": [
+     "(213) 683-0848",
+     "213-683-0848"
+    ],
+    "soc": [
+     "https://www.instagram.com/varshadiamonds"
+    ],
+    "titles": [],
+    "title": "Varsha Diamonds"
+   },
+   "https://varshadiamonds.com/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+1%20213-683-0848",
+     "+12136830848"
+    ],
+    "phones": [
+     "(213) 683-0848",
+     "213-683-0848"
+    ],
+    "soc": [
+     "https://www.instagram.com/varshadiamonds"
+    ],
+    "titles": [],
+    "title": "About Us"
+   },
+   "https://varshadiamonds.com/about-us/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+1%20213-683-0848",
+     "+12136830848"
+    ],
+    "phones": [
+     "(213) 683-0848",
+     "213-683-0848"
+    ],
+    "soc": [
+     "https://www.instagram.com/varshadiamonds"
+    ],
+    "titles": [],
+    "title": "About Us"
+   },
+   "https://varshadiamonds.com/contact": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+1%20(213)%20683-0848",
+     "+1%20213-683-0848",
+     "+12136830848"
+    ],
+    "phones": [
+     "(213) 683-0848",
+     "213-683-0848"
+    ],
+    "soc": [
+     "https://www.instagram.com/varshadiamonds"
+    ],
+    "titles": [],
+    "title": "Contact Us"
+   },
+   "https://varshadiamonds.com/contact-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "+1%20(213)%20683-0848",
+     "+1%20213-683-0848",
+     "+12136830848"
+    ],
+    "phones": [
+     "(213) 683-0848",
+     "213-683-0848"
+    ],
+    "soc": [
+     "https://www.instagram.com/varshadiamonds"
+    ],
+    "titles": [],
+    "title": "Contact Us"
+   }
+  },
+  "final": "https://varshadiamonds.com/",
+  "err": ""
+ },
+ {
+  "i": 204,
+  "root": "http://voragems.com",
+  "pages": {
+   "https://www.voragems.com/": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "8008672515"
+    ],
+    "phones": [
+     "(800) 867-2515"
+    ],
+    "soc": [
+     "http://facebook.com/squarespace",
+     "http://twitter.com/squarespace",
+     "http://www.facebook.com/2008/fbml"
+    ],
+    "titles": [
+     "Vora Gems was founded by Prakash & Mala Vora and over the years has grown into a well-known name in the jewelry world"
+    ],
+    "title": "Vora Gems Precious and Semi-precious High Quality Supplier in Los Angeles."
+   },
+   "https://www.voragems.com/about-us": {
+    "mailto": [],
+    "email_text": [],
+    "tel": [
+     "8008672515"
+    ],
+    "phones": [
+     "(800) 867-2515"
+    ],
+    "soc": [
+     "http://facebook.com/squarespace",
+     "http://twitter.com/squarespace",
+     "http://www.facebook.com/2008/fbml"
+    ],
+    "titles": [
+     "Vora Gems was founded by Prakash &\u00a0Mala Vora and over the years has grown into a well-known name in the jewelry world"
+    ],
+    "title": "Veteran of gemstone industry in Los Angeles \u2014 Vora Gems"
+   },
+   "https://www.voragems.com/contact-us": {
+    "mailto": [],
+    "email_text": [
+     "voragemsinc@gmail.com"
+    ],
+    "tel": [
+     "8008672515"
+    ],
+    "phones": [
+     "(213) 623-7390",
+     "(800) 867-2515"
+    ],
+    "soc": [
+     "http://facebook.com/squarespace",
+     "http://twitter.com/squarespace",
+     "http://www.facebook.com/2008/fbml"
+    ],
+    "titles": [],
+    "title": "Located in the jewelry district of Los Angeles \u2014 Vora Gems"
+   }
+  },
+  "final": "https://www.voragems.com/",
+  "err": ""
+ },
+ {
+  "i": 206,
+  "root": "http://www.wdciii.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.wdciii.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTT"
+ },
+ {
+  "i": 209,
+  "root": "http://yalejewelers.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='yalejewelers.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"H"
+ },
+ {
+  "i": 211,
+  "root": "http://www.zaynjewels.com",
+  "pages": {},
+  "final": "",
+  "err": "HTTPConnectionPool(host='www.zaynjewels.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("
+ }
+]

@@ -1,0 +1,3395 @@
+[
+ {
+  "name": "A.D.I",
+  "type": "Wholesale",
+  "spec": "Manufacturer,",
+  "goods": "Diamond cutting",
+  "secondary": "Secondary Speciality:",
+  "site": "http://adidiamonds.com/",
+  "phone": "(213) 623-7740",
+  "addr": "630 W. 6th Street, Suite 217, Los Angeles, California, United States, 90017",
+  "classes": [
+   "collection_item",
+   "A",
+   "6"
+  ],
+  "year": "2025"
+ },
+ {
+  "name": "Aakash Diamonds, Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "White Round and fancy melee",
+  "secondary": "Secondary Speciality: Colored diamonds natural and treated",
+  "site": "http://www.aakashdiamonds.com/",
+  "phone": "(213) 489-5400",
+  "addr": "550 South Hill Street, Suite 1183, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "A",
+   "2"
+  ],
+  "year": "1894"
+ },
+ {
+  "name": "Adler Trading Co. Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 624-7032",
+  "addr": "550 South Hill Street, Suite 1384, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "A",
+   "2"
+  ],
+  "year": "1948"
+ },
+ {
+  "name": "Affinity Gems",
+  "type": "Owner",
+  "spec": "Diamonds,",
+  "goods": "3 carat + GIA",
+  "secondary": "",
+  "site": "",
+  "phone": "(213) 670-7848",
+  "addr": "550 South Hill Street, Suite 1316, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "A",
+   "2"
+  ],
+  "year": "2220"
+ },
+ {
+  "name": "AJB Jewelry LLC",
+  "type": "Wholesale",
+  "spec": "Jewelry,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Diamonds, Watches",
+  "site": "",
+  "phone": "(626) 905-4344",
+  "addr": "550 South Hill Street, Suite 1205, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "A",
+   "5"
+  ],
+  "year": "1905"
+ },
+ {
+  "name": "Aloni ExChange of Address Diamond Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "",
+  "site": "",
+  "phone": "(213) 883-3313",
+  "addr": "550 S. Hill Street, Suite 1317, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "A",
+   "2"
+  ],
+  "year": "2306"
+ },
+ {
+  "name": "Alpha Diamond Cutting Works",
+  "type": "Wholesale & Retail",
+  "spec": "Industry Services,",
+  "goods": "Diamond cutting services for the trade",
+  "secondary": "Secondary Specialty: Diamonds, Estate Jewelry",
+  "site": "",
+  "phone": "(213) 840-9252",
+  "addr": "4711 Hope Valley Road, 4F-129, Durham, NC, United States, 27713",
+  "classes": [
+   "collection_item",
+   "A",
+   "12"
+  ],
+  "year": "2271"
+ },
+ {
+  "name": "Amden Jewelry Inc.",
+  "type": "Wholesale",
+  "spec": "Manufacturer,",
+  "goods": "diamond jewelry",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "",
+  "phone": "(213) 327-0863",
+  "addr": "550 South Hill Street, Suite 950, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "A",
+   "6"
+  ],
+  "year": "2074"
+ },
+ {
+  "name": "American Ideal Diamonds co inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Loose diamonds",
+  "secondary": "Secondary Speciality: Jewelry/Studs and unique mounted pieces/Watches",
+  "site": "",
+  "phone": "(213) 688-0059",
+  "addr": "550 South Hill Street, Suite 645, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "A",
+   "2"
+  ],
+  "year": "1951"
+ },
+ {
+  "name": "Amit Diamonds Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Diamonds/ Jewelry/",
+  "site": "http://amitdiamonds.com",
+  "phone": "(213) 688-8895",
+  "addr": "550 South Hill Street, Suite 1654, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "A",
+   "5"
+  ],
+  "year": "1953"
+ },
+ {
+  "name": "Aspen Diamond Co.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 624-2088",
+  "addr": "635 South Olive Street, Suite A, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "A",
+   "2"
+  ],
+  "year": "2112"
+ },
+ {
+  "name": "Assured Pawn Shop / Sartori Jewelry & Loan",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "Pawnshop",
+  "secondary": "Secondary Speciality: Gemstones,Loose/breakout",
+  "site": "http://dpalazzola@hotmail.com",
+  "phone": "(661) 607-6986",
+  "addr": "1150 West Redondo Beach Blvd, Gardena, California, United States, 90247",
+  "classes": [
+   "collection_item",
+   "A",
+   "5"
+  ],
+  "year": "2248"
+ },
+ {
+  "name": "Ayvazian Co.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Loose Natural Diamonds, White & Yellow 0.50 to 10 cts.",
+  "secondary": "Secondary Speciality",
+  "site": "",
+  "phone": "(213) 627-7962",
+  "addr": "607 South Hill Street, Suite 922, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "A",
+   "2"
+  ],
+  "year": "1906"
+ },
+ {
+  "name": "Azar Jewelers Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Diamond wholesalers",
+  "secondary": "Secondary Speciality: Jewelry Manufacturers/ Estate Jewelry",
+  "site": "http://Azardesigns.com",
+  "phone": "(213) 627-6670",
+  "addr": "550 South Hill Street, Suite 600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "A",
+   "2"
+  ],
+  "year": "2000"
+ },
+ {
+  "name": "B&V Diamonds Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry, Manufacturer",
+  "site": "",
+  "phone": "(213) 489-4887",
+  "addr": "550 South Hill Street, Suite 685, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "B",
+   "2"
+  ],
+  "year": "1924"
+ },
+ {
+  "name": "Baggins Inc.",
+  "type": "Wholesale",
+  "spec": "Pearls,",
+  "goods": "Pearls",
+  "secondary": "Diamonds",
+  "site": "http://www.bagginsjewelry.com",
+  "phone": "(213) 624-2277",
+  "addr": "608 Silver Spur Road, Suite 310, Rolling Hills, California, United States, 90274",
+  "classes": [
+   "collection_item",
+   "B",
+   "11"
+  ],
+  "year": "2315"
+ },
+ {
+  "name": "Balian & Sons",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Gemstones",
+  "site": "http://www.baliandesigns.com",
+  "phone": "(213) 488-0227",
+  "addr": "607 South Hill Street, Suite 340, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "B",
+   "5"
+  ],
+  "year": "1952"
+ },
+ {
+  "name": "Belgium New York LLC",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Diamonds",
+  "secondary": "",
+  "site": "",
+  "phone": "(213) 923-7860",
+  "addr": "550 South Hill Street, Suite 1559, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "B",
+   "2"
+  ],
+  "year": "2261"
+ },
+ {
+  "name": "Benjamin & Company",
+  "type": "Wholesale",
+  "spec": "Manufacturer,",
+  "goods": "Tennis bracelets, necklaces & body jewelry.",
+  "secondary": "Secondary Speciality",
+  "site": "http://www.benjamincompany.com",
+  "phone": "(213) 622-0260",
+  "addr": "550 South Hill Street, Suite 875, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "B",
+   "6"
+  ],
+  "year": "1922"
+ },
+ {
+  "name": "Berj Kouyoumjian Jewelry",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "Fine Jewelry",
+  "secondary": "Secondary Speciality: Diamonds, Manufacturer",
+  "site": "http://www.berjk.com",
+  "phone": "(213) 623-2092",
+  "addr": "550 South Hill Street, Suite 870, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "B",
+   "5"
+  ],
+  "year": "1925"
+ },
+ {
+  "name": "BG International Gems Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Wholesale Diamonds specializing in fiber makes and higher clarities.",
+  "secondary": "Secondary Speciality: Gemstones: Wholesale Loose Colorstones/ Watches",
+  "site": "",
+  "phone": "(213) 622-4032",
+  "addr": "510 W. 6th Street, Suite 608, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "B",
+   "2"
+  ],
+  "year": "2134"
+ },
+ {
+  "name": "Bia Million",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Loose diamonds",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "http://BiaMillion.com",
+  "phone": "(818) 766-1431",
+  "addr": "P.O. Box 4521, Valley Village, California, United States, 91607",
+  "classes": [
+   "collection_item",
+   "B",
+   "2"
+  ],
+  "year": "1928"
+ },
+ {
+  "name": "Bright Diamonds Inc",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Importer of Diamonds",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 6232362",
+  "addr": "550 South Hill Street, Sutie 1530, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "B",
+   "2"
+  ],
+  "year": "2070"
+ },
+ {
+  "name": "BSH Diamond Corp",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry/ Manufacturer",
+  "site": "",
+  "phone": "(213) 622-4313",
+  "addr": "550 South Hill Street, Suite 652, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "B",
+   "2"
+  ],
+  "year": "1977"
+ },
+ {
+  "name": "Bul, Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Real Diamond, Jewelry, Lab Grown Manufacturer Importer and Exporters",
+  "secondary": "Secondary Speciality : Jewelry, Manufacturer",
+  "site": "http://www.bulinc.com",
+  "phone": "",
+  "addr": "942 Bethany Rd, Burbank, California, United States, 91504",
+  "classes": [
+   "collection_item",
+   "B",
+   "2"
+  ],
+  "year": "2238"
+ },
+ {
+  "name": "Carl K. Gumpert, Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Gemstones/ Jewelry",
+  "site": "http://www.carlkgumpert.com",
+  "phone": "(213) 213-2088",
+  "addr": "606 South Olive Street, Suite 2400, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "C",
+   "2"
+  ],
+  "year": "2139"
+ },
+ {
+  "name": "Caspian Jewelry Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "",
+  "site": "http://www.caspianjewelry.com",
+  "phone": "(213) 629-4561",
+  "addr": "625 South Hill Street, Suite 146-148, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "C",
+   "2"
+  ],
+  "year": "1969"
+ },
+ {
+  "name": "Century Diamond Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 489-4074",
+  "addr": "550 South Hill Street, Suite 1539, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "C",
+   "2"
+  ],
+  "year": "2075"
+ },
+ {
+  "name": "Chammas Jewelry Services",
+  "type": "Wholesale",
+  "spec": "Jewelry,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "http://www.chammasjewelry.com",
+  "phone": "(213) 612-0121",
+  "addr": "550 South Hill Street, Suite 1084, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "C",
+   "5"
+  ],
+  "year": "2103"
+ },
+ {
+  "name": "Charles Ligeti Co., INC.",
+  "type": "Wholesale",
+  "spec": "Jewelry,",
+  "goods": "Bridal Rings",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "",
+  "phone": "(661) 433-2252",
+  "addr": "611 Wilshire Blvd., Suite 801, Los Angeles, California, United States, 90017",
+  "classes": [
+   "collection_item",
+   "C",
+   "5"
+  ],
+  "year": "2249"
+ },
+ {
+  "name": "China Art & Jewelry",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "Jewelry",
+  "secondary": "Manufacturer",
+  "site": "http://www.chinaartjewelry.com",
+  "phone": "(213) 489-7505",
+  "addr": "607 South Hill Street, Suite 900, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "C",
+   "5"
+  ],
+  "year": "2309"
+ },
+ {
+  "name": "Coinsdepot",
+  "type": "Wholesale & Retail",
+  "spec": "Estate Jewelry,",
+  "goods": "Buy and sell second hand and estate jewlery",
+  "secondary": "Secondary Speciality: Diamonds/ Watches",
+  "site": "",
+  "phone": "(949) 4156705",
+  "addr": "550 South Hill Street, Suite 1155, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "C",
+   "7"
+  ],
+  "year": "2037"
+ },
+ {
+  "name": "Continental Pearl USA Inc",
+  "type": "Wholesale",
+  "spec": "Pearls,",
+  "goods": "Direct Imports and Wholesalers of Tahitian, South Sea & Akoya Cultured Pearls",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "http://www.continentalpearl.com",
+  "phone": "(213) 612-0252",
+  "addr": "550 South Hill Street, Suite 1440, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "C",
+   "11"
+  ],
+  "year": "2222"
+ },
+ {
+  "name": "Coral Diamonds Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Loose Polished Diamonds",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(213) 688-1087",
+  "addr": "550 South Hill Street, Suite 1250, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "C",
+   "2"
+  ],
+  "year": "2058"
+ },
+ {
+  "name": "CVD Diamond Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Lab Grown / CVD Diamonds",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "http://www.cvddiamondinc.com",
+  "phone": "(213) 629-1091",
+  "addr": "550 South Hill Street, Suite 1550, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "C",
+   "2"
+  ],
+  "year": "2198"
+ },
+ {
+  "name": "Danital Gems and Diamonds",
+  "type": "Wholesale",
+  "spec": "Manufacturer,",
+  "goods": "Semi mounts ring for any shape and/or any size stone",
+  "secondary": "Secondary Speciality: Diamonds/ Jewelry",
+  "site": "http://Bridalsemimounts.com",
+  "phone": "(213) 688-9030",
+  "addr": "550 South Hill Street, Suite 748, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "D",
+   "6"
+  ],
+  "year": "2006"
+ },
+ {
+  "name": "Danny Levy Fine Gems",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Custom jewelry",
+  "secondary": "Secondary Speciality: Gemstones, Watches",
+  "site": "",
+  "phone": "(213) 623-7761",
+  "addr": "607 South Hill Street, Suite 219, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "1936"
+ },
+ {
+  "name": "David Klass Jewelry",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "Custom Jewelry And Restorations",
+  "secondary": "Secondary Speciality: Diamonds, Estate Jewelry",
+  "site": "http://www.davidklassjewelry.com",
+  "phone": "(213) 489-4569",
+  "addr": "607 South Hill Street, Arcade 8, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "D",
+   "5"
+  ],
+  "year": "1942"
+ },
+ {
+  "name": "DBS Diamonds Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "White and colored diamonds",
+  "secondary": "Secondary Speciality: Jewelry/ Design Jewelry/ Watches",
+  "site": "http://www.DBSDiam.com",
+  "phone": "(213) 689-9968",
+  "addr": "550 South Hill Street, Suite 1562, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "2113"
+ },
+ {
+  "name": "Dena Kemp Inc",
+  "type": "Wholesale",
+  "spec": "Jewelry,",
+  "goods": "High End Designer Jewelry",
+  "secondary": "Secondary Speciality: N/A",
+  "site": "http://www.denakempjewelry.com/",
+  "phone": "(310) 278-7100",
+  "addr": "9701 Wilshire Bouelvard, Suite 620, Beverly Hills, California, United States, 90212",
+  "classes": [
+   "collection_item",
+   "D",
+   "5"
+  ],
+  "year": "1945"
+ },
+ {
+  "name": "Designer Diamonds KG",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Jewelry",
+  "secondary": "Secondary Speciality: Diamond",
+  "site": "http://www.designer-diamonds.de",
+  "phone": "+49 (170) 526-4818",
+  "addr": "Hanauer Str. 65-67, Munich, Bavaria, Germany, 80993",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "2243"
+ },
+ {
+  "name": "Diam Gate",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Big selection of quality & size in rounds below 1ct",
+  "secondary": "Secondary Speciality: Other:Custom order of fine jewelry from CaliforniaD to final.",
+  "site": "http://Www.Diamgate.com",
+  "phone": "(213) 624-9880",
+  "addr": "550 South Hill Street, Suite 1161, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "2012"
+ },
+ {
+  "name": "Diam Quest Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Ideal Cut Goods From 0.06mm-4.0mm VVS1-I2 Rounds F/G Colors",
+  "secondary": "Second Speciality: Black treated diamonds from 0.06mm-13mm in round shape only",
+  "site": "",
+  "phone": "(213) 488-1510",
+  "addr": "550 South Hill Street, Suite 1304, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "1898"
+ },
+ {
+  "name": "Diam Ventures Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Si2 to I1 well graded diamonds",
+  "secondary": "Secondary Speciality:",
+  "site": "http://www.diamventures.com",
+  "phone": "(213) 623-6520",
+  "addr": "550 South Hill Street, Suite 976, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "2071"
+ },
+ {
+  "name": "Diamond Center Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "Diamond jewelers and certified diamonds",
+  "secondary": "Secondary Speciality: Diamonds/ Gemstones",
+  "site": "http://Diamondcenterinc.com",
+  "phone": "(213) 622-9090",
+  "addr": "607 South Hill Street, Suite 300, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "D",
+   "5"
+  ],
+  "year": "2102"
+ },
+ {
+  "name": "Diamond Eyez Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "N/A",
+  "secondary": "Secondary Speciality",
+  "site": "",
+  "phone": "(213) 623-3686",
+  "addr": "607 South Hill St., Suite 311, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "1907"
+ },
+ {
+  "name": "Diamond Forever Wholesale Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Loose diamond",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 269-4747",
+  "addr": "550 South Hill Street, Suite 1382, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "1988"
+ },
+ {
+  "name": "Diamond MFG Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Diamond Cutters Certifying stones GIA & EGL Filling and Deep Boiling",
+  "secondary": "Secondary Speciality: Manufacturer, Diamond Drill Fill Clarity Enhances, Industry Services",
+  "site": "http://http://ayalu67@Yahoo.com",
+  "phone": "(213) 689-9318",
+  "addr": "550 South Hill Street, Suite 635, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "2251"
+ },
+ {
+  "name": "Diamond Source Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 689-9968",
+  "addr": "550 South Hill Street, Suite 1125, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "2114"
+ },
+ {
+  "name": "Diamond Trading Company",
+  "type": "Retail",
+  "spec": "Diamonds,",
+  "goods": "GIA,HRD,EGL USA",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "http://www.dtcusa.com",
+  "phone": "(310) 246-1000",
+  "addr": "9777 Wilshire blvd, Suite 550, Beverly Hills, California, United States, 90210",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "1908"
+ },
+ {
+  "name": "Diamonds For Life, Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "",
+  "phone": "(213) 955-5900",
+  "addr": "550 South Hill Street, Suite 1650, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "2142"
+ },
+ {
+  "name": "Diaring Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Jewelry",
+  "secondary": "Secondary Specialty: Diamonds",
+  "site": "",
+  "phone": "(323) 309-4737",
+  "addr": "606 South Hill Street, Suite 806, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "2258"
+ },
+ {
+  "name": "Diastone Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality",
+  "site": "",
+  "phone": "(213) 623-1162",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "D",
+   "2"
+  ],
+  "year": "1933"
+ },
+ {
+  "name": "Dignity Jewels Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Gemstones,",
+  "goods": "all kind of color stones in all quality and size",
+  "secondary": "Secondary Speciality: Other/ jadeiete Type A All Natural Jewelry",
+  "site": "http://www.dignityjewelry.com",
+  "phone": "(213) 624-5008",
+  "addr": "650 S. Hill Street, Plaza 2 L16-K16, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "D",
+   "3"
+  ],
+  "year": "1972"
+ },
+ {
+  "name": "Dynamic Jewelry",
+  "type": "Wholesale",
+  "spec": "Jewelry,Manufacturer,",
+  "goods": "",
+  "secondary": "",
+  "site": "",
+  "phone": "(213)489-3894",
+  "addr": "606 S. Hill St., Suite 608, Los Angles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "D",
+   "5",
+   "6"
+  ],
+  "year": "2254"
+ },
+ {
+  "name": "E.G. Labs",
+  "type": "Wholesale & Retail",
+  "spec": "Industry Services,",
+  "goods": "",
+  "secondary": "",
+  "site": "https://eg-labs.com/",
+  "phone": "(800) 916-4081",
+  "addr": "550 South Hill Street, Suite 1542, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "E",
+   "12"
+  ],
+  "year": "2291"
+ },
+ {
+  "name": "E.G.A. Diamond Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry/ Watches",
+  "site": "",
+  "phone": "(213) 629-4143",
+  "addr": "550 South Hill Street, Suite 1167, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "E",
+   "2"
+  ],
+  "year": "1957"
+ },
+ {
+  "name": "Earth Star Imports",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Specializing in commercial.05 point to 10ct in round and fancy shapes",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(714) 612-1529",
+  "addr": "550 South Hill Street, Suite 1409, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "E",
+   "2"
+  ],
+  "year": "2136"
+ },
+ {
+  "name": "EJ Dia Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "N/A",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "N/A",
+  "addr": "631 South Olive Street, Suite 201, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "E",
+   "2"
+  ],
+  "year": "1899"
+ },
+ {
+  "name": "Ernie Goldberger & Co. /Josam Diamond Trading Corp.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry/ Manufacturer",
+  "site": "",
+  "phone": "(213) 627-7621",
+  "addr": "550 South Hill Street, Suite 865, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "E",
+   "2"
+  ],
+  "year": "1962"
+ },
+ {
+  "name": "Euro Diamonds Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 627-4070",
+  "addr": "550 South Hill Street, Suite 987, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "E",
+   "2"
+  ],
+  "year": "2099"
+ },
+ {
+  "name": "Exact time inc",
+  "type": "Wholesale",
+  "spec": "Watches,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(310) 600-8759",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "E",
+   "10"
+  ],
+  "year": "1966"
+ },
+ {
+  "name": "Excel diamonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(213) 489-1427",
+  "addr": "550 South Hill Street, Suite 1195, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "E",
+   "2"
+  ],
+  "year": "2116"
+ },
+ {
+  "name": "Fancy Creations Inc",
+  "type": "Wholesale",
+  "spec": "Jewelry,",
+  "goods": "Manufacturer of rosecut, briollette & diamond beads jewelry",
+  "secondary": "Secondary Specialty: Diamonds",
+  "site": "http://www.jrdiamgroup.com",
+  "phone": "(213) 988-7199",
+  "addr": "550 South Hill Street, Suite 1226, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "F",
+   "5"
+  ],
+  "year": "2268"
+ },
+ {
+  "name": "Fine Facets Inc",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Jewelry and diamonds customs pieces",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(213) 228-0080",
+  "addr": "550 South Hill Street, Suite 1088, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "F",
+   "2"
+  ],
+  "year": "2137"
+ },
+ {
+  "name": "Flawless Int'l",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Fine diamond jewelry & estate jewelry",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(310) 666-3343",
+  "addr": "550 South Hill Street, Suite 1450, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "F",
+   "2"
+  ],
+  "year": "1910"
+ },
+ {
+  "name": "Flawless Jewelry Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "http://www.flawlessjewelry.com",
+  "phone": "(213) 488-9300",
+  "addr": "550 South Hill Street, Suite 1228, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "F",
+   "2"
+  ],
+  "year": "2011"
+ },
+ {
+  "name": "Forever Capital/ FCD Invest",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Diamonds",
+  "secondary": "Secondary Specialty: Colored Stones",
+  "site": "http://www.fcdinvest.diamonds",
+  "phone": "(415) 388-4101",
+  "addr": "775 E. Blithedale Ave, Suite 180, Mill Valley, California, United States, 94941",
+  "classes": [
+   "collection_item",
+   "F",
+   "2"
+  ],
+  "year": "2212"
+ },
+ {
+  "name": "Forever Collections, Inc. dba Nice Diamonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Natural and treated Fancy Colors",
+  "secondary": "Secondary Speciality: Diamonds: Antique and special cuts",
+  "site": "http://www.nicediamond.com",
+  "phone": "(213) 689-9291",
+  "addr": "550 South Hill Street, Suite 995, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "F",
+   "2"
+  ],
+  "year": "2105"
+ },
+ {
+  "name": "G-Raj Diam LLC",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondrary Speciality : Gemstones",
+  "site": "",
+  "phone": "(732) 763-2478",
+  "addr": "Merit, Suite 214, Irvine, California, United States, 92618",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "2229"
+ },
+ {
+  "name": "G.C. Diamonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "N/A",
+  "secondary": "Secondary Speciality",
+  "site": "",
+  "phone": "(213) 689-9000",
+  "addr": "550 South Hill Street, Suite 1459, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "1897"
+ },
+ {
+  "name": "Gantmonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 955-2222",
+  "addr": "550 South Hill Street, Suite 1430, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "2110"
+ },
+ {
+  "name": "Gem Dynasty, Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Certified Diamonds",
+  "secondary": "Secondary Speciality: Jewelry/ENGAGEMENT RINGS",
+  "site": "http://www.losangelesdiamondseller.com",
+  "phone": "(213) 623-9494",
+  "addr": "550 South Hill Street, Suite 564, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "1965"
+ },
+ {
+  "name": "Gem Imports of California inc/dba, K K G I Inc",
+  "type": "Wholesale & Retail",
+  "spec": "Gemstones,",
+  "goods": "Exceptional gems from Sri Lanka and fine jewelry",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "http://www.kkgiinc.com",
+  "phone": "(213) 622-2451",
+  "addr": "510 west sixth street, Suite 312, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "G",
+   "3"
+  ],
+  "year": "2019"
+ },
+ {
+  "name": "Gemland, Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 623-9088",
+  "addr": "606 South olive Street, Suite 1020, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "2057"
+ },
+ {
+  "name": "Gems and Diamonds Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "all sizes and color",
+  "secondary": "Secondary Speciality: Watches/ Gemstone/ Jewelry",
+  "site": "",
+  "phone": "(213) 688-0909",
+  "addr": "550 South Hill Street, Suite 1369, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "2034"
+ },
+ {
+  "name": "Gems International of California",
+  "type": "Wholesale",
+  "spec": "Gemstones,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 623-5370",
+  "addr": "550 South Hill Street, Suite 925, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "G",
+   "3"
+  ],
+  "year": "2124"
+ },
+ {
+  "name": "Gems West, Inc.",
+  "type": "Wholesale",
+  "spec": "Estate Jewelry,",
+  "goods": "Vintage Fine Jewelry - Buy & Sell",
+  "secondary": "Secondary Speciality: Manufacturer/ Gemstones",
+  "site": "http://GemsWest.com",
+  "phone": "(213) 445-7888",
+  "addr": "607 South Hill Street, Suite 422, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "G",
+   "7"
+  ],
+  "year": "2131"
+ },
+ {
+  "name": "Genuine Gem inc",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 595-9599",
+  "addr": "550 South Hill Street, Suite 542 A, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "2083"
+ },
+ {
+  "name": "Gerson & Horowitz",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Larger diamonds",
+  "secondary": "Secondary Speciality:",
+  "site": "http://Www.gersonandhorowitz.com",
+  "phone": "(213) 620-0767",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "2021"
+ },
+ {
+  "name": "Gold Empire Jewelry Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Loose Diamonds Engagement / Bridal Jewelry",
+  "secondary": "Secondary Speciality: Fine Jewelry & Custom Design/ Gemstones",
+  "site": "http://www.goldempirejewelry.com",
+  "phone": "(213) 626-6012",
+  "addr": "607 South Hill Street, Suite 400, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "1998"
+ },
+ {
+  "name": "Goldberg & Ike",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Commercial and price pointed diamonds",
+  "secondary": "Secondary Speciality:Diamonds/ Studs",
+  "site": "",
+  "phone": "(213) 624-0725",
+  "addr": "550 South Hill Street, Suite 1280, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "2095"
+ },
+ {
+  "name": "Golden State Jewelry",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "http://www.goldenstatejewelry.com",
+  "phone": "(213) 629-9282",
+  "addr": "550 South Hill Street, Suite 715A, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "1903"
+ },
+ {
+  "name": "Golden Stone USA Inc.",
+  "type": "",
+  "spec": "Jewelry,",
+  "goods": "Jewelry",
+  "secondary": "Secondary Specialty: Diamonds and Gemstones",
+  "site": "",
+  "phone": "(213) 622-9966",
+  "addr": "640 South Hill Street, Suite 540, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "G",
+   "5"
+  ],
+  "year": "2152"
+ },
+ {
+  "name": "Goldy Diamonds Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "",
+  "site": "http://agarwaldiam.in",
+  "phone": "(155) 127-6996",
+  "addr": "580 5th Ave, Suite 1221, New York, New York, United States, 10036",
+  "classes": [
+   "collection_item",
+   "G",
+   "2"
+  ],
+  "year": "2295"
+ },
+ {
+  "name": "Guild Laboratories, Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Industry Services,",
+  "goods": "Gemologist/Appraiser",
+  "secondary": "Secondary Speciality",
+  "site": "http://www.guildlabs.com",
+  "phone": "(213) 624-0137",
+  "addr": "550 South Hill Street, Suite 1188, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "G",
+   "12"
+  ],
+  "year": "1930"
+ },
+ {
+  "name": "H Dayan & Co",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Important stones , fancy colors , and white big stones",
+  "secondary": "Secondary Speciality: Watches/ Jewelry",
+  "site": "",
+  "phone": "(213) 627-4799",
+  "addr": "550 South Hill Street, Suite 700, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "H",
+   "2"
+  ],
+  "year": "1974"
+ },
+ {
+  "name": "H.Dayan",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality",
+  "site": "http://Www.hdayan.com",
+  "phone": "(213) 627-4799",
+  "addr": "550 South Hill Street, Suite 700, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "H",
+   "2"
+  ],
+  "year": "1916"
+ },
+ {
+  "name": "Himelsein Inc./National Pacific Corporation",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Specialty: Estate Jewelry, Watches",
+  "site": "http://www.himelseingroup.com",
+  "phone": "(805) 966-6788",
+  "addr": "1129 State street, Suite 6, Santa Barbara, California, United States, 93101",
+  "classes": [
+   "collection_item",
+   "H",
+   "2"
+  ],
+  "year": "2297"
+ },
+ {
+  "name": "Horizon Diamonds Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "All things diamonds! Rounds, fancy shapes, white, fancy colors, matched pairs.",
+  "secondary": "Secondary Speciality:",
+  "site": "http://www.horizondiamondsonline.net",
+  "phone": "(213) 623-5015",
+  "addr": "550 South Hill Street, Suite 690, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "H",
+   "2"
+  ],
+  "year": "2062"
+ },
+ {
+  "name": "I.M.G. Gem Trading Co. Inc",
+  "type": "Wholesale",
+  "spec": "Gemstones,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Pearls",
+  "site": "",
+  "phone": "(213) 624-7990",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "I",
+   "3"
+  ],
+  "year": "2042"
+ },
+ {
+  "name": "Imperial Gem Stones",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Gemstones/ Jewelry",
+  "site": "",
+  "phone": "(213) 804-7736",
+  "addr": "629 South Hill Street, Suite 500, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "I",
+   "2"
+  ],
+  "year": "2125"
+ },
+ {
+  "name": "InfoNetworks",
+  "type": "Wholesale",
+  "spec": "Industry Services,",
+  "goods": "Primary Specialty: Industry Services",
+  "secondary": "Secondary Specialty: Network Security, Data Backup, Cloud Computing, & Disaster Recovery",
+  "site": "https://infonetworks.com/",
+  "phone": "(888) 454-2000",
+  "addr": "18425 Burbank Blvd, Suite 711, Tarzana, California, United States, 91356",
+  "classes": [
+   "collection_item",
+   "I",
+   "12"
+  ],
+  "year": "2252"
+ },
+ {
+  "name": "International House of Platinum",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "http://www.intlhouseofplatinum.com",
+  "phone": "(213) 623-7900",
+  "addr": "550 South Hill Street, Suite 903, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "I",
+   "2"
+  ],
+  "year": "2201"
+ },
+ {
+  "name": "ITJewelers",
+  "type": "President",
+  "spec": "Industry Services,",
+  "goods": "We provide IT solutions for jewelry industry",
+  "secondary": "Secondary Speciality:Other: Photography and Videography",
+  "site": "http://Www.itjewelers.com",
+  "phone": "(951) 790-9207",
+  "addr": "510 West 6th St., Suite 1105, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "I",
+   "12"
+  ],
+  "year": "1851"
+ },
+ {
+  "name": "J & J Diamond World Corporation",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(213) 623-4802",
+  "addr": "550 South Hill Street, Suite 693, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "J",
+   "2"
+  ],
+  "year": "1990"
+ },
+ {
+  "name": "Jack Weir & Sons, Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Estate Jewelry",
+  "site": "http://www.jackweirandsons.com",
+  "phone": "(310) 276-1280",
+  "addr": "8730 Wilshire Blvd, Suite 530, Beverly Hills, California, United States, 90211",
+  "classes": [
+   "collection_item",
+   "J",
+   "2"
+  ],
+  "year": "1986"
+ },
+ {
+  "name": "Janvier",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "Specializing in custom engagement rings",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "http://www.JanvierLA.com",
+  "phone": "(213) 627-2888",
+  "addr": "550 South Hill Street, Suite 1490, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "J",
+   "5"
+  ],
+  "year": "2200"
+ },
+ {
+  "name": "Jay Diamond, Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 622-2716",
+  "addr": "550 South Hill Street, Suite 1357, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "J",
+   "2"
+  ],
+  "year": "1989"
+ },
+ {
+  "name": "JBNCO",
+  "type": "Wholesale",
+  "spec": "Jewelry,",
+  "goods": "We trade loose stones and estate jewelry",
+  "secondary": "Secondary Speciality: Diamonds/ Gemstones",
+  "site": "http://www.jbnco.com",
+  "phone": "(213) 622-6969",
+  "addr": "550 South Hill Street, Suite 650, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "J",
+   "5"
+  ],
+  "year": "1996"
+ },
+ {
+  "name": "Jewel island / R&R Creations Inc. / D& P Designs",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Service and Wholesale Melees",
+  "secondary": "Secondary Speciality: Gemstones/ Jewelry",
+  "site": "",
+  "phone": "(213) 623-8800",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "J",
+   "2"
+  ],
+  "year": "2132"
+ },
+ {
+  "name": "Jewel Mart/Habib Diamonds",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "Gem Trade",
+  "secondary": "Secondary Speciality: Diamonds, Gemstones",
+  "site": "http://www.diamondsbuyer.net",
+  "phone": "(708) 942-9555",
+  "addr": "7275 South Harlem Ave, Bridgeview, Illinois, United States, 60455",
+  "classes": [
+   "collection_item",
+   "J",
+   "5"
+  ],
+  "year": "1895"
+ },
+ {
+  "name": "Jewelers Mutual Group",
+  "type": "Wholesale & Retail",
+  "spec": "Industry Services,",
+  "goods": "Commercial Lines Insurance Adviser for the Jewelry Industry",
+  "secondary": "",
+  "site": "https://www.jewelersmutual.com/jewelry-business-jewelers-block-bop-insurance",
+  "phone": "(920) 521-2108",
+  "addr": "24 Jewelers park Drive, Neenah, Wisconsin, United States, 54956",
+  "classes": [
+   "collection_item",
+   "J",
+   "12"
+  ],
+  "year": "2146"
+ },
+ {
+  "name": "Jewelry Palace",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(213) 683-1478",
+  "addr": "607 South Hill Street, Suite 407, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "J",
+   "2"
+  ],
+  "year": "1970"
+ },
+ {
+  "name": "Jewels of Los Angeles",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Diamonds, gems , antique jewelry, signed jewelry",
+  "secondary": "Secondary Speciality: Gemstones",
+  "site": "",
+  "phone": "(213) 623-7120",
+  "addr": "607 South Hill Street, Suite 217, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "J",
+   "2"
+  ],
+  "year": "2001"
+ },
+ {
+  "name": "JewelSmiths",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "3rd generation jeweler",
+  "secondary": "Secondary Speciality",
+  "site": "http://www.jewelsmiths.net",
+  "phone": "(405) 848-1688",
+  "addr": "6517 North May Avenue, Oklahoma City, Oklahoma, United States, 73116",
+  "classes": [
+   "collection_item",
+   "J",
+   "2"
+  ],
+  "year": "1912"
+ },
+ {
+  "name": "Jhaveri Diamond Corporation",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Prime source for loose diamonds from 2 carats to 1/200 carat sizes.",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(213) 624-6422",
+  "addr": "550 South Hill Street, Suite 1596, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "J",
+   "2"
+  ],
+  "year": "2061"
+ },
+ {
+  "name": "Jonny Ritz & Company",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "High end, fine quality custom made jewelry",
+  "secondary": "Secondary Speciality: Diamonds/ Industry Services",
+  "site": "http://www.jonnyritz.com",
+  "phone": "(213) 489-5111",
+  "addr": "523 West 6th Street, Suite 310, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "J",
+   "5"
+  ],
+  "year": "1999"
+ },
+ {
+  "name": "JP Diamond DBA Lab Grown Diamond Manufactures Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Lab Grown Diamonds",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 842-9621",
+  "addr": "550 South Hill Street, Suite 878, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "J",
+   "2"
+  ],
+  "year": "2072"
+ },
+ {
+  "name": "JR\u2019s Diamonds & Jewelry",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(818) 789-8303",
+  "addr": "15053 Ventura Blvd, Suite 103, Sherman Oaks, California, United States, 91403",
+  "classes": [
+   "collection_item",
+   "J",
+   "2"
+  ],
+  "year": "1991"
+ },
+ {
+  "name": "Julx Inc.",
+  "type": "Wholesale",
+  "spec": "Estate Jewelry,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Watches",
+  "site": "",
+  "phone": "(213) 5079505",
+  "addr": "607 South Hill Street, Suite 524A, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "J",
+   "7"
+  ],
+  "year": "1909"
+ },
+ {
+  "name": "K. R. Gems & Diamonds Int'l./ Eighternity USA",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Well made .30 to 3ct Rd & Fancy shapes",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(213) 627-2888",
+  "addr": "550 South Hill Street, Suite 1490, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "K",
+   "2"
+  ],
+  "year": "2079"
+ },
+ {
+  "name": "K. R. Gems & Diamonds Int'l/ Eighternity USA",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Anything Diamonds, Your Search Stops here",
+  "secondary": "Secondary Speciality: Other: Owners of the Eighternity Brand Diamond/ Jewelry",
+  "site": "http://eighternity.com",
+  "phone": "(213) 627-2888",
+  "addr": "550 South Hill Street, Suite 1490, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "K",
+   "2"
+  ],
+  "year": "2005"
+ },
+ {
+  "name": "Karatrade Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Certed and non certed loose diamonds",
+  "secondary": "Secondary Speciality: Fine Diamond, Platinum, and Estate Jewelry",
+  "site": "http://www.karatrade.com",
+  "phone": "(213) 488-3395",
+  "addr": "550 South Hill Street, Suite 1234, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "K",
+   "2"
+  ],
+  "year": "1944"
+ },
+ {
+  "name": "Kattan Diamonds & Jewelry, Inc.",
+  "type": "Wholesale",
+  "spec": "Manufacturer,",
+  "goods": "Specialized in Bridal sets, Rustic , Yellow, White Diamonds",
+  "secondary": "Secondary Speciality: Jewelry/ Gemstones",
+  "site": "http://www.kattanjewelry.com",
+  "phone": "(213) 622-7525",
+  "addr": "550 South Hill Street, Suite 1030, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "K",
+   "6"
+  ],
+  "year": "2041"
+ },
+ {
+  "name": "King Plutarco Inc.",
+  "type": "Wholesale",
+  "spec": "Pearls,",
+  "goods": "Loose and Strands",
+  "secondary": "Secondary Speciality: Diamonds,Emerald",
+  "site": "",
+  "phone": "(213) 624-3077",
+  "addr": "550 South Hill Street, Suite 1652, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "K",
+   "11"
+  ],
+  "year": "1940"
+ },
+ {
+  "name": "Kingstone NY. Inc.",
+  "type": "Wholesale",
+  "spec": "Gemstones,",
+  "goods": "ruby&sapphire (all colors)",
+  "secondary": "Secondary Speciality: Other: padpradcha sapphire & tsaverite",
+  "site": "",
+  "phone": "(212) 221-9600",
+  "addr": "611 Wilshire blvd., Suite 1405, Los Angeles, California, United States, 90017",
+  "classes": [
+   "collection_item",
+   "K",
+   "3"
+  ],
+  "year": "2017"
+ },
+ {
+  "name": "Kirsten\u2019s Corner",
+  "type": "Retail",
+  "spec": "Estate Jewelry,",
+  "goods": "Antique and Vintage Jewelry",
+  "secondary": "Secondary Speciality : Jewelry , Diamonds",
+  "site": "https://kirstenscorner.com/",
+  "phone": "(310) 313-2951",
+  "addr": "2554 Lincoln Blvd, Suite 696, Venice, California, United States, 90291",
+  "classes": [
+   "collection_item",
+   "K",
+   "7"
+  ],
+  "year": "2237"
+ },
+ {
+  "name": "Kobelli Inc",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "eCommerce",
+  "secondary": "Secondary Speciality: Manufacturer/ Jewelry",
+  "site": "http://www.kobelli.com",
+  "phone": "(213) 689-0076",
+  "addr": "801 South Flower Street, Sutie 305, Los Angeles, California, United States, 91017",
+  "classes": [
+   "collection_item",
+   "K",
+   "2"
+  ],
+  "year": "2015"
+ },
+ {
+  "name": "Korshak Diamond Corporation",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Loose Diamonds & Diamond Studs",
+  "secondary": "Secondary Speciality: Manufacturer",
+  "site": "",
+  "phone": "(213) 628-3123",
+  "addr": "607 South Hill Street, Suite911, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "K",
+   "2"
+  ],
+  "year": "2122"
+ },
+ {
+  "name": "Kothari and Company Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Gemstones/ Estate Jewelry",
+  "site": "http://www.kothariandcompany.com",
+  "phone": "(213) 627-3456",
+  "addr": "550 South Hill Street, Suite 1220, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "K",
+   "2"
+  ],
+  "year": "2020"
+ },
+ {
+  "name": "Krainz Creations",
+  "type": "Wholesale",
+  "spec": "Manufacturer,",
+  "goods": "Manufacturer of luxury goods",
+  "secondary": "Secondary Specialty: Jewelry, Diamonds",
+  "site": "http://www.krainzcreations.com",
+  "phone": "(475) 279-8658",
+  "addr": "580 5th Ave, Suite 1400, New York, New York, United States, 10036",
+  "classes": [
+   "collection_item",
+   "K",
+   "6"
+  ],
+  "year": "2281"
+ },
+ {
+  "name": "Kroger Gems",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Loose Diamonds",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 509-9890",
+  "addr": "550 South Hill Street, Suite 1640, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "K",
+   "2"
+  ],
+  "year": "2024"
+ },
+ {
+  "name": "LA Gems LTD",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Prestigious diamond supplier",
+  "secondary": "Secondary Speciality: Manufacturer",
+  "site": "",
+  "phone": "(213) 629-4344",
+  "addr": "550 South Hill Street, Suite 960, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "L",
+   "2"
+  ],
+  "year": "2107"
+ },
+ {
+  "name": "Labon LLC",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "CVD lab grown diamond grower",
+  "secondary": "",
+  "site": "https://labondiamonds.com/",
+  "phone": "(213) 688-8704",
+  "addr": "550 South Hill Street, Suite 1123, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "L",
+   "2"
+  ],
+  "year": "2273"
+ },
+ {
+  "name": "Ladd Diamonds Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Fine make Fancy and Round shapes. GIA AND EGL Certified",
+  "secondary": "Secondary Speciality: Diamonds/ Fancy Yellows",
+  "site": "http://Ladddiamonds.com",
+  "phone": "(213) 622-3622",
+  "addr": "550 South Hill Street, Suite 577, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "L",
+   "2"
+  ],
+  "year": "2002"
+ },
+ {
+  "name": "Lazar Diamonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Larger, White and Fancy Colors of All Shapes",
+  "secondary": "Secondary Speciality: Gemstones: Largeer, Finer Merchandise with Lab Reports/ Jewelry",
+  "site": "http://lazardiamonds.com",
+  "phone": "(213) 629-9036",
+  "addr": "550 South Hill Street, Suite 1175, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "L",
+   "2"
+  ],
+  "year": "2053"
+ },
+ {
+  "name": "Levy Diamond Corp.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "0.30ct and up Loose diamonds",
+  "secondary": "Secondary Speciality",
+  "site": "",
+  "phone": "(213) 622-1414",
+  "addr": "550 South Hill Street, Suite 1648, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "L",
+   "2"
+  ],
+  "year": "2039"
+ },
+ {
+  "name": "Lex Diamond Co.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "",
+  "site": "",
+  "phone": "(213) 627-0001",
+  "addr": "550 South Hill Street, Suite 1363, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "L",
+   "2"
+  ],
+  "year": "1958"
+ },
+ {
+  "name": "LK Imports",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Melees and larger sizes",
+  "secondary": "Secondary Speciality:Gemstones",
+  "site": "",
+  "phone": "(213) 622-0264",
+  "addr": "606 South Olive Street, Suite 2170, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "L",
+   "2"
+  ],
+  "year": "2081"
+ },
+ {
+  "name": "Los Angeles Diamond Factory",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "Retail Store",
+  "secondary": "Secondary Speciality",
+  "site": "http://www.ladiamondfactory.com",
+  "phone": "(213) 627-8700",
+  "addr": "607 South Hill Street, Suite 302, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "L",
+   "5"
+  ],
+  "year": "2043"
+ },
+ {
+  "name": "Luxury diamonds LLC",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "loose diamonds from melee up to 0.50 pointer in vs2 to I-1 goods,gia",
+  "secondary": "Secondary Speciality",
+  "site": "http://www.luxurydiamondsllc.com",
+  "phone": "(213) 536-4311",
+  "addr": "550 South Hill Street, Suite 1047, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "L",
+   "2"
+  ],
+  "year": "1913"
+ },
+ {
+  "name": "M Kantor and Associates",
+  "type": "Wholesale",
+  "spec": "Estate Jewelry,",
+  "goods": "N/A",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "http://www.kantorgems.com",
+  "phone": "(310) 246-2408",
+  "addr": "9489 Dayton Way, Suite 300, Beverly Hills, California, United States, 90210",
+  "classes": [
+   "collection_item",
+   "M",
+   "7"
+  ],
+  "year": "1900"
+ },
+ {
+  "name": "M.M. Jewelers",
+  "type": "Wholesale & Retail",
+  "spec": "Estate Jewelry,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Diamonds and Jewelry",
+  "site": "http://www.MMjewels.com",
+  "phone": "(213 ) 623-9045",
+  "addr": "607 South Hill Street, Arcade 7, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "M",
+   "7"
+  ],
+  "year": "2195"
+ },
+ {
+  "name": "M.S Diamonds & Jewelry Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "http://msdiamonds.la",
+  "phone": "(213) 627-5188",
+  "addr": "606 South Hill Street, Suite 1101, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "M",
+   "2"
+  ],
+  "year": "2052"
+ },
+ {
+  "name": "Mahe Trading Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Melle, certified and non certified stones GIA and EGL",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 453-8484",
+  "addr": "629 South Hill street, Suite 800, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "M",
+   "2"
+  ],
+  "year": "2135"
+ },
+ {
+  "name": "Malca-Amit USA, LLC",
+  "type": "Wholesale",
+  "spec": "Industry Services,",
+  "goods": "Logistics",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "http://www.malca-amit.com",
+  "phone": "(213) 627-1103",
+  "addr": "550 South Hill Street, Suite 1590, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "M",
+   "12"
+  ],
+  "year": "2194"
+ },
+ {
+  "name": "Manuel Strauss Inc.",
+  "type": "Wholesale",
+  "spec": "Estate Jewelry,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Watches/ Diamonds",
+  "site": "",
+  "phone": "(213) 489-1654",
+  "addr": "550 South Hill Street, Suite 1493, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "M",
+   "7"
+  ],
+  "year": "1983"
+ },
+ {
+  "name": "Marcus Diamonds",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "Jewelry",
+  "secondary": "Secondary Speciality: Diamonds, Manufacturer",
+  "site": "http://www.sammandlerjewelry.com",
+  "phone": "(213) 625-8888",
+  "addr": "550 South Hill Street, Suite 1640, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "M",
+   "5"
+  ],
+  "year": "1943"
+ },
+ {
+  "name": "Maruti Diamonds Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Diamonds",
+  "secondary": "Jewelry",
+  "site": "",
+  "phone": "(425) 864-8774",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "M",
+   "2"
+  ],
+  "year": "2313"
+ },
+ {
+  "name": "Marvin Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Closeout buyer",
+  "secondary": "Secondary Speciality: Jewelry, Beads / Brioletts / Rose cut Jewelry",
+  "site": "",
+  "phone": "(213) 631-4001",
+  "addr": "550 South Hill Street, Suite 1653, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "M",
+   "2"
+  ],
+  "year": "1931"
+ },
+ {
+  "name": "Mathieu Attar Diamond Imports",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "",
+  "site": "",
+  "phone": "(213) 629-4359",
+  "addr": "550 South Hill Street, Suite 1238, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "M",
+   "2"
+  ],
+  "year": "2145"
+ },
+ {
+  "name": "MBN Imports",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Baguettes",
+  "secondary": "Seconday Speciality: Black Diamonds",
+  "site": "",
+  "phone": "(213) 622-0839",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "M",
+   "2"
+  ],
+  "year": "2067"
+ },
+ {
+  "name": "Mirakle Gems, Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Diamonds. Part of the diamond industry for the past 35 years.  Specializing in commercial white, natural fancy colors & treated fancy colors, unique shapes, salt & pepper, champagne colors etc.",
+  "secondary": "",
+  "site": "http://www.miraklegems.com",
+  "phone": "(213) 378 2425",
+  "addr": "550 S. Hill Street, Suite 1042, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "M",
+   "2"
+  ],
+  "year": "2299"
+ },
+ {
+  "name": "Mona Jewelry Inc.",
+  "type": "Wholesale",
+  "spec": "Jewelry,",
+  "goods": "Finished Goods",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 629-2625",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "M",
+   "5"
+  ],
+  "year": "1960"
+ },
+ {
+  "name": "My Goldsmith LLC/ Overnight Melee LLC",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "We specialized in white diamond melee, black diamond melee, ruby melee, sapphire melee, emerald melee",
+  "secondary": "Secondary Speciality: Gemstones, Industry Services",
+  "site": "",
+  "phone": "(800) 994-9965",
+  "addr": "550 South Hill Street, Suite 1542, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "M",
+   "2"
+  ],
+  "year": "2265"
+ },
+ {
+  "name": "Nadis Diamonds",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Any shape, any sizes white and color diamonds",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "http://www.nadis.com",
+  "phone": "(213) 489-1915",
+  "addr": "625 South Hill Street, Suite 134, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "N",
+   "2"
+  ],
+  "year": "2120"
+ },
+ {
+  "name": "National Gold & Diamond Center, Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry/ Watches",
+  "site": "",
+  "phone": "(213) 683-0577",
+  "addr": "609 South Hill Street, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "N",
+   "2"
+  ],
+  "year": "2059"
+ },
+ {
+  "name": "Nayyar",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Star and Melle",
+  "secondary": "Secondary Speciality: Gemstones / Jewelry",
+  "site": "",
+  "phone": "(213) 973-0016",
+  "addr": "550 South Hill Street, Suite 1239, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "N",
+   "2"
+  ],
+  "year": "1979"
+ },
+ {
+  "name": "Neon Gems, Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Loose Diamonds",
+  "secondary": "Secondary Speciality: Jewelry: One of A kind Jewelry Pieces/ Gemstones",
+  "site": "http://www.neongemsinc.com",
+  "phone": "(213) 627-0433",
+  "addr": "550 South Hill Street, Suite 1300, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "N",
+   "2"
+  ],
+  "year": "2064"
+ },
+ {
+  "name": "Ninacci Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Wholesaler of GIA, EGL USA and non certified diamonds.",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "http://www.ninacci.com",
+  "phone": "(213) 624-4400",
+  "addr": "550 South Hill Street, Suite 1101, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "N",
+   "2"
+  ],
+  "year": "2082"
+ },
+ {
+  "name": "Nova Diamonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Lab Grown Diamonds",
+  "secondary": "Secondary Speciality: Custom Jewelry",
+  "site": "http://novadiamond.us/",
+  "phone": "213) 999-3236",
+  "addr": "550 South Hill Street, Suite 1240, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "N",
+   "2"
+  ],
+  "year": "2247"
+ },
+ {
+  "name": "Optima Diamond",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "We specialize in 0.50-10ct. diamonds in any shape & quality, certified by GIA & EGL USA",
+  "secondary": "Secondary Speciality",
+  "site": "",
+  "phone": "(213) 488-0440",
+  "addr": "550 South Hill Street, Suite 1570, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "O",
+   "2"
+  ],
+  "year": "1938"
+ },
+ {
+  "name": "Orchid Gems Inc",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "1.0mm - 0.25pt, Clarity: VS - I2, Color:White - OW",
+  "secondary": "Secondary Speciality: Jewelry, All Shape Eternity Bands, Alphabet & Zodiac Jewelry",
+  "site": "http://www.eternityband.com",
+  "phone": "(213) 689-3237",
+  "addr": "550 South Hill Street, Suite 764, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "O",
+   "2"
+  ],
+  "year": "2151"
+ },
+ {
+  "name": "Oritalia Jewelry Inc DBA Hana Diamonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Certified diamonds",
+  "secondary": "",
+  "site": "",
+  "phone": "(213) 489-7900",
+  "addr": "606 South Olive Street, Suite 1026, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "O",
+   "2"
+  ],
+  "year": "2277"
+ },
+ {
+  "name": "Palak Diam Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Buyers and Sellers of Diamonds",
+  "secondary": "Secondary Speciality",
+  "site": "http://www.palakdiamond.com",
+  "phone": "(213) 228-0077",
+  "addr": "550 South Hill Street, Suite 880, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "P",
+   "2"
+  ],
+  "year": "1904"
+ },
+ {
+  "name": "Paradise Diamonds Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Diamonds & Jewelry",
+  "secondary": "Secondary Speciality: Jewelry/ Manufacturer",
+  "site": "http://www.ParadiseDiamonds.com",
+  "phone": "(213) 622-4225",
+  "addr": "222 North Canon Dr., Suite 202, Beverly Hills, California, United States, 90210",
+  "classes": [
+   "collection_item",
+   "P",
+   "2"
+  ],
+  "year": "2007"
+ },
+ {
+  "name": "Parwal International Inc.",
+  "type": "Wholesale",
+  "spec": "Gemstones,",
+  "goods": "Gemstones",
+  "secondary": "Secondary Specialty: Diamonds, Ruby, Sapphire, Emerald",
+  "site": "",
+  "phone": "(213) 841-2658",
+  "addr": "629 South Hill Street, Suite 1204, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "P",
+   "3"
+  ],
+  "year": "2214"
+ },
+ {
+  "name": "Philip Wolman & Co,",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Natural Color Diamonds specializing in Champagnes",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "http://www.philipwolman.com",
+  "phone": "",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "P",
+   "2"
+  ],
+  "year": "1955"
+ },
+ {
+  "name": "Pink Diamond Corp",
+  "type": "Wholesale",
+  "spec": "Manufacturer,",
+  "goods": "Manufacturer",
+  "secondary": "Secondary Specialty: Jewelry, Diamonds",
+  "site": "",
+  "phone": "(213) 624-2611",
+  "addr": "550 South Hill Street, Suite 1470, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "P",
+   "6"
+  ],
+  "year": "2269"
+ },
+ {
+  "name": "Pinnacle Wholesale Jewelry",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "",
+  "site": "",
+  "phone": "(818) 264-6335",
+  "addr": "550 South Hill Street, Suite 1260, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "P",
+   "2"
+  ],
+  "year": "2234"
+ },
+ {
+  "name": "Platinum Guild International USA",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Industry Services",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "http://www.platinumlearning.com",
+  "phone": "(212) 404-1608",
+  "addr": "125 Park Ave., 25th Floor, New York, New York, United States, 10017",
+  "classes": [
+   "collection_item",
+   "P",
+   "2"
+  ],
+  "year": "2245"
+ },
+ {
+  "name": "Pop Gems International Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Gemstones",
+  "site": "",
+  "phone": "(213) 622-3747",
+  "addr": "625 South Hill Street, Suite 102, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "P",
+   "2"
+  ],
+  "year": "2199"
+ },
+ {
+  "name": "Pranam Diamonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(714) 606-3401",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "P",
+   "2"
+  ],
+  "year": "2076"
+ },
+ {
+  "name": "Prijems",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Fancy color, rose cut, old cut, one of a kind",
+  "secondary": "Secondary Speciality: Manufacturer",
+  "site": "http://www.prijems.com",
+  "phone": "(213) 489-1234",
+  "addr": "550 South Hill Street, Suite 891, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "P",
+   "2"
+  ],
+  "year": "1976"
+ },
+ {
+  "name": "R Sparkles LLC",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Diamonds",
+  "secondary": "Secondary Specialty: Jewelry, Manufacturer",
+  "site": "",
+  "phone": "(929) 428-5562",
+  "addr": "606 South Hill Street, Suite 908, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "R",
+   "2"
+  ],
+  "year": "2287"
+ },
+ {
+  "name": "Radiam Inc.  / Miro & Jack Diamonds",
+  "type": "Wholesale & Retail",
+  "spec": "Estate Jewelry,",
+  "goods": "Estate Jewelry",
+  "secondary": "Secondary Speciality : Diamonds",
+  "site": "",
+  "phone": "(213) 489-7562",
+  "addr": "550 South Hill Street, Suite 1050, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "R",
+   "7"
+  ],
+  "year": "2227"
+ },
+ {
+  "name": "Radiant Times, Inc.",
+  "type": "Wholesale",
+  "spec": "Estate Jewelry,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Gemstones",
+  "site": "",
+  "phone": "(213) 488-9036",
+  "addr": "607 South Hill Street, Suite243, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "R",
+   "7"
+  ],
+  "year": "2133"
+ },
+ {
+  "name": "Rahaminov Diamonds",
+  "type": "Wholesale",
+  "spec": "Jewelry,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Diamonds, Manufacturer",
+  "site": "http://www.rahaminov.com",
+  "phone": "(213) 622-9866",
+  "addr": "606 South Olive Street, Suite 2018, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "R",
+   "5"
+  ],
+  "year": "1902"
+ },
+ {
+  "name": "Rare Gems & Minerals",
+  "type": "Wholesale",
+  "spec": "Gemstones,",
+  "goods": "Rare Gems",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "http://www.raregemsinc.com",
+  "phone": "(310) 954-6904",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "R",
+   "3"
+  ],
+  "year": "2048"
+ },
+ {
+  "name": "Raymond Gould",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(626) 319-0818",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "R",
+   "2"
+  ],
+  "year": "2088"
+ },
+ {
+  "name": "Renaissance Diamond & Jewelry",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "http://roberthezghiayan@mail.com",
+  "phone": "(310) 384-7107",
+  "addr": "3346 Beethoven st, Los Angeles, California, United States, 90066",
+  "classes": [
+   "collection_item",
+   "R",
+   "2"
+  ],
+  "year": "2092"
+ },
+ {
+  "name": "Revere Jewels",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Estate Jewelry, Watches",
+  "site": "http://www.reverejewels.com",
+  "phone": "(310) 775-2025",
+  "addr": "9250 Wilshire Blvd, Suite 224, Beverly Hills, California, United States, 90212",
+  "classes": [
+   "collection_item",
+   "R",
+   "2"
+  ],
+  "year": "1917"
+ },
+ {
+  "name": "Rising Star Diamond LLC",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Diamonds",
+  "secondary": "",
+  "site": "",
+  "phone": "(213) 891-9190",
+  "addr": "550 South Hill Street, Suite 750, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "R",
+   "2"
+  ],
+  "year": "2263"
+ },
+ {
+  "name": "Royal Diamond Import",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "We have alot big discount gia and big discount egl usa",
+  "secondary": "Secondary Speciality : Estate Jewelry",
+  "site": "",
+  "phone": "(213) 675-5000",
+  "addr": "550 South Hill Street, Suite 706, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "R",
+   "2"
+  ],
+  "year": "2097"
+ },
+ {
+  "name": "Ruth Design/ Michael Raviv Diamond",
+  "type": "Wholesale",
+  "spec": "Manufacturer,",
+  "goods": "Special orders",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(213) 489-3700",
+  "addr": "550 South Hill Street, Suite 985, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "R",
+   "6"
+  ],
+  "year": "2098"
+ },
+ {
+  "name": "Setu Doshi Inc dba J B Brothers USA",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "All shapes GIA fine goods 0.7 - 20cts",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(213) 489-3020",
+  "addr": "550 South Hill Street, Suite 1565, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "S",
+   "2"
+  ],
+  "year": "2111"
+ },
+ {
+  "name": "SG Diamonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Specializing in Layouts for Eternity Bands, Necklaces, & Bracelets",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 986-6636",
+  "addr": "607 South Hill Street, Suite 714, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "S",
+   "2"
+  ],
+  "year": "2108"
+ },
+ {
+  "name": "Shani Diamonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Calibrated Rounds and Fancy Shapes",
+  "secondary": "Secondary Speciality: Jewelry, Watches",
+  "site": "http://www.shanidiamonds.com",
+  "phone": "(213) 947-3377",
+  "addr": "607 South Hill Street, Suite 620, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "S",
+   "2"
+  ],
+  "year": "2232"
+ },
+ {
+  "name": "Shanira Diamonds Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Small Melee & pointers round",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "",
+  "phone": "(213) 324-8515",
+  "addr": "26902 Santa Ynez way, Valencia, California, United States, 91355",
+  "classes": [
+   "collection_item",
+   "S",
+   "2"
+  ],
+  "year": "2010"
+ },
+ {
+  "name": "Shawn Intl",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Vvs rounds",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 798-9823",
+  "addr": "550 South Hill Street, Suite 1122, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "S",
+   "2"
+  ],
+  "year": "2115"
+ },
+ {
+  "name": "Shlomo Bichachi Diamond Corporation",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Diamond Service house",
+  "secondary": "Secondary Speciality: Manufacturer",
+  "site": "http://www.bichachi.com",
+  "phone": "(213) 891-0750",
+  "addr": "550 South Hill Street, Suite 566, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "S",
+   "2"
+  ],
+  "year": "1915"
+ },
+ {
+  "name": "Shoham Int. Trading Co.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality : Jewelry/ Manufacturer",
+  "site": "",
+  "phone": "(626) 215-3333",
+  "addr": "550 South Hill Street, Suite 1245, Los Angeles, California, United States, 90210",
+  "classes": [
+   "collection_item",
+   "S",
+   "2"
+  ],
+  "year": "2051"
+ },
+ {
+  "name": "Simply Diamonds Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality",
+  "site": "",
+  "phone": "(213) 683-9644",
+  "addr": "550 South Hill Street, Suite 1213, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "S",
+   "2"
+  ],
+  "year": "1932"
+ },
+ {
+  "name": "Simran Collection Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "Diamonds and jewelry.",
+  "secondary": "Secondary Speciality: Diamonds/ Manufacturer",
+  "site": "http://Simrancollection.com",
+  "phone": "(213) 623-9100",
+  "addr": "550 South Hill street, Suite 1000, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "S",
+   "5"
+  ],
+  "year": "2127"
+ },
+ {
+  "name": "SMG Trading, Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Lab Grown Diamonds",
+  "secondary": "",
+  "site": "",
+  "phone": "(917) 667-8113",
+  "addr": "606 South Hill Street, Suite 1212, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "S",
+   "2"
+  ],
+  "year": "2209"
+ },
+ {
+  "name": "Snow White Diamond, Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Diamonds",
+  "secondary": "",
+  "site": "",
+  "phone": "(213) 623-8432",
+  "addr": "550 S. Hill Street, Suite 1407, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "S",
+   "2"
+  ],
+  "year": "2304"
+ },
+ {
+  "name": "Sol Jewelry Designs, Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Jewelry,",
+  "goods": "Engagement rings and wedding bands",
+  "secondary": "Secondary Speciality:Diamonds/ Manufaturer",
+  "site": "http://www.soljewelry.com",
+  "phone": "(213) 622-7772",
+  "addr": "550 South Hill Street, Suite 1020, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "S",
+   "5"
+  ],
+  "year": "2118"
+ },
+ {
+  "name": "Sparkling Jewelry, Inc.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "D-H color 50 points and below",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "http://www.thesparklingjewelry.com",
+  "phone": "(213) 623-1817",
+  "addr": "550 South Hill Street, Suite 1141, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "S",
+   "2"
+  ],
+  "year": "2063"
+ },
+ {
+  "name": "Superior Gemological Laboratory/ J R Jewelry / Gem Rap",
+  "type": "Wholesale & Retail",
+  "spec": "Industry Services,",
+  "goods": "Industry Services",
+  "secondary": "Secondary Specialty: Online Accessible Jewelry Appraisals",
+  "site": "http://SuperiorGemLab.com",
+  "phone": "(213) 627-6689",
+  "addr": "629 South Hill Street, Suite 1208, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "S",
+   "12"
+  ],
+  "year": "2205"
+ },
+ {
+  "name": "The Diamond Source",
+  "type": "Retail",
+  "spec": "Diamonds,",
+  "goods": "Custom Designs with Diamonds and Gemstones",
+  "secondary": "Secondary Speciality: Jewelry/ Gemstones",
+  "site": "http://Thediamondsource.com",
+  "phone": "(619) 299-6900",
+  "addr": "2474 San Diego Ave., San Diego, California, United States, 92110",
+  "classes": [
+   "collection_item",
+   "T",
+   "2"
+  ],
+  "year": "2030"
+ },
+ {
+  "name": "Tivoli Jewelry, Inc.",
+  "type": "Wholesale",
+  "spec": "Gemstones,",
+  "goods": "Gemstones",
+  "secondary": "Jewelry",
+  "site": "http://www.narwongjewelers.com",
+  "phone": "(626) 280-2123",
+  "addr": "100 North Barranca Street, Suite 800, West Covina, California, United States, 91791",
+  "classes": [
+   "collection_item",
+   "T",
+   "3"
+  ],
+  "year": "2311"
+ },
+ {
+  "name": "Top Diamonds inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "",
+  "phone": "(213) 892-9009",
+  "addr": "550 South Hill Street, Suite 1614, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "T",
+   "2"
+  ],
+  "year": "2085"
+ },
+ {
+  "name": "Toper diamonds inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Round and fancy from 1/4 points to 10 cts",
+  "secondary": "Secondary Speciality:",
+  "site": "http://Toper%20Diamonds.com",
+  "phone": "(213) 488-1166",
+  "addr": "550 South Hill Street, Suite 1480, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "T",
+   "2"
+  ],
+  "year": "1973"
+ },
+ {
+  "name": "Trilok Dia Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(909) 979-7461",
+  "addr": "550 South Hill Street, Suite 542B, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "T",
+   "2"
+  ],
+  "year": "2014"
+ },
+ {
+  "name": "Trumpet & Horn",
+  "type": "Wholesale & Retail",
+  "spec": "Estate Jewelry,",
+  "goods": "Estate Jewelry",
+  "secondary": "Secondary Specialty: Diamonds",
+  "site": "http://trumpetandhorn.com",
+  "phone": "(213) 612-4333",
+  "addr": "523 West 6th Street, Suite 741, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "T",
+   "7"
+  ],
+  "year": "2208"
+ },
+ {
+  "name": "Tvisha Diamond Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Diamonds",
+  "secondary": "",
+  "site": "",
+  "phone": "(213) 245-7826",
+  "addr": "550 South Hill Street, Suite 668, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "T",
+   "2"
+  ],
+  "year": "2289"
+ },
+ {
+  "name": "Uneek Jewelry Inc.",
+  "type": "Wholesale",
+  "spec": "Jewelry,",
+  "goods": "Designer and Manufacturer of One-of-a-Kind Diamond Jewelry, Gemstone Jewelry and Fashion Jewelry",
+  "secondary": "Secondary Speciality",
+  "site": "http://www.uneekjewelry.com",
+  "phone": "(213) 622-5119",
+  "addr": "550 South Hill Street, Suite 1635, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "U",
+   "5"
+  ],
+  "year": "1921"
+ },
+ {
+  "name": "Unique Diamond International",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "",
+  "secondary": "Secondary Speciality: Jewelry",
+  "site": "",
+  "phone": "(213) 622-1997",
+  "addr": "550 South Hill Street, Suite 1478, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "U",
+   "2"
+  ],
+  "year": "1937"
+ },
+ {
+  "name": "US Certified Jewelry Inc.",
+  "type": "",
+  "spec": "Manufacturer,",
+  "goods": "Gold Findings & Stamping Components",
+  "secondary": "Secondary Speciality: Casting Gold & Jewelry",
+  "site": "https://uscertifiedjewelry.com",
+  "phone": "(213)265-2936",
+  "addr": "640 S. Hill Street, Suite 744, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "U",
+   "6"
+  ],
+  "year": "2303"
+ },
+ {
+  "name": "USA Trade Inc.",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Sell loose diamonds, french cut, Rose cut AF fancy colors",
+  "secondary": "Secondary Speciality: Gemstones/ Estate Jewelry",
+  "site": "",
+  "phone": "(949) 955-2844",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "U",
+   "2"
+  ],
+  "year": "2060"
+ },
+ {
+  "name": "Uvsimon & associates",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Wholesaler for diamond and jewelry",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "",
+  "phone": "(213) 792-3374",
+  "addr": "607 South Hill Street, Suite 846, Los Angeles, California, United States, 90014",
+  "classes": [
+   "collection_item",
+   "U",
+   "2"
+  ],
+  "year": "2143"
+ },
+ {
+  "name": "Varsha Diamonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "From melees to 25 carat GIA/ EGLUSA/ AGS and price point stones, studs and solitaire program",
+  "secondary": "Secondary Speciality: Jewelry/ Custom Jewelry",
+  "site": "http://www.varshadiamonds.com",
+  "phone": "(213) 683-0848",
+  "addr": "550 South Hill Street, Suite 1390, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "V",
+   "2"
+  ],
+  "year": "1992"
+ },
+ {
+  "name": "Victory Diamonds Inc",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Champagne diamonds",
+  "secondary": "Seconday Speciality:",
+  "site": "",
+  "phone": "(213) 689-3155",
+  "addr": "550 South Hill Street, Suite 894, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "V",
+   "2"
+  ],
+  "year": "2066"
+ },
+ {
+  "name": "Vora Gems",
+  "type": "Wholesale",
+  "spec": "Gemstones,",
+  "goods": "fine colored stones",
+  "secondary": "Secondary Speciality: Diamonds",
+  "site": "http://voragems.com",
+  "phone": "(213) 623-7390",
+  "addr": "550 South Hill Street, Suite 793, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "V",
+   "3"
+  ],
+  "year": "2077"
+ },
+ {
+  "name": "Wave Diamonds",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Gia eglusa",
+  "secondary": "",
+  "site": "",
+  "phone": "",
+  "addr": "550 South Hill Street, Suite 1649, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "W",
+   "2"
+  ],
+  "year": "1950"
+ },
+ {
+  "name": "WDC III",
+  "type": "Wholesale",
+  "spec": "Estate Jewelry,",
+  "goods": "Estate Jewelry",
+  "secondary": "Secondary Specialty: Diamonds, Jewelry",
+  "site": "http://www.wdciii.com",
+  "phone": "(646) 499-0863",
+  "addr": "9663 Santa Monica Blvd, Suite 169, Beverly Hills, California, United States, 90210",
+  "classes": [
+   "collection_item",
+   "W",
+   "7"
+  ],
+  "year": "2283"
+ },
+ {
+  "name": "Wior Diamonds",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "Diamonds/lab grown diamonds",
+  "secondary": "",
+  "site": "",
+  "phone": "(310) 713-4490",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "W",
+   "2"
+  ],
+  "year": "2275"
+ },
+ {
+  "name": "Worldwide Diamond Co.",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Estate Jewelry",
+  "secondary": "Secondary Speciality:",
+  "site": "",
+  "phone": "(213) 622-2191",
+  "addr": "550 South Hill Street, Suite 1600, Los Angeles, California, United States, 90013",
+  "classes": [
+   "collection_item",
+   "W",
+   "2"
+  ],
+  "year": "2023"
+ },
+ {
+  "name": "Yale Jewelers",
+  "type": "Retail",
+  "spec": "Jewelry,",
+  "goods": "Fine Jewelry & Watches",
+  "secondary": "Secondary Specialty: Estate Jewelry, Watches",
+  "site": "http://yalejewelers.com",
+  "phone": "(310) 829-0605",
+  "addr": "2839 Wilshire Blvd, Santa Monica, California, United States, 90403",
+  "classes": [
+   "collection_item",
+   "Y",
+   "5"
+  ],
+  "year": "2285"
+ },
+ {
+  "name": "Zar & Sons Jewelry",
+  "type": "Wholesale & Retail",
+  "spec": "Diamonds,",
+  "goods": "From one point and up",
+  "secondary": "Secondary Speciality: Gemstones",
+  "site": "",
+  "phone": "(213) 622-1036",
+  "addr": "629 South Hill Street, Suite 1118, Los Angeles, California., United States, 90014",
+  "classes": [
+   "collection_item",
+   "Z",
+   "2"
+  ],
+  "year": "2084"
+ },
+ {
+  "name": "Zayn Jewels",
+  "type": "Wholesale",
+  "spec": "Diamonds,",
+  "goods": "Precision White Diamonds from sizes 0.65mm 5.00mm, all clarities, single cut and round brilliant cut.",
+  "secondary": "Secondary Specialty: Jewelry, Watches",
+  "site": "http://www.zaynjewels.com",
+  "phone": "949-900-6910",
+  "addr": "6404 Wilshire Blvd, Suite 870, Los Angeles, California, United States, 90048",
+  "classes": [
+   "collection_item",
+   "Z",
+   "2"
+  ],
+  "year": "2256"
+ }
+]
