@@ -11,21 +11,29 @@
  "reviews": "30",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/kuperman-brothers-inc-545155564",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@kupermanbros.com",
+ "email_source": "https://www.kupermanbros.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Shlomo Kuperman",
+ "role": "Founder",
+ "contact_source": "https://www.kupermanbros.com/",
+ "tel_numbers": [
+  "866-506-5111"
+ ],
+ "tel_source": "https://www.kupermanbros.com/contact",
  "socials": [],
- "building": "",
- "suite": "",
+ "building": "50 W 47th street",
+ "suite": "suite 1808",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since 1963",
+  "diamond manufacturer",
+  "GIA/HRD certified",
+  "offices in Israel, UK, Belgium, Hong Kong"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Own site: 'Kuperman's manufacturing facilities in Israel and the Far East' cut diamonds, most stones 'certified through... GIA, HRD and EGL'; US office at 50 W 47th St (manufacturer/loose dealer).",
+ "verified": true
 }

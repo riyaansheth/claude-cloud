@@ -11,21 +11,28 @@
  "reviews": "8",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/diamond-buyer-nyc-inc-495505184",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@diamondbuyernyc.com",
+ "email_source": "https://diamondbuyernyc.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(855) 289-3769",
+  "(917) 776-6015"
+ ],
+ "tel_source": "https://diamondbuyernyc.com/contact-us/",
  "socials": [],
- "building": "",
- "suite": "",
+ "building": "580 Fifth Ave",
+ "suite": "2900 (29 Floor)",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "over 35 years",
+  "buys loose diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamond Buyers, Jewelry Buyers"
+ "scope_reason": "Own site: 'Diamond Buyer NYC has over 35 years of experience in evaluating and purchasing diamond rings' and buys loose diamonds and estate jewelry (estate-diamond buyer).",
+ "verified": true
 }

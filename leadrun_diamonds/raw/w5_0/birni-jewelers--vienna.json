@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Repairing"
+ "scope_reason": "unverified: listed website is a different business's site (mayjewelers.com = May Jewelers, 8032 Leesburg Pike, Vienna / (703) 448-0866); name, address and phone do not match the listing (1900 Mervis Way, 703-356-6006); YP category kept",
+ "verified": false
 }

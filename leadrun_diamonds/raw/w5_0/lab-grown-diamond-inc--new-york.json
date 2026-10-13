@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "unverified: listed website is a different business's site (imperialdiamonds.com = Imperial Diamonds Inc., 18 East 48th Street / 212-302-4305); name, address and phone do not match the listing (37 W 47th St, 212-221-0118); YP category kept",
+ "verified": false
 }

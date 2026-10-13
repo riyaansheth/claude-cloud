@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "unverified: listed website is a different business's site (simplexdiam.com = SimplexDiam, Inc., 50 W 47th St Suite 2011 / 212-883-0888); name, address and phone do not match the listing (47 W 47th St, 212-768-2818); YP category kept",
+ "verified": false
 }

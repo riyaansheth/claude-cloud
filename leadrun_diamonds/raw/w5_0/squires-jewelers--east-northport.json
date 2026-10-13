@@ -11,21 +11,26 @@
  "reviews": "47",
  "source_url": "https://www.yellowpages.com/east-northport-ny/mip/squires-jewelers-14132461",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "squiresjewelers@yahoo.com",
+ "email_source": "https://squiresjewelers.com/contact/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Mark Cohen",
+ "role": "Owner",
+ "contact_source": "https://squiresjewelers.com/ourstory/",
+ "tel_numbers": [
+  "631-499-7444"
+ ],
+ "tel_source": "https://squiresjewelers.com/contact/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers"
+ "hooks": [
+  "since 1979"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site: 'our Long Island jewelry store' offering custom pieces, repairs, ear piercing and Swarovski; a retail jeweler, not a diamond trader.",
+ "verified": true
 }

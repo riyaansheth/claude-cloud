@@ -11,21 +11,30 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/gem-source-international-ltd-542829334",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
- "building": "",
- "suite": "",
+ "email": "David.Birnbaum.NY@gmail.com",
+ "email_source": "https://www.rare1.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/davidbrare/",
+ "linkedin_source": "\"David Birnbaum\" Rare 1 jeweler LinkedIn",
+ "contact_person": "David Birnbaum",
+ "role": "President",
+ "contact_source": "https://www.rare1.com/",
+ "tel_numbers": [
+  "(212) 575-0266"
+ ],
+ "tel_source": "https://www.rare1.com/contact",
+ "socials": [
+  "https://www.instagram.com/davidbirnbaumrare1/"
+ ],
+ "building": "630 Fifth Avenue (Rockefeller Center)",
+ "suite": "20th floor",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "private jeweler",
+  "Asscher cut diamonds",
+  "by appointment only"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Own site (phone (212) 575-0266 matches): David Birnbaum / Rare 1, a private jeweler 'specializing in connoisseur's gemstones' in 'Diamonds, Pearls, and Major Color Gems', with an Asscher Cut Diamonds line and recognized for 'sourcing and crafting rare super gems'.",
+ "verified": true
 }

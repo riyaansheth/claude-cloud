@@ -11,21 +11,33 @@
  "reviews": "72",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/william-goldberg-diamond-corp-2949270",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@williamgoldberg.com",
+ "email_source": "https://williamgoldberg.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
- "building": "",
+ "contact_person": "Saul Goldberg",
+ "role": "President",
+ "contact_source": "https://robbreport.com/style/jewelry/jewelry-rock-steady-240786/ (older article, via WebSearch); site https://www.williamgoldberg.com/history/about/ says son Saul runs the family business",
+ "tel_numbers": [
+  "212.980.4343"
+ ],
+ "tel_source": "https://williamgoldberg.com/contact",
+ "socials": [
+  "https://www.facebook.com/williamgoldbergdiamonds",
+  "https://www.instagram.com/williamgoldbergdiamonds",
+  "https://www.youtube.com/user/goldbergdiamonds"
+ ],
+ "building": "589 Fifth Avenue",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "founded 1973",
+  "ASHOKA diamond",
+  "historic diamonds",
+  "family-run (Lili, Saul, Eve, Barry Berg, Benjamin Goldberg)"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "Own site: 'one of the most distinguished diamond jewelry houses and purveyor of some of the finest and rarest diamonds', founded 1973 by diamantaire William Goldberg; ASHOKA diamonds come 'out of the workshop'.",
+ "verified": true
 }

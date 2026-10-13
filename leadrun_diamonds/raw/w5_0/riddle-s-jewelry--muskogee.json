@@ -11,21 +11,24 @@
  "reviews": "67",
  "source_url": "https://www.yellowpages.com/muskogee-ok/mip/riddles-jewelry-8549498",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@riddlesjewelry.com",
+ "email_source": "https://www.riddlesjewelry.com/pages/about-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "1-888-402-3475"
+ ],
+ "tel_source": "https://www.riddlesjewelry.com/",
  "socials": [],
  "building": "",
  "suite": "Ste 116",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Own site: 'With over 60 stores in 10 states' Riddle's is a family-owned retail jewelry chain.",
+ "verified": true
 }

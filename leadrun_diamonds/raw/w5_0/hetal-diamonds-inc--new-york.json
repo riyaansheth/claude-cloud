@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "unverified: listed website is a different business's site (jbediamonds.com = JBE Diamonds Inc, 580 5th Ave / 212-221-1095); name, address and phone do not match the listing (15 W 47th St, 212-944-8144); YP category kept",
+ "verified": false
 }
