@@ -25,7 +25,8 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Diamonds, Jewelers-Wholesale & Manufacturers"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "samuelsdiamonds.com redirects to Samuels-Jewelers.com ('ANDREWS / ROGERS / SCHUBACH / SAMUELS', 'serving jewelry customers since 1891') \u2014 a multi-brand retail chain.",
+ "verified": true
 }

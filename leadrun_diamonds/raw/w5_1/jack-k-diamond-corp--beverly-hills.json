@@ -11,21 +11,30 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/beverly-hills-ca/mip/jack-k-diamond-corp-473328030",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "email": "shant@jackkdiamonds.com",
+ "email_source": "http://jackkdiamonds.com/contact-us_6.html",
+ "linkedin_url": "https://www.linkedin.com/in/jack-khatchadourian-a7636941/",
+ "linkedin_source": "\"Jack Khatchadourian\" Jack K Diamond LinkedIn",
+ "contact_person": "Jack Khatchadourian",
+ "role": "Founder & CEO",
+ "contact_source": "http://jackkdiamonds.com/about-us_3.html",
+ "tel_numbers": [
+  "310-422-2009"
+ ],
+ "tel_source": "http://jackkdiamonds.com/contact-us_6.html",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1966",
+  "fancy-color",
+  "large-stones",
+  "manufacturer",
+  "conflict-free"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "About page: Jack K Diamond Corporation is 'specializing in white and fancy colored diamonds ranging from one to fifty carats'; 'All manufacturing is done in the USA'.",
+ "verified": true
 }

@@ -11,21 +11,32 @@
  "reviews": "37",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/singlestone-diamond-458824118",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "email": "info@singlestone.com",
+ "email_source": "https://www.singlestone.com/pages/our-story-1",
+ "linkedin_url": "https://www.linkedin.com/in/ari-madilian-b2b12722/",
+ "linkedin_source": "\"Ari Madilian\" Single Stone LinkedIn",
+ "contact_person": "Ari Madilian",
+ "role": "Co-owner (with Corina Madilian)",
+ "contact_source": "https://www.singlestone.com/pages/our-story-1",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/SingleStoneLosAngeles",
+  "https://www.instagram.com/singlestonela",
+  "https://www.pinterest.com/singlestonela"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "antique-old-cut-diamonds",
+  "loose-diamonds",
+  "manufacturer",
+  "wholesale-to-boutiques",
+  "recycled"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Repairing"
+ "scope_reason": "Site: 'Single Stone was originally established as an antique diamond specialist, supplying loose, old cut diamonds to the antique jewelry industry'; collection now 'available at luxury boutiques across the US' (retailer login) plus own store.",
+ "verified": true
 }

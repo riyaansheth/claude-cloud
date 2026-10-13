@@ -13,19 +13,31 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/koby-stalowsky-371a2b55/",
+ "linkedin_source": "\"Koby Stalowsky\" Excellent Diamonds LinkedIn",
+ "contact_person": "Koby Stalowsky",
+ "role": "Owner",
+ "contact_source": "https://excellentdia.com/about-us/",
+ "tel_numbers": [
+  "888-990-3255",
+  "213-873-4383"
+ ],
+ "tel_source": "https://excellentdia.com/contact/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale",
+  "loose-diamonds",
+  "melee",
+  "manufacturer",
+  "30-years-experience",
+  "GIA/EGL-certified",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Site (Excellent Diamonds & Jewelry) says 'Proudly Serving the Jewelry Wholesale Market' with 'an enormous selection of loose diamonds in all shapes and sizes (melee sizes to 10+ carats)' and is a jewelry manufacturer.",
+ "verified": true
 }

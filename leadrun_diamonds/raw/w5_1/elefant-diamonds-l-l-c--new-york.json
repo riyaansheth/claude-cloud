@@ -18,14 +18,29 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(212) 302 0002"
+ ],
+ "tel_source": "https://www.lilijewelry.com/info/contact/",
+ "socials": [
+  "https://twitter.com/JewelryLili",
+  "https://www.facebook.com/lili.jewelry",
+  "https://www.instagram.com/lilijewelry",
+  "https://www.linkedin.com/company/lili-jewelry",
+  "https://www.pinterest.com/lilijewelry1277",
+  "https://www.youtube.com/user/lilidiamondsil"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1980",
+  "manufacturer",
+  "patented-cuts",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Listed site lilijewelry.com: 'Lili Jewelry ... is a leading brand of Lili Diamonds (est 1980)'; 'Lili Diamonds has individual agreements with the leading luxury companies for supplying them exclusive signature diamonds' (patented cuts), New York office 580 Fifth Avenue, suite 2500. Link between Elefant name and Lili not stated on site.",
+ "verified": true
 }

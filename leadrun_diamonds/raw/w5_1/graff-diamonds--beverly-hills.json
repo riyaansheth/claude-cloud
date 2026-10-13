@@ -20,12 +20,16 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/graff",
+  "https://www.instagram.com/graff"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Graff is a global luxury jewellery/watch brand ('Extraordinary Fine Diamond Jewellery and Swiss Watches'); this is a boutique (Saks Beverly Hills), out of scope as chain.",
+ "verified": true
 }

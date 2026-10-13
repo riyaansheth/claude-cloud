@@ -11,21 +11,31 @@
  "reviews": "45",
  "source_url": "https://www.yellowpages.com/beverly-hills-ca/mip/jack-weir-and-s-474549738",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@jackweirandsons.com",
+ "email_source": "https://jackweirandsons.com/pages/contact-us-1",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Wyler Weir\" Jack Weir & Sons LinkedIn",
+ "contact_person": "Wyler Weir",
+ "role": "CEO",
+ "contact_source": "https://www.bbb.org/us/ca/beverly-hills/profile/jewelry-stores/jack-weir-and-sons-inc-1216-1417653",
+ "tel_numbers": [
+  "(310) 276-1280"
+ ],
+ "tel_source": "https://jackweirandsons.com/pages/contact-us-1",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1981",
+  "importer-heritage",
+  "estate-buyer",
+  "vintage",
+  "2nd-generation",
+  "GIA-trained-staff"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "About page: Jack Weir 'founded Jack Weir Diamond Importers' in 1981, buying diamonds worldwide; the firm now focuses on estate/vintage jewelry and buys jewelry ('Sell your jewelry') - borderline estate-diamond buyer/importer.",
+ "verified": true
 }

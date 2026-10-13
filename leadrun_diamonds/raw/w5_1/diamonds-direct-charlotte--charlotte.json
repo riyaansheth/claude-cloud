@@ -17,7 +17,7 @@
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
- "contact_source": "",
+ "contact_source": "https://www.blackstone.com/press-releases/article/blackstone-acquires-diamonds-direct/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -25,7 +25,8 @@
  "suite": "Ste 101",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Diamond Buyers, Watches"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Own site returned Cloudflare 403; Blackstone press release 'Blackstone Acquires Diamonds Direct' and trade reports describe a multi-store retail chain (14 stores by 2017).",
+ "verified": true
 }

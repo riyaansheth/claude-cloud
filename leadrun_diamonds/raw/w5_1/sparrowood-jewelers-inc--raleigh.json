@@ -18,14 +18,19 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(919) 781-0212"
+ ],
+ "tel_source": "https://sparrowood.com/contact/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Repairing"
+ "hooks": [
+  "since-1989"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "About page: 'Sparrowood Jewelers opened in 1989 with the dream of creating a customer oriented jewelry shopping and repair business' \u2014 retail/repair shop.",
+ "verified": true
 }

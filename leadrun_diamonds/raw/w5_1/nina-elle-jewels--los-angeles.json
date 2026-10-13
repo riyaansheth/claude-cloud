@@ -18,14 +18,27 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "310-709-0282"
+ ],
+ "tel_source": "https://www.ninaellejewels.com/pages/contact-us",
+ "socials": [
+  "https://www.facebook.com/ninaellejewelspage",
+  "https://www.instagram.com/ninaellejewels",
+  "https://www.youtube.com/channel/UCmYcBhM_BjSYqP892T17HWg"
+ ],
  "building": "",
  "suite": "Ste 817",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "bridal",
+  "manufacturer",
+  "natural",
+  "lab-grown",
+  "family-business-20-years"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Designers, Jewelers"
+ "scope_reason": "About page: 'an extension of a successful family business with over 20 years experience in the diamond industry ... We manufacture high quality diamond engagement rings ... at remarkable wholesale prices' with 'a large selection of GIA EGL USA & non certified diamonds' (bridal maker; also sells moissanite - borderline).",
+ "verified": true
 }

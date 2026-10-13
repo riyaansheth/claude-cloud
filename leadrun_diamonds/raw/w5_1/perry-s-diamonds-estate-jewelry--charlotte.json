@@ -11,21 +11,31 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/charlotte-nc/mip/perrys-diamonds-estate-jewelry-451068116",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "brett@perrysjewelry.com",
+ "email_source": "https://perrysjewelry.com/pages/our-team",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Ernie Perry",
+ "role": "Founder",
+ "contact_source": "https://perrysjewelry.com/pages/about-us",
+ "tel_numbers": [
+  "704-364-1391"
+ ],
+ "tel_source": "https://perrysjewelry.com/pages/our-team",
+ "socials": [
+  "http://facebook.com/perrysjewelry",
+  "http://instagram.com/perryssouthpark",
+  "https://www.youtube.com/@perrysdiamondsestatejewelr5868"
+ ],
  "building": "",
  "suite": "Ste 100",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Diamond Buyers, Watches"
+ "hooks": [
+  "since-1978",
+  "estate"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "About page: 'We buy, sell, and consign vintage, antique and estate jewelry, gold, coins, diamonds, silver, platinum' \u2014 consumer estate-jewelry store with gold/coin buying, repair and appraisals.",
+ "verified": true
 }
