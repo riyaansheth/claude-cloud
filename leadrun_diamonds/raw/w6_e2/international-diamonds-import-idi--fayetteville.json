@@ -11,13 +11,13 @@
  "reviews": "78",
  "source_url": "https://www.yellowpages.com/fayetteville-tn/mip/international-diamonds-import-idi-9916885",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "das@sabghijewelers.com",
+ "email_source": "https://www.sabghijewelers.com/about-us/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "David Sabghi",
+ "role": "Founder",
+ "contact_source": "https://www.sabghijewelers.com/about-us/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelers-Wholesale & Manufacturers, Jewelry Repairing"
+ "scope_reason": "Borderline: listed as \"International Diamonds Import IDI\" (YP Jewelers-Wholesale & Manufacturers); website is Sabghi Jewelers, whose founder David Sabghi started as D&D Wholesale Jewelers; current stores are retail.",
+ "verified": true,
+ "enriched": true
 }

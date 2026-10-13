@@ -11,8 +11,8 @@
  "reviews": "19",
  "source_url": "https://www.yellowpages.com/pittsfield-ma/mip/rj-stohr-diamonds-fine-jewelry-rj-stohr-diamonds-fine-jewelry-459621",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "rjstohr@verizon.net",
+ "email_source": "https://www.yellowpages.com/pittsfield-ma/mip/rj-stohr-diamonds-fine-jewelry-rj-stohr-diamonds-fine-jewelry-459621 (mailto on the business YP listing)",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Gold, Silver & Platinum Buyers & Dealers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "YellowPages categories: Jewelers, Gold, Silver & Platinum Buyers & Dealers, Jewelers-Wholesale & Manufacturers",
+ "enriched": true
 }

@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Jim Salyer",
+ "role": "Owner",
+ "contact_source": "https://gemsourceinc.com/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -25,7 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers, Diamond Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site gemsourceinc.com: family retail jewelry store since 1989 (owner Jim Salyer, GIA), custom/repair.",
+ "verified": true,
+ "enriched": true
 }

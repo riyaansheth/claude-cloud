@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "unverified: no website; name \"American Diamond Instruments\" (YP Diamond Cutters, Graeagle CA) suggests tools/instruments rather than gem trade.",
+ "enriched": true
 }

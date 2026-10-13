@@ -11,8 +11,8 @@
  "reviews": "79",
  "source_url": "https://www.yellowpages.com/dayton-oh/mip/marlyn-jewelers-21839470?lid=1000116773609",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "marlynjewelers@att.net",
+ "email_source": "https://www.yellowpages.com/dayton-oh/mip/marlyn-jewelers-21839470?lid=1000116773609 (mailto on the business YP listing)",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Watches"
+ "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Watches",
+ "enriched": true
 }

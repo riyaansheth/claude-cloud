@@ -25,7 +25,9 @@
  "suite": "Ste B12",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Diamond Buyers, Diamonds-Wholesale"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site elginsfj.com / YP: retail fine jewelry store.",
+ "verified": true,
+ "enriched": true
 }

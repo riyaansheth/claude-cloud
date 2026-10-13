@@ -11,8 +11,8 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/huntington-beach-ca/mip/c-r-diamond-jewelers-9255267",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "c_r_diamonds@verizon.net",
+ "email_source": "https://www.yellowpages.com/huntington-beach-ca/mip/c-r-diamond-jewelers-9255267 (mailto on the business YP listing)",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers, Jewelry Repairing"
+ "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers, Jewelry Repairing",
+ "enriched": true
 }

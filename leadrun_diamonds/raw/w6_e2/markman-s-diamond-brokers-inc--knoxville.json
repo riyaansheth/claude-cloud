@@ -11,21 +11,29 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/knoxville-tn/mip/markmans-diamond-brokers-inc-22305604",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@markmansdiamonds.com",
+ "email_source": "https://www.markmansdiamonds.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Steve Markman",
+ "role": "Owner",
+ "contact_source": "https://www.yellowpages.com/knoxville-tn/mip/markmans-diamond-brokers-inc-22305604",
+ "tel_numbers": [
+  "(865) 584-0247",
+  "(423) 894-7581"
+ ],
+ "tel_source": "https://www.markmansdiamonds.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1976",
+  "3rd-generation"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers"
+ "scope_reason": "Borderline: own site — 3rd-generation family firm since 1976, \"Every stone is hand-selected\", in-house line; YP: Markman family \"has specialized in hand-selecting diamonds\". Retail showrooms in Knoxville and Chattanooga.",
+ "verified": true,
+ "enriched": true
 }

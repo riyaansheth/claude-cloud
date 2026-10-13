@@ -11,8 +11,8 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/holland-mi/mip/jp-gems-jewelry-454591162",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "jpgems@tds.net",
+ "email_source": "https://www.yellowpages.com/holland-mi/mip/jp-gems-jewelry-454591162 (mailto on the business YP listing)",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Diamond Buyers, Jewelry Designers"
+ "scope_reason": "YellowPages categories: Jewelers, Diamond Buyers, Jewelry Designers",
+ "enriched": true
 }

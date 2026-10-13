@@ -25,7 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site: Madison local jewelry store specialising in custom design, repair and appraisals (owner Jason Braden).",
+ "verified": true,
+ "enriched": true
 }

@@ -11,8 +11,8 @@
  "reviews": "41",
  "source_url": "https://www.yellowpages.com/temecula-ca/mip/diamondtradersglobal-com-480276207",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "diamondtradersglobal.com@gmail.com",
+ "email_source": "https://www.yellowpages.com/temecula-ca/mip/diamondtradersglobal-com-480276207 (mailto on the business YP listing)",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers"
+ "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers",
+ "enriched": true
 }

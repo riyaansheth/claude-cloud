@@ -11,8 +11,8 @@
  "reviews": "6",
  "source_url": "https://www.yellowpages.com/stroudsburg-pa/mip/adams-jewelry-611-473321876",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "adamsjewelry@yahoo.com",
+ "email_source": "https://www.yellowpages.com/stroudsburg-pa/mip/adams-jewelry-611-473321876",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -25,7 +25,8 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Designers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "YP business text: watch and jewelry retail (\"look like a million dollars in one of our gold watches\").",
+ "enriched": true
 }

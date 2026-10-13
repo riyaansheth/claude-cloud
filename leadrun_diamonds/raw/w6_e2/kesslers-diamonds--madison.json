@@ -18,14 +18,21 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "6086629800"
+ ],
+ "tel_source": "https://www.kesslersdiamonds.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "loose-diamonds",
+  "bridal"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers, Jewelry Designers"
+ "scope_reason": "Own site kesslersdiamonds.com: \"Diamonds are what we do\"; bridal specialist with \"3,000+ loose diamonds ... hand-selected\" (natural and lab-grown).",
+ "verified": true,
+ "enriched": true
 }
