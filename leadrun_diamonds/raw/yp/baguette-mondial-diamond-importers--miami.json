@@ -14,18 +14,32 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Malka Roizen\" Baguette Mondial LinkedIn",
+ "contact_person": "Malka Roizen",
+ "role": "President",
+ "contact_source": "https://baguettemondial.com/",
+ "tel_numbers": [
+  "+13055391133"
+ ],
+ "tel_source": "https://baguettemondial.com/",
+ "socials": [
+  "https://www.instagram.com/baguettemondialdiamonds"
+ ],
  "building": "",
- "suite": "",
+ "suite": "750",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1992",
+  "importer",
+  "manufacturer",
+  "custom-cutting",
+  "matched-pairs",
+  "side-stones",
+  "israel-ramat-gan",
+  "woman-owned"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "Site: Baguette Mondial Diamond Importers Inc. supplies matched pairs, calibrated layouts and custom-cut fancy side stones manufactured in Israel; President Malka Roizen started on the Ramat Gan bourse in 1979 and founded the Miami firm in 1992.",
+ "verified": true
 }

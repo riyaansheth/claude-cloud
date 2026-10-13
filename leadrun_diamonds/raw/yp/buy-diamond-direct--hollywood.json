@@ -11,21 +11,34 @@
  "reviews": "8",
  "source_url": "https://www.yellowpages.com/hollywood-fl/mip/buy-diamond-direct-530121210",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "service@buydiamonddirect.com",
+ "email_source": "http://www.buydiamonddirect.com/pages/policies.asp",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(305)479-5899"
+ ],
+ "tel_source": "http://www.buydiamonddirect.com/",
+ "socials": [
+  "https://twitter.com/buydiamonddirec",
+  "https://www.facebook.com/BuyDiamondDirect",
+  "https://www.pinterest.com/buydiamonddirec/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1968",
+  "cutter",
+  "importer",
+  "loose-diamonds",
+  "certified"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Site: founders started in 1968 as diamond cutters and importers of fine cut diamonds, moved to Miami in 1988; buyers travel worldwide to buy diamonds and it offers a large selection of certified loose diamonds.",
+ "verified": true
 }

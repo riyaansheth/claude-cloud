@@ -11,21 +11,33 @@
  "reviews": "37",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/singlestone-diamond-458824118",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "email": "info@singlestone.com",
+ "email_source": "https://www.singlestone.com/pages/services",
+ "linkedin_url": "https://www.linkedin.com/in/ari-madilian-493aa91aa/",
+ "linkedin_source": "\"Ari Madilian\" Single Stone LinkedIn",
+ "contact_person": "Ari Madilian",
+ "role": "Co-owner",
+ "contact_source": "https://www.singlestone.com/pages/our-story",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/SingleStoneLosAngeles",
+  "https://www.instagram.com/singlestonela",
+  "https://www.pinterest.com/singlestonela/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "antique-diamonds",
+  "manufacturer",
+  "custom-design",
+  "loose-diamonds",
+  "wholesale",
+  "husband-wife"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Repairing"
+ "scope_reason": "Site: after a decade sourcing vintage stones, Ari and Corina Madilian launched a handcrafted LA-made collection built around antique center diamonds, sold at luxury boutiques nationwide (stockists, wholesale site) plus loose diamond service.",
+ "verified": true
 }

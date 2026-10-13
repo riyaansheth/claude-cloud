@@ -18,14 +18,27 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "800-818-8386"
+ ],
+ "tel_source": "https://www.dreamstone.com/, https://www.dreamstone.com/about",
+ "socials": [
+  "https://twitter.com/mydreamstone",
+  "https://www.facebook.com/DreamStoneRings",
+  "https://www.instagram.com/dreamstonerings"
+ ],
  "building": "",
  "suite": "Ste 810",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Diamonds"
+ "hooks": [
+  "3rd-generation",
+  "manufacturer",
+  "lab-grown",
+  "natural",
+  "e-tail"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Site: consumer e-tailer (\"we mostly operate an online business\") of engagement rings and loose diamonds drawn from \"100+ trusted wholesalers\", with NYC/Long Island showrooms and Florida satellite offices; e-tail model, though it says it manufactures its own jewelry.",
+ "verified": true
 }
