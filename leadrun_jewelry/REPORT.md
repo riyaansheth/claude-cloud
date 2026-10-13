@@ -1,18 +1,18 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-13T19:16:27+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-13T21:22:07+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
 | Metric | Count |
 |---|---|
-| Listings in research pool (in scope after discovery) | 8672 |
+| Listings in research pool (in scope after discovery) | 8673 |
 | Businesses researched (after dedupe) → `jewelry_all.csv` | 6511 |
 | Qualified (2 of 3) → `jewelry_qualified.csv` | 136 |
 | Qualification rate | 2.1% |
 | Websites crawled OK / attempted | 4655 / 5565 |
-| Listings with an owner/decision-maker name | 867 |
-| LinkedIn searches by outcome | none: 40 |
+| Listings with an owner/decision-maker name | 880 |
+| LinkedIn searches by outcome | none: 51 |
 
 ## Fill rate per field
 
@@ -24,8 +24,8 @@ Generated 2026-10-13T19:16:27+05:30 by `python3 run.py build`. Every number belo
 | 4 | Phone | 6061 (93.1%) | 133 (97.8%) |
 | 5 | Email | 1294 (19.9%) | 136 (100.0%) |
 | 6 | LinkedIn Profile | 0 (0.0%) | 0 (0.0%) |
-| 7 | Contact Person | 378 (5.8%) | 25 (18.4%) |
-| 8 | Role | 378 (5.8%) | 25 (18.4%) |
+| 7 | Contact Person | 390 (6.0%) | 37 (27.2%) |
+| 8 | Role | 390 (6.0%) | 37 (27.2%) |
 | 9 | Website | 4646 (71.4%) | 136 (100.0%) |
 | 10 | Address | 6239 (95.8%) | 135 (99.3%) |
 | 11 | Real City | 5404 (83.0%) | 115 (84.6%) |
@@ -42,7 +42,7 @@ Generated 2026-10-13T19:16:27+05:30 by `python3 run.py build`. Every number belo
 | 22 | Found At | 6511 (100.0%) | 136 (100.0%) |
 | 23 | Also Listed As | 727 (11.2%) | 37 (27.2%) |
 | 24 | Other Markets | 56 (0.9%) | 3 (2.2%) |
-| 25 | Merged Listings | 1220 (18.7%) | 52 (38.2%) |
+| 25 | Merged Listings | 1221 (18.8%) | 52 (38.2%) |
 | 26 | Flags | 713 (11.0%) | 20 (14.7%) |
 | 27 | Mobile Candidates | 176 (2.7%) | 136 (100.0%) |
 | 28 | Socials | 1182 (18.2%) | 113 (83.1%) |
@@ -66,16 +66,16 @@ Generated 2026-10-13T19:16:27+05:30 by `python3 run.py build`. Every number belo
 
 | Market | Listings | Businesses | Email | Owner name | LinkedIn | Qualified |
 |---|---|---|---|---|---|---|
-| New York, NY | 1445 | 1232 | 233 | 96 | 0 | 20 |
-| Los Angeles, CA | 1287 | 1064 | 203 | 76 | 0 | 22 |
-| Chicago, IL | 996 | 688 | 133 | 58 | 0 | 12 |
-| Houston, TX | 1031 | 719 | 128 | 54 | 0 | 20 |
-| Dallas, TX | 618 | 464 | 83 | 25 | 0 | 4 |
+| New York, NY | 1445 | 1232 | 233 | 97 | 0 | 20 |
+| Los Angeles, CA | 1287 | 1064 | 203 | 79 | 0 | 22 |
+| Chicago, IL | 996 | 688 | 133 | 60 | 0 | 12 |
+| Houston, TX | 1031 | 719 | 128 | 56 | 0 | 20 |
+| Dallas, TX | 620 | 464 | 83 | 25 | 0 | 4 |
 | Miami, FL | 867 | 656 | 134 | 12 | 0 | 24 |
-| Atlanta, GA | 642 | 471 | 107 | 15 | 0 | 11 |
-| Philadelphia, PA | 732 | 531 | 79 | 10 | 0 | 7 |
+| Atlanta, GA | 642 | 471 | 107 | 16 | 0 | 11 |
+| Philadelphia, PA | 732 | 531 | 79 | 12 | 0 | 7 |
 | San Francisco, CA | 589 | 391 | 107 | 15 | 0 | 7 |
-| Boston, MA | 465 | 295 | 87 | 17 | 0 | 9 |
+| Boston, MA | 465 | 295 | 87 | 18 | 0 | 9 |
 | Seattle, WA | 0 | 0 | 0 | 0 | 0 | 0 |
 | Las Vegas, NV | 0 | 0 | 0 | 0 | 0 | 0 |
 | Phoenix, AZ | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -98,7 +98,7 @@ Generated 2026-10-13T19:16:27+05:30 by `python3 run.py build`. Every number belo
 |---|---|---|---|
 | Google Maps | 1489 | 914 | 46 |
 | YellowPages | 5829 | 4723 | 78 |
-| BBB | 463 | 279 | 0 |
+| BBB | 465 | 279 | 0 |
 | OpenStreetMap | 891 | 595 | 12 |
 
 Discovery tasks completed: bbb=124, gmaps=50, osm=10, yp=248
@@ -111,7 +111,7 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 |---|---|---|---|---|
 | appraiser-lab-insurer | 30 | 0 | 0 | 30 |
 | beads-craft | 235 | 19 | 2 | 256 |
-| chain | 1236 | 0 | 0 | 1236 |
+| chain | 1237 | 0 | 0 | 1237 |
 | coin-currency | 51 | 1 | 0 | 52 |
 | costume-fashion | 184 | 77 | 4 | 265 |
 | diamond-trade | 94 | 22 | 2 | 118 |
@@ -124,15 +124,15 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 | thrift-consignment | 6 | 0 | 0 | 6 |
 | trade-association | 1 | 0 | 0 | 1 |
 | wholesale-manufacturer | 57 | 7 | 0 | 64 |
-| **all** | | | | **2883** |
+| **all** | | | | **2884** |
 
 ## What blocked the run
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 1261 | bbb:3149c8f046693f3b: appraiser-lab-insurer |
+| builder | final-kill | 1273 | bbb:3149c8f046693f3b: appraiser-lab-insurer |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
-| bbb | blocked | 45 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
+| bbb | blocked | 46 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | osm | error | 20 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
 | osm | http-406 | 3 | https://overpass-api.de/api/interpreter |
 | osm | http-504 | 2 | https://overpass.kumi.systems/api/interpreter |
