@@ -21,11 +21,12 @@
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
+ "building": "Seybold Building",
+ "suite": "Ste 225",
  "trade_memberships": [],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelers"
+ "scope_reason": "unverified: site unreachable (listed website is the Seybold Building's own site; its directory shows only 'SIRIPORN INC 2nd Floor / 225 (305) 373-7470', no own site)",
+ "verified": false
 }

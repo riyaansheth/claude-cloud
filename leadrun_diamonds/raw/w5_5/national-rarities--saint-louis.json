@@ -18,14 +18,21 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "8887871112"
+ ],
+ "tel_source": "https://www.nationalrarities.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/NationalRarities",
+  "https://www.instagram.com/national_rarities/",
+  "https://x.com/Nat_Rarities"
+ ],
  "building": "",
  "suite": "Ste 209",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Buyers, Jewelry Appraisers"
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Traveling consumer estate/gold-buying events: 'NATION'S MOST TRUSTED ESTATE BUYERS ... We buy gold, silver, and platinum, dental gold, old mountings', '300+ Convenient Locations Nationwide'.",
+ "verified": true
 }

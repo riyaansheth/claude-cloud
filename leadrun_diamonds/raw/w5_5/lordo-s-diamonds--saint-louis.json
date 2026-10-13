@@ -18,14 +18,23 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "3144328008"
+ ],
+ "tel_source": "https://www.lordosdiamonds.com/company/our-story/",
+ "socials": [
+  "https://www.facebook.com/Lordos-Diamonds-163996660291486/",
+  "https://www.instagram.com/lordos_diamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "hooks": [
+  "since-1954",
+  "2nd-generation"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Family retail jeweler: 'From sales to repairs, we at Lordo's Diamonds are dedicated to serving all your fine jewelry needs'; founded 1954 by Alphonse Lordo, sons Mike and Jim continue it; services are repairs, appraisals, gold & diamond buying.",
+ "verified": true
 }

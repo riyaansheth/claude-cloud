@@ -11,21 +11,29 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/clovis-ca/mip/forrest-w-scott-gemstones-7163066",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "Scott@wsfgems.com",
+ "email_source": "https://wsfgems.com/contact-me/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "W. Scott Forrest",
+ "role": "Owner",
+ "contact_source": "https://wsfgems.com/about-3/",
+ "tel_numbers": [
+  "559-999-3440"
+ ],
+ "tel_source": "https://wsfgems.com/contact-me/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers"
+ "hooks": [
+  "gemstone-only",
+  "benitoite",
+  "since-1988",
+  "cutter"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Gemstone-only cutter: site says 'Benitoite and other Fine Gems and Jewelry Direct From the Cutter'; owner faceted colored gems since 1988, closed Clovis retail store in 2020, now online only; no diamond line.",
+ "verified": true
 }

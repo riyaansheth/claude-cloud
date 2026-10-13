@@ -11,8 +11,8 @@
  "reviews": "3",
  "source_url": "https://www.yellowpages.com/saint-louis-mo/mip/mannisi-jewelers-4721198",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "cash@stlpawn.com",
+ "email_source": "https://stlpawn.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -20,12 +20,18 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/stlpawn",
+  "https://www.instagram.com/stlpawn/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers"
+ "hooks": [
+  "since-1953"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "pawn",
+ "scope_reason": "Pawn shop: mannisijewelers.com redirects to stlpawn.com, 'Mannisi Jewelers Pawn Shop – St. Louis Pawn and Jewelry Sales', 'Family owned and operated since 1953', 'We buy gold!'.",
+ "verified": true
 }
