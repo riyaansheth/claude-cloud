@@ -11,15 +11,18 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/milwaukee-wi/mip/kessler-diamond-center-515365638",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "contact@kesslers.us",
+ "email_source": "https://www.kesslersdiamonds.com/policies/privacy-policy",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Joseph Gehrke",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/wi/germantown/profile/jewelry-stores/kesslers-diamonds-0694-4015959/details",
+ "tel_numbers": [
+  "+12622514570",
+  "+1 262-255-8600"
+ ],
+ "tel_source": "https://www.kesslersdiamonds.com/policies/contact-information, https://www.kesslersdiamonds.com/policies/privacy-policy",
  "socials": [
   "https://www.facebook.com/kesslersdiamonds/",
   "https://www.instagram.com/kesslersdiamonds/",
@@ -41,5 +44,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Borderline: 100% employee-owned regional bridal retailer (10 WI/MI stores) that stocks '3,000+ Loose Diamonds ... hand-selected' ('We hand-select every loose diamond'), natural, lab ('newborn') and colored, plus exclusive proprietary cuts ('Kessler 81', 'These diamond cuts are EXCLUSIVE to Kesslers'); no individual owner named.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

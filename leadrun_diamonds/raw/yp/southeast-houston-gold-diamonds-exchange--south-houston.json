@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: listed website hnex.com belongs to another business (Houston Numismatic Exchange, coin/bullion dealer at 2486 Times Blvd)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "YP listing (categories Diamonds-Wholesale, Diamond Buyers) at a residential address (907 College Ave Apt 2); its only listed site hnex.com is Houston Numismatic Exchange, a coin/bullion dealer; no own site or web presence found under this name (WebSearch) - a gold/diamond buying outlet, no evidence of diamond trade",
+ "verified": false,
+ "enriched": true
 }

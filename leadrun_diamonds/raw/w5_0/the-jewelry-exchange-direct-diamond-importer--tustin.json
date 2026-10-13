@@ -11,22 +11,34 @@
  "reviews": "3",
  "source_url": "https://www.yellowpages.com/tustin-ca/mip/the-jewelry-exchange-direct-diamond-importer-464675992",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "customercare@jewelryexchange.com",
+ "email_source": "https://jewelryexchange.com/our-story/",
+ "linkedin_url": "https://www.linkedin.com/in/bill-doddridge-02467136/",
+ "linkedin_source": "WebSearch extended: \"Bill Doddridge\" Jewelry Exchange Goldenwest Diamond LinkedIn (result title: Bill Doddridge - goldenwest diamond corp)",
+ "contact_person": "Bill Doddridge",
+ "role": "CEO & President",
+ "contact_source": "https://jewelryexchange.com/our-story/",
+ "tel_numbers": [
+  "+17145429000",
+  "+18004319393"
+ ],
+ "tel_source": "https://jewelryexchange.com/our-story/",
+ "socials": [
+  "https://www.facebook.com/JewelryExchange/",
+  "https://www.instagram.com/thejewelryexchange/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer",
+  "manufacturer",
+  "lab-grown",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable (jewelryexchange.com returns 403 to our fetches)",
- "verified": false
+ "scope_reason": "Own site (Our Story): Goldenwest Diamond Corporation dba The Jewelry Exchange \"is one of the largest direct diamond importers in the U.S.\"; \"we maintain our own imported loose diamond inventory, we design and make our own jewelry\"; twelve locations.",
+ "verified": true,
+ "enriched": true
 }

@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

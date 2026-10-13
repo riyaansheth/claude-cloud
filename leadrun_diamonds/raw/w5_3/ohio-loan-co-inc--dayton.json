@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (ohioloanco.com returns an empty page)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "pawn",
+ "scope_reason": "Ohio Loan Co Inc: own site ohioloanco.com serves an empty page; a YP listing for Ohio Loan Co Inc (Dayton) is categorized \"Loans\" and YP categories here include Jewelry Buyers - a collateral-loan/jewelry-buying business with no evidence of diamond trade",
+ "verified": false,
+ "enriched": true
 }

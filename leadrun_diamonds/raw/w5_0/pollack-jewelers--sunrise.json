@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (HTTP 402 on all pages)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Listed site pollackjewelers.com is a closed Shopify store; listing phone (954) 835-9262 matches BBB \"Pollack Jewelers of Manhattan\", a Jewelry Stores-category shop at 2612 Sawgrass Mills Cir Ste 1511 (outlet mall unit) - no evidence of wholesale/loose-diamond trade",
+ "verified": false,
+ "enriched": true
 }

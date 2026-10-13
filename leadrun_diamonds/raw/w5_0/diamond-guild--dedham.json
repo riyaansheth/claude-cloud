@@ -31,10 +31,14 @@
   "Karten family jewelers since 1945",
   "3rd generation",
   "manufactures own line",
-  "now in Norwood MA, appointment-only"
+  "now in Norwood MA, appointment-only",
+  "3rd-generation",
+  "since-1945",
+  "manufacturer"
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site About: 'Since 1945 the Karten's have been designing and manufacturing the finest quality jewelry ... Louis also manufactures his own line of fabulous jewelry'; appointment-only custom engagement rings with in-showroom diamond selection.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

@@ -13,20 +13,22 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "\"Mike Youkilis\" Midwest Diamond Distributors LinkedIn (no /in/ profile for Mike found)",
- "contact_person": "Mike Youkilis",
- "role": "Owner",
- "contact_source": "https://www.midwestdiamond.net/about.php",
+ "linkedin_url": "https://www.linkedin.com/in/aaron-youkilis-a774a695/",
+ "linkedin_source": "WebSearch extended: \"Mike Youkilis\" Midwest Diamond Distributors LinkedIn (result title 'Aaron Youkilis - Midwest Diamond Distributors'); owners per own About page: Mike and Carolyn Youkilis",
+ "contact_person": "Aaron Youkilis",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/oh/blue-ash/profile/jewelry-buyers/midwest-diamond-distributors-0292-90004495",
  "tel_numbers": [
   "(513) 769-7222",
   "(800) 900-6139"
  ],
- "tel_source": "https://www.midwestdiamond.net/contact.php",
+ "tel_source": "https://www.midwestdiamond.net/about.php",
  "socials": [],
  "building": "",
  "suite": "Suite 114",
- "trade_memberships": [],
+ "trade_memberships": [
+  "GIA"
+ ],
  "hooks": [
   "since-1999",
   "family-owned",
@@ -36,5 +38,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Homepage: 'We have developed comprehensive basic diamond programs that enhance the jewelers return on investment' - diamond jewelry distributor supplying retail jewelers.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

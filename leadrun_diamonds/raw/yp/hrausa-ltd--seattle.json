@@ -11,13 +11,13 @@
  "reviews": "44",
  "source_url": "https://www.yellowpages.com/seattle-wa/mip/hrausa-ltd-524487892",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@hragroup.com",
+ "email_source": "https://www.hragroup.com/about-us",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Uri Ariel",
+ "role": "President",
+ "contact_source": "https://www.biv.com/news/archives/canada-poised-to-become-worlds-second-largest-diam-8230849 (president and CEO of the HRA Group of Companies)",
  "tel_numbers": [
   "+1 (206) 903-0533",
   "+1 (604) 669-9562",
@@ -41,5 +41,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "HRA Group (Vancouver HQ, US office Seattle +1 206 903-0533) says it began 'in the wholesale polished diamond business' and now 'spans the entire diamond supply chain, from rough trading, rough diamond manufacturing, polished diamonds and diamond jewellery'.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

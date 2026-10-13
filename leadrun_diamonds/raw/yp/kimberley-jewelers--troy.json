@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable as own site (diamondvaultoftroy.com is The Diamond Vault of Troy at 801 W Big Beaver, no mention of Kimberley Jewelers; content is retail + cash-for-gold/coin buying)",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

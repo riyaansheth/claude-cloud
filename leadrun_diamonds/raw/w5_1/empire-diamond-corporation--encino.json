@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: domain parked/unrelated - dialadiamond.com now redirects to empirediamond.com, a New York business ('By appointment in the Diamond District \u00b7 23 West 47th Street, New York'), not the Encino CA listing",
- "verified": false
+ "scope_reason": "unverified: domain parked/unrelated - dialadiamond.com now redirects to empirediamond.com, a New York business ('By appointment in the Diamond District · 23 West 47th Street, New York'), not the Encino CA listing | enrich-0: no BBB/OpenCorporates/WebSearch record for an Encino 'Empire Diamond Corporation'; phone search empty",
+ "verified": false,
+ "enriched": true
 }

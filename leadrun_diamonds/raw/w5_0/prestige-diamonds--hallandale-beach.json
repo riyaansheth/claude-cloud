@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable (listed site prestigetechservices.net returns 503 and does not appear to be the business's own domain)",
- "verified": false
+ "scope_reason": "unverified: site unreachable (listed site prestigetechservices.net returns 503 and does not appear to be the business's own domain) | enrich-0: prestigetechservices.net connection reset; no BBB match; FL registry shows only inactive 'PRESTIGE DIAMONDS, LTD., INC.' / 'PRESTIGE DIAMONDS INTERNATIONAL LLC' (not confirmed); phone search empty",
+ "verified": false,
+ "enriched": true
 }

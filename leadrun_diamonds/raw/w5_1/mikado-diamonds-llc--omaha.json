@@ -2,7 +2,7 @@
  "business": "Mikado Diamonds, LLC",
  "category_as_listed": "Jewelers, Diamond Buyers, Diamonds",
  "phone": "(402) 348-9476",
- "website": "http://www.facebook.com/MikadoDiamonds",
+ "website": "https://mikadodiamonds.com",
  "address": "PO Box 241179",
  "city": "Omaha",
  "state": "NE",
@@ -11,22 +11,35 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/omaha-ne/mip/mikado-diamonds-llc-475008790",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "mike@mikadodiamonds.com",
+ "email_source": "https://mikadodiamonds.com/pages/contact",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Michael A. Mueller",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ne/omaha/profile/jewelry-stores/mikado-diamonds-0714-300075914",
+ "tel_numbers": [
+  "(402) 650-2323"
+ ],
+ "tel_source": "https://mikadodiamonds.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/MikadoDiamonds/",
+  "https://www.instagram.com/mikadodiamond/",
+  "https://twitter.com/mikadodiamonds"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "JBT"
+ ],
+ "hooks": [
+  "since-2009",
+  "lab-grown",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: only website is a Facebook page, not fetchable",
- "verified": false
+ "scope_reason": "mikadodiamonds.com/pages/about: 'family owned and operated company based in Omaha, NE that works with diamond cutters and jewelry manufacturers around the world'; member of the Jewelers Board of Trade (JBT); sells GIA natural and lab-grown loose diamonds online by consultation.",
+ "verified": true,
+ "enriched": true
 }

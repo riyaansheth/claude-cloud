@@ -2,15 +2,15 @@
  "business": "Harlin Diamonds",
  "category_as_listed": "",
  "phone": "",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
+ "email": "harlindiamonds@bellsouth.net",
+ "email_source": "http://harlindiamonds.net/Harlin/site_flash/index-5.html",
+ "linkedin_url": "https://www.linkedin.com/in/melanie-harlin-paul-343a4029/",
+ "linkedin_source": "WebSearch extended: \"Melanie Harlin Paul\" Harlin Diamonds LinkedIn (result title 'Melanie Harlin Paul - Harlin Diamonds, Inc.')",
  "contact_person": "Melanie Harlin Paul",
  "role": "Founder",
  "contact_source": "https://www.theknot.com/marketplace/jewelers-acworth-ga",
  "website": "https://www.harlindiamonds.net",
- "address": "AmericasMart, 75 John Portman Blvd, Atlanta, GA",
+ "address": "250 Spring Street Suite 6N102, Atlanta, GA 30303 (AmericasMart)",
  "city": "Atlanta",
  "state": "GA",
  "market": "Atlanta, GA",
@@ -18,11 +18,16 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://www.harlindiamonds.net/",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
- "building": "AmericasMart (Building 3 jewelry floor, unconfirmed)",
- "suite": "",
+ "tel_numbers": [
+  "(404) 688-1942"
+ ],
+ "tel_source": "http://harlindiamonds.net/Harlin/site_flash/index-5.html",
+ "socials": [
+  "https://www.facebook.com/pages/Harlin-Diamonds-Inc/244094268946675",
+  "https://www.instagram.com/harlindiamonds/"
+ ],
+ "building": "AmericasMart Atlanta",
+ "suite": "Suite 6N102",
  "trade_memberships": [],
  "hooks": [
   "since-1989",
@@ -30,5 +35,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "Calls itself 'the preferred wholesale jeweler' located at AmericasMart Atlanta. Suite/phone not found; AmericasMart address is the mart's, floor unconfirmed.",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

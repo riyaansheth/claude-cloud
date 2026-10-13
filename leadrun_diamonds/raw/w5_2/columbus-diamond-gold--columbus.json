@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (connection reset on http and https)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Own site https://columbusdiamondandgold.com/ (read via r.jina.ai; direct fetch is reset): 'Columbus Diamond & Gold - Your Trusted Jewelry Buyer ... selling jewelry ... If you accept our offer, we will provide immediate payment' - consumer jewelry/gold buyer, not diamond trade.",
+ "verified": false,
+ "enriched": true
 }

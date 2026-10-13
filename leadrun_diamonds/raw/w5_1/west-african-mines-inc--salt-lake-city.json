@@ -11,13 +11,13 @@
  "reviews": "47",
  "source_url": "https://www.yellowpages.com/salt-lake-city-ut/mip/west-african-mines-inc-5455262",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "bryant@westafricanmines.com",
+ "email_source": "https://westafricanmines.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Bryant Furness",
+ "role": "President",
+ "contact_source": "https://www.dnb.com/business-directory/company-profiles/west-african-mines-inc.7bd5f1deb3baa0bf98aca35749e3462e (D&B key principal; own site has bryant@ mailbox and says current president is GIA-trained)",
  "tel_numbers": [
   "+18015311880"
  ],
@@ -37,6 +37,7 @@
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "Site: 'West African Mines \u2013 Diamond Wholesalers to The Trade'... 'huge in house inventory of loose diamonds in all shapes and sizes'; founders include a journeyman diamond cutter; GIA-trained.",
- "verified": true
+ "scope_reason": "Site: 'West African Mines – Diamond Wholesalers to The Trade'... 'huge in house inventory of loose diamonds in all shapes and sizes'; founders include a journeyman diamond cutter; GIA-trained.",
+ "verified": true,
+ "enriched": true
 }

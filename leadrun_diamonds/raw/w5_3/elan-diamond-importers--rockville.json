@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (elandiamondimporters.com: connection fails, proxy 502 on http and https)",
- "verified": false
+ "verified": false,
+ "enriched": true,
+ "enrich_note": "enrich r2: no web presence found (site DNS fails; search returns only Mervis Diamond Importers)."
 }

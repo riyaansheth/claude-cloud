@@ -11,17 +11,18 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/salt-lake-city-ut/mip/rocky-mountain-diamond-co-17728670",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@rockymountaindiamond.com",
+ "email_source": "https://www.rockymountaindiamond.com/frequently-asked-questions/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Steve Hart",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ut/millcreek/profile/jewelry-stores/rocky-mountain-diamond-1166-2000287",
  "tel_numbers": [
-  "8003966948"
+  "8003966948",
+  "(801) 272-6948"
  ],
- "tel_source": "https://www.rockymountaindiamond.com/",
+ "tel_source": "https://www.rockymountaindiamond.com/support/",
  "socials": [
   "https://www.facebook.com/rockymountaindiamondcompany",
   "https://www.instagram.com/rockymountaindiamond"
@@ -38,6 +39,7 @@
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "Site: 'Since 1985, we've been specializing in loose diamonds, engagement rings, and wedding bands' \u2014 GIA-certified loose-diamond bridal specialist.",
- "verified": true
+ "scope_reason": "Site: 'Since 1985, we've been specializing in loose diamonds, engagement rings, and wedding bands' — GIA-certified loose-diamond bridal specialist.",
+ "verified": true,
+ "enriched": true
 }

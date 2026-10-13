@@ -13,20 +13,23 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/sidney-schlusselberg-a44b1a36/",
+ "linkedin_source": "WebSearch extended: \"Sidney Schlusselberg\" LinkedIn (result title 'sidney schlusselberg - sid schlusselberg co', El Paso TX)",
+ "contact_person": "Sidney Schlusselberg",
+ "role": "Founder",
+ "contact_source": "https://jckonline.com/?p=32333",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (supersidney.com does not resolve)",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

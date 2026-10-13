@@ -11,8 +11,8 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/louisville-ky/mip/genesis-diamonds-473132273",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@genesisdiamonds.com",
+ "email_source": "https://genesisdiamonds.com/",
  "linkedin_url": "https://www.linkedin.com/in/boaz-ramon-19bb0a28/",
  "linkedin_source": "\"Boaz Ramon\" Genesis Diamonds LinkedIn",
  "contact_person": "Boaz Ramon",
@@ -47,5 +47,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Our Story: founder Boaz Ramon, GIA-trained, \"started out as a diamond dealer\" and \"founded ADEE Diamonds in 1988, selling to over 700 jewelers\"; stores offer \"direct access to his wholesale diamond inventory\" (natural + lab-grown) - multi-showroom bridal diamond specialist.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

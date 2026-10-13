@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (diamotec.com fails TLS certificate verification)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Not gem trade: Diamotec (22104 S Vermont Ave #104, Torrance) is an industrial maker of diamond I.D. blades and edge grinding/polishing wheels for the semiconductor industry (per search snippet of diamotec.com; site TLS cert expired so not fetched directly). YP \"Diamond Cutters\" category is misleading.",
+ "verified": false,
+ "enriched": true
 }

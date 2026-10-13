@@ -4,11 +4,11 @@
  "phone": "703-536-3600",
  "email": "info@washingtondiamond.com",
  "email_source": "https://washingtondiamond.com/pages/contact",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/tomdaube/",
+ "linkedin_source": "WebSearch (extended): \"Tom Daube\" Washington Diamond LinkedIn -> \"Tom Daube - Washington Diamond\" linkedin.com/in/tomdaube (Falls Church)",
+ "contact_person": "Tom Daube",
+ "role": "President",
+ "contact_source": "https://washingtondiamond.com/",
  "website": "https://www.washingtondiamond.com",
  "address": "1245 W. Broad Street, Falls Church, VA",
  "city": "Falls Church",
@@ -33,9 +33,13 @@
  "hooks": [
   "wholesale",
   "natural",
-  "by-appointment"
+  "by-appointment",
+  "since-1969",
+  "3rd-generation",
+  "family-owned"
  ],
  "is_diamond_trade": true,
  "scope_reason": "Runs a Diamond Wholesale division and Fine Jewelry Wholesale division supplying GIA/AGS/IGI certified stones to retailers and jewelers.",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

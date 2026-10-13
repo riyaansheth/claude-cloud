@@ -13,11 +13,11 @@
  "lead_origin": "YellowPages",
  "email": "jbdiamonds11@gmail.com",
  "email_source": "https://jbdiamonds.com/pages/contact",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Roy Barba",
- "role": "Owner",
- "contact_source": "https://business.newportbeach.com/directory/Details/jb-diamonds-fine-jewelry-inc-2118823",
+ "linkedin_url": "https://www.linkedin.com/in/julesbarba/",
+ "linkedin_source": "WebSearch (extended): \"Roy Barba\" J B Diamonds Newport Beach LinkedIn -> \"Jules Barba - JB Diamonds & Fine Jewelry Inc.\" (Newport Beach)",
+ "contact_person": "Jules Barba",
+ "role": "President",
+ "contact_source": "https://jbdiamonds.com/blogs/news/jules-barba-story-interview (own site: founder); https://www.coroflot.com/jbd369/profile (President, JB Diamonds and Fine Jewelry Inc., Jan 1983-present). Note: Newport Beach Chamber lists Roy Barba as Owner.",
  "tel_numbers": [
   "(949) 644-7366"
  ],
@@ -35,5 +35,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site: 'a fine jewelry manufacturer and wholesaler ... since 1983 ... we do all our work in-house and buy our loose diamonds directly from the cutters' with in-house CAD, casting and setting.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

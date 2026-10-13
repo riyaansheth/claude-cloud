@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: YP website link goes to a different business (AAA Jewelers, aaajewelryutah.com)",
- "verified": false
+ "verified": false,
+ "enriched": true,
+ "enrich_note": "enrich r2: no listing found for 605 S State St (neighbouring 601 S State is AAA Jewelers, the site the YP link points to)."
 }

@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
- "verified": false
+ "verified": false,
+ "enriched": true,
+ "enrich_note": "enrich r2: no web presence found (site DNS fails; search finds no 'Dia-Gems' in Falls Church)."
 }

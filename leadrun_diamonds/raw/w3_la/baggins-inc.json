@@ -4,10 +4,10 @@
  "phone": "(213) 624-2277",
  "email": "contact@bagginspearls.com",
  "email_source": "https://bagginspearls.com/contact/",
- "linkedin_url": "",
- "linkedin_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/anil-maloo-22b5a443/",
+ "linkedin_source": "WebSearch extended: \"Anil Maloo\" Baggins pearls LinkedIn (result title 'Anil Maloo - Baggins, Inc.')",
  "contact_person": "Anil Maloo",
- "role": "President",
+ "role": "Founder",
  "contact_source": "https://bagginspearls.com/about-us/",
  "website": "https://bagginspearls.com",
  "address": "608 Silver Spur Road, Suite 310, Rolling Hills, California, United States, 90274",
@@ -35,6 +35,7 @@
  ],
  "hooks": [],
  "is_diamond_trade": true,
- "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Pearls (Pearls)",
- "drop_reason": ""
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, wholesale supplier to retailers; primarily pearls but bagginspearls.com also sells 'Diamond Collections' (Diamond Tennis, Floating Fancy Diamond); founder Anil Maloo GIA-trained, began at a diamond company in Bombay.",
+ "drop_reason": "",
+ "enriched": true
 }

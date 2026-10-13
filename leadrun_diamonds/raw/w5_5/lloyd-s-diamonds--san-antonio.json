@@ -15,18 +15,23 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Lloyd Herrera",
+ "role": "Founder",
+ "contact_source": "http://ldnew.weebly.com/about.html",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://facebook.com/lloydsdiamondssa"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1973"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (lloydsdiamonds.com redirects to a third-party essexlad.com page labelled 'Unofficial Website')",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

@@ -18,8 +18,10 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://buckheaddiamond.com/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "404-233-5951"
+ ],
+ "tel_source": "https://buckheaddiamond.com/",
  "socials": [],
  "building": "",
  "suite": "",
@@ -31,5 +33,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "Established 1971; stocks GIA-certified diamonds and special-orders stones. Retail/wholesale split not confirmed.",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

@@ -13,20 +13,26 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/robert-weber-a5547935/",
+ "linkedin_source": "WebSearch extended: \"Robert Weber\" Bella Diamonds Watches Albuquerque gemologist LinkedIn (result title: Robert Weber - Bella Diamonds & Watches Inc.)",
+ "contact_person": "Robert Weber",
+ "role": "Vice President (co-founder; President is Tess Conti)",
+ "contact_source": "https://www.bbb.org/us/nm/albuquerque/profile/jewelry-stores/bella-diamond-watches-inc-0806-99131831/details",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://facebook.com/belladiamondsandwatches"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "gia",
+  "since-2010"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (domain now serves an Indonesian gambling page)",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

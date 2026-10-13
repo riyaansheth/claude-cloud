@@ -13,13 +13,16 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/richard-ribacoff-654834b7/",
+ "linkedin_source": "WebSearch extended: \"Rick Ribacoff\" Shira Diamonds LinkedIn (result title: Richard Ribacoff - Managing Partner at Shira Diamonds)",
+ "contact_person": "Richard (Rick) Ribacoff",
+ "role": "Business Partner (BBB) / Managing Partner",
+ "contact_source": "https://www.bbb.org/us/tx/dallas/profile/jewelry-stores/shira-diamonds-0875-90559680/details",
+ "tel_numbers": [
+  "214-466-1776",
+  "832-737-8899"
+ ],
+ "tel_source": "https://shira-diamonds.com/contact/",
  "socials": [
   "https://www.facebook.com/ShiraDiamondsAbilene/",
   "https://www.instagram.com/shiradiamonds_/"
@@ -30,10 +33,15 @@
  "hooks": [
   "20+ years wholesale",
   "GIA/EGL certified loose diamonds",
-  "memo diamonds"
+  "memo diamonds",
+  "wholesale",
+  "lab-grown",
+  "natural",
+  "20-years"
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: listed website belongs to a differently named business and never names this listing \u2014 Listed website is Shira Diamonds (not the listing's own name), which says 'Shira Diamonds is a diamond manufacturer and loose diamond importer in Dallas, Texas' and 'the only TRUE diamond wholesaler open to the public'.",
- "verified": false
+ "scope_reason": "Listed website shira-diamonds.com brands itself \"Dallas Wholesale Diamonds – Shira Diamonds\" (/about: \"over twenty years of experience in the wholesale diamond industry\"; home: \"Buy genuine wholesale diamonds in Dallas\") and has a Carrollton location page; showroom 18333 Preston Rd #215 Dallas - listing address 1220 Indian Run Dr Carrollton and phone (214) 336-8629 not shown on the site.",
+ "verified": true,
+ "enriched": true
 }

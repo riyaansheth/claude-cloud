@@ -2,13 +2,13 @@
   "business": "Elite Fine Jewelers",
   "category_as_listed": "",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "ashley@elitefj.com",
+  "email_source": "https://www.elitefinejewelers.com/pages/contact-us",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Larry Cohen",
+  "role": "Owner",
+  "contact_source": "https://www.jewishaz.com/community/local-jewelry-business-is-a-family-affair/article_5ef1fb34-338a-11ed-8993-5f8c15cc9d0f.html",
   "website": "https://www.elitefinejewelers.com",
   "address": "",
   "city": "Tempe",
@@ -18,9 +18,13 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.elitefinejewelers.com/blogs/stay-in-the-loupe-with-elite-fj/loose-diamonds-scottsdale",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "480-699-6639"
+  ],
+  "tel_source": "https://www.elitefinejewelers.com/",
+  "socials": [
+    "https://www.instagram.com/elitefinejewelers/"
+  ],
   "building": "",
   "suite": "",
   "trade_memberships": [],
@@ -29,6 +33,7 @@
     "bulk-wholesale-rates"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Near Scottsdale-Tempe border; offers bulk and wholesale rates on loose diamonds for select buyers (borderline retail)",
-  "drop_reason": ""
+  "scope_reason": "Borderline: own site sells GIA/IGI loose diamonds, engagement rings, estate jewelry, watches, permanent jewelry, and has a 'Jewelry Wholesalers and Diamond Dealers Welcome' page; Jewish AZ says owner Larry Cohen's Elite Jewelry and Loan ('The Gold Guy') houses Elite Fine Jewelers - retail/pawn-adjacent.",
+  "drop_reason": "",
+  "enriched": true
 }

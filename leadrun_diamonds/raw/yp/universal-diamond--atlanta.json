@@ -11,15 +11,17 @@
  "reviews": "45",
  "source_url": "https://www.yellowpages.com/atlanta-ga/mip/universal-diamond-504589242",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@universaldiamondcorp.com",
+ "email_source": "https://universaldiamond.com/contact/",
  "linkedin_url": "https://www.linkedin.com/in/ronnie-agami-0a80109/",
  "linkedin_source": "\"Ronnie Agami\" Universal Diamond LinkedIn",
  "contact_person": "Ronnie Agami",
  "role": "Owner",
  "contact_source": "https://universaldiamond.com/about-us/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "404-237-1050"
+ ],
+ "tel_source": "https://universaldiamond.com/contact/",
  "socials": [
   "https://www.facebook.com/universaldiamondcorporation",
   "https://www.instagram.com/universaldiamonds"
@@ -36,5 +38,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "universaldiamond.com About: 'Atlanta's most respected buyer and seller of engagement rings, diamonds, diamond jewelry, loose diamonds, and estate jewelry' for over 40 years; Ronnie Agami 'became owner in the fall of 2001'.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

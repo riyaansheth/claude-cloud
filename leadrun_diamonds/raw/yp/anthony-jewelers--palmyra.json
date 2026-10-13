@@ -11,20 +11,22 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/palmyra-nj/mip/anthony-jewelers-3330019",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Nick",
- "role": "Manager (store operations)",
+ "email": "anthonyjewelersnj@gmail.com",
+ "email_source": "https://www.anthonyjewelers.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/nick-fratto-70095076/",
+ "linkedin_source": "WebSearch extended: \"Nick Fratto\" Anthony Jewelers LinkedIn (result title: Nick Fratto - Anthony Jewelers)",
+ "contact_person": "Nick Fratto",
+ "role": "Manager (runs store operations; family successor to Anthony Fratto)",
  "contact_source": "https://www.anthonyjewelers.com/pages/ourstore",
  "tel_numbers": [
   "(856) 829-2206"
  ],
- "tel_source": "https://www.anthonyjewelers.com/pages/ourstore",
+ "tel_source": "https://www.anthonyjewelers.com/contact",
  "socials": [
   "https://www.facebook.com/anthonyjewelerspalmyra",
-  "https://www.instagram.com/anthonyjewelerspalmyra"
+  "https://www.instagram.com/anthonyjewelerspalmyra",
+  "https://www.facebook.com/anthonyjewelerspalmyra/",
+  "https://www.instagram.com/anthonyjewelerspalmyra/"
  ],
  "building": "",
  "suite": "",
@@ -37,10 +39,14 @@
   "loose-diamonds",
   "custom-design",
   "antwerp-sourcing",
-  "gia-ags-trained"
+  "gia-ags-trained",
+  "antwerp-buying-trips",
+  "gia",
+  "ags"
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site: 3rd-generation family jeweler since 1953 \"specializing in Engagement Rings, Loose Diamonds, Custom Design\"; made buying trips to Antwerp and \"established our important relationships with some of the world's leading diamontaires\" (bridal specialist sourcing its own stones; also does repairs).",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

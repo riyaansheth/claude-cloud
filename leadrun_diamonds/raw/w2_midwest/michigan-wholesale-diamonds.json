@@ -1,39 +1,43 @@
 {
-  "business": "Michigan Wholesale Diamonds",
-  "category_as_listed": "Diamond Broker",
-  "phone": "",
-  "email": "",
-  "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
-  "website": "https://www.michiganwholesalediamonds.com",
-  "address": "30300 Northwestern Hwy",
-  "city": "Farmington Hills",
-  "state": "MI",
-  "market": "Detroit, MI",
-  "lead_origin": "Web Search",
-  "rating": "",
-  "reviews": "",
-  "source_url": "https://www.michiganwholesalediamonds.com/",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [
-    "https://www.facebook.com/Michiganwholesalediamonds/"
-  ],
-  "building": "",
-  "suite": "",
-  "trade_memberships": [
-    "GIA"
-  ],
-  "hooks": [
-    "natural",
-    "lab-grown",
-    "since-1998"
-  ],
-  "is_diamond_trade": true,
-  "scope_reason": "Site title 'Michigan Wholesale Diamond Broker - Buy & Sell Diamonds MI'; sells loose GIA-certified mined and certified lab-grown diamonds at wholesale prices; Manta says est. 1998",
-  "drop_reason": ""
+ "business": "Michigan Wholesale Diamonds",
+ "category_as_listed": "Diamond Broker",
+ "phone": "",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.michiganwholesalediamonds.com",
+ "address": "30300 Northwestern Hwy",
+ "city": "Farmington Hills",
+ "state": "MI",
+ "market": "Detroit, MI",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.michiganwholesalediamonds.com/",
+ "tel_numbers": [
+  "1-844-883-4266"
+ ],
+ "tel_source": "https://www.michiganwholesalediamonds.com/contact",
+ "socials": [
+  "https://www.facebook.com/Michiganwholesalediamonds/",
+  "https://www.facebook.com/Michigan-Wholesale-Diamonds-823245101122654/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "natural",
+  "lab-grown",
+  "since-1998"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site title 'Michigan Wholesale Diamond Broker - Buy & Sell Diamonds MI'; sells loose GIA-certified mined and certified lab-grown diamonds at wholesale prices; Manta says est. 1998",
+ "drop_reason": "",
+ "enriched": true
 }

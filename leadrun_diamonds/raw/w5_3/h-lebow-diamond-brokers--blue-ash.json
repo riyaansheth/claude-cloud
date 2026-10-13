@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (hlebowdiamondbrokers.com now serves an unrelated Azerbaijani casino page - domain lapsed/hijacked)",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

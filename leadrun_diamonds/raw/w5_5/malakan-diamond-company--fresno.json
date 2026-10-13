@@ -13,11 +13,11 @@
  "lead_origin": "YellowPages",
  "email": "info@malakandiamond.com",
  "email_source": "https://malakan.com/contact/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/nader-malakan-0aaa4a14/",
+ "linkedin_source": "WebSearch extended: \"\\\"Nader Malakan\\\" Malakan Diamond LinkedIn\" - result \"Nader Malakan - Mdc\" (Mdc = Malakan Diamond Co), Fresno location; KVPR calls him chief executive of Malakan Diamond Co.",
+ "contact_person": "Nader Malakan",
+ "role": "CEO",
+ "contact_source": "https://www.corporationwiki.com/California/Fresno/nader-malakan/41236137.aspx",
  "tel_numbers": [
   "559-431-1500",
   "(800) 953-9357"
@@ -43,5 +43,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Trade custom-jewelry workshop 'trusted by jewelers for more than 80 years'; Our Diamonds page: 'vast inventory of natural diamonds in stock ... ranging in size from 0.005ct – 20ct', plus lab-created and its Bellataire brand.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: listed website is an enterprise.com car-rental page (third-party, returned 403), not this business's own site",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

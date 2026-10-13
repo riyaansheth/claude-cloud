@@ -15,18 +15,23 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Justin Miller",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/or/portland/profile/diamond-buyers/millers-international-1296-22419776",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1925",
+  "diamond-cutter",
+  "family-owned"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable",
- "verified": false
+ "scope_reason": "unverified: site unreachable (millersdiamonds.com resets / portlandoregongoldbuyer.com 404). YP category Diamond Cutters; YP/BBB: Justin Miller graduated American Institute of Diamond Cutting (2005) and joined father Doug in the family business (since 1925).",
+ "verified": false,
+ "enriched": true
 }

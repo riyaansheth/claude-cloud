@@ -19,9 +19,10 @@
  "role": "",
  "contact_source": "",
  "tel_numbers": [
-  "(305)479-5899"
+  "(305)479-5899",
+  "(954)538.7998"
  ],
- "tel_source": "http://www.buydiamonddirect.com/pages/contact-us.asp",
+ "tel_source": "http://www.buydiamonddirect.com/pages/contact-us.asp, http://www.buydiamonddirect.com/",
  "socials": [
   "https://twitter.com/buydiamonddirec/",
   "https://www.facebook.com/BuyDiamondDirect"
@@ -37,5 +38,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "About page: 'The Founders of the Company started the Diamond business in 1968 as Diamond Cutters and Importers of Fine cut Diamonds' and offers 'certified loose Diamonds at Below Retail Prices' (GIA/EGL certified).",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

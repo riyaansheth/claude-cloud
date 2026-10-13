@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: domain parked/unrelated (diamondpro.com is a baseball infield-conditioner company)",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

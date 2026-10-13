@@ -4,11 +4,11 @@
  "phone": "(703) 243-8929",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/tim-birch-5256906/",
+ "linkedin_source": "WebSearch (extended): \"Timothy Birch\" Ascot Diamonds LinkedIn -> \"Tim Birch - Ascot Diamonds\" (location Arlington)",
+ "contact_person": "Tim Birch",
+ "role": "Vice President of Operations",
+ "contact_source": "https://www.bbb.org/us/va/arlington/profile/diamond/ascot-trading-company-llc-0241-184255223 (BBB: Mr. Timothy Birch, Vice President of Operations)",
  "website": "https://www.ascotdiamonds.com",
  "address": "4301 Fairfax Dr Ste 107R, Arlington, VA 22203-1633",
  "city": "Arlington",
@@ -25,9 +25,12 @@
  "suite": "Ste 107R",
  "trade_memberships": [],
  "hooks": [
-  "natural"
+  "natural",
+  "since-1978",
+  "family-owned"
  ],
  "is_diamond_trade": true,
- "scope_reason": "BBB lists under Diamonds; DC-area location of Ascot Diamonds (diamond specialist).",
- "drop_reason": ""
+ "scope_reason": "BBB lists under Diamonds; DC-area (Arlington) showroom of Ascot Diamonds, a by-appointment diamond specialist with 7 showrooms (DC, Atlanta, Dallas, NYC, Charlotte, Charleston, Philadelphia), \"Conflict free diamonds since 1978\".",
+ "drop_reason": "",
+ "enriched": true
 }

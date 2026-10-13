@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Chris Higgins",
+ "role": "President",
+ "contact_source": "https://www.jckonline.com/editorial-article/equity-diamond-brokers-aneri/",
  "tel_numbers": [
   "(800) 367-9213"
  ],
@@ -45,5 +45,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "About page: 'Founded in 1972 as Equity Diamond Brokers' (now Irena Jewels), a diamond jewelry wholesaler serving independent jewelers with 'a robust loose diamond inventory' via Laxmi Diamond (De Beers Sightholder) and Aneri Jewels.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

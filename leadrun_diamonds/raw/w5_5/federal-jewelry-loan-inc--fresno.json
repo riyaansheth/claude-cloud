@@ -18,15 +18,18 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(559) 237-3421"
+ ],
+ "tel_source": "https://federaljewelryandloan.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (federaljewelryandloan.com SSL error / connection reset)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "pawn",
+ "scope_reason": "Own site https://federaljewelryandloan.com/ (read via r.jina.ai; direct fetch is reset): 'Whether you're looking to pawn your valuable items for a short-term loan ... We accept a wide variety of items for pawning, including jewelry, electronics, tools' - pawn shop.",
+ "verified": false,
+ "enriched": true
 }

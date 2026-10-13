@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (diamondsdirect.com returns HTTP 403 to every fetch)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Diamonds Direct is a multi-state showroom chain (26th showroom opened per WXYZ; acquired by Blackstone Tactical Opportunities in 2015 per blackstone.com press release); no local owner/contact; site 403s.",
+ "verified": false,
+ "enriched": true
 }
