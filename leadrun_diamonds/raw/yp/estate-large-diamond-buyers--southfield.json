@@ -18,14 +18,26 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "2134883337",
+  "2487975931",
+  "3103905796",
+  "8885133303"
+ ],
+ "tel_source": "https://www.estatelargediamondbuyers.com/about/",
+ "socials": [
+  "https://twitter.com/ELDiamondBuyers",
+  "https://www.facebook.com/EstateLargeDiamondBuyers"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "large-stones",
+  "estate-buyer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Estate diamond buyer: About page says it \"specializes\" in buying large diamonds, \"With over 20 years in the diamond buying industry\", with buyers across the nation (LA/Chicago/Michigan numbers); also buys watches and scrap gold.",
+ "verified": true
 }
