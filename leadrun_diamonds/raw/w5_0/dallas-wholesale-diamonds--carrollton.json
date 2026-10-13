@@ -18,14 +18,25 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "214-466-1776",
+  "832-737-8899"
+ ],
+ "tel_source": "https://shira-diamonds.com/contact/",
+ "socials": [
+  "https://www.facebook.com/ShiraDiamondsAbilene/",
+  "https://www.instagram.com/shiradiamonds_/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "20+ years wholesale",
+  "GIA/EGL certified loose diamonds",
+  "memo diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Listed website is Shira Diamonds (not the listing's own name), which says 'Shira Diamonds is a diamond manufacturer and loose diamond importer in Dallas, Texas' and 'the only TRUE diamond wholesaler open to the public'.",
+ "verified": true
 }

@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds"
+ "scope_reason": "unverified: site unreachable (listed site prestigetechservices.net returns 503 and does not appear to be the business's own domain)",
+ "verified": false
 }

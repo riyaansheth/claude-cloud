@@ -11,21 +11,37 @@
  "reviews": "26",
  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/rosenberg-diamonds-co-2941036",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@rosenbergdiamonds.com",
+ "email_source": "https://rosenbergdiamonds.com/boutique-location/",
+ "linkedin_url": "https://www.linkedin.com/in/david-rosenberg-3036b010/",
+ "linkedin_source": "\"David Rosenberg\" Rosenberg Diamonds & Co LinkedIn",
+ "contact_person": "David Rosenberg",
+ "role": "Founder & CEO",
+ "contact_source": "https://rosenbergdiamonds.com/david-rosenberg/",
+ "tel_numbers": [
+  "+15614775444",
+  "+1.561.663.5004 (WhatsApp)"
+ ],
+ "tel_source": "https://rosenbergdiamonds.com/boutique-location/",
+ "socials": [
+  "https://www.facebook.com/RosenbergDiamondsCo",
+  "https://www.instagram.com/rosenbergdiamonds/",
+  "https://www.tiktok.com/@rosenbergdiamonds",
+  "https://x.com/dR_RosenbergDia"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA-certified stones"
+ ],
+ "hooks": [
+  "fancy vivid color diamonds",
+  "D flawless / important whites",
+  "boutique since 2006",
+  "'Mr. Blue'"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Site: 'As proud diamantaires, we specialize in both significant large white diamonds and rare natural fancy color diamonds'; founder David Rosenberg moved into 'diamond cutting, manufacturing, and gemology' and the firm is 'vertically integrated'.",
+ "verified": true
 }

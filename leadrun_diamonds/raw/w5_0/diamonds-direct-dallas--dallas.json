@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Watches"
+ "scope_reason": "unverified: site unreachable (HTTP 403 on all pages); web search indicates Diamonds Direct is a multi-store chain (JCK/CB Insights) \u2014 likely chain if re-checked",
+ "verified": false
 }

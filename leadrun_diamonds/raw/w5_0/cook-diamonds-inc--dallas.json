@@ -14,18 +14,27 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Ben Collins\" Cook Diamonds Dallas LinkedIn",
+ "contact_person": "Ben Collins",
+ "role": "Owner",
+ "contact_source": "https://www.cookdiamonds.com/about/",
+ "tel_numbers": [
+  "214-745-1622"
+ ],
+ "tel_source": "https://www.cookdiamonds.com/visit-our-showroom/",
  "socials": [],
  "building": "",
  "suite": "Ste mmons",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since 1976",
+  "Dallas World Trade Center",
+  "2nd generation (2017)",
+  "custom design",
+  "Super Bowl rings"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Diamonds"
+ "scope_reason": "About page: Cook Diamonds in the Dallas World Trade Center since 1976 provides 'high-quality diamonds, custom designed settings, precious gemstones' and offers 'loose gems'; it designed and created two Dallas Cowboys Super Bowl rings (custom design/bridal with own stones; borderline retail).",
+ "verified": true
 }

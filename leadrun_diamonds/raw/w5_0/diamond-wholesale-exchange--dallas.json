@@ -18,14 +18,19 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "972-386-9088"
+ ],
+ "tel_source": "https://dwedallas.wordpress.com/",
+ "socials": [
+  "https://www.facebook.com/diamondwholesaleexchange"
+ ],
  "building": "",
  "suite": "Ste 250",
  "trade_memberships": [],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Own blog (dwedallas.wordpress.com, last posts 2014): 'Diamond Wholesale Exchange \u2014 Providing our Customers with all of their Wholesale Diamond needs!'; content is old, business activity unconfirmed.",
+ "verified": true
 }

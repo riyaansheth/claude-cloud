@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "unverified: site unreachable (miamidiamond.com redirects to a parked /lander page)",
+ "verified": false
 }

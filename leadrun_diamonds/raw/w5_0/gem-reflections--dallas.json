@@ -11,21 +11,34 @@
  "reviews": "5",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/gem-reflections-459613287",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "gemreflectionsdallas@gmail.com",
+ "email_source": "http://www.gemreflectionsdallas.com/ContactUs.html",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "214.663.5829",
+  "972.679.5720"
+ ],
+ "tel_source": "http://www.gemreflectionsdallas.com/ContactUs.html",
+ "socials": [
+  "http://www.facebook.com/gemreflectionsdallas"
+ ],
  "building": "",
  "suite": "Ste mmons",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "Jewelers Board of Trade"
+ ],
+ "hooks": [
+  "Dallas World Trade Center",
+  "sells to stores",
+  "custom design",
+  "buys diamonds 0.50ct+"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "scope_reason": "About page: family business in the Dallas World Trade Center for 25+ years offering 'gems and fine jewelry to stores as well as private clientele', custom CAD/wax design, and buying diamonds 0.50 ct and above.",
+ "verified": true
 }
