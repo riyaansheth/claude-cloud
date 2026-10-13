@@ -11,21 +11,28 @@
  "reviews": "15",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/vora-gems-467626690",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "voragemsinc@gmail.com",
+ "email_source": "https://www.voragems.com/contact-us",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Prakash Vora\" Vora Gems LinkedIn",
+ "contact_person": "Prakash Vora",
+ "role": "Founder",
+ "contact_source": "https://www.voragems.com/about-us",
+ "tel_numbers": [
+  "(213) 623-7390",
+  "(800) 867-2515"
+ ],
+ "tel_source": "https://www.voragems.com/contact-us",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "hooks": [
+  "family-owned since 1980, founded by Prakash & Mala Vora",
+  "emeralds, rubies, sapphires, alexandrites"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "gemstone-only",
+ "scope_reason": "Site: 'We are a family-owned gem supplier business founded in 1980' - catalog is emeralds, rubies, sapphires, semi-precious and alexandrites; no diamonds offered.",
+ "verified": true
 }

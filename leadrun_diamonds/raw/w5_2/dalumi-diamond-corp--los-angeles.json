@@ -11,21 +11,35 @@
  "reviews": "32",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/dalumi-diamond-corp-532812807",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@dalumi.com",
+ "email_source": "https://www.dalumi.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(212) 644-9030"
+ ],
+ "tel_source": "https://www.dalumi.com/contact",
+ "socials": [
+  "https://www.facebook.com/dalumidiamonds",
+  "https://www.instagram.com/dalumidiamonds/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "De Beers Sightholder"
+ ],
+ "hooks": [
+  "founded 1960 by Asher Dalumi, 2nd generation since 1989",
+  "De Beers Sightholder since 1993",
+  "factory in Botswana; patented Swana cut",
+  "yellow diamond specialist (Golden Diamonds)",
+  "LA office (no LA contact listed on site; US contact is NY office)"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Site: 'We specialize in the manufacturing, polishing, and marketing of top-tier quality natural diamonds' with 'a factory in Botswana and offices in ... New York, Los Angeles'.",
+ "verified": true
 }

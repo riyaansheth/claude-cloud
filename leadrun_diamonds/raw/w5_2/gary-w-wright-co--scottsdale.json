@@ -11,21 +11,39 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/scottsdale-az/mip/gary-w-wright-co-582300371",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@garywwrightco.com",
+ "email_source": "https://garywwrightco.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(602) 264-5300",
+  "(800) 428-0700"
+ ],
+ "tel_source": "https://garywwrightco.com/contact-us/",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "AGS (registered supplier)",
+  "Diamond Dealers Club",
+  "World Federation of Diamond Bourses",
+  "Jewelers Board of Trade",
+  "Polygon",
+  "RapNet",
+  "GIA Alumni Association",
+  "Jewelers Vigilance Committee"
+ ],
+ "hooks": [
+  "since 1982, family business",
+  "first US importer of Hearts & Arrows ideal cuts",
+  "150+ overseas sourcing trips",
+  "no internet sales - sells through brick & mortar retailers"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site: 'As the first US importer of Hearts and Arrows Ideal Cuts' ... 'Our diamonds are marketed through brick & mortar stores and we do not list our goods on retail websites'; AGS-registered supplier and DDC/WFDB affiliated.",
+ "verified": true
 }

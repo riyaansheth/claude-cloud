@@ -11,21 +11,36 @@
  "reviews": "36",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/neetdiam-459666597",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "paresh@neetdiam.com",
+ "email_source": "http://www.neetdiam.com/ContactUs.aspx",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(213) 623-4483",
+  "(818) 667-2145",
+  "(818) 259-4004"
+ ],
+ "tel_source": "http://www.neetdiam.com/ContactUs.aspx",
+ "socials": [
+  "https://www.instagram.com/neetdiam/",
+  "https://www.facebook.com/NEETDIAM-1064067177016161/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "established 1984, family owned",
+  "sources in India and Belgium several times a year",
+  "also disha@neetdiam.com",
+  "608 S Hill St Suite 1109"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site: 'Established in 1984 ... we specialize in GIA certified stones' and 'Our team travels to these countries [India and Belgium] several times a year to personally pick out the perfect diamonds'.",
+ "verified": true
 }

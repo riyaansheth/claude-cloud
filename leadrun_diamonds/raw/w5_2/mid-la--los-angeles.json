@@ -11,21 +11,38 @@
  "reviews": "65",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/mid-la-16327101",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "losangeles@middiamonds.com",
+ "email_source": "https://www.middiamonds.com/contact-us/mid-los-angeles-llc/",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Benny Meirov\" MID House of Diamonds LinkedIn",
+ "contact_person": "Benny Meirov",
+ "role": "Founder",
+ "contact_source": "https://www.middiamonds.com/about/",
+ "tel_numbers": [
+  "(213) 689-4355",
+  "(800) 689-7077"
+ ],
+ "tel_source": "https://www.middiamonds.com/contact-us/mid-los-angeles-llc/",
+ "socials": [
+  "https://www.facebook.com/MIDLosangeles/",
+  "https://www.facebook.com/middiamonds",
+  "https://www.instagram.com/middiamonds/",
+  "https://twitter.com/MIDDIAMONDS"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA",
+  "Rapaport (listed)",
+  "RJC Certified Member"
+ ],
+ "hooks": [
+  "LA branch of MID House of Diamonds (M.I.D. LA LLC), 606 S Olive St Suite 1155",
+  "founded by brothers Benny & Yossi Meirov, 50+ years",
+  "8 global offices"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site: 'MID House of Diamonds is one of the world`s largest and most respected manufacturers and distributors of polished diamonds, supplying leading jewelry retailers'; LA page titled 'Wholesale diamonds in Los Angeles'.",
+ "verified": true
 }

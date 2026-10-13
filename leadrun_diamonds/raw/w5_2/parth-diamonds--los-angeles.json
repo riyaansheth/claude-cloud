@@ -11,21 +11,31 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/parth-diamonds-551308474",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "contact@parthdiamonds.com",
+ "email_source": "https://parthdiamonds.com/pages/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(213) 622-2094"
+ ],
+ "tel_source": "https://parthdiamonds.com/pages/contact",
+ "socials": [
+  "https://www.instagram.com/parthdiamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "lab-grown CVD & HPHT wholesaler/manufacturer",
+  "30+ years; ran a cutting factory in Gujarat, India",
+  "melee and larger stones",
+  "550 S Hill St Suite 1314"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "Site: 'National leading wholesaler & manufacturer of laboratory grown (CVD & HPHT) diamonds' that 'ran one of the biggest diamond cutting factories in Gujarat, India' and serves 'manufacturers, other diamond dealers, retailers'.",
+ "verified": true
 }

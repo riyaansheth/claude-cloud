@@ -11,21 +11,34 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/metairie-la/mip/aucoin-hart-jewelers-495975579?lid=1001616731366",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "shop@aucoinhart.com",
+ "email_source": "https://www.aucoinhart.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(504) 834-9999",
+  "(800) 992-8743"
+ ],
+ "tel_source": "https://www.aucoinhart.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/AucoinHartJewelers",
+  "https://www.instagram.com/aucoinhartjewelers/",
+  "https://twitter.com/AucoinHart",
+  "https://www.pinterest.com/aucoinhart/",
+  "https://www.youtube.com/channel/UC6Ge0QUPnTORz_OPhIqIZOA"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Watch Repair, Diamonds"
+ "hooks": [
+  "2nd/3rd-generation Aucoin family business",
+  "Rolex dealer"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site: 'the premier jeweler in the Greater New Orleans area' - a retail store selling Rolex and designer brands (David Yurman, Mikimoto, Simon G) with watch servicing.",
+ "verified": true
 }

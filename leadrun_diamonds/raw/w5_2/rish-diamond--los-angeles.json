@@ -11,21 +11,28 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/rish-diamond-542806138",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@generaldiamonds.com",
+ "email_source": "https://generaldiamonds.com/pages/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(213) 624-7298",
+  "(800) 996-4367"
+ ],
+ "tel_source": "https://generaldiamonds.com/pages/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "hooks": [
+  "site trades as General Diamonds, 550 S Hill St Suite 860 (name Rish Diamond not on site)",
+  "in LA jewelry exchange since 1985"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Listed site is General Diamonds: 'Find the best jewelry in Downtown LA ... part of the LA exchange since 1985 and ... dedicated to finding your unique personal engagement ring' - a consumer jewelry counter selling finished rings/necklaces/earrings.",
+ "verified": true
 }

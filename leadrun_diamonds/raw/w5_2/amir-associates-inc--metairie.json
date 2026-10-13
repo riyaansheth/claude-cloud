@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Diamonds-Wholesale"
+ "scope_reason": "unverified: listed website (amircpas.com) is Amir & Associates CPA, Inc, a Torrance CA accounting firm, not this Metairie jewelry listing; no own site found.",
+ "verified": false
 }

@@ -11,21 +11,33 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/tampa-fl/mip/tampa-diamond-c-enter-542787067",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "tampadiamondcenter1@gmail.com",
+ "email_source": "http://tampadiamondcenter.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(813) 402-2696"
+ ],
+ "tel_source": "http://tampadiamondcenter.com/",
+ "socials": [
+  "https://www.facebook.com/Tampa-Diamond-Center-com-448204788848354/",
+  "https://www.instagram.com/tampa_diamond_center/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "Jewelers Board of Trade"
+ ],
+ "hooks": [
+  "in-house rough diamond cutting lab (\"the one and only diamond and gem cutting Lab in Tampa\")",
+  "recuts old mine / damaged diamonds",
+  "large selection of loose diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Site: 'Tampa Diamond Center has a full in house rough diamond cutting service. We manufacture rough diamonds in round and fancy shapes' and 'No Middle man from Diamond Cutter Straight to YOU!'",
+ "verified": true
 }
