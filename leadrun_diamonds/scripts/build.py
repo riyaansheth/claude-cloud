@@ -283,6 +283,8 @@ def build_row(b):
         flags.append("shared-switchboard")
     if phone_from_site:
         flags.append("phone-from-site")
+    if b.get("lead_origin") == "YellowPages" and not b.get("verified"):
+        flags.append("scope-unverified")  # in scope on YP's self-assigned category only
     if li and not li_ok:
         flags.append("linkedin-rejected")
     if email_ok and b["_email"].split("@")[1] in FREE_MAIL:

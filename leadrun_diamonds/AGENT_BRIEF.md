@@ -110,3 +110,28 @@ which clusters/buildings you exhausted, and what blocked you.
   emails and `tel:` numbers. `tel_source` must be ONLY the business's own page URL(s) — never mix a
   directory/Yelp URL into `tel_source` (the builder rejects mixed sources).
 - `phone` = the number the directory lists; put every number from the business's own site in `tel_numbers`.
+
+## Wave-4: verifying YellowPages listings (batch work)
+You get a batch file `work/batches/batch_NN.json`: a list of {file, business, market, website, phone, emails}.
+Each `file` is a raw/yp/*.json record. For EACH listing, edit that JSON file IN PLACE (read it, update
+fields, write it back with python json — keep all other fields) and set `"verified": true`.
+
+1. **Scope verdict** — fetch the business's own site (`/`, `/about`, `/about-us`, `/our-story`, `/contact`)
+   with Bash+requests. Diamond TRADE = wholesale / "to the trade" / loose diamonds / importer / manufacturer /
+   cutter / broker / lab-grown grower or distributor / bridal specialist sourcing its own loose stones /
+   trade estate-diamond buyer / bourse member. A shop that only sells finished jewelry it buys in, repair,
+   pawn, gold buying, watches, simulants → `is_diamond_trade: false`, `drop_reason` (retail-only, pawn,
+   cash-for-gold, simulant, chain, other). Dead / parked site → leave is_diamond_trade as is, add
+   `"scope_reason": "unverified: site unreachable"` and still set verified=false (don't set true).
+   Put one honest sentence in `scope_reason` quoting what the site says.
+2. **Owner** — name + title from the About/Team page (or BBB/state filing if the site has none):
+   `contact_person`, `role` (Owner/President/Founder/CEO/Partner/Manager), `contact_source` (URL).
+3. **LinkedIn** — only if you have a First Last owner name: WebSearch (mode "extended")
+   `"First Last" <Business> LinkedIn`. Record `linkedin_url` only if a linkedin.com/in/ URL literally appears
+   and the result ties the name to this business. `linkedin_source` = the query. Never a /company/ page,
+   never a slug that is just the business name.
+4. Also capture from the site when present: `email` + `email_source` (mailto on own domain), extra numbers
+   into `tel_numbers` with `tel_source` = own page URL(s) only, `socials`, `trade_memberships`
+   (GIA, AGS, JBT, DDC, RapNet, IDEX, bourse...), `hooks` (since-19xx, 3rd-generation, lab-grown, melee...).
+Budget: ≤ 40 WebSearch calls per batch; ≤ 2 req/s per host. Never invent anything.
+Finish with: verified count, in-scope / dropped counts, owners found, LinkedIn found.
