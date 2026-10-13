@@ -11,21 +11,37 @@
  "reviews": "47",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/finesse-diamonds-corp-466670319",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "email": "sales@hod.live",
+ "email_source": "https://www.hod.live/contact-us/",
+ "linkedin_url": "https://www.linkedin.com/in/sanjeev-jain-38b18b90/",
+ "linkedin_source": "\"Sanjeev Jain\" House of Diamonds LinkedIn",
+ "contact_person": "Sanjeev Jain",
+ "role": "CEO",
+ "contact_source": "https://www.hod.live/affiliation/",
+ "tel_numbers": [
+  "2129449868"
+ ],
+ "tel_source": "https://www.hod.live/contact-us/",
  "socials": [],
  "building": "",
  "suite": "Ste 2001",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "DDC",
+  "JBT",
+  "AGTA"
+ ],
+ "hooks": [
+  "wholesaler",
+  "manufacturer",
+  "gia-certified",
+  "fancy-color",
+  "melee",
+  "offices-mumbai-surat-jaipur-hong-kong-bangkok",
+  "ceo-on-ddc-board",
+  "sftp-inventory-feed"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "Listed site hod.live (House of Diamonds, Inc, 50 W 47th St Ste 2018) says it 'is the leading diamond wholesaler, selling all sizes of GIA certified white and fancy coloured diamonds' and 'We source and manufacture all our diamonds directly'; note the site brand differs from the listed name.",
+ "verified": true
 }

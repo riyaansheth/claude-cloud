@@ -18,14 +18,27 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "800.324.0688",
+  "212.869.0476"
+ ],
+ "tel_source": "https://www.diamondcutters.com/aboutus.php",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "cutter",
+  "rough-buying",
+  "own-polishing-facility",
+  "family-owned",
+  "30-plus-years",
+  "certified-loose",
+  "egl",
+  "agl"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "diamondcutters.com (Diamond Cutters Inc.): 'a family owned business that brings over thirty years of expertise to the art of hand-selecting, cutting and polishing rough diamonds ... brought to our own polishing facilities'; sells certified loose diamonds direct.",
+ "verified": true
 }

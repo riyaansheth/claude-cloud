@@ -20,12 +20,16 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/debeersforevermark/",
+  "https://www.instagram.com/forevermarkbydebeers/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "forevermark.com is the consumer brand site of De Beers Group ('© 2025 De Beers Group', 'Forevermark Diamond Jewellery'), a multinational corporate brand, not an independent trade business.",
+ "verified": true
 }

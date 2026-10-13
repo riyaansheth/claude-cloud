@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "unverified: site unreachable (listed website is an enterprise.com car-rental link (HTTP 403), not a business site)",
+ "verified": false
 }

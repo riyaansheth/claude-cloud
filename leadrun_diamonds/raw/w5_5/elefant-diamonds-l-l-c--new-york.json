@@ -18,14 +18,31 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(212) 302 0002",
+  "(972) 3 575 0011",
+  "(852) 2111 2811"
+ ],
+ "tel_source": "https://www.lilijewelry.com/info/contact/",
+ "socials": [
+  "https://twitter.com/JewelryLili",
+  "https://www.facebook.com/lili.jewelry",
+  "https://www.instagram.com/lilijewelry"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1980",
+  "manufacturer",
+  "patented-cuts",
+  "polisher",
+  "supplies-luxury-brands",
+  "offices-tel-aviv-hong-kong",
+  "580-fifth-ave"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Listed site Lili Jewelry says it is 'a leading brand of Lili Diamonds (est 1980)' with patented cuts (Lily, Orchidea, Crisscut, Meteor), 'remarkable diamond polishing craftsmanship' and 'agreements with the leading luxury companies for supplying them exclusive signature diamonds'; NY office 580 Fifth Ave Suite 2500.",
+ "verified": true
 }
