@@ -11,21 +11,37 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/redmond-wa/mip/redmond-diamond-center-504424201",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@redmonddiamondcenter.com",
+ "email_source": "http://redmonddiamondcenter.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/noam-drori-b6520a40/",
+ "linkedin_source": "\"Noam Drori\" Redmond Diamond Center LinkedIn",
+ "contact_person": "Noam Drori",
+ "role": "Owner",
+ "contact_source": "http://redmonddiamondcenter.com/about",
+ "tel_numbers": [
+  "(760) 814-2997",
+  "(206) 713-8990"
+ ],
+ "tel_source": "http://redmonddiamondcenter.com/contact",
+ "socials": [
+  "https://www.facebook.com/redmonddiamondcenter",
+  "https://instagram.com/Redmond_Diamond_Center",
+  "https://pinterest.com/redmonddiamond",
+  "https://twitter.com/RedmondDiamond",
+  "https://youtube.com/@redmonddiamondcenter"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "third-generation diamond family",
+  "40+ years in diamonds",
+  "natural & lab-grown",
+  "custom engagement rings",
+  "relocated Redmond WA -> Carlsbad CA"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelry Repairing"
+ "scope_reason": "Site (now Carlsbad, CA; operated as NDC Diamonds LLC DBA Redmond Diamond Center) says owner Noam Drori is 'a third-generation member of the jewelry and diamond industry' who learned 'cutting and polishing diamonds' and that they 'source both natural and lab-grown diamonds' with 'direct relationships with trusted diamond sources worldwide'.",
+ "verified": true
 }

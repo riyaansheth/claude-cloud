@@ -15,17 +15,28 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Steven Fearnley",
+ "role": "Owner",
+ "contact_source": "https://www.jsfearnley.com/about",
+ "tel_numbers": [
+  "(404) 812-6464"
+ ],
+ "tel_source": "https://www.jsfearnley.com/contact",
+ "socials": [
+  "https://www.facebook.com/jsfearnley",
+  "https://www.instagram.com/jsfearnley",
+  "https://www.pinterest.com/jsfearnley"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers"
+ "hooks": [
+  "since 1986",
+  "GIA-trained owner",
+  "exhibits Las Vegas Antique, Hong Kong, Miami shows"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "jsfearnley.com: 'an international jewelry company specializing in rare antique jewelry, fine estate jewelry' and signed pieces (Buccellati, Cartier) - an antique/signed estate-jewelry dealer, not a diamond trader.",
+ "verified": true
 }

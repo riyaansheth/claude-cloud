@@ -18,14 +18,22 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(972) 386-9088"
+ ],
+ "tel_source": "https://dwedallas.wordpress.com/",
+ "socials": [
+  "https://www.facebook.com/diamondwholesaleexchange"
+ ],
  "building": "",
  "suite": "Ste 250",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale diamonds",
+  "natural diamonds focus"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "dwedallas.wordpress.com: 'Diamond Wholesale Exchange - Providing our Customers with all of their Wholesale Diamond needs!' at 5000 Belt Line Road #250 (blog last updated 2014).",
+ "verified": true
 }

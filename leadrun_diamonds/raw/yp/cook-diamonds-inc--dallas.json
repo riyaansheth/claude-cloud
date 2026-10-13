@@ -15,17 +15,25 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Ben Collins",
+ "role": "Owner",
+ "contact_source": "http://www.cookdiamonds.com/about",
+ "tel_numbers": [
+  "214-745-1622"
+ ],
+ "tel_source": "https://www.cookdiamonds.com/visit-our-showroom/",
  "socials": [],
  "building": "",
  "suite": "Ste mmons",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since 1976",
+  "Dallas World Trade Center",
+  "second generation (took over 2017)",
+  "made Dallas Cowboys Super Bowl rings"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Diamonds"
+ "scope_reason": "cookdiamonds.com: family-owned since 1976 in the Dallas World Trade Center, providing 'local, national and international customers with high-quality diamonds, custom designed settings, precious gemstones'; offers loose gems and custom settings.",
+ "verified": true
 }

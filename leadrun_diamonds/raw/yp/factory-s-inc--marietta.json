@@ -11,21 +11,29 @@
  "reviews": "61",
  "source_url": "https://www.yellowpages.com/marietta-ga/mip/factorys-inc-544407994",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "factorys@bellsouth.net",
+ "email_source": "https://www.factorysinc.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Harvey Berkowitz",
+ "role": "Owner",
+ "contact_source": "https://www.factorysinc.com/Our-Story",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/Factorys-Inc-Custom-Jewelry-Designers-since-1965-115835058429266",
+  "https://www.instagram.com/jewelers_daughter",
+  "https://www.pinterest.com/factorysinc"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "hooks": [
+  "since 1965",
+  "family owned"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "factorysinc.com: 'a family owned and operated full-service jewelry store' offering 'appraisal services, estate purchasing, customized pieces, and fine jewelry in Marietta, GA'.",
+ "verified": true
 }
