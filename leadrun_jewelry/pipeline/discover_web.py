@@ -8,6 +8,7 @@ guesses. Every listing carries the URL it was read from.
 """
 import json
 import re
+import time
 from urllib.parse import quote_plus, urljoin
 
 from bs4 import BeautifulSoup
@@ -80,6 +81,9 @@ def run_gmaps(br, markets, log=print, max_places=120):
                 db.log_event(con, "gmaps", "blocked", e)
                 log(f"[gmaps] blocked: {e}")
                 return stats
+            if br.last_status != 200:
+                db.log_event(con, "gmaps", f"soft-block-{br.last_status}", url)
+                continue
             links = []
             for a in BeautifulSoup(html, "lxml").select("a.hfpxzc[href*='/maps/place/']"):
                 href = a["href"]
@@ -154,6 +158,11 @@ def run_yp(br, markets, log=print, max_pages=30):
                     log(f"[yp] blocked: {e}")
                     return stats
                 rows, has_next = parse_yp(html, market, url)
+                if not rows and br.last_status != 200:
+                    # Soft block (non-200 interstitial): don't record the page as done.
+                    db.log_event(con, "yp", f"soft-block-{br.last_status}", url)
+                    time.sleep(60)
+                    break
                 for r in rows:
                     ingest(con, r, stats)
                 db.mark_task(con, task, detail=str(len(rows)))
@@ -216,7 +225,7 @@ def parse_bbb_profile(html, url, market):
         block = m.group(2)
         for pm in re.finditer(r"(?:Mr\.|Ms\.|Mrs\.|Dr\.)?\s*([A-Z][a-zA-Z'\-]+(?:\s+[A-Z]\.)?\s+[A-Z][a-zA-Z'\-]+)\s*,\s*([A-Za-z /&\-]{3,40})", block):
             nm, role = pm.group(1).strip(), pm.group(2).strip()
-            if plausible_name(nm, rec["name"]):
+            if plausible_name(nm, rec["name"]) and nm not in [p["name"] for p in people]:
                 people.append({"name": nm, "role": role})
     rec["extra"] = {"bbb_people": people, "bbb_years": _bbb_years(text)}
     return rec
@@ -240,6 +249,7 @@ def _bbb_role(role):
 def run_bbb(br, markets, log=print, max_pages=15):
     con = db.connect()
     stats = {"new": 0, "seen": 0, "dropped": 0, "people": 0}
+    strikes = 0
     for city, st, _ in markets:
         market = config.market_label(city, st)
         for cat in config.BBB_CATEGORIES:
@@ -255,16 +265,27 @@ def run_bbb(br, markets, log=print, max_pages=15):
                     db.log_event(con, "bbb", "blocked", e)
                     log(f"[bbb] blocked: {e}")
                     return stats
+                if not links and br.last_status != 200:
+                    db.log_event(con, "bbb", f"soft-block-{br.last_status}", url)
+                    time.sleep(60)
+                    break
                 for href in links:
                     bkey = "bbb:" + sha(href)
                     if db.is_dropped(con, bkey) or con.execute(
                             "SELECT 1 FROM listings WHERE bkey=?", (bkey,)).fetchone():
                         continue
                     try:
-                        rec = parse_bbb_profile(br.get_html(href, min_gap=2), href, market)
+                        rec = parse_bbb_profile(br.get_html(href, min_gap=3), href, market)
+                        strikes = 0
                     except Blocked as e:
+                        # BBB rate-limits bursts with 403s: back off, give up after 3 in a row.
                         db.log_event(con, "bbb", "blocked", e)
-                        return stats
+                        strikes += 1
+                        if strikes >= 3:
+                            log(f"[bbb] blocked 3x in a row, stopping: {e}")
+                            return stats
+                        time.sleep(90 * strikes)
+                        continue
                     except Exception as e:  # noqa: BLE001
                         db.log_event(con, "bbb", "error", f"{href}: {e}")
                         continue

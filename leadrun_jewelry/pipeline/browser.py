@@ -34,6 +34,7 @@ class Browser:
                  scroll=0, timeout=45000):
         cp = cache_path("browser:" + url)
         if use_cache and cp.exists():
+            self.last_status = 200
             return cp.read_text("utf-8", "replace")
         time.sleep(min_gap + random.uniform(0, min_gap * 0.5))
         try:
@@ -48,13 +49,31 @@ class Browser:
                 self.page.wait_for_selector(wait_selector, timeout=15000)
             except Exception:  # noqa: BLE001 — selector may legitimately be absent
                 pass
-        for _ in range(scroll):
-            self.page.mouse.wheel(0, 4000)
-            time.sleep(1.2)
+        if scroll:
+            # Google Maps results live in a scrollable feed panel; hover it first
+            # so wheel events scroll the list rather than the map.
+            feed = self.page.query_selector("div[role='feed']")
+            if feed:
+                box = feed.bounding_box()
+                if box:
+                    self.page.mouse.move(box["x"] + box["width"] / 2, box["y"] + box["height"] / 2)
+            last = -1
+            for _ in range(scroll):
+                self.page.mouse.wheel(0, 5000)
+                time.sleep(1.5)
+                n = self.page.locator("a.hfpxzc").count() if feed else 0
+                if feed and n == last and "end of the list" in (self.page.content()[-200000:]).lower():
+                    break
+                last = n
         html = self.page.content()
         status = resp.status if resp else 0
-        low = html[:20000].lower()
-        if status in (403, 429) or any(m in low for m in _BLOCK_MARKERS):
+        self.last_status = status
+        # Real pages often mention "recaptcha" in scripts; only a challenge page
+        # carries the marker in its title or is a tiny interstitial.
+        title = (self.page.title() or "").lower()
+        small = len(html) < 15000
+        if status in (403, 429) or any(m in title or (small and m in html.lower())
+                                       for m in _BLOCK_MARKERS):
             raise Blocked(f"http-{status} or challenge page at {url}")
         if status == 200 and use_cache:
             cp.write_text(html, "utf-8")

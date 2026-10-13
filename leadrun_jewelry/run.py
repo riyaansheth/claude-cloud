@@ -144,7 +144,9 @@ def run_all(n, push=True):
     try:
         # Discovery sources in parallel worker processes (each with its own browser).
         procs = [mp.Process(target=stage, args=(s, n), name=s)
-                 for s in ("osm", "gmaps", "yp", "bbb", "trade")]
+                 for s in ("osm", "gmaps", "yp", "bbb")]
+        # "trade" (JA/AGS) is not in the default run: the JA locator is a JS widget
+        # behind a member login and AGS returns 403 to the browser (see REPORT.md).
         for p in procs:
             p.start()
         # Crawl what has been discovered so far while discovery continues.

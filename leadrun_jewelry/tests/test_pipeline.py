@@ -303,3 +303,11 @@ def test_cache_key_accepts_post_dict():
     a = cache_path("https://overpass.test/api", {"data": "q1"})
     assert a == cache_path("https://overpass.test/api", {"data": "q1"})
     assert a != cache_path("https://overpass.test/api", {"data": "q2"})
+
+
+def test_wholesale_category_alone_does_not_drop():
+    cat = "Jewelers, Jewelers-Wholesale & Manufacturers, Jewelry Designers"
+    assert scope.kill_reason("Unusual Wedding Rings", cat) is None
+    assert scope.kill_reason("Gold Star Jewelry Wholesale Inc", cat) == "wholesale-manufacturer"
+    assert scope.kill_reason("Jewelers Of America", cat) == "trade-association"
+    assert scope.site_kill_reason("ABC Jewelry | Wholesale only, to the trade only") == "wholesale-manufacturer"

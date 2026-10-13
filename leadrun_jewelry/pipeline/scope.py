@@ -74,7 +74,12 @@ DIAMOND_TRADE = _rx(r"diamond wholesalers?", r"wholesale diamonds?",
                     r"diamond brokers?", r"loose diamonds?", r"diamond dealers?",
                     r"diamond cutters?", r"diamond cutting", r"diamond district",
                     r"diamond exchange", r"diamond trading", r"diamond importers?",
-                    r"diamond manufacturers?", r"trade only", r"wholesale")
+                    r"diamond manufacturers?", r"diamonds? wholesale")
+# Generic jewelry wholesale/manufacturing: YellowPages tags many retailers with
+# "Jewelers-Wholesale & Manufacturers", so the category alone never drops a row;
+# the name or the site's own headline has to say it.
+WHOLESALE_NAME = _rx(r"wholesalers?", r"wholesale", r"manufacturers?", r"mfg",
+                     r"trade only", r"to the trade")
 DIAMOND_DISTRICT_ADDR = re.compile(
     r"\b(?:4[67]th|forty[- ]?(?:sixth|seventh))\s+st", re.I)
 TRADE_OFFICE = re.compile(r"\b(?:suite|ste\.?|fl(?:oor)?\.?|room|rm\.?|booth|#)\s*\w+", re.I)
@@ -96,6 +101,8 @@ SITE_KILL = [
                             r"permanent jewelry")),
     ("simulants", _rx(r"moissanite", r"cubic zirconia", r"lab simulants?",
                       r"diamond alternatives?", r"simulated diamonds?")),
+    ("wholesale-manufacturer", _rx(r"wholesale only", r"to the trade only",
+                                   r"jewelry manufacturer", r"wholesale jewelry manufacturer")),
     ("diamond-trade", _rx(r"diamond wholesalers?", r"wholesale diamonds?",
                           r"loose diamond (?:dealer|wholesaler)s?",
                           r"diamond brokers?", r"to the trade only", r"trade only")),
@@ -117,6 +124,11 @@ def kill_reason(name, category="", address="", market="", osm_tags=None):
         return reason
     if DIAMOND_TRADE.search(hay):
         return "diamond-trade"
+    if WHOLESALE_NAME.search(name):
+        return "wholesale-manufacturer"
+    if re.search(r"\bjewel+ers of america\b|\bjewelers board of trade\b|\bgemological institute\b",
+                 name, re.I):
+        return "trade-association"
     if (market.startswith("New York") and DIAMOND_DISTRICT_ADDR.search(address or "")
             and TRADE_OFFICE.search(address or "")):
         return "diamond-trade"
