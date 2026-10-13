@@ -18,14 +18,30 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "+1781.362.4767"
+ ],
+ "tel_source": "https://princessdiamonds.net/",
+ "socials": [
+  "https://www.facebook.com/princessdiamondsburlington",
+  "https://www.instagram.com/princessdiamonds_ma"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-2001",
+  "family-owned",
+  "manufacturer",
+  "custom-design",
+  "loose-diamonds",
+  "lab-grown",
+  "natural",
+  "gia-graduates",
+  "diamond-buying"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Family-owned since 2001 with its own \"Hayek Jewelers atelier and manufacturing facility in Derry, New Hampshire\"; sells loose natural and lab-grown diamonds it sources itself and runs a diamond buying/trade-in program.",
+ "verified": true
 }

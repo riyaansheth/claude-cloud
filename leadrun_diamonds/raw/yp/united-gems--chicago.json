@@ -14,18 +14,33 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Richard Goynshor\" United Gem LinkedIn (no /in/ profile found)",
+ "contact_person": "Richard Goynshor",
+ "role": "Proprietor",
+ "contact_source": "https://www.unitedgem.com/about-us/",
+ "tel_numbers": [
+  "312.641.2743",
+  "800.937.5424"
+ ],
+ "tel_source": "https://www.unitedgem.com/, https://www.unitedgem.com/contact-us/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1930s",
+  "3rd-generation",
+  "wholesale",
+  "cutter",
+  "loose-diamonds",
+  "lab-grown",
+  "natural",
+  "memo",
+  "antwerp-cut",
+  "custom-design"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "United Gem Ltd (29 E Madison, Chicago): \"As diamond cutters and wholesalers\" serving \"our wholesale clients\" with ideal-cut diamonds \"primarily cut in Antwerp\", loose natural and lab-grown inventory and long-term memo.",
+ "verified": true
 }

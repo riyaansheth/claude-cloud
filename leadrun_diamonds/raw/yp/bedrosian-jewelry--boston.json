@@ -11,21 +11,33 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/boston-ma/mip/bedrosian-jewelry-546369564",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@bedrosianjewelry.com",
+ "email_source": "https://www.bedrosianjewelry.com/contact_us.html",
+ "linkedin_url": "https://www.linkedin.com/in/raffi-bedrosian-1308a6153/",
+ "linkedin_source": "\"Raffi Bedrosian\" Bedrosian Jewelry LinkedIn",
+ "contact_person": "Raffi Bedrosian",
+ "role": "Family principal; GIA graduate in diamond grading (listed as Owner by a directory per search)",
+ "contact_source": "https://www.bedrosianjewelry.com/about_bedrosian.html",
+ "tel_numbers": [
+  "(617) 227-9452"
+ ],
+ "tel_source": "https://www.bedrosianjewelry.com/contact_us.html",
+ "socials": [
+  "https://www.facebook.com/pages/Bedrosian-Jewelry/212172395518324"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1987",
+  "family-owned",
+  "gia-graduate",
+  "custom-design",
+  "on-premises-workshop",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Watches"
+ "scope_reason": "Family-run Jewelers Building workshop since 1987: \"We carry GIA certified Diamonds\", offers a Diamond Request Form and custom designs \"with all work done on the premises\" (borderline: small custom/bridal jeweler sourcing its own stones).",
+ "verified": true
 }

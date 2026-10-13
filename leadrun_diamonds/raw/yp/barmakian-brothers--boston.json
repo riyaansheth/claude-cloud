@@ -18,14 +18,30 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "617-227-3724",
+  "508-872-5454",
+  "603-888-7800",
+  "1-800-760-7007"
+ ],
+ "tel_source": "https://www.barmakian.com/pages/about, https://www.barmakian.com/pages/contact-us",
+ "socials": [
+  "https://www.facebook.com/BarmakianJewelers",
+  "https://www.instagram.com/barmakian"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1910",
+  "family-owned",
+  "loose-diamonds",
+  "lab-grown",
+  "custom-design",
+  "multi-store"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Family jeweler since 1910 with three New England showrooms that sells loose natural and loose lab-grown diamonds and designs rings \"around your personally selected diamond\"; borderline (also designer brands and Swiss watches, buys diamonds from large suppliers).",
+ "verified": true
 }

@@ -11,21 +11,32 @@
  "reviews": "67",
  "source_url": "https://www.yellowpages.com/muskogee-ok/mip/riddles-jewelry-8549498",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@riddlesjewelry.com",
+ "email_source": "https://www.riddlesjewelry.com/pages/about-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "18884023475"
+ ],
+ "tel_source": "https://www.riddlesjewelry.com/, https://www.riddlesjewelry.com/pages/about-us",
+ "socials": [
+  "https://www.facebook.com/RiddlesJewelry",
+  "https://www.instagram.com/riddlesjewelry",
+  "https://www.tiktok.com/@riddlesjewelry"
+ ],
  "building": "",
  "suite": "Ste 116",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "hooks": [
+  "since-1959",
+  "3rd-generation",
+  "chain"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Site: \"over 60 stores in 10 states\" - a multi-state retail jewelry chain founded 1959 by Jesse Riddle selling finished jewelry incl. EFFY and lab-grown engagement rings.",
+ "verified": true
 }

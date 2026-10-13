@@ -11,21 +11,37 @@
  "reviews": "3",
  "source_url": "https://www.yellowpages.com/tulsa-ok/mip/israel-diamond-supply-7602615",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@israeldiamond.com",
+ "email_source": "https://www.israeldiamond.com/pages/contact",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Adel Nasreddine\" Israel Diamond Supply LinkedIn (no /in/ profile under his name found)",
+ "contact_person": "Adel Nasreddine",
+ "role": "Founder & President",
+ "contact_source": "https://www.israeldiamond.com/pages/about-us",
+ "tel_numbers": [
+  "(918)4929300"
+ ],
+ "tel_source": "https://www.israeldiamond.com/, https://www.israeldiamond.com/pages/contact",
+ "socials": [
+  "https://twitter.com/IsraelDiamondOK",
+  "https://www.facebook.com/israeldiamondtulsa",
+  "https://www.instagram.com/israeldiamondsupply",
+  "https://www.tiktok.com/@israeldiamondsupply"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1991",
+  "wholesale",
+  "loose-diamonds",
+  "lab-grown",
+  "natural",
+  "gia-graduates-on-staff",
+  "custom-design"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Diamonds"
+ "scope_reason": "Site: founded 1991, \"one of the largest privately-owned volume dealers of diamonds and bridal jewelry\" and \"one of the largest diamond wholesalers to the public\", selling certified natural and lab-grown loose diamonds at published wholesale pricing.",
+ "verified": true
 }

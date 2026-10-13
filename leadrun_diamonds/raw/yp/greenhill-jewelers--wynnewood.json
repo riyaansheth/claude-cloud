@@ -11,21 +11,31 @@
  "reviews": "36",
  "source_url": "https://www.yellowpages.com/wynnewood-pa/mip/greenhill-jewelers-1943191",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "nanci@greenhilljewelers.com",
+ "email_source": "https://www.greenhilljewelers.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "610-649-4075",
+  "717-335-3232"
+ ],
+ "tel_source": "https://www.greenhilljewelers.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/greenhilljewelers/?ref=bookmarks"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers"
+ "hooks": [
+  "since-1927",
+  "3rd-generation",
+  "estate"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site describes a 3rd-generation family-owned full service jeweler selling one-of-a-kind Victorian/Edwardian/Art Deco/Modern estate jewelry to consumers by appointment and at Renningers Antique Mall; no wholesale, loose-diamond or trade buying offered.",
+ "verified": true
 }

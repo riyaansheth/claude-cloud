@@ -14,18 +14,33 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Dirk Swiderek\" Heritage Jewelers LinkedIn (no /in/ profile found)",
+ "contact_person": "Dirk Swiderek",
+ "role": "Owner/operator (with Jan Swiderek)",
+ "contact_source": "https://www.heritagecustomjewelers.com/about-us",
+ "tel_numbers": [
+  "(815) 838-9591"
+ ],
+ "tel_source": "https://www.heritagecustomjewelers.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/heritagecustomjewelers",
+  "https://twitter.com/heritage_jewel"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "3rd-generation",
+  "family-owned",
+  "wholesale",
+  "loose-diamonds",
+  "manufacturer",
+  "custom-design",
+  "gia-certified",
+  "bella-international-division"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Watches"
+ "scope_reason": "About page: \"Bella International, our wholesale diamond division\" has served the retail trade since 2000; inventory of \"thousands of GIA and EGL-certified as well as non-certified diamonds\" plus custom design and manufacturing.",
+ "verified": true
 }

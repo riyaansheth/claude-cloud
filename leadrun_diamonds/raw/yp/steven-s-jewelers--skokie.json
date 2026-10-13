@@ -18,14 +18,33 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(847) 674-1202"
+ ],
+ "tel_source": "https://stevensjewelersinc.com/contact/",
+ "socials": [
+  "https://www.facebook.com/SJIDiamonds",
+  "https://www.instagram.com/sjidiamonds",
+  "https://twitter.com/SJIDiamonds"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "JBT",
+  "JVC",
+  "WJA"
+ ],
+ "hooks": [
+  "manufacturer",
+  "private-label",
+  "to-the-trade",
+  "natural",
+  "2nd-generation",
+  "made-in-usa",
+  "position-cut-diamond"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Stevens Jewelers Inc (SJI, maker of the Seth & Reid Collection) runs \"a full service manufacturing facility\" with private-label services for \"our retail partners\" and its own Position Cut Diamond line of natural diamonds.",
+ "verified": true
 }
