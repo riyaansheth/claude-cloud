@@ -1,57 +1,57 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-13T21:22:07+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-13T21:40:10+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
 | Metric | Count |
 |---|---|
-| Listings in research pool (in scope after discovery) | 8673 |
-| Businesses researched (after dedupe) → `jewelry_all.csv` | 6511 |
+| Listings in research pool (in scope after discovery) | 8728 |
+| Businesses researched (after dedupe) → `jewelry_all.csv` | 6531 |
 | Qualified (2 of 3) → `jewelry_qualified.csv` | 136 |
 | Qualification rate | 2.1% |
 | Websites crawled OK / attempted | 4655 / 5565 |
-| Listings with an owner/decision-maker name | 880 |
-| LinkedIn searches by outcome | none: 51 |
+| Listings with an owner/decision-maker name | 912 |
+| LinkedIn searches by outcome | none: 90 |
 
 ## Fill rate per field
 
 | # | Column | all.csv | qualified.csv |
 |---|---|---|---|
-| 1 | Business | 6511 (100.0%) | 136 (100.0%) |
-| 2 | Segment | 6511 (100.0%) | 136 (100.0%) |
-| 3 | Category (as listed) | 6507 (99.9%) | 136 (100.0%) |
-| 4 | Phone | 6061 (93.1%) | 133 (97.8%) |
-| 5 | Email | 1294 (19.9%) | 136 (100.0%) |
+| 1 | Business | 6531 (100.0%) | 136 (100.0%) |
+| 2 | Segment | 6531 (100.0%) | 136 (100.0%) |
+| 3 | Category (as listed) | 6524 (99.9%) | 136 (100.0%) |
+| 4 | Phone | 6081 (93.1%) | 133 (97.8%) |
+| 5 | Email | 1294 (19.8%) | 136 (100.0%) |
 | 6 | LinkedIn Profile | 0 (0.0%) | 0 (0.0%) |
-| 7 | Contact Person | 390 (6.0%) | 37 (27.2%) |
-| 8 | Role | 390 (6.0%) | 37 (27.2%) |
-| 9 | Website | 4646 (71.4%) | 136 (100.0%) |
-| 10 | Address | 6239 (95.8%) | 135 (99.3%) |
-| 11 | Real City | 5404 (83.0%) | 115 (84.6%) |
-| 12 | Real State | 5500 (84.5%) | 114 (83.8%) |
-| 13 | Market | 6511 (100.0%) | 136 (100.0%) |
-| 14 | Lead Origin | 6511 (100.0%) | 136 (100.0%) |
-| 15 | Rating | 1622 (24.9%) | 71 (52.2%) |
-| 16 | Reviews | 1622 (24.9%) | 71 (52.2%) |
-| 17 | Source | 6511 (100.0%) | 136 (100.0%) |
-| 18 | Signals | 6511 (100.0%) | 136 (100.0%) |
-| 19 | Match Type | 6511 (100.0%) | 136 (100.0%) |
-| 20 | Email Source | 1294 (19.9%) | 136 (100.0%) |
+| 7 | Contact Person | 405 (6.2%) | 37 (27.2%) |
+| 8 | Role | 405 (6.2%) | 37 (27.2%) |
+| 9 | Website | 4646 (71.1%) | 136 (100.0%) |
+| 10 | Address | 6258 (95.8%) | 135 (99.3%) |
+| 11 | Real City | 5426 (83.1%) | 115 (84.6%) |
+| 12 | Real State | 5522 (84.6%) | 114 (83.8%) |
+| 13 | Market | 6531 (100.0%) | 136 (100.0%) |
+| 14 | Lead Origin | 6531 (100.0%) | 136 (100.0%) |
+| 15 | Rating | 1622 (24.8%) | 71 (52.2%) |
+| 16 | Reviews | 1622 (24.8%) | 71 (52.2%) |
+| 17 | Source | 6531 (100.0%) | 136 (100.0%) |
+| 18 | Signals | 6531 (100.0%) | 136 (100.0%) |
+| 19 | Match Type | 6531 (100.0%) | 136 (100.0%) |
+| 20 | Email Source | 1294 (19.8%) | 136 (100.0%) |
 | 21 | LinkedIn Source | 0 (0.0%) | 0 (0.0%) |
-| 22 | Found At | 6511 (100.0%) | 136 (100.0%) |
-| 23 | Also Listed As | 727 (11.2%) | 37 (27.2%) |
+| 22 | Found At | 6531 (100.0%) | 136 (100.0%) |
+| 23 | Also Listed As | 729 (11.2%) | 37 (27.2%) |
 | 24 | Other Markets | 56 (0.9%) | 3 (2.2%) |
-| 25 | Merged Listings | 1221 (18.8%) | 52 (38.2%) |
-| 26 | Flags | 713 (11.0%) | 20 (14.7%) |
+| 25 | Merged Listings | 1232 (18.9%) | 52 (38.2%) |
+| 26 | Flags | 723 (11.1%) | 20 (14.7%) |
 | 27 | Mobile Candidates | 176 (2.7%) | 136 (100.0%) |
-| 28 | Socials | 1182 (18.2%) | 113 (83.1%) |
+| 28 | Socials | 1182 (18.1%) | 113 (83.1%) |
 
 ## Qualification components
 
 | Signal | Businesses | Rate |
 |---|---|---|
-| email | 1294 | 19.9% |
+| email | 1294 | 19.8% |
 | linkedin | 0 | 0.0% |
 | direct-line | 176 | 2.7% |
 | role-email | 594 | 9.1% |
@@ -60,7 +60,7 @@ Generated 2026-10-13T21:22:07+05:30 by `python3 run.py build`. Every number belo
 | ja | 14 | 0.2% |
 | bench | 152 | 2.3% |
 | custom-design | 794 | 12.2% |
-| since-yyyy | 803 | 12.3% |
+| since-yyyy | 820 | 12.6% |
 
 ## Per market
 
@@ -70,7 +70,7 @@ Generated 2026-10-13T21:22:07+05:30 by `python3 run.py build`. Every number belo
 | Los Angeles, CA | 1287 | 1064 | 203 | 79 | 0 | 22 |
 | Chicago, IL | 996 | 688 | 133 | 60 | 0 | 12 |
 | Houston, TX | 1031 | 719 | 128 | 56 | 0 | 20 |
-| Dallas, TX | 620 | 464 | 83 | 25 | 0 | 4 |
+| Dallas, TX | 675 | 484 | 83 | 40 | 0 | 4 |
 | Miami, FL | 867 | 656 | 134 | 12 | 0 | 24 |
 | Atlanta, GA | 642 | 471 | 107 | 16 | 0 | 11 |
 | Philadelphia, PA | 732 | 531 | 79 | 12 | 0 | 7 |
@@ -98,10 +98,10 @@ Generated 2026-10-13T21:22:07+05:30 by `python3 run.py build`. Every number belo
 |---|---|---|---|
 | Google Maps | 1489 | 914 | 46 |
 | YellowPages | 5829 | 4723 | 78 |
-| BBB | 465 | 279 | 0 |
-| OpenStreetMap | 891 | 595 | 12 |
+| BBB | 520 | 300 | 0 |
+| OpenStreetMap | 891 | 594 | 12 |
 
-Discovery tasks completed: bbb=124, gmaps=50, osm=10, yp=248
+Discovery tasks completed: bbb=131, gmaps=50, osm=10, yp=248
 
 ## dropped_out_of_scope
 
@@ -110,33 +110,34 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 | Reason | discovery | site-check | builder | Total |
 |---|---|---|---|---|
 | appraiser-lab-insurer | 30 | 0 | 0 | 30 |
-| beads-craft | 235 | 19 | 2 | 256 |
-| chain | 1237 | 0 | 0 | 1237 |
+| beads-craft | 237 | 19 | 2 | 258 |
+| chain | 1273 | 0 | 0 | 1273 |
 | coin-currency | 51 | 1 | 0 | 52 |
-| costume-fashion | 184 | 77 | 4 | 265 |
-| diamond-trade | 94 | 22 | 2 | 118 |
+| costume-fashion | 185 | 77 | 4 | 266 |
+| diamond-trade | 96 | 22 | 2 | 120 |
 | gold-buyer | 95 | 18 | 1 | 114 |
 | kiosk-battery | 5 | 0 | 0 | 5 |
-| no-segment | 0 | 0 | 242 | 242 |
+| no-segment | 0 | 0 | 250 | 250 |
 | pawn | 276 | 16 | 0 | 292 |
-| piercing-tattoo | 161 | 14 | 3 | 178 |
+| piercing-tattoo | 164 | 14 | 3 | 181 |
 | simulants | 5 | 17 | 2 | 24 |
 | thrift-consignment | 6 | 0 | 0 | 6 |
 | trade-association | 1 | 0 | 0 | 1 |
 | wholesale-manufacturer | 57 | 7 | 0 | 64 |
-| **all** | | | | **2884** |
+| **all** | | | | **2936** |
 
 ## What blocked the run
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 1273 | bbb:3149c8f046693f3b: appraiser-lab-insurer |
+| builder | final-kill | 1279 | bbb:3149c8f046693f3b: appraiser-lab-insurer |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
-| bbb | blocked | 46 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
+| bbb | blocked | 51 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | osm | error | 20 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
 | osm | http-406 | 3 | https://overpass-api.de/api/interpreter |
 | osm | http-504 | 2 | https://overpass.kumi.systems/api/interpreter |
 | trade | blocked | 2 | http-403 or challenge page at https://www.americangemsociety.org/find-a-jeweler/?location=Los+Angeles%2C+CA |
+| linkedin | blocked | 1 | http-429 or challenge page at https://www.google.com/search?q=%22David+Leonard%22+San+Luis+Obispo+linkedin&hl=en&num=10 |
 | yp | soft-block-404 | 1 | https://www.yellowpages.com/search?search_terms=jewelers&geo_location_terms=Los+Angeles%2C+CA&page=30 |
 | yp | soft-block-503 | 1 | https://www.yellowpages.com/search?search_terms=jewelers&geo_location_terms=Los+Angeles%2C+CA&page=30 |
 
