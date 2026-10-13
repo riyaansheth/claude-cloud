@@ -75,7 +75,7 @@ def import_answers(log=print):
             if not src or not name:
                 continue
             # The name must literally appear in the page text the agent was given.
-            if (not re.search(re.escape(name), src["text"]) or not plausible_name(name, src["business"])):
+            if (not re.search(re.escape(name), src["text"]) or not plausible_name(name, src["business"], need_given=False)):
                 rej += 1
                 continue
             db.add_person(con, a["bkey"], name, a.get("role") or "Featured On About Page",

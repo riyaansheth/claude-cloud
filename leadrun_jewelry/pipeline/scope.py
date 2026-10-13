@@ -16,7 +16,10 @@ KILL_NAME_CATEGORY = [
                  r"cash america", r"loans? on jewelry", r"collateral loans?")),
     ("gold-buyer", _rx(r"cash for gold", r"we buy gold", r"gold exchange",
                        r"scrap gold", r"bullion", r"precious metals? buyers?",
-                       r"refinery", r"refiners?", r"gold buyers?")),
+                       r"refinery", r"refiners?", r"gold buyers?",
+                       r"buyers? of [\w ]{0,20}gold", r"gold (?:selling|buying)",
+                       r"we buy", r"cash for (?:gold|diamonds|jewelry)",
+                       r"sell (?:your )?gold")),
     ("coin-currency", _rx(r"coins?", r"numismatics?", r"rare coins",
                           r"currency exchange", r"stamps? and coins?",
                           r"stamps? & coins?")),
@@ -48,7 +51,11 @@ KILL_NAME_CATEGORY = [
                   r"charm diamond centres", r"jewelry exchange", r"walmart",
                   r"costco", r"sam'?s club", r"target", r"dillard'?s",
                   r"saks", r"neiman marcus", r"bloomingdale'?s", r"sears",
-                  r"kohl'?s", r"jcp", r"boscov'?s", r"belk")),
+                  r"kohl'?s", r"jcp", r"boscov'?s", r"belk", r"folli follie",
+                  r"swatch", r"fossil", r"lovisa", r"mejuri", r"chow tai fook",
+                  r"links of london", r"thomas sabo", r"michael kors",
+                  r"james avery", r"jostens?", r"gorjana", r"ross[- ]simons",
+                  r"reeds jewelers", r"kirk freeport", r"pandora")),
     ("thrift-consignment", _rx(r"thrift", r"consignment", r"resale",
                                r"goodwill", r"second ?hand", r"salvation army",
                                r"flea market", r"swap meet")),
@@ -68,6 +75,8 @@ HARD_COSTUME = _rx(r"costume jewelry", r"fashion jewelry", r"fashion jewellery",
 JEWELRY_WORD = _rx(r"jewel\w*", r"goldsmiths?", r"silversmiths?", r"gems?",
                    r"diamonds?", r"bench jewelers?", r"engraving", r"rings?",
                    r"watch(?:es)?", r"horolog\w*", r"orfèvre")
+
+BUYER_NAME = _rx(r"jewelry buyers?", r"diamond buyers?", r"estate buyers?", r"gold buyers?")
 
 # Diamond wholesale / trade — out of scope for this run (separate diamonds run).
 DIAMOND_TRADE = _rx(r"diamond wholesalers?", r"wholesale diamonds?",
@@ -122,6 +131,10 @@ def kill_reason(name, category="", address="", market="", osm_tags=None):
                 reason == "costume-fashion" and HARD_COSTUME.search(hay)):
             continue
         return reason
+    # YP tags many retailers "Jewelry Buyers"/"Diamond Buyers" as a side category;
+    # only a business *named* as a buyer is dropped for it.
+    if BUYER_NAME.search(name):
+        return "gold-buyer"
     if DIAMOND_TRADE.search(hay):
         return "diamond-trade"
     if WHOLESALE_NAME.search(name):

@@ -27,7 +27,13 @@ def phone_digits(s):
     """10-digit US number or '' — accepts '+1 (212) 555-0100', 'tel:2125550100'."""
     if not s:
         return ""
-    d = re.sub(r"\D", "", unquote(str(s)))
+    raw = unquote(str(s)).strip()
+    if raw.lower().startswith("tel:"):
+        raw = raw[4:].strip()
+    # An explicit non-US country code (+30 210…) is never a US number.
+    if raw.startswith("+") and not raw.lstrip("+ ").startswith("1"):
+        return ""
+    d = re.sub(r"\D", "", raw)
     if len(d) == 11 and d.startswith("1"):
         d = d[1:]
     if len(d) != 10 or d[0] in "01" or d[3] in "01":
@@ -78,7 +84,13 @@ EMAIL_RX = re.compile(r"[A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.[A-Za-z]{2,24}")
 ROLE_LOCALS = {"info", "sales", "hello", "contact", "office", "admin", "support",
                "service", "inquiries", "inquiry", "enquiries", "team", "store",
                "shop", "orders", "help", "mail", "customerservice", "appointments",
-               "jewelry", "jewelers", "repairs", "custom", "design", "studio"}
+               "jewelry", "jewelers", "repairs", "custom", "design", "studio",
+               "careers", "jobs", "pr", "press", "media", "concierge", "clientservices",
+               "clientservice", "client", "clients", "customercare", "care", "marketing",
+               "events", "reservations", "billing", "accounts", "returns", "privacy",
+               "wholesale", "webmaster", "hr", "bookings", "showroom", "boutique"}
+LOW_VALUE_LOCALS = {"careers", "jobs", "pr", "press", "media", "privacy", "billing",
+                    "accounts", "returns", "webmaster", "hr", "wholesale"}
 PLACEHOLDER_LOCALS = {"youremail", "your.email", "yourname", "your", "email",
                       "name", "user", "username", "test", "example", "someone",
                       "john", "johndoe", "john.doe", "jane", "janedoe", "first.last",
@@ -225,7 +237,11 @@ detroit minneapolis charlotte nashville scottsdale naples greenwich palm beach b
 hills privacy policy terms service read more learn view all shop now book appointment
 family owned since years google maps facebook instagram customer reviews free
 shipping gift card watch watches repair repairs bridal collection collections
-home page click here call us email us""".split())
+home page click here call us email us period signed vintage art deco nouveau
+victorian edwardian georgian retro mid century rare important unique handmade sterling
+yellow white rose karat carat sapphire ruby emerald pearl pearls opal topaz piece pieces
+heritage legacy quality service services welcome visit located location hours open
+contact appointment book schedule shop online""".split())
 
 _ROLE_ALT = "|".join(sorted((re.escape(k) for k in ROLE_WORDS), key=len, reverse=True))
 _NAME_THEN_ROLE = re.compile(_NAME + r"\s*(?:,|-|–|—|\||is the|is our|,? our)?\s*(?i:the\s+)?((?i:" + _ROLE_ALT + r"))\b")
@@ -233,8 +249,14 @@ _ROLE_THEN_NAME = re.compile(r"\b((?i:" + _ROLE_ALT + r"))\s*(?::|,|-|–|—|\b
 _MEET = re.compile(r"\b(?i:meet)\s+(?:(?i:the\s+\w+\s*[:\-–]?\s*))?" + _NAME)
 
 
-def plausible_name(n, business_name=""):
+def plausible_name(n, business_name="", need_given=False):
+    """need_given=True (regex finds on free text) requires the first word to be a
+    known given name; structured sources (BBB principal block) don't."""
     parts = n.replace(".", " ").split()
+    if need_given:
+        from .firstnames import FIRST_NAMES
+        if not parts or parts[0].lower() not in FIRST_NAMES:
+            return False
     if len(parts) < 2 or len(parts) > 4:
         return False
     if any(p.lower().strip("'") in NOT_NAMES for p in parts):
@@ -256,7 +278,7 @@ def extract_people(text, business_name=""):
         name = re.sub(r"\s+", " ", name).strip()
         # _NAME is case-sensitive in spirit; the IGNORECASE role pattern can
         # let lowercase words in, so re-check capitalisation here.
-        if not plausible_name(name, business_name) or name.lower() in seen:
+        if not plausible_name(name, business_name, need_given=True) or name.lower() in seen:
             return
         seen.add(name.lower())
         role = ROLE_WORDS.get(role_raw.lower().strip(), "Featured On About Page")

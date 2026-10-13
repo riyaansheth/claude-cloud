@@ -311,3 +311,26 @@ def test_wholesale_category_alone_does_not_drop():
     assert scope.kill_reason("Gold Star Jewelry Wholesale Inc", cat) == "wholesale-manufacturer"
     assert scope.kill_reason("Jewelers Of America", cat) == "trade-association"
     assert scope.site_kill_reason("ABC Jewelry | Wholesale only, to the trade only") == "wholesale-manufacturer"
+
+
+def test_live_run_regressions():
+    assert scope.kill_reason("Buyers Of NYC Gold Selling Of Midtown NYC", "Jewelers") == "gold-buyer"
+    assert scope.kill_reason("Folli Follie", "Jewelers") == "chain"
+    assert util.phone_digits("tel:+30 210 624 1140") == ""
+    assert util.phone_digits("tel:+1 (312) 555-0142") == "3125550142"
+    assert "Period Signed" not in [p[0] for p in util.extract_people("Period Signed pieces by Cartier.")]
+    crawl = {"meta": {"title": "The Plumb Club | Members", "h1": ""}}
+    assert not build.site_is_business({"name": "Ema Jewelry Inc", "website": "https://plumbclub.test"}, crawl)
+    assert build.site_is_business({"name": "Hartwell Jewelers", "website": "https://hartwell.test"}, crawl)
+
+
+def test_buyer_category_alone_does_not_drop():
+    assert scope.kill_reason("Hartwell Jewelers", "Jewelers, Jewelry Buyers, Diamond Buyers") is None
+    assert scope.kill_reason("Fairfield Estate Buyers", "Jewelers") == "gold-buyer"
+
+
+def test_regex_names_need_given_name():
+    t = "Emeritus Board member. Focus Tiffany pieces. Assistant Sales: Page. Owner: Mish Tworkowski."
+    assert [p[0] for p in util.extract_people(t)] == []          # 'Mish' not a common given name
+    assert [p[0] for p in util.extract_people("Owner: Dana Hartwell")] == ["Dana Hartwell"]
+    assert util.is_role_email("careers@x.test") and util.is_role_email("concierge@x.test")

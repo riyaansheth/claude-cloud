@@ -16,7 +16,7 @@ import re
 from collections import Counter, defaultdict
 
 from . import config, db, scope
-from .util import (domain_of, email_relates, email_status, fmt_phone, is_role_email,
+from .util import (LOW_VALUE_LOCALS, domain_of, email_relates, email_status, fmt_phone, is_role_email,
                    is_shared_host, is_toll_free, name_tokens, now_iso, parse_city_state,
                    phone_digits, state_from_zip)
 
@@ -58,7 +58,11 @@ def _load(con):
     socials = {r["url"]: json.loads(r["result"]) for r in
                con.execute("SELECT url, result FROM socials WHERE status='ok'")}
     people = defaultdict(list)
+    from .util import plausible_name
     for r in con.execute("SELECT * FROM people ORDER BY bkey, name"):
+        # Names stored by an older crawl are re-checked with the current rule.
+        if r["method"] == "site-regex" and not plausible_name(r["name"], need_given=True):
+            continue
         people[r["bkey"]].append(dict(r))
     linked = defaultdict(list)
     for r in con.execute("SELECT * FROM linkedin WHERE status='match'"):
@@ -83,12 +87,13 @@ def _pick_email(lst, crawl, socials_res, site_dom):
             continue
         own = site_dom and e.endswith("@" + site_dom)
         # Prefer own-domain named inbox, then own-domain role inbox, then others.
-        good.append(((0 if own else 1), (1 if is_role_email(e) else 0), rank, e, src))
+        low = e.split("@")[0] in LOW_VALUE_LOCALS
+        good.append(((1 if low else 0), (0 if own else 1), (1 if is_role_email(e) else 0), rank, e, src))
     placeholder = bool((crawl or {}).get("placeholder_emails"))
     if not good:
         return "", "", placeholder
     good.sort()
-    return good[0][3], good[0][4], placeholder
+    return good[0][4], good[0][5], placeholder
 
 
 def _pick_person(plist, links):
@@ -105,7 +110,24 @@ def _pick_person(plist, links):
     return best["name"], best["role"] or "Featured On About Page", "", ""
 
 
+def site_is_business(lst, crawl):
+    """The listed website must actually be this business's own site. Directory or
+    association pages (e.g. a trade group's member page) carry someone else's
+    emails and phone numbers. Trusted when the domain or the homepage title/h1
+    carries a distinctive token of the business name, or the name has none."""
+    toks = [t for t in name_tokens(lst["name"]) if len(t) >= 3]
+    if not toks or not crawl:
+        return True
+    label = domain_of(lst["website"]).split(".")[0]
+    m = crawl.get("meta") or {}
+    head = f"{m.get('title', '')} {m.get('h1', '')}".lower()
+    return any(t in label or re.search(rf"\b{re.escape(t)}", head) for t in toks)
+
+
 def assemble(lst, crawl, socials_map, plist, links):
+    if crawl and not site_is_business(lst, crawl):
+        crawl = None
+        plist = [p for p in plist if not p["method"].startswith("site")]
     site_dom = domain_of(lst["website"]) if lst["website"] else ""
     soc_urls = list((crawl or {}).get("socials", []))
     extra = json.loads(lst.get("extra") or "{}")
@@ -256,9 +278,14 @@ def compute_flags(r, shared_phones):
     return flags
 
 
+DIRECTORY_PHONES = set()   # every directory-listed number in the run (set by build)
+
+
 def qualify(r):
     main = phone_digits(r["Phone"])
-    directory = r["_group_phones"] | ({main} if main else set())
+    # A number that is some listing's directory phone (e.g. the same owner's other
+    # store) is a published main line, not a private/direct one.
+    directory = r["_group_phones"] | ({main} if main else set()) | DIRECTORY_PHONES
     mobiles = sorted(t for t in r["_tels"] if t not in directory and not is_toll_free(t))
     r["Mobile Candidates"] = ", ".join(fmt_phone(t) for t in mobiles)
     has_email = bool(r["Email"])
@@ -348,6 +375,8 @@ def build(log=print):
         lst["segment"] = seg
         rows.append(assemble(lst, crawl, socials_map, people.get(lst["bkey"], []),
                              linked.get(lst["bkey"], [])))
+    DIRECTORY_PHONES.clear()
+    DIRECTORY_PHONES.update(phone_digits(x["phone"]) for x in listings if phone_digits(x["phone"]))
     groups, shared_phones = dedupe(rows)
     out_all, out_q = [], []
     for g in groups:

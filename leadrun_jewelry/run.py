@@ -123,7 +123,14 @@ def checkpoint(build=True):
     try:
         summary = ""
         if build:
-            r = stage("build")
+            # Fresh process, so builder fixes committed mid-run take effect.
+            out = subprocess.run([sys.executable, __file__, "build"], capture_output=True,
+                                 text=True, cwd=str(config.ROOT))
+            print(out.stdout.strip()[-600:], flush=True)
+            if out.returncode:
+                raise RuntimeError(out.stderr.strip()[-500:])
+            import ast
+            r = ast.literal_eval(out.stdout.strip().splitlines()[-1])
             summary = f"{r['businesses']} researched, {r['qualified']} qualified"
         return autopush.push(summary)
     except Exception as e:  # noqa: BLE001
