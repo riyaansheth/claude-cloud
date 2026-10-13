@@ -1,0 +1,41 @@
+{
+  "business": "MID House of Diamonds",
+  "category_as_listed": "",
+  "phone": "+1-212-391-1121",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.middiamonds.com",
+  "address": "580 5th Ave #3003",
+  "city": "New York",
+  "state": "NY",
+  "market": "Las Vegas, NV",
+  "lead_origin": "Trade Show",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.middiamonds.com/diamond-trade-shows/jck-las-vegas-show",
+  "tel_numbers": [
+    "+1-212-391-1121",
+    "+1-877-391-1121"
+  ],
+  "tel_source": "https://middiamonds.com/diamond-trade-shows/idw",
+  "socials": [],
+  "building": "580 Fifth Avenue",
+  "suite": "#3003",
+  "trade_memberships": [],
+  "hooks": [
+    "natural",
+    "large-stones",
+    "loose-diamonds",
+    "parcels",
+    "matched-pairs",
+    "jck-exhibitor"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "JCK Las Vegas exhibitor offering loose diamonds of all shapes 0.30ct to 10.00+ct, parcels, single stones, matched pairs and layouts; NY office at 580 5th Ave.",
+  "drop_reason": ""
+}

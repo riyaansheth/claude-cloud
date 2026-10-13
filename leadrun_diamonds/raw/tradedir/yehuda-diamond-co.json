@@ -1,0 +1,39 @@
+{
+  "business": "Yehuda Diamond Co.",
+  "category_as_listed": "Natural Diamonds",
+  "phone": "1-212-869-0392",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.yehuda.com",
+  "address": "590 5th Ave., 8th Fl",
+  "city": "New York",
+  "state": "NY",
+  "market": "Las Vegas, NV",
+  "lead_origin": "Trade Show",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.jewelers.org/images/JA-LasVegas2026-SupplierDirectory.pdf",
+  "tel_numbers": [
+    "1-212-869-0392"
+  ],
+  "tel_source": "https://www.mjsa.org/events/mjsa-expo/exhibitor-list/exhibitor/yehuda/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Jewelers of America (JA supplier directory)",
+    "MJSA Expo exhibitor"
+  ],
+  "hooks": [
+    "natural",
+    "jck-2026-booth-5098"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed under 'Natural Diamonds' in the JA Las Vegas 2026 supplier directory (booth 5098); New York diamond company. Address/phone from MJSA exhibitor listing (undated); older JCK listing showed 580 Fifth Ave Ste 521, (212) 221-5985.",
+  "drop_reason": ""
+}

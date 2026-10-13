@@ -1,0 +1,38 @@
+{
+  "business": "66mint Fine Estate Jewelry",
+  "category_as_listed": "",
+  "phone": "415.982.4402",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.66mint.com",
+  "address": "Remedial Building, Mint Plaza (SoMa)",
+  "city": "San Francisco",
+  "state": "CA",
+  "market": "San Francisco, CA",
+  "lead_origin": "LinkedIn",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.66mint.com/pages/company-history",
+  "tel_numbers": [
+    "415.982.4402"
+  ],
+  "tel_source": "https://www.66mint.com/blogs/news/where-to-buy-diamonds-in-san-francisco",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1951",
+    "4th-generation",
+    "estate-buyer",
+    "sells-to-dealers"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Estate diamond buyer/seller; its site says it sells diamonds to dealers and the public and buys diamonds (SF + Menlo Park offices); family owned since 1951",
+  "drop_reason": ""
+}

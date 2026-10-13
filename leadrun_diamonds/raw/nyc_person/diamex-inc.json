@@ -1,0 +1,40 @@
+{
+  "business": "Diamex Inc",
+  "category_as_listed": "diamond manufacturer and wholesaler",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Ronnie VanderLinden",
+  "role": "President",
+  "contact_source": "https://www.worlddiamondcouncil.org/the-world-diamond-council-welcomes-13-new-members/",
+  "website": "https://www.diamexinc.com",
+  "address": "580 5th Avenue, Suite 625, New York, NY",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "LinkedIn",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.linkedin.com/company/diamexinc",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "Suite 625",
+  "trade_memberships": [
+    "DMIA",
+    "RJC",
+    "WDC"
+  ],
+  "hooks": [
+    "manufacturer",
+    "since-1976",
+    "natural",
+    "recutting"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Manufactures polished diamonds from rough, recuts stones, sells to wholesalers and retailers; founded NY 1976; president is ex-DMIA head.",
+  "drop_reason": ""
+}

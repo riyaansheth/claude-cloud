@@ -1,0 +1,38 @@
+{
+  "business": "Hasenfeld-Stein Inc",
+  "category_as_listed": "",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "\"Hertz Hasenfeld\" Hasenfeld-Stein LinkedIn (no match)",
+  "contact_person": "Hertz Hasenfeld",
+  "role": "President",
+  "contact_source": "https://rapaport.com/podcasts/podcast-diamonds-over-the-decades/",
+  "website": "https://hasenfeld-stein.com",
+  "address": "",
+  "city": "",
+  "state": "",
+  "market": "",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://responsiblejewellery.com/member/hasenfeld-stein-inc/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC",
+    "DMIA"
+  ],
+  "hooks": [
+    "manufacturer",
+    "family-business",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "US-based diamond manufacturer (Rapaport); RJC member listing; Hertz Hasenfeld elected DMIA vice president. Street address not found.",
+  "drop_reason": ""
+}
