@@ -13,19 +13,36 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_url": "https://www.linkedin.com/in/david-rosenberg-3036b010/",
+ "linkedin_source": "\"David Rosenberg\" Rosenberg Diamonds & Co. LinkedIn",
+ "contact_person": "David Rosenberg",
+ "role": "Founder",
+ "contact_source": "https://rosenbergdiamonds.com/",
+ "tel_numbers": [
+  "+15614775444",
+  "+1.561.663.5004"
+ ],
+ "tel_source": "https://rosenbergdiamonds.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/RosenbergDiamondsCo",
+  "https://www.instagram.com/rosenbergdiamonds/",
+  "https://www.tiktok.com/@rosenbergdiamonds",
+  "https://x.com/dR_RosenbergDia"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "fancy-color",
+  "large-stones",
+  "direct-sourcing",
+  "natural",
+  "by-appointment"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Site: \"South Florida's premier private source for rare natural fancy color diamonds... Founded by David Rosenberg with direct sourcing from South Africa, Botswana, Angola, and Antwerp\"; GIA-certified stones 5-50ct+, by appointment.",
+ "verified": true
 }

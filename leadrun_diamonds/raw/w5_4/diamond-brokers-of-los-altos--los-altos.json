@@ -11,21 +11,33 @@
  "reviews": "43",
  "source_url": "https://www.yellowpages.com/los-altos-ca/mip/diamond-brokers-of-los-altos-7051501",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@diamondslosaltos.com",
+ "email_source": "https://www.diamondbrokerslosaltos.com/contact-feedback/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Garo Oustayan",
+ "role": "Featured On About Page",
+ "contact_source": "https://www.diamondbrokerslosaltos.com/about-us/",
+ "tel_numbers": [
+  "(650) 941-8808"
+ ],
+ "tel_source": "https://www.diamondbrokerslosaltos.com/contact-feedback/",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "since-1976",
+  "3rd-generation",
+  "gia-certified",
+  "custom-design",
+  "manufacturer",
+  "bridal"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers"
+ "scope_reason": "About: \"family-run jewelry boutique and bespoke design house\" since 1976 that specializes \"in GIA-certified diamonds\" with \"access to a global inventory\"; master jeweler Garo Oustayan, third-generation, manufactures the \"Garvani\" line.",
+ "verified": true
 }

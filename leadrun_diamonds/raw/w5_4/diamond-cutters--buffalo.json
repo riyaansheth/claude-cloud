@@ -11,21 +11,34 @@
  "reviews": "42",
  "source_url": "https://www.yellowpages.com/buffalo-ny/mip/diamond-cutters-504427296",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@wnydiamonds.com",
+ "email_source": "https://wnydiamonds.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "+17168544455"
+ ],
+ "tel_source": "https://wnydiamonds.com/",
+ "socials": [
+  "https://www.facebook.com/dcofwny",
+  "https://www.instagram.com/dcofwny/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1984",
+  "cutter",
+  "manufacturer",
+  "rough-buying",
+  "loose-diamonds",
+  "gemologists"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Gold, Silver & Platinum Buyers & Dealers, Jewelers"
+ "scope_reason": "Our Story (wnydiamonds.com/our-story, JS-rendered): \"grown from a small wholesale operation into Buffalo's prominent diamond manufacturer... purchase quality diamonds rough\"; \"Skip the wholesaler! Here you can buy right from the cutter!\"; since 1984.",
+ "verified": true
 }

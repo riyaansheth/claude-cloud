@@ -18,14 +18,20 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "408-776-9444"
+ ],
+ "tel_source": "https://jewelboxofmorganhill.com/",
+ "socials": [
+  "https://www.facebook.com/JewelBoxOfMorganHill",
+  "https://www.instagram.com/jewelboxmorganhill"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Gold, Silver & Platinum Buyers & Dealers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site: Morgan Hill gift/bridal store selling Gabriel & Co designs, \"We Buy Gold | Consign & Trade Jewelry | Ear Piercing\", repairs and watch batteries - retail-only.",
+ "verified": true
 }

@@ -18,14 +18,28 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "8006359002"
+ ],
+ "tel_source": "http://ddiamondjewelry.com/contact/",
+ "socials": [
+  "https://www.facebook.com/profile.php?id=100063661534425",
+  "https://www.instagram.com/ddiamondjewelry/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer",
+  "manufacturer",
+  "loose-diamonds",
+  "certified",
+  "fancy-color",
+  "large-stones",
+  "30-years-trade"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "D Diamond Jewelry About: \"Our company is a direct diamond importer... buy merchandise directly from the cutter\" (Israel Diamond Exchange); \"a diamond importer and also a manufacturer of fine jewelry\"; \"dealing in the trade for more than 30 years\". Email on site is obfuscated.",
+ "verified": true
 }

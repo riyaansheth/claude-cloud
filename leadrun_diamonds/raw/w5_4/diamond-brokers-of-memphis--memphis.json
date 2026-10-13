@@ -18,14 +18,24 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "901.682.3426"
+ ],
+ "tel_source": "http://www.diamondbrokersofmemphis.com/contact/",
+ "socials": [
+  "https://www.facebook.com/diamondbrokers/",
+  "https://www.instagram.com/diamondbrokersofmemphis/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "bridal",
+  "broker-pricing",
+  "rolex-service"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelry Buyers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Site: \"the area's leading engagement ring store... offers all diamonds at just 10% over cost\" with \"broker pricing\" - bridal diamond specialist (also Rolex service); email on site is obfuscated.",
+ "verified": true
 }

@@ -18,14 +18,17 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(502) 296-4105"
+ ],
+ "tel_source": "https://gndexchange.jewelershowcase.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Repairing, Engraving"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "sunnyjewelers.net redirects to \"Gold & Diamond Exchange - Green Tree Mall\" (gndexchange.jewelershowcase.com): \"Elegant Fine Jewelry, Custom Jewelry Designs, and Everything Jewelry\" - mall retail store, no trade/loose-diamond offering.",
+ "verified": true
 }

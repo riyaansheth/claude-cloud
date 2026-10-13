@@ -13,19 +13,39 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_url": "https://www.linkedin.com/in/michael-indelicato-14493918/",
+ "linkedin_source": "\"Michael Indelicato\" RDI Diamonds LinkedIn",
+ "contact_person": "Michael Indelicato",
+ "role": "CEO",
+ "contact_source": "https://rdidiamonds.com/why-rdi/history",
+ "tel_numbers": [
+  "585.225.3390",
+  "800.874.8768"
+ ],
+ "tel_source": "https://rdidiamonds.com/contact-us",
+ "socials": [
+  "https://twitter.com/rdidiamonds",
+  "https://www.facebook.com/rdidiamonds",
+  "https://www.instagram.com/rdidiamonds/",
+  "https://www.pinterest.com/rdidiamonds/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA",
+  "AGS",
+  "IGI"
+ ],
+ "hooks": [
+  "since-1992",
+  "wholesale",
+  "loose-diamonds",
+  "large-stones",
+  "to-the-trade",
+  "47th-street-office"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "RDI Diamonds history: \"an international leader among wholesale diamond distributors\", \"exclusively providing quality wholesale diamonds\", 8,000+ loose diamonds .50-10ct for retailers; NYC office 50 W 47th St Ste 1907.",
+ "verified": true
 }
