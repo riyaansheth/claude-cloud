@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (domain diamondsourcesa.com redirects to an expireddomains.com listing)",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

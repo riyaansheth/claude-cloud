@@ -11,22 +11,30 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/provo-ut/mip/jewelers-bench-15543133",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "team@thejewelersbenchprovo.com",
+ "email_source": "https://nextdoor.com/pages/the-jewelers-bench-provo-ut-1/ (per WebSearch result, which attributes it to the own-site Contact Us; own sites thejewelersbenchprovo.com / provodiamonds.com reset the sandbox connection)",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Daniel H. Broadbent",
+ "role": "Owner",
+ "contact_source": "https://www.findglocal.com/US/Provo/25860555133/The-Jeweler's-Bench",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/TheJewelersBenchUT/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "since-2001",
+  "manufacturer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (read timeout)",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

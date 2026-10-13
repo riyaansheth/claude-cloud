@@ -11,22 +11,31 @@
  "reviews": "10",
  "source_url": "https://www.yellowpages.com/countryside-il/mip/marry-me-jewelry-4457233",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "email": "info@marrymejewelry.com",
+ "email_source": "https://www.facebook.com/marrymejewelry/ (per WebSearch result 'Blando's Marry Me Jewelry Countryside email contact'; own site returns 403 to the sandbox)",
+ "linkedin_url": "https://www.linkedin.com/in/gino-blando-79058a14a/",
+ "linkedin_source": "WebSearch extended: \"Gino Blando\" Marry Me Jewelry LinkedIn (result title 'Gino Blando - MARRY ME JEWELRY'; father Gino Sr. and son Gino Jr. share the name - Shaw Local Feb 2026 says Gino Jr. is taking over as 4th-generation owner)",
+ "contact_person": "Gino Blando",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/il/countryside/profile/jewelry-stores/blandos-marry-me-jewelry-0654-16002324",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/marrymejewelry/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "manufacturer",
+  "lab-grown",
+  "4th-generation"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

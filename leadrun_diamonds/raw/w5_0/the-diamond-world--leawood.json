@@ -15,9 +15,9 @@
  "email_source": "https://www.thediamondworld.com/contact.html",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "Paul",
- "role": "Owner",
- "contact_source": "https://www.thediamondworld.com/about_us.html",
+ "contact_person": "L. Paul Cluyse",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/ks/overland-park/profile/jewelry-stores/the-diamond-world-inc-0714-86110006 (Alignable spells it Paul LeCluyse)",
  "tel_numbers": [
   "913-491-1942"
  ],
@@ -29,10 +29,12 @@
  "hooks": [
   "diamond broker, appointment-only",
   "buys direct from cutters",
-  "GG appraisals on site"
+  "GG appraisals on site",
+  "since-1975"
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site About: 'We are professional diamond brokers dedicated to offering quality diamonds and precious gems ... By purchasing directly from leading cutters and manufactures we pass the savings to you', with custom design settings.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

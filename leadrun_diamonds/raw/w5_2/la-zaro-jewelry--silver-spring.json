@@ -27,16 +27,19 @@
  "suite": "",
  "trade_memberships": [
   "Jewelers Board of Trade (JBT)",
-  "Better Business Bureau"
+  "Better Business Bureau",
+  "JBT"
  ],
  "hooks": [
   "diamond dealer since 1986",
   "loose diamonds",
   "custom platinum mountings",
-  "\"Cut out the middleman\""
+  "\"Cut out the middleman\"",
+  "since-1986"
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "'Lazaro Diamonds was founded by Augusto P. Lazaro diamond dealer in the Washington DC metropolitan area since 1986' and sells 'Wholesale diamonds direct to the public' with loose diamond inventory.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

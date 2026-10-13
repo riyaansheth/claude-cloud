@@ -35,5 +35,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "forevermark.com: 'Every Forevermark inscribed diamond comes with a promise that it is beautiful, rare and responsibly sourced' - a De Beers Group diamond brand (corporate; no US-office contacts on the site).",
- "verified": true
+ "verified": true,
+ "enriched": true
 }
