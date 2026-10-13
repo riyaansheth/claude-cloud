@@ -11,21 +11,24 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/north-kingstown-ri/mip/gold-lady-jewelers-7850687",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "goldladyjewelers@aol.com",
+ "email_source": "https://www.goldladyjewelers.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(401) 294-4695"
+ ],
+ "tel_source": "https://www.goldladyjewelers.com/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site: Wickford Village retail jeweler 'since 1980' selling diamonds, gold, pearls, sterling and watches with repair/appraisal and 'We buy gold!' banner; no wholesale or loose-diamond trade.",
+ "verified": true
 }

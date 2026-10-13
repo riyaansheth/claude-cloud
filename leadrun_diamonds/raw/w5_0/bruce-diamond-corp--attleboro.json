@@ -11,21 +11,24 @@
  "reviews": "71",
  "source_url": "https://www.yellowpages.com/attleboro-ma/mip/bruce-diamond-corp-464912553",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@brucediamond.com",
+ "email_source": "https://www.brucediamond.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(800) 346-8802"
+ ],
+ "tel_source": "https://www.brucediamond.com/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Own site: 'Precision Manufacturing, CNC Machining, Brazing Services and Custom Tools' - industrial single-point diamond tools, super-abrasives and injection molding, not gem-diamond trade.",
+ "verified": true
 }

@@ -11,21 +11,24 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/auburndale-ma/mip/milano-jewelry-479818924",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@milano-jewelry.com",
+ "email_source": "https://www.milano-jewelry.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "617-447-1916"
+ ],
+ "tel_source": "https://www.milano-jewelry.com/contact-us/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Jewelers, Jewelry Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Own site leads with 'CASH FOR GOLD' and a 'Mail-In Gold Buying Service'; otherwise a family retail jeweler since 2015 in Newton MA.",
+ "verified": true
 }

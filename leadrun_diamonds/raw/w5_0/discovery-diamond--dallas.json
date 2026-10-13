@@ -11,21 +11,26 @@
  "reviews": "16",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/discovery-diamond-457910754",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "jeff@discoverydiamond.com",
+ "email_source": "https://discoverydiamond.com/contact/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Jeff",
+ "role": "Owner",
+ "contact_source": "https://discoverydiamond.com/history/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "North Dallas since 1995",
+  "GIA certified owner",
+  "appointment-only wholesale office"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "scope_reason": "Own site: 'Texas' Private Wholesale Diamond Dealer ... 30+ years sourcing the finest diamonds'; 'concierge service at our wholesale diamond office' with a Dealer Login.",
+ "verified": true
 }

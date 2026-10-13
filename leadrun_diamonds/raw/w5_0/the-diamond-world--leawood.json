@@ -11,21 +11,28 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/leawood-ks/mip/the-diamond-world-8487517",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "paul@thediamondworld.com",
+ "email_source": "https://www.thediamondworld.com/contact.html",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Paul",
+ "role": "Owner",
+ "contact_source": "https://www.thediamondworld.com/about_us.html",
+ "tel_numbers": [
+  "913-491-1942"
+ ],
+ "tel_source": "https://www.thediamondworld.com/contact.html",
  "socials": [],
  "building": "",
- "suite": "Ste 260",
+ "suite": "Suite 260",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "diamond broker, appointment-only",
+  "buys direct from cutters",
+  "GG appraisals on site"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Gold, Silver & Platinum Buyers & Dealers"
+ "scope_reason": "Own site About: 'We are professional diamond brokers dedicated to offering quality diamonds and precious gems ... By purchasing directly from leading cutters and manufactures we pass the savings to you', with custom design settings.",
+ "verified": true
 }

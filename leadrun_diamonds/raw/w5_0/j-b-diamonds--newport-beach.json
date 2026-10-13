@@ -11,21 +11,29 @@
  "reviews": "43",
  "source_url": "https://www.yellowpages.com/newport-beach-ca/mip/j-b-diamonds-1505003",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "jbdiamonds11@gmail.com",
+ "email_source": "https://jbdiamonds.com/pages/contact",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Roy Barba",
+ "role": "Owner",
+ "contact_source": "https://business.newportbeach.com/directory/Details/jb-diamonds-fine-jewelry-inc-2118823",
+ "tel_numbers": [
+  "(949) 644-7366"
+ ],
+ "tel_source": "https://jbdiamonds.com/pages/contact",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Suite 155",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since 1983",
+  "family-owned manufacturer & wholesaler",
+  "in-house casting, 5 3D printers",
+  "loose diamonds .01-50ct direct from cutters"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Buyers"
+ "scope_reason": "Own site: 'a fine jewelry manufacturer and wholesaler ... since 1983 ... we do all our work in-house and buy our loose diamonds directly from the cutters' with in-house CAD, casting and setting.",
+ "verified": true
 }

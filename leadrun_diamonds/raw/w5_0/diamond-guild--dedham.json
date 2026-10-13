@@ -11,21 +11,30 @@
  "reviews": "22",
  "source_url": "https://www.yellowpages.com/dedham-ma/mip/diamond-guild-7286906",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@thediamondguild.com",
+ "email_source": "https://thediamondguild.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Louis Karten",
+ "role": "Owner",
+ "contact_source": "https://thediamondguild.com/about-us/",
+ "tel_numbers": [
+  "(781) 326-8600",
+  "(781) 326-8603"
+ ],
+ "tel_source": "https://thediamondguild.com/contact-us/",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Suite 8AA",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "Karten family jewelers since 1945",
+  "3rd generation",
+  "manufactures own line",
+  "now in Norwood MA, appointment-only"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Gold, Silver & Platinum Buyers & Dealers, Jewelers"
+ "scope_reason": "Own site About: 'Since 1945 the Karten's have been designing and manufacturing the finest quality jewelry ... Louis also manufactures his own line of fabulous jewelry'; appointment-only custom engagement rings with in-showroom diamond selection.",
+ "verified": true
 }

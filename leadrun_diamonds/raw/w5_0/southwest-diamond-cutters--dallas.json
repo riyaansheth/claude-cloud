@@ -11,21 +11,32 @@
  "reviews": "33",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/southwest-diamond-cutters-531799596",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@southwestdiamondcutters.com",
+ "email_source": "https://southwestdiamondcutters.com/contact/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Ashley van Creveld",
+ "role": "President",
+ "contact_source": "https://southernjewelrynews.com/press-release/bench-repair-press-release/meet-ashley-van-creveld-president-southwest-diamond-cutters/",
+ "tel_numbers": [
+  "972-387-1078"
+ ],
+ "tel_source": "https://southwestdiamondcutters.com/contact/",
+ "socials": [
+  "https://twitter.com/SWDCDallas",
+  "https://www.facebook.com/SouthwestDiamondCutters"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "contract cutting/recutting for the trade",
+  "Sarine & OGI machines",
+  "melee repair, rough cutting",
+  "founded 1993 (per trade press)"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "Own site: 'a Diamond Cutting company based in Dallas, TX, that offers contract cutting services for Natural and Lab Grown Diamonds to manufacturers, Diamond Dealers and Jewelers around the world'.",
+ "verified": true
 }
