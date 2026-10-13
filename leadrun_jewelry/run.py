@@ -84,7 +84,7 @@ def stage(name, n=0, limit=None):
         return socials.run(limit=limit)
     if name == "linkedin":
         from pipeline import linkedin
-        return linkedin.run(limit=limit)
+        return linkedin.run_browser(limit=limit)
     if name == "agents-export":
         from pipeline import agent_queue
         return agent_queue.export()

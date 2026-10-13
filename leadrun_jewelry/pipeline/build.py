@@ -61,7 +61,9 @@ def _load(con):
     from .util import plausible_name
     for r in con.execute("SELECT * FROM people ORDER BY bkey, name"):
         # Names stored by an older crawl are re-checked with the current rule.
-        if r["method"] == "site-regex" and not plausible_name(r["name"], need_given=True):
+        # Names are re-checked with the current rule (agent answers were already
+        # verified against the page text on import).
+        if r["method"] != "agent-about" and not plausible_name(r["name"], need_given=True):
             continue
         people[r["bkey"]].append(dict(r))
     linked = defaultdict(list)
