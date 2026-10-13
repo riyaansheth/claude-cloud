@@ -18,14 +18,23 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "3138864600",
+  "8009872433"
+ ],
+ "tel_source": "https://www.ahee.com/",
+ "socials": [
+  "https://www.facebook.com/AheeJewelers",
+  "https://www.instagram.com/aheejewelers"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Watches, Jewelers"
+ "hooks": [
+  "since-1947"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Retail jeweler: site sells finished designer collections (David Yurman, Roberto Coin), Patek Philippe/Tag Heuer watches and engagement rings; \"Celebrating Life's Special Moments Since 1947\" \u2014 no wholesale/loose-diamond trade line.",
+ "verified": true
 }

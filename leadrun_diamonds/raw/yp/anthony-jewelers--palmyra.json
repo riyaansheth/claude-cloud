@@ -15,17 +15,32 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Nick",
+ "role": "Manager (store operations)",
+ "contact_source": "https://www.anthonyjewelers.com/pages/ourstore",
+ "tel_numbers": [
+  "(856) 829-2206"
+ ],
+ "tel_source": "https://www.anthonyjewelers.com/pages/ourstore",
+ "socials": [
+  "https://www.facebook.com/anthonyjewelerspalmyra",
+  "https://www.instagram.com/anthonyjewelerspalmyra"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "IJO"
+ ],
+ "hooks": [
+  "since-1953",
+  "3rd-generation",
+  "loose-diamonds",
+  "custom-design",
+  "antwerp-sourcing",
+  "gia-ags-trained"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Watches, Jewelers"
+ "scope_reason": "Site: 3rd-generation family jeweler since 1953 \"specializing in Engagement Rings, Loose Diamonds, Custom Design\"; made buying trips to Antwerp and \"established our important relationships with some of the world's leading diamontaires\" (bridal specialist sourcing its own stones; also does repairs).",
+ "verified": true
 }

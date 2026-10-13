@@ -18,14 +18,28 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+1 (206) 903-0533",
+  "+1 (604) 669-9562",
+  "+1 (877) 669-9562",
+  "+852 23509985"
+ ],
+ "tel_source": "https://www.hragroup.com/contact-us/,https://www.hragroup.com/about-us",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "Responsible Jewellery Council"
+ ],
+ "hooks": [
+  "40+ years",
+  "rough trading and manufacturing",
+  "polished diamond wholesale",
+  "Canadian HQ Vancouver",
+  "carbon neutral manufacturer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "HRA Group (Vancouver HQ, US office Seattle +1 206 903-0533) says it began 'in the wholesale polished diamond business' and now 'spans the entire diamond supply chain, from rough trading, rough diamond manufacturing, polished diamonds and diamond jewellery'.",
+ "verified": true
 }

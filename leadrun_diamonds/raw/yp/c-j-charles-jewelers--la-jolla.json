@@ -11,21 +11,32 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/la-jolla-ca/mip/c-j-charles-jewelers-6487342",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@charleskoll.com",
+ "email_source": "https://charleskoll.com/pages/our-team",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Malcolm Koll",
+ "role": "President",
+ "contact_source": "https://charleskoll.com/pages/our-team",
+ "tel_numbers": [
+  "+1-619-298-5655"
+ ],
+ "tel_source": "https://charleskoll.com/pages/our-team",
+ "socials": [
+  "https://www.facebook.com/CharlesKoll",
+  "https://www.instagram.com/charleskolljewelry",
+  "https://www.pinterest.com/charleskoll",
+  "https://www.tiktok.com/@charleskolljewelry"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "hooks": [
+  "58+ years",
+  "family business originated in Welkom, South Africa"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Charles Koll Jewelry Works is 'San Diego's premier custom jeweler' with designer diamond jewelry, estate pieces, repairs and appraisals - finished-jewelry retail/custom, no loose-diamond trade.",
+ "verified": true
 }

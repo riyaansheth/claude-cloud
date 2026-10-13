@@ -1,0 +1,38 @@
+{
+ "business": "Ner",
+ "category_as_listed": "Diamonds-Wholesale",
+ "phone": "(212) 827-0472",
+ "website": "https://www.nerdiamond.com",
+ "address": "10 W 46th St",
+ "city": "New York",
+ "state": "NY",
+ "market": "Great Neck, NY",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/ner-517000549",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.facebook.com/share/15heNwZmHbM/?mibextid=wwXIfr",
+  "https://www.instagram.com/ner_diamond?igsh=MTVpZDJpcWE3NW9mMg%3D%3D&utm_source=qr"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "gia-certified",
+  "supplier"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "nerdiamond.com titles itself 'Premium Certified Diamonds & Jewelry Supplier | NER Diamond' with a GIA-certified diamond search and 'Become a Vendor' page; no about text or contact numbers on site",
+ "verified": true
+}

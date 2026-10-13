@@ -11,21 +11,33 @@
  "reviews": "34",
  "source_url": "https://www.yellowpages.com/farmington-mi/mip/dash-diamonds-519325356",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@dashdiamonds.com",
+ "email_source": "http://www.dashdiamonds.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "248-757-2704"
+ ],
+ "tel_source": "http://www.dashdiamonds.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/dashdiamonds",
+  "https://www.instagram.com/dash.diamonds",
+  "https://www.youtube.com/@dashdiamondsmi"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "diamond brokers",
+  "GIA certified inventory",
+  "custom engagement rings",
+  "45 years staff experience"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers"
+ "scope_reason": "dashdiamonds.com Our Story: 'We are accomplished artists as well as experienced diamond brokers' with a 'diamond inventory of hand-picked diamonds' and GIA certified diamonds.",
+ "verified": true
 }

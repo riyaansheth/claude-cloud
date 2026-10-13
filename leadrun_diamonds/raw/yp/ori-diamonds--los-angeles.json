@@ -14,18 +14,34 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Roy Balulu\" ORI Diamonds LinkedIn",
+ "contact_person": "Roy Balulu",
+ "role": "Owner",
+ "contact_source": "https://www.ori-diamonds.com/about.html",
+ "tel_numbers": [
+  "(213) 327-0077"
+ ],
+ "tel_source": "https://www.ori-diamonds.com/contact.html",
+ "socials": [
+  "https://www.facebook.com/people/ORI-diamonds-inc/100063623591012",
+  "https://www.instagram.com/ori.diamonds"
+ ],
  "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "suite": "Suite 1395",
+ "trade_memberships": [
+  "RapNet",
+  "Polygon"
+ ],
+ "hooks": [
+  "2nd-generation",
+  "cutter",
+  "israel-ramat-gan",
+  "matched-layouts",
+  "gia-certified",
+  "40-years"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Site: family-owned diamond company from the Ramat Gan Diamond Exchange, managed by 2nd-generation diamond merchants, cutters and polishers, serving jewelers and private clients; inventory listed on RapNet (ID 68832) and Polygon (ID 99939).",
+ "verified": true
 }

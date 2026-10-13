@@ -11,21 +11,43 @@
  "reviews": "65",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/mid-la-16327101",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "losangeles@middiamonds.com",
+ "email_source": "https://www.middiamonds.com/contact-us/mid-los-angeles-llc/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "+1-213-689-4355",
+  "+1-800-689-7077"
+ ],
+ "tel_source": "https://www.middiamonds.com/contact-us/mid-los-angeles-llc/",
+ "socials": [
+  "https://twitter.com/MIDDIAMONDS",
+  "https://www.facebook.com/middiamonds",
+  "https://www.instagram.com/middiamonds",
+  "https://www.linkedin.com/company/mid-house-of-diamonds"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "RJC",
+  "RapNet",
+  "IDEX"
+ ],
+ "hooks": [
+  "50-years",
+  "manufacturer",
+  "wholesale",
+  "loose-diamonds",
+  "fancy-color",
+  "matched-pairs",
+  "natural",
+  "global-offices"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "MID Los Angeles LLC is the LA branch of MID House of Diamonds, which describes itself as \"one of the world`s largest and most respected manufacturers and distributors of polished diamonds\", supplying jewelry manufacturers and retailers wholesale; GIA certified, Rapaport listed, RJC member.",
+ "verified": true
 }

@@ -18,14 +18,20 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "646-755-3981"
+ ],
+ "tel_source": "https://selldiamondsnyc.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "hooks": [
+  "diamond-buyer",
+  "estate"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Listed domain redirects to selldiamondsnyc.com, a consumer diamond-buying office (55 W 47th St #203d) offering cash for diamond jewelry and stating \"we also buy gold silver platinum and watches\" plus coins; buy-from-public, no wholesale/trade supply.",
+ "verified": true
 }

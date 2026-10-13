@@ -15,17 +15,28 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Rajendra Verma",
+ "role": "Owner",
+ "contact_source": "https://www.gddiamond.com/about_us.asp",
+ "tel_numbers": [
+  "1-213-614-9808",
+  "1-800-573-7594"
+ ],
+ "tel_source": "https://www.gddiamond.com/contact_us.asp",
+ "socials": [
+  "https://stores.ebay.com/gddiamond-com"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-2000",
+  "loose-diamonds",
+  "gia",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Listed site is GD Diamond (608 S. Hill St, matching the YP address): owner Mr. Verma 'is specialized in loose stone diamonds' and the site sells certified loose diamonds plus diamond jewelry online since 2000; borderline (largely online retail). Site brand differs from YP listing name.",
+ "verified": true
 }

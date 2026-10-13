@@ -11,21 +11,30 @@
  "reviews": "15",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/diamonds-direct-dallas-465403595",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "infoDTX@diamondsdirect.com",
+ "email_source": "https://diamondsdirect.com/dallas-tx/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "972-342-6663",
+  "800.885.5050"
+ ],
+ "tel_source": "https://diamondsdirect.com/dallas-tx/",
+ "socials": [
+  "https://www.facebook.com/DiamondsDirectDTX",
+  "https://www.instagram.com/diamondsdirect",
+  "https://www.pinterest.com/diamondsdirect",
+  "https://www.tiktok.com/@diamondsdirect?lang=en"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Watches"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "diamondsdirect.com/dallas-tx is one location of the Diamonds Direct retail chain (Oklahoma City, Fort Worth, Frisco ...), a consumer engagement-ring/jewelry store.",
+ "verified": true
 }

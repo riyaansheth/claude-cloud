@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Diamonds"
+ "scope_reason": "unverified: listed website sehgaldiamonds.com is Sehgal Diamonds (6222 Richmond Ste 345); no evidence it is 'Lumene Diamonds', and its inner pages were unreachable",
+ "verified": false
 }

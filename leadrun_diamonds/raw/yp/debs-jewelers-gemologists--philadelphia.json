@@ -15,17 +15,25 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Jeffrey Debs",
+ "role": "Owner",
+ "contact_source": "https://jeffreydebs.com/debs-difference/",
+ "tel_numbers": [
+  "215.627.7821"
+ ],
+ "tel_source": "https://jeffreydebs.com/contact/",
+ "socials": [
+  "https://www.instagram.com/jeffreydebs"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Diamonds"
+ "hooks": [
+  "since-1956",
+  "jewelers-row"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Domain redirects to Jeffrey Debs Jeweler Gemologist (128 S. 8th St), a Jewelers Row retail jeweler since 1956 selling brand lines (Parade, Charles Garnier, Shinola) plus repairs/appraisals; says it searches \"within the wholesale marketplace\" as a buyer, not a supplier.",
+ "verified": true
 }

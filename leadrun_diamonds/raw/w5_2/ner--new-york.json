@@ -1,0 +1,39 @@
+{
+ "business": "Ner",
+ "category_as_listed": "Diamonds-Wholesale",
+ "phone": "(212) 827-0472",
+ "website": "https://www.nerdiamond.com",
+ "address": "10 W 46th St",
+ "city": "New York",
+ "state": "NY",
+ "market": "Edison, NJ",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/ner-517000549",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.facebook.com/share/15heNwZmHbM/?mibextid=wwXIfr",
+  "https://www.instagram.com/ner_diamond"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "API inventory feed for retailers' e-commerce",
+  "GIA-certified inventory",
+  "lab-grown sister brand AN Squared"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "NER Diamond bills itself as a \"Premium Certified Diamonds & Jewelry Supplier\" with GIA-certified loose-diamond search and a \"Become a Vendor\" program giving partners \"API access to our certified diamond and jewelry inventory for your own e-commerce site\".",
+ "verified": true
+}

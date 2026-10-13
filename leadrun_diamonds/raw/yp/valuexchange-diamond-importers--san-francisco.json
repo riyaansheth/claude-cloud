@@ -11,21 +11,26 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/valuexchange-diamond-importers-1876617",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "valuexchange@diamondimporters.com",
+ "email_source": "http://www.sanfranciscodiamond.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Harold Apfelbaum",
+ "role": "Founder",
+ "contact_source": "http://www.sanfranciscodiamond.com/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "Ste 305",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "diamond importer",
+  "GIA diamonds",
+  "custom design"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelry Designers"
+ "scope_reason": "Site: 'Harold Apfelbaum Founder and President of ValuExchange Diamond Importers' - 'GIA diamonds, engagement rings, and custom jewelry design specialists in the San Francisco Bay Area'.",
+ "verified": true
 }

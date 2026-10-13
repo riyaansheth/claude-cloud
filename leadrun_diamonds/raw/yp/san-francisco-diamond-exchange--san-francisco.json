@@ -11,21 +11,33 @@
  "reviews": "54",
  "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/san-francisco-diamond-exchange-517056220",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sfdiamondexchange@yahoo.com",
+ "email_source": "http://www.sfdiamondexchange.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Jessica James",
+ "role": "Owner",
+ "contact_source": "http://www.sfdiamondexchange.com/about",
+ "tel_numbers": [
+  "(415) 255-0999"
+ ],
+ "tel_source": "http://www.sfdiamondexchange.com/contact",
+ "socials": [
+  "https://www.facebook.com/sfdiamondexchange",
+  "https://www.instagram.com/sfdiamondexchange",
+  "https://www.pinterest.com/sfdiamonds/pins"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since 1972",
+  "importer & manufacturer",
+  "GIA-certified diamonds",
+  "second-generation family owned"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "sfdiamondexchange.com: 'Importers and Manufacturers of Diamonds & Fine Jewelry Since 1972', sells GIA-certified diamonds; 'established in 1972 by Jesse James. His daughter, Jessica, is now the second generation owner'.",
+ "verified": true
 }

@@ -15,17 +15,28 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Adam Lorell",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ca/san-diego/profile/diamond/the-diamond-connection-1126-10004459",
+ "tel_numbers": [
+  "(619) 296-8900",
+  "(619) 850-8864"
+ ],
+ "tel_source": "http://www.diamondconnectiononline.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/DiamondConnection",
+  "https://twitter.com/DiamondConnect_"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "GIA certified natural diamonds",
+  "lab-grown diamonds",
+  "diamond buyer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "Site says 'We Offer GIA Certified Natural Diamonds and Certified Earth Friendly Lab Grown Diamonds In All Shapes and Sizes' with Inventory, Custom Jewelry and Diamond Buyers sections - bridal/diamond specialist with loose-stone inventory.",
+ "verified": true
 }

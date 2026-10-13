@@ -11,21 +11,27 @@
  "reviews": "30",
  "source_url": "https://www.yellowpages.com/king-of-prussia-pa/mip/hearts-on-fire-483714001",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "diamondstylist@heartsonfire.com",
+ "email_source": "https://www.heartsonfire.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "1-877-737-3328"
+ ],
+ "tel_source": "https://www.heartsonfire.com/",
+ "socials": [
+  "http://instagram.com/heartsonfire",
+  "http://www.facebook.com/heartsonfire"
+ ],
  "building": "",
  "suite": "Ste 2074",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Listed site is the Hearts On Fire brand (\"Modern Diamond Jewelry\") national retail brand site; this King of Prussia listing is a brand boutique location, not an independent trade business.",
+ "verified": true
 }

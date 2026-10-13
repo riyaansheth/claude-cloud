@@ -11,21 +11,27 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/chicago-il/mip/dnr-diamonds-537074964",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "adi@mor-diamonds.com",
+ "email_source": "https://www.mor-diamonds.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Adi Golan",
+ "role": "Contact (named on contact page, title not stated)",
+ "contact_source": "https://www.mor-diamonds.com/contact",
+ "tel_numbers": [
+  "(312) 372-1475"
+ ],
+ "tel_source": "https://www.mor-diamonds.com/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale",
+  "loose-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Listing website is Mor Diamonds (same phone (312) 372-1475, 5 S. Wabash Suite 304): \"At MOR wholesale diamond dealers, we promise you more\" with an online loose-diamond inventory by shape.",
+ "verified": true
 }

@@ -11,21 +11,35 @@
  "reviews": "28",
  "source_url": "https://www.yellowpages.com/boston-ma/mip/i-ds-trading-inc-2780499",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@idstrading.com",
+ "email_source": "https://www.idstrading.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "+6177205233"
+ ],
+ "tel_source": "https://www.idstrading.com/contact",
+ "socials": [
+  "https://www.facebook.com/ids.trading",
+  "https://www.instagram.com/ids_trading"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1996",
+  "wholesale",
+  "loose-diamonds",
+  "certified-gia-hrd-igi",
+  "fancy-color",
+  "lab-grown",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Site: \"Established in 1996, IDS Trading is a leading diamond wholesaler in New England\" with in-house GIA/EGL certified stock 0.30-10ct plus natural, fancy color and lab-grown diamonds (About page text is copied from Cedar Trading Inc., so no owner recorded).",
+ "verified": true
 }

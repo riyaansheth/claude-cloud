@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "scope_reason": "unverified: site unreachable (koltjewelers.com serves only a JS ad-redirect page, no business content)",
+ "verified": false
 }

@@ -14,18 +14,33 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Howard Traxler\" Frisco Engagement Rings LinkedIn",
+ "contact_person": "Howard Traxler",
+ "role": "Owner",
+ "contact_source": "https://friscoengagementrings.com/about-us/",
+ "tel_numbers": [
+  "(972) 565-4632",
+  "(972) 207-1180"
+ ],
+ "tel_source": "https://friscoengagementrings.com/, https://friscoengagementrings.com/about-us/",
+ "socials": [
+  "https://twitter.com/FriscoRings",
+  "https://www.facebook.com/FriscoEngagement",
+  "https://www.instagram.com/frisco_engagement_rings",
+  "https://www.youtube.com/channel/UC3GVVQR9ABIHABVDyIpyB3g"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA GG"
+ ],
+ "hooks": [
+  "lab-grown",
+  "custom design",
+  "estate jewelry"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Bridal specialist run by a GIA GG owner selling 'Natural Diamonds' and 'Lab-Grown Diamonds' plus custom engagement rings ('I've spent my career studying diamonds and gemstones' - Howard Traxler, GG (GIA) and Owner).",
+ "verified": true
 }

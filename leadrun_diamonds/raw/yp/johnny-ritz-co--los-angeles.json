@@ -11,21 +11,32 @@
  "reviews": "35",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/johnny-ritz-co-453653931",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "jonny@jonnyritz.com",
+ "email_source": "https://www.jonnyritz.com/contact-us",
+ "linkedin_url": "https://www.linkedin.com/in/jonny-ritz-48206b1/",
+ "linkedin_source": "\"Jonny Ritz\" Jonny Ritz & Company LinkedIn",
+ "contact_person": "Jonny Ritz",
+ "role": "Owner / designer",
+ "contact_source": "https://www.jonnyritz.com/",
+ "tel_numbers": [
+  "2134895111"
+ ],
+ "tel_source": "https://www.jonnyritz.com/contact-us",
+ "socials": [
+  "http://instagram.com/brilliancewithjonnyritz",
+  "https://www.facebook.com/jonnyritzandco"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "custom-design",
+  "bridal",
+  "gemologist",
+  "south-african"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "Borderline: Jonny Ritz & Company, next to the LA Jewelry District, is a gemology-trained designer making custom engagement rings and fine jewelry and providing \"an array of accurately certified gems\", educating clients on rough-to-cut diamond value (bridal specialist).",
+ "verified": true
 }

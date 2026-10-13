@@ -11,21 +11,42 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/norcross-ga/mip/star-gems-inc-464580203",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "sales@stargems.com",
+ "email_source": "https://stargems.com/contact-us.aspx",
+ "linkedin_url": "https://www.linkedin.com/in/anish-desai-3331587/",
+ "linkedin_source": "\"Anish Desai\" Star Gems LinkedIn",
+ "contact_person": "Anish Desai",
+ "role": "President",
+ "contact_source": "https://www.americangemsociety.org/guild_speakers/anish-desai/",
+ "tel_numbers": [
+  "(770) 394-6727"
+ ],
+ "tel_source": "https://stargems.com/contact-us.aspx",
+ "socials": [
+  "https://www.facebook.com/stargemscustomdesign",
+  "https://www.instagram.com/stargemsjewelry",
+  "https://www.pinterest.com/stargemsinc",
+  "https://www.youtube.com/channel/UC7YdB2ssnAT9NNgxYiKvjZg"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "AGS",
+  "AGTA",
+  "Jewelers of America",
+  "RJO",
+  "Continental Buying Group",
+  "Polygon"
+ ],
+ "hooks": [
+  "B2B manufacturer for independent jewelers",
+  "no minimum orders",
+  "loose diamonds",
+  "39+ years",
+  "GemArt AI / TextMeChat tools"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "stargems.com: 'a full-service B2B jewelry manufacturing partner helping independent jewelers' (CAD, casting, stone setting) with a 'Wholesale Loose Diamonds' section; '39+ Years'.",
+ "verified": true
 }

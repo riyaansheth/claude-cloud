@@ -11,21 +11,32 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/omd-502876539",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@om-diamonds.com",
+ "email_source": "https://www.om-diamonds.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(312) 558-9060"
+ ],
+ "tel_source": "https://www.om-diamonds.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/OMDiamonds",
+  "https://www.instagram.com/omddiamonds",
+  "https://www.linkedin.com/company/ofer-mizrahi-diamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "natural & lab-grown",
+  "diamond buyer",
+  "trade partner program"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "om-diamonds.com (Ofer Mizrahi Diamonds): 'Your Premier Diamond Partner ... Natural Diamonds, Finished Jewelry, Lab-Grown Diamonds, We Buy Diamonds' with a browsable loose inventory; contact page lists a Chicago number.",
+ "verified": true
 }

@@ -15,17 +15,31 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Steve Padis",
+ "role": "Founder",
+ "contact_source": "https://www.padisgems.com/pages/about-padis-jewelers-in-san-francisco",
+ "tel_numbers": [
+  "(415) 689-3065",
+  "(415) 626-8288"
+ ],
+ "tel_source": "https://www.padisgems.com/,https://www.padisgems.com/pages/contact",
+ "socials": [
+  "https://twitter.com/padisjewelry",
+  "https://www.facebook.com/StevePadisJewelry",
+  "https://www.instagram.com/padisjewelry",
+  "https://www.pinterest.com/PadisJewelry"
+ ],
  "building": "",
  "suite": "Ste 128",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "family-owned ~50 years",
+  "loose natural and lab-grown diamonds",
+  "Tacori Blue Diamond partner",
+  "diamond buy-back program"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Family-owned SF/Napa jeweler with 'Loose Diamonds', 'Lab Grown Diamonds' and engagement-ring 'Mounting Only' sections plus custom design; borderline - mostly designer bridal retail (Tacori, Verragio, De Beers Forevermark).",
+ "verified": true
 }

@@ -11,21 +11,32 @@
  "reviews": "32",
  "source_url": "https://www.yellowpages.com/bellaire-tx/mip/jewelry-appraisal-services-21845280",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "steve@jewelryappraisalservices.com",
+ "email_source": "http://www.jewelryappraisalservices.com/helpful-jewelry-information-about-diamonds-4cs.html",
+ "linkedin_url": "https://www.linkedin.com/in/steven-silver-77906179",
+ "linkedin_source": "linked from own site http://www.jewelryappraisalservices.com/",
+ "contact_person": "Steven M. Silver",
+ "role": "President",
+ "contact_source": "http://www.jewelryappraisalservices.com/",
+ "tel_numbers": [
+  "+1-713-622-9070"
+ ],
+ "tel_source": "http://www.jewelryappraisalservices.com/",
+ "socials": [
+  "https://www.facebook.com/jewelryappraisalservices"
+ ],
  "building": "",
  "suite": "Ste 860",
- "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Appraisers, Jewelers"
+ "trade_memberships": [
+  "GIA (Graduate Gemologist)",
+  "BBB A+"
+ ],
+ "hooks": [
+  "40+ years",
+  "mail-in appraisals"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "appraiser-lab",
+ "scope_reason": "Site: 'We are an independent jewelry appraiser' - 'Independent Appraisers of Gems, Jewelry & Watches', with repair and consumer brokering services; no diamond inventory.",
+ "verified": true
 }

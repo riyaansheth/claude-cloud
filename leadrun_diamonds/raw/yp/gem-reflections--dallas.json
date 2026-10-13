@@ -18,14 +18,25 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "214-663-5829",
+  "972-679-5720"
+ ],
+ "tel_source": "http://www.gemreflectionsdallas.com/",
+ "socials": [
+  "http://www.facebook.com/gemreflectionsdallas"
+ ],
  "building": "",
  "suite": "Ste mmons",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "Dallas World Trade Center",
+  "sells to stores",
+  "diamond/estate buyer",
+  "25+ years"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "scope_reason": "Family-owned jeweler that 'first opened over 25 years ago in The World Trade Center... the most complete wholesale merchandise resource' and offers gems and fine jewelry 'to stores as well as private clientele', also buying diamonds, estate and gold.",
+ "verified": true
 }

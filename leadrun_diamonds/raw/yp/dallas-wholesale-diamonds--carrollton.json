@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: site unreachable as own site (listed URL is a Shira Diamonds product page; Shira is at 1st Galleria Tower with a different phone, no tie to Dallas Wholesale Diamonds / 1220 Indian Run Dr found)",
+ "verified": false
 }

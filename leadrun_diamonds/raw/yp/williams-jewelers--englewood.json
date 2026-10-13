@@ -11,21 +11,30 @@
  "reviews": "69",
  "source_url": "https://www.yellowpages.com/englewood-co/mip/williams-jewelers-19664767",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "ccn@williamsjewelers.net",
+ "email_source": "https://williamsjewelers.net/pages/about-cherry-creek",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "+1-303-355-4322"
+ ],
+ "tel_source": "https://williamsjewelers.net/pages/about-cherry-creek",
+ "socials": [
+  "https://www.facebook.com/WilliamsJewelersCherryCreek",
+  "https://www.instagram.com/williamsjewelersdenver",
+  "https://twitter.com/wjcherrycreek"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Watches"
+ "hooks": [
+  "since 1973"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Retail store: 'Fine Diamonds, Designer and Custom Jewelry, Swiss Timepieces at Williams Jewelers in Cherry Creek North' selling designer brands (A.Jaffe, Tacori, Gabriel & Co.); site shows only the 2825 E Third Ave Denver store.",
+ "verified": true
 }

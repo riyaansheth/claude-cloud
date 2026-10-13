@@ -11,21 +11,39 @@
  "reviews": "23",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/shapiro-diamonds-dallas-engagement-rings-480753364",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "lance@shapirodiamonds.com",
+ "email_source": "https://shapirodiamonds.com/pages/our-team",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Lance Shapiro",
+ "role": "Founder",
+ "contact_source": "https://shapirodiamonds.com/pages/our-team",
+ "tel_numbers": [
+  "+1-972-239-2122",
+  "+1-214-793-7366"
+ ],
+ "tel_source": "https://shapirodiamonds.com/pages/contact-us",
+ "socials": [
+  "https://www.facebook.com/shapirodiamonds",
+  "https://www.instagram.com/shapirodiamonds",
+  "https://www.pinterest.com/shapirodiamonds",
+  "https://www.youtube.com/@Shapirodiamonds",
+  "https://x.com/ShapiroDiamonds",
+  "https://www.linkedin.com/company/shapiro-diamonds"
+ ],
  "building": "",
  "suite": "Ste 180",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "founded in Dallas 1986",
+  "sources from South Africa, Belgium, Israel, India",
+  "GIA-certified loose diamonds",
+  "lab-grown",
+  "in-house CAD/casting atelier",
+  "co-owner/designer Kendra Shapiro kendra@shapirodiamonds.com"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Watches"
+ "scope_reason": "Site: 'a premier wholesale diamond dealer in Dallas' that 'sources directly from diamond cutters and manufacturers' in Belgium, Israel and India, selling GIA-certified loose diamonds plus custom engagement rings.",
+ "verified": true
 }

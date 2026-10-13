@@ -11,21 +11,37 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/chicago-il/mip/diamantra-inc-497062586",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "chicago@diamantra.com",
+ "email_source": "https://diamantra.com/Home/ContactUs",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "+1 312 854 3900",
+  "+1 312 854 3999",
+  "+1 512 535 5333",
+  "+1 512 535 5999"
+ ],
+ "tel_source": "https://diamantra.com/Home/ContactUs",
+ "socials": [
+  "https://www.instagram.com/dia.mantra/",
+  "https://www.instagram.com/world.shiner/"
+ ],
  "building": "",
  "suite": "Ste 1721",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale",
+  "melee",
+  "loose-diamonds",
+  "memo",
+  "3rd-generation",
+  "global"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site: \"World Shiner Diamantra is a leading diamond and jewellery wholesaler serving over 10,000 customers globally\"; stocks melee from 0.003ct and certified/non-certified 0.30-2.00ct goods, available on memo, no middlemen; three-generation legacy.",
+ "verified": true
 }

@@ -11,21 +11,38 @@
  "reviews": "27",
  "source_url": "https://www.yellowpages.com/houston-tx/mip/activ-gem-inc-5582431",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "mail@agidiamonds.com",
+ "email_source": "https://www.agidiamonds.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(888) 830-6750",
+  "713-552-0014"
+ ],
+ "tel_source": "https://www.agidiamonds.com/",
+ "socials": [
+  "https://www.facebook.com/activgem",
+  "https://www.linkedin.com/company/activ-gem-inc."
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA",
+  "AGS"
+ ],
+ "hooks": [
+  "since 1999",
+  "manufacturer & wholesaler",
+  "memo terms",
+  "ideal-cut 0.50-5.00ct",
+  "Foreverstar settings",
+  "same address as Rice Village Diamonds (2376 Rice Blvd)"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Site: 'DIAMOND MANUFACTURERS AND WHOLESALERS SINCE 1999' with 1000+ GIA & AGS certified loose diamonds and 'Extended Memo Terms Subject To Credit Check' for retailers.",
+ "verified": true
 }

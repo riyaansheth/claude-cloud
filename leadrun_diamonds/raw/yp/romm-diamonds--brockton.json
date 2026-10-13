@@ -15,17 +15,27 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "George Hannoush",
+ "role": "Owner",
+ "contact_source": "https://www.rommdiamonds.com/about",
+ "tel_numbers": [
+  "(508) 587-2533"
+ ],
+ "tel_source": "https://www.rommdiamonds.com/, https://www.rommdiamonds.com/contact",
+ "socials": [
+  "https://facebook.com/rommdiamondsbrockton",
+  "https://instagram.com/rommdiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Diamond Buyers"
+ "hooks": [
+  "since-1900",
+  "family-owned",
+  "new-ownership"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Full-service family jeweler (since 1900) selling finished bridal/fashion lines (Gabriel & Co, ArtCarved, Stuller) plus repair and gold buying; loose diamonds offered only via an online search feed, no wholesale/trade activity stated.",
+ "verified": true
 }

@@ -25,7 +25,8 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Shopify store selling fashion/costume items (earrings, bracelets, frames, key chains, hair accessories, sample sales); no diamond line.",
+ "verified": true
 }

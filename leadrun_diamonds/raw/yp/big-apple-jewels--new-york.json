@@ -11,21 +11,34 @@
  "reviews": "26",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/big-apple-jewels-16654919",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@bigapplejewels.com",
+ "email_source": "https://bigapplejewels.com/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/zak-nissanov-44a4619a/",
+ "linkedin_source": "\"Zak Nissanov\" Big Apple Jewels LinkedIn",
+ "contact_person": "Zak Nissanov",
+ "role": "Principal (runs family business per About page)",
+ "contact_source": "https://bigapplejewels.com/pages/about-big-apple-jewels",
+ "tel_numbers": [
+  "(212) 938-1038",
+  "1.888.838.3022"
+ ],
+ "tel_source": "https://bigapplejewels.com/pages/contact",
+ "socials": [
+  "https://www.instagram.com/bigapplejewels",
+  "https://www.instagram.com/zak.nissan"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1980",
+  "3rd-generation",
+  "lab-grown",
+  "natural",
+  "custom-design"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Diamond District (37 W 47th St Suite 600) third-generation family diamond business 'since 1980', 'known for its exceptional selection of diamonds and custom designs' in natural and lab-grown (borderline: largely finished-jewelry e-shop).",
+ "verified": true
 }

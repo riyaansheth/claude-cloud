@@ -11,21 +11,32 @@
  "reviews": "15",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/vora-gems-467626690",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "voragemsinc@gmail.com",
+ "email_source": "https://www.voragems.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Prakash Vora",
+ "role": "Co-founder (with Mala Vora)",
+ "contact_source": "https://www.voragems.com/about-us",
+ "tel_numbers": [
+  "(213) 623-7390",
+  "(800) 867-2515"
+ ],
+ "tel_source": "https://www.voragems.com/contact-us",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1980",
+  "family-owned",
+  "trade-supplier",
+  "colored-gems",
+  "diamond-recutting",
+  "stone-matching"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Family-owned gem supplier founded 1980 that sources/matches stones 'for jewelers around the USA'; primarily colored gems, but offers diamond recutting, polishing, grooving and diamond matching for the trade (borderline: colored-gem focus).",
+ "verified": true
 }

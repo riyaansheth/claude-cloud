@@ -11,21 +11,34 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/derco-fine-jewelers-12523347",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@dercodiamonds.com",
+ "email_source": "https://www.dercodiamonds.com/contact-us",
+ "linkedin_url": "https://www.linkedin.com/in/ohan-derabrahamian-5666b745/",
+ "linkedin_source": "\"Jack Der Abrahamian\" OR \"Ohan Der Abrahamian\" Derco LinkedIn",
+ "contact_person": "Ohan Der Abrahamian",
+ "role": "Owner",
+ "contact_source": "https://www.dercodiamonds.com/about-us",
+ "tel_numbers": [
+  "(415) 626-7442"
+ ],
+ "tel_source": "https://www.dercodiamonds.com/,https://www.dercodiamonds.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/DercoFineJewelers",
+  "https://www.facebook.com/dercodiamonds",
+  "https://www.instagram.com/dercodiamonds"
+ ],
  "building": "",
  "suite": "Ste 137",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since 1939",
+  "family-owned, brothers Jack and Ohan Der Abrahamian",
+  "in-house manufacturing",
+  "GIA-graded loose diamonds",
+  "lab-grown"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "About page: 'Established in 1939... Diamonds have been our business for generations', broad diamond selection 'sourced from many reputable vendors across the world' via 'international agents', and 'products... made in house at our manufacturing department'; Start-with-a-Diamond loose-stone shop at 888 Brannan.",
+ "verified": true
 }

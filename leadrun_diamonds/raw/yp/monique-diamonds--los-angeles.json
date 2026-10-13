@@ -11,21 +11,26 @@
  "reviews": "28",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/monique-diamonds-467577750",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@jewelsbynicole.com",
+ "email_source": "https://jewelsbynicole.com/pages/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "1-213-622-0587"
+ ],
+ "tel_source": "https://jewelsbynicole.com/pages/contact",
+ "socials": [
+  "https://www.instagram.com/jewelsbynicole"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Listing website is Jewels By Nicole (same phone 1-213-622-0587): \"Established in 1980, Jewels by Nicole is a leading jewelry designer in Downtown Los Angeles\" selling finished rings, studs and tennis jewelry (mostly lab) online at retail; no wholesale or loose-diamond trade shown.",
+ "verified": true
 }

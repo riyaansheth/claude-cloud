@@ -11,21 +11,37 @@
  "reviews": "106",
  "source_url": "https://www.yellowpages.com/boston-ma/mip/estate-buying-group-harry-h-solomon-co-inc-2095764",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "hhsebg2015@gmail.com",
+ "email_source": "https://www.diamondjewelrybuyerboston.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(617) 542-1868",
+  "6177843297"
+ ],
+ "tel_source": "https://www.diamondjewelrybuyerboston.com/",
+ "socials": [
+  "https://www.facebook.com/Harrysolomonco"
+ ],
  "building": "",
  "suite": "Ste 502",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "Jewelers Board of Trade",
+  "RapNet",
+  "BBB"
+ ],
+ "hooks": [
+  "since-1920",
+  "family-owned",
+  "estate",
+  "broker",
+  "diamond-buyer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamond Buyers"
+ "scope_reason": "Site describes Harry H. Solomon Co. Estate Buying Group as \"one of New England's premier buyers and brokers for diamonds and estate jewelry\", family owned since 1920, members of Jewelers Board of Trade and RapNet.",
+ "verified": true
 }

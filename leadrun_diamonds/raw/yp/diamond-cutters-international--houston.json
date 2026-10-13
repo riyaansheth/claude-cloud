@@ -13,19 +13,35 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_url": "https://www.linkedin.com/in/fredcuellar",
+ "linkedin_source": "\"Fred Cuellar\" Diamond Cutters International LinkedIn",
+ "contact_person": "Fred Cuellar",
+ "role": "CEO & Founder",
+ "contact_source": "https://www.diamondcuttersintl.com/fred-cuellar/about-fred",
+ "tel_numbers": [
+  "1-800-275-4047",
+  "713-222-2728"
+ ],
+ "tel_source": "https://www.diamondcuttersintl.com/contact",
+ "socials": [
+  "https://www.facebook.com/diamond.cutters.international",
+  "https://www.instagram.com/diamondcuttersintl/",
+  "https://www.linkedin.com/company/diamond-cutters-international",
+  "https://www.tiktok.com/@diamondcuttersintl"
+ ],
  "building": "",
  "suite": "Ste 960",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "diamond cutting house",
+  "buys rough from mines",
+  "35+ years",
+  "offices in Israel, Belgium & New York",
+  "championship rings",
+  "'The Diamond Guy' author"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Appraisers"
+ "scope_reason": "Site: 'one of America's few diamond-cutting houses open to the public'; 'We buy rough diamonds directly from mines and can even custom-cut to order' and houses 'one of the largest loose diamond inventories in the Southwestern United States'.",
+ "verified": true
 }

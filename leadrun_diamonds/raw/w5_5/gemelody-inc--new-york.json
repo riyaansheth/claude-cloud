@@ -1,0 +1,46 @@
+{
+ "business": "Gemelody, Inc",
+ "category_as_listed": "Diamonds-Wholesale",
+ "phone": "(212) 730-7373",
+ "website": "http://www.gemelody.com/contact.php",
+ "address": "580 5th Ave",
+ "city": "New York",
+ "state": "NY",
+ "market": "White Plains, NY",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/gemelody-inc-469477693",
+ "lead_origin": "YellowPages",
+ "email": "mail@gemelody.com",
+ "email_source": "http://www.gemelody.com/contact.php",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "(800)333-9925",
+  "(212)730-7373"
+ ],
+ "tel_source": "http://www.gemelody.com/contact.php",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "RJC",
+  "World Diamond Council"
+ ],
+ "hooks": [
+  "since-1980",
+  "family-owned",
+  "manufacturer",
+  "wholesaler",
+  "fancy-color",
+  "natural",
+  "580-fifth-ave"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "gemelody.com: 'Gemelody is a manufacturer and wholesaler of natural fancy color diamonds and fine jewelry' at 580 Fifth Ave Suite 531, 'Family-Owned & Operated Since 1980'.",
+ "verified": true
+}

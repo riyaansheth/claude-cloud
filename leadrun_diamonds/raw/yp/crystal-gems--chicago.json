@@ -15,17 +15,28 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Nimish and Jigna (surnames not shown)",
+ "role": "Sibling principals",
+ "contact_source": "https://crystalgemsinc.com/about/",
+ "tel_numbers": [
+  "(312) 368-1850"
+ ],
+ "tel_source": "https://crystalgemsinc.com/, https://crystalgemsinc.com/about/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale",
+  "jewelers-row",
+  "lab-grown",
+  "natural",
+  "custom-design",
+  "by-appointment",
+  "30-years"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "About page: siblings Nimish and Jigna on Chicago Jewelers Row with 30+ years in the trade; \"As wholesalers they travel around the world to hand select beautifully cut diamonds\" (GIA and lab-grown, by appointment only).",
+ "verified": true
 }

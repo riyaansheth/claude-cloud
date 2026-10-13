@@ -18,14 +18,26 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(877)-855-2663"
+ ],
+ "tel_source": "https://www.unclaimeddiamonds.com/",
+ "socials": [
+  "https://twitter.com/UnclaimdDiamond",
+  "https://www.facebook.com/Unclaimeddiamonds",
+  "https://www.instagram.com/unclaimed_diamonds",
+  "https://www.pinterest.com/unclmddiamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Repairing, Jewelers"
+ "hooks": [
+  "retail",
+  "lease-to-own",
+  "lab-grown"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site is a consumer jewelry e-shop selling finished engagement rings, wedding bands and fashion jewelry (incl. lab-grown) with \"No Credit Needed\" lease-to-own financing via Prog Leasing; no wholesale, loose-stone or trade offering shown.",
+ "verified": true
 }

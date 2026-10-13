@@ -11,21 +11,35 @@
  "reviews": "12",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/aura-diamonds-504351201",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@aura.diamonds",
+ "email_source": "https://www.aura.diamonds/company-info",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(214) 389-2323"
+ ],
+ "tel_source": "https://www.aura.diamonds/wholesale-diamonds-dallas",
+ "socials": [
+  "https://www.facebook.com/auradiamonds",
+  "https://www.instagram.com/auradiamonds",
+  "https://www.pinterest.com/auradiamonds",
+  "https://www.youtube.com/channel/UCKvyfffU3MCOUOKRNGjH3qw",
+  "https://x.com/AuraDiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "sources own loose diamonds",
+  "wholesale pricing",
+  "family owned",
+  "29+ years combined experience"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Designers, Diamonds"
+ "scope_reason": "aura.diamonds: 'Aura Diamonds is a wholesale diamond dealer. Unlike other jewelry shops who house a very limited inventory of diamonds we source our own diamonds'; family-owned, 'Work with the Owners'.",
+ "verified": true
 }

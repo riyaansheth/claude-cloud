@@ -11,21 +11,32 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/las-vegas-nv/mip/trigon-diamonds-537513322",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "barak@trigondiamond.com",
+ "email_source": "https://www.trigondiamond.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
+ "contact_person": "Barak",
  "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_source": "https://www.trigondiamond.com/contact (email barak@; surname not given)",
+ "tel_numbers": [
+  "+1-702-781-8220",
+  "+1-702-994-7967"
+ ],
+ "tel_source": "https://www.trigondiamond.com/contact",
+ "socials": [
+  "http://instagram.com/trigondiamonds",
+  "https://twitter.com/TrigonDiamonds",
+  "https://www.facebook.com/TrigonDiamond",
+  "https://www.pinterest.com/trigondiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Watches, Jewelers"
+ "hooks": [
+  "second location Luxury Jewels Direct, 10801 W Charleston Blvd Ste 275"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site presents a 'Jewelry Store | Las Vegas' selling engagement rings, fashion jewelry, Rolex watches and repair; a loose-diamonds menu exists but no wholesale/trade or own-sourcing claims.",
+ "verified": true
 }

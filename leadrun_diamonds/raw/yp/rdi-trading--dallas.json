@@ -11,21 +11,38 @@
  "reviews": "39",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/rdi-trading-459557665",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "email": "dimitri@rditrading.com",
+ "email_source": "https://rditrading.com/contact/",
+ "linkedin_url": "https://www.linkedin.com/in/dimitri-milman-26340a17/",
+ "linkedin_source": "\"Dimitri Milman\" RDI Trading LinkedIn",
+ "contact_person": "Dimitri Milman",
+ "role": "Partner",
+ "contact_source": "https://rditrading.com/contact/ (name+email); role Partner/Owner per D&B directory in WebSearch result",
+ "tel_numbers": [
+  "+1-215-627-6588",
+  "+1-888-734-3426",
+  "+1-800-345-4231"
+ ],
+ "tel_source": "https://rditrading.com/contact/,https://rditrading.com/",
  "socials": [],
  "building": "",
  "suite": "Ste 525",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "Diamond Dealers Club of New York",
+  "Israel Diamond Exchange",
+  "Jewelers Board of Trade",
+  "Polygon"
+ ],
+ "hooks": [
+  "full memo house",
+  "cutter/manufacturer",
+  "lab-grown laser inscribed IGI/GIA",
+  "inventory integration feed for retailers",
+  "sister co. Earstuds USA",
+  "other contacts: Nella Scafidi nella@rditrading.com, phila@rditrading.com"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "scope_reason": "RDI Trading's mission is 'to expertly cut, manufacture, and supply exceptional diamonds' to retailers; a 'full memo house' with GIA/HRD/IGI/EGL loose diamonds and an inventory feed for jewelry retailers. Note: site lists only a Philadelphia office (740 Sansom St Ste 304), no Dallas address.",
+ "verified": true
 }

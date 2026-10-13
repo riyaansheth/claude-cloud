@@ -18,14 +18,23 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "1-800-495-2630",
+  "713-784-1000"
+ ],
+ "tel_source": "https://www.houstonjewelry.com/",
+ "socials": [
+  "https://www.facebook.com/HoustonJewelry",
+  "https://www.instagram.com/houstonjewelry",
+  "https://twitter.com/houstonjewelry",
+  "https://www.pinterest.com/houstonjewelry"
+ ],
  "building": "",
  "suite": "Ste A",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "'Houston's premier fine jewelry store' since 1866 run by the Donsky-Solomon family, selling engagement rings, certified loose diamonds, watches and giftware with repairs and gold/coin buying - a consumer retail store.",
+ "verified": true
 }

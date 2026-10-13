@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Gemologists"
+ "scope_reason": "unverified: listed website is a resale-marketplace link (Tradesy/Vestiaire), no own site",
+ "verified": false
 }

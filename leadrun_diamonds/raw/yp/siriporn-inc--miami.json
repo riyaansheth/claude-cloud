@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelers"
+ "scope_reason": "unverified: listed website is the Seybold Building site, not the business's own",
+ "verified": false
 }

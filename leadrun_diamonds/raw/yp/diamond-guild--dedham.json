@@ -11,21 +11,33 @@
  "reviews": "22",
  "source_url": "https://www.yellowpages.com/dedham-ma/mip/diamond-guild-7286906",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@thediamondguild.com",
+ "email_source": "https://thediamondguild.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Louis Karten",
+ "role": "Owner (with Carolyn Karten)",
+ "contact_source": "https://thediamondguild.com/about-us/",
+ "tel_numbers": [
+  "7813268600"
+ ],
+ "tel_source": "https://thediamondguild.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/DiamondGuild",
+  "https://www.instagram.com/thediamondguild"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1945",
+  "3rd-generation",
+  "manufacturer",
+  "custom-design",
+  "bridal"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Gold, Silver & Platinum Buyers & Dealers, Jewelers"
+ "scope_reason": "Site says that since 1945 the family-owned Diamond Guild specializes in \"designing, manufacturing, and selling\" engagement rings, with clients picking their center stone in the Norwood showroom; owner Louis Karten also manufactures his own jewelry line.",
+ "verified": true
 }

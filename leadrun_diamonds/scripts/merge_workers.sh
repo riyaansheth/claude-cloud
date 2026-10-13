@@ -8,8 +8,13 @@ BRANCHES=(leadrun/worker-1 leadrun/worker-2 leadrun/worker-3 leadrun/worker-4 le
           leadrun/verify-a leadrun/verify-b)
 for b in "${BRANCHES[@]}"; do
   if git fetch -q origin "$b" 2>/dev/null; then
-    n=$(git diff --name-only HEAD "origin/$b" -- leadrun_diamonds/raw | wc -l)
-    git checkout "origin/$b" -- leadrun_diamonds/raw 2>/dev/null && echo "merged $b ($n raw files differ)"
+    # only the files this worker itself changed since it forked — never its stale copies of others' files
+    base=$(git merge-base HEAD "origin/$b")
+    mapfile -t files < <(git diff --name-only --diff-filter=AM "$base" "origin/$b" -- leadrun_diamonds/raw)
+    if [ ${#files[@]} -gt 0 ]; then
+      printf '%s\0' "${files[@]}" | xargs -0 git checkout "origin/$b" --
+    fi
+    echo "merged $b (${#files[@]} files it changed)"
   else
     echo "no branch yet: $b"
   fi

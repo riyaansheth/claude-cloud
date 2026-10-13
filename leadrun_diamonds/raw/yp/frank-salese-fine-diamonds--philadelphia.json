@@ -11,21 +11,33 @@
  "reviews": "62",
  "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/frank-salese-fine-diamonds-11744414",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@franksalese.com",
+ "email_source": "https://philadelphiapa.diamonds/contact-us.html",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Frank Salese",
+ "role": "Founder (1962); partner Massimino Russello",
+ "contact_source": "https://philadelphiapa.diamonds/frank-salese-massey-russello.html",
+ "tel_numbers": [
+  "215-922-5995"
+ ],
+ "tel_source": "https://philadelphiapa.diamonds/contact-us.html",
+ "socials": [
+  "https://www.facebook.com/FrankSaleseFineDiamonds",
+  "https://www.instagram.com/franksalesejewelers"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1962",
+  "loose-diamonds",
+  "estate",
+  "gia-gemologist",
+  "custom-design"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "scope_reason": "Jewelers Row diamond specialist: 'our main specialty is having the best quality and the best prices for loose diamonds'; 'buying, selling, customizing and working with loose diamonds for over 50 years'; 'Diamonds and estates purchased'.",
+ "verified": true
 }

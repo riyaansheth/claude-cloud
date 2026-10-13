@@ -1,0 +1,40 @@
+{
+ "business": "Betteridge Jewelers",
+ "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers",
+ "phone": "(480) 948-0777",
+ "website": "http://betteridgejewelers.com",
+ "address": "7001 N Scottsdale Rd Ste 102",
+ "city": "Paradise Valley",
+ "state": "AZ",
+ "market": "Phoenix, AZ",
+ "rating": "",
+ "reviews": "42",
+ "source_url": "https://www.yellowpages.com/paradise-valley-az/mip/betteridge-jewelers-4290207",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Peter Betteridge",
+ "role": "Featured On About Page",
+ "contact_source": "https://betteridgejewelers.com/history",
+ "tel_numbers": [
+  "480.948.0777"
+ ],
+ "tel_source": "https://betteridgejewelers.com/contact",
+ "socials": [
+  "https://www.facebook.com/Betteridge-Jewelers-169499063147726/"
+ ],
+ "building": "",
+ "suite": "Ste 102",
+ "trade_memberships": [],
+ "hooks": [
+  "founded 1897",
+  "fifth generation",
+  "Scottsdale store opened 1984"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site describes a Scottsdale 'Jewelry Store' selling fine jewelry, bridal, estate pieces and pre-owned watches with repair services ('Fifth Generation Jewelers', founded 1897).",
+ "verified": true
+}

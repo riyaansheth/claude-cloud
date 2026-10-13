@@ -20,12 +20,22 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/BarskyDiamonds",
+  "https://www.instagram.com/barskydiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "125-years",
+  "family-owned",
+  "custom-design",
+  "bridal",
+  "jewelers-row"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Designers"
+ "scope_reason": "Jewelers Row (724 Sansom St) family diamond house for over a century offering engagement rings and in-house custom design: \"from the diamonds we source to the way we design, set, and finish each piece\" (bridal/custom maker; borderline retail).",
+ "verified": true
 }

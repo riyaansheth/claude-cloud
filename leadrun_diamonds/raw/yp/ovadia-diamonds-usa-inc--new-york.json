@@ -18,14 +18,23 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "2123198840"
+ ],
+ "tel_source": "http://www.ovadiadiamonds.com/contact-us",
  "socials": [],
  "building": "",
  "suite": "Ste 1002A",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1998",
+  "wholesale",
+  "gia-certified",
+  "custom-design",
+  "loose-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site: founded 1998, \"Ovadia Diamonds is more than just a diamond wholesaler and retailer\" offering wholesale and retail sales of GIA-certified diamonds plus custom design (2 W 46th St Suite 822).",
+ "verified": true
 }

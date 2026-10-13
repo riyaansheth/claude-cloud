@@ -18,14 +18,26 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(212) 302 0002"
+ ],
+ "tel_source": "https://www.lilijewelry.com/info/contact/",
+ "socials": [
+  "https://twitter.com/JewelryLili",
+  "https://www.facebook.com/lili.jewelry",
+  "https://www.instagram.com/lilijewelry",
+  "https://www.linkedin.com/company/lili-jewelry"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "patented-cuts",
+  "since-1980"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Listed site is Lili Jewelry, \"a leading brand of Lili Diamonds (est 1980)\" with patented cuts (Lily, Orchidea, Crisscut) supplying exclusive signature diamonds to luxury houses; NY office 580 Fifth Ave suite 2500.",
+ "verified": true
 }

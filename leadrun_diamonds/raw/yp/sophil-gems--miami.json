@@ -11,21 +11,36 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/sophil-gems-8895671",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@sophil.com",
+ "email_source": "https://www.sophil.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Philippe and Sophie (surnames not given)",
+ "role": "Owners, GIA gemologists and designers",
+ "contact_source": "https://www.sophil.com/our-fine-jewelry-designers",
+ "tel_numbers": [
+  "954 401 8332",
+  "954.629.2269"
+ ],
+ "tel_source": "https://www.sophil.com/contact-us",
+ "socials": [
+  "https://instagram.com/sophil51",
+  "https://www.facebook.com/Sophil-204412529753905"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "JBT (#022 57 939)"
+ ],
+ "hooks": [
+  "since-1990",
+  "gia-gemologist",
+  "antwerp-trained",
+  "custom-design",
+  "bridal"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Owners Philippe and Sophie are GIA gemologists 'trained in 1975 in the diamond exchange in Antwerp', ran a diamond trading office in Geneva, founded Sophil Inc. in Miami in 1990 and select loose diamonds for custom engagement pieces; JBT member.",
+ "verified": true
 }

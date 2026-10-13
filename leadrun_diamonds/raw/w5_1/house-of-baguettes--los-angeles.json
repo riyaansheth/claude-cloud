@@ -1,0 +1,43 @@
+{
+ "business": "House of Baguettes",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers",
+ "phone": "(212) 840-0042",
+ "website": "https://www.houseofbaguettes.com/contact",
+ "address": "607 S Hill St",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Beverly Hills, CA",
+ "rating": "",
+ "reviews": "35",
+ "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/house-of-baguettes-16225997",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "213-627-2808",
+  "212-840-0042",
+  "800-462-3313"
+ ],
+ "tel_source": "https://www.houseofbaguettes.com/contact",
+ "socials": [
+  "https://www.instagram.com/houseofbaguettes"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "manufacturer",
+  "semi-mounts",
+  "family-generations",
+  "LA-and-NY"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Site says 'the House of Baguettes family has been traversing the globe to source the finest diamonds' and produces finished designs and semi-mounts (manufacturer, LA and NY).",
+ "verified": true
+}

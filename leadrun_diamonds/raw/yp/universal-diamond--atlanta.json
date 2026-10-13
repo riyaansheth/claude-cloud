@@ -13,19 +13,28 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/ronnie-agami-0a80109/",
+ "linkedin_source": "\"Ronnie Agami\" Universal Diamond LinkedIn",
+ "contact_person": "Ronnie Agami",
+ "role": "Owner",
+ "contact_source": "https://universaldiamond.com/about-us/",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/universaldiamondcorporation",
+  "https://www.instagram.com/universaldiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "40+ years",
+  "second-generation family",
+  "loose diamonds & estate buyer",
+  "founder trained at Leo Schachter/Tiffany (Ronnie)"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "universaldiamond.com About: 'Atlanta's most respected buyer and seller of engagement rings, diamonds, diamond jewelry, loose diamonds, and estate jewelry' for over 40 years; Ronnie Agami 'became owner in the fall of 2001'.",
+ "verified": true
 }

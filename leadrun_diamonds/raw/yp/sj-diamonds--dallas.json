@@ -11,21 +11,35 @@
  "reviews": "12",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/sj-diamonds-502851516",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "gadi@sjdiam.com",
+ "email_source": "https://sjdiam.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "+1-214-217-0187",
+  "+972-3-5752-753"
+ ],
+ "tel_source": "https://sjdiam.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/sjdiam"
+ ],
  "building": "",
  "suite": "Ste 501",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "Israel Diamond Exchange (board, 3 generations)"
+ ],
+ "hooks": [
+  "3rd-generation diamond manufacturer",
+  "75+ years",
+  "Ramat Gan IDE office (uri@sjdiam.com)",
+  "natural diamonds",
+  "also buys gold & diamond jewelry"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Diamond Setters"
+ "scope_reason": "Spiro Jacob Diamonds is 'a 3rd Generation Diamond Manufacturing Company and a member of the Israel Diamond Exchange for over 75 years', with a Dallas office at 12801 N Central Expy Suite 501 dealing GIA/HRD/IGI certified natural diamonds.",
+ "verified": true
 }

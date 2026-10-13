@@ -13,19 +13,34 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_url": "https://www.linkedin.com/in/aspen-demirdjian-072ab811/",
+ "linkedin_source": "\"Aspen Demirdjian\" Aspen Diamond LinkedIn",
+ "contact_person": "Aspen Demirdjian",
+ "role": "Principal / Designer",
+ "contact_source": "https://www.aspendiamond.com/aspen_demirdjian",
+ "tel_numbers": [
+  "(213) 624-2088",
+  "888-624-2088"
+ ],
+ "tel_source": "https://www.aspendiamond.com/contacts",
+ "socials": [
+  "https://instagram.com/aspendiamond",
+  "https://twitter.com/AspenDiamond",
+  "https://www.facebook.com/aspendiamond",
+  "https://www.pinterest.com/aspendiamond/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "3rd-generation",
+  "loose-diamonds",
+  "custom-design",
+  "bridal",
+  "wholesale-background"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Buyers"
+ "scope_reason": "Bridal/couture diamond house (LA and Montreal) offering loose diamonds and a diamond search; its principal Aspen Demirdjian is described as a third-generation jeweler 'with a background in diamond wholesaling'.",
+ "verified": true
 }

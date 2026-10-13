@@ -11,21 +11,28 @@
  "reviews": "3",
  "source_url": "https://www.yellowpages.com/cohasset-ma/mip/cohasset-jewelers-12382193",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@cohassetjewelers.com",
+ "email_source": "https://www.cohassetjewelers.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(781) 544-2869"
+ ],
+ "tel_source": "https://www.cohassetjewelers.com/contact",
+ "socials": [
+  "https://facebook.com/cohasset.jewelers",
+  "https://instagram.com/cohassetjewelers",
+  "https://twitter.com/cohassetjeweler"
+ ],
  "building": "",
  "suite": "Ste 4",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamond Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Local retail jewelry store offering \"jewelry, gifts, and watches\", repairs and engagement/bridal selection to the Cohasset community; it manufactures some jewelry in-store but shows no wholesale, loose-diamond or trade activity.",
+ "verified": true
 }

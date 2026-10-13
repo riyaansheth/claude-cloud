@@ -11,21 +11,31 @@
  "reviews": "28",
  "source_url": "https://www.yellowpages.com/nationwide/mip/bruce-13875496",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@stardiamondsandiego.com",
+ "email_source": "http://www.stardiamondsandiego.com/Contact_us.html",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(619) 234-2133",
+  "(619) 232-1215"
+ ],
+ "tel_source": "http://www.stardiamondsandiego.com/,http://www.stardiamondsandiego.com/Contact_us.html",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale diamonds .005 to 50+ ct",
+  "fancy colored diamonds (natural and enhanced)",
+  "fancy-shape and ideal-cut melee 1-4.7mm",
+  "CAD/wax/casting manufacturing",
+  "buys precious stones and metals"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Designers"
+ "scope_reason": "YP-linked site Star Diamond San Diego (861 Sixth Ave Ste 715) says: 'Custom Jewelry manufacturing. Wholesale Diamonds, fancy colored, natural and enhanced, from .005 to 50+ carats' and sells fancy-shape and ideal-cut melee; listing has no address and its phone is not shown on the site.",
+ "verified": true
 }

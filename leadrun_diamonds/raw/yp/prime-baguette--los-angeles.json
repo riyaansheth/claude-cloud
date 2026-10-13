@@ -11,21 +11,30 @@
  "reviews": "32",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/prime-baguette-459142494",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "vivat@sbcglobal.net",
+ "email_source": "https://www.primebaguette.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "213-622-5870"
+ ],
+ "tel_source": "https://www.primebaguette.com/contact",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Suite 532",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "wholesale",
+  "jck-award",
+  "design-patents",
+  "since-1990s"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Site: Prime Baguette Inc. is an award-winning jewelry design company that designed and manufactured JCK Jewelers Choice award-winning diamond bracelets; contact page invites wholesale/retail inquiries.",
+ "verified": true
 }

@@ -11,21 +11,36 @@
  "reviews": "62",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/global-rings-jewelry-inc-459684446",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@globalringsjewelry.com",
+ "email_source": "https://www.globalringsjewelry.com/pages/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "+1 (888) 774-4367"
+ ],
+ "tel_source": "https://www.globalringsjewelry.com/pages/contact",
+ "socials": [
+  "https://twitter.com/globalring",
+  "https://www.facebook.com/globalringsjewelry",
+  "https://www.instagram.com/globalringsjewelry"
+ ],
  "building": "",
  "suite": "Ste 920",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1983",
+  "family-owned",
+  "manufacturer",
+  "bridal",
+  "loose-diamonds",
+  "custom-design",
+  "la-jewelry-district"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Bridal Supplies-Wholesale & Manufacturers"
+ "scope_reason": "Site: \"A staple in the Los Angeles Jewelry District since 1983\", family-owned and \"Manufacturing nearly everything in house\", selling engagement rings, wedding bands and certified loose diamonds via its own diamond search.",
+ "verified": true
 }

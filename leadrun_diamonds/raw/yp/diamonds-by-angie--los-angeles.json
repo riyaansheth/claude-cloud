@@ -11,21 +11,43 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/diamonds-by-angie-475629818",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "ny@nicediamond.com",
+ "email_source": "http://www.nicediamond.com/home/connect",
+ "linkedin_url": "https://www.linkedin.com/in/nilesh-sheth-a5942b19/",
+ "linkedin_source": "\"Nilesh Sheth\" Nice Diamonds LinkedIn",
+ "contact_person": "Nilesh Sheth",
+ "role": "President",
+ "contact_source": "http://www.nicediamond.com/home/aboutus",
+ "tel_numbers": [
+  "+1 (212) 764-3916",
+  "1 (800) 536-NICE"
+ ],
+ "tel_source": "http://www.nicediamond.com/home/connect",
+ "socials": [
+  "https://www.facebook.com/NiceDiamonds",
+  "https://www.instagram.com/nicediamondsusa"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "RJC",
+  "IDCA",
+  "24 Karat Club of NYC",
+  "DDC",
+  "Diamond Club West Coast",
+  "JBT"
+ ],
+ "hooks": [
+  "since-1979",
+  "3rd-generation",
+  "loose-diamonds",
+  "fancy-color",
+  "antique-cuts",
+  "wholesale",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Listed site is Nice Diamonds: 'Serving the United States Diamond industry since 1979', third-generation family business selling fancy colored and colorless diamonds in traditional/unique/antique cuts to the trade (API inventory feed, quotes for retailers), with locations in Los Angeles & New York. Note: site brand differs from the YP listing name.",
+ "verified": true
 }

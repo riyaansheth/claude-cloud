@@ -15,17 +15,27 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Tal Nudelman",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ga/atlanta/profile/jewelry-appraisal/top-rate-diamonds-0443-27507554/addressId/136740",
+ "tel_numbers": [
+  "(404) 824-7190"
+ ],
+ "tel_source": "https://topratediamonds.com/contact",
+ "socials": [
+  "https://www.instagram.com/topratediamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "natural & lab-grown",
+  "GIA-certified",
+  "buys diamonds",
+  "nearly 20 years"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers"
+ "scope_reason": "topratediamonds.com: 'Top Rate Diamonds combines the vast inventory of a diamond wholesaler with the personalized service of a private jeweler'; 'Book your private appointment with a professional diamond wholesaler'; buys/sells natural and lab diamonds.",
+ "verified": true
 }

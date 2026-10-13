@@ -11,21 +11,34 @@
  "reviews": "3",
  "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/harzin-jewelers-inc-10406938",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "harzin713@yahoo.com",
+ "email_source": "https://harzin.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "215-925-2217"
+ ],
+ "tel_source": "https://harzin.com/, https://harzin.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/Harzin-Jewelers-1025133617513708",
+  "https://www.instagram.com/harzinjewelers"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1980",
+  "family-owned",
+  "loose-diamonds",
+  "bridal",
+  "jewelers-row",
+  "custom-design"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamond Buyers"
+ "scope_reason": "Jewelers Row bridal specialist: \"Our loose diamond inventory comprises hundreds of stones in all sizes and shapes, most with an independent lab certification\".",
+ "verified": true
 }
