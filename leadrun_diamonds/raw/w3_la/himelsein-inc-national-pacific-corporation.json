@@ -2,13 +2,13 @@
  "business": "Himelsein Inc./National Pacific Corporation",
  "category_as_listed": "Diamonds",
  "phone": "(805) 966-6788",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "email": "tyler@himelseingroup.com",
+ "email_source": "https://himelseingroup.com/policies/privacy-policy",
+ "linkedin_url": "https://www.linkedin.com/in/leonard-himelsein-3a8404149/",
+ "linkedin_source": "WebSearch extended: \"Leonard Himelsein\" Santa Barbara LinkedIn (result title: Leonard Himelsein - National Pacific Corparation)",
+ "contact_person": "Leonard Himelsein",
+ "role": "Founder; registered agent of National Pacific Corporation",
+ "contact_source": "https://americanriviera.bank/person/leonard-himelsein",
  "website": "https://himelseingroup.com",
  "address": "1129 State street, Suite 6, Santa Barbara, California, United States, 93101",
  "city": "Santa Barbara",
@@ -18,19 +18,25 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+1 805-966-6788"
+ ],
+ "tel_source": "https://himelseingroup.com/policies/privacy-policy",
  "socials": [],
  "building": "",
  "suite": "Suite 6",
  "trade_memberships": [
   "Bourse",
-  "DCWC"
+  "DCWC",
+  "WFDB",
+  "Diamond Club of South Africa"
  ],
  "hooks": [
   "estate"
  ],
  "is_diamond_trade": true,
- "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds; secondary: Estate Jewelry, Watches",
- "drop_reason": ""
+ "scope_reason": "DCWC bourse member (primary specialty Diamonds). Leonard Himelsein bio: career in South Africa in diamonds, member of WFDB / Diamond Club of South Africa 40+ yrs and Diamond Club West Coast; himelseingroup.com: National Pacific Corporation is parent of Santa Barbara Loan & Jewelry (pawn) and Himelsein Natural diamond high jewelry; OpenCorporates CA 1040417 agent Leonard Himelsein at 1129 State St Ste 6.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
 }

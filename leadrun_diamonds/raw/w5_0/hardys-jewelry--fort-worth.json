@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Ralph Sturgeon",
+ "role": "Owner (Sturgeon family)",
+ "contact_source": "https://tanglewoodmoms.com/shop-local/hardys-jewelry",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (503 / connection reset)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site hardysjewelry.com unreachable (connection reset). Tanglewood Moms profile: \"Hardy’s is a full service jewelry store\" (repair, stone setting, watch repair, pearl re-stringing, new/pre-owned Swiss watches, certified diamonds) owned by the Sturgeon family since Jess Hardy founded it in 1956 - no wholesale/cutting activity evidenced",
+ "verified": false,
+ "enriched": true
 }
