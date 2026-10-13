@@ -50,7 +50,9 @@ def fetch_browser(url):
     global _browser
     from playwright.sync_api import sync_playwright
     if _browser is None:
-        _browser = sync_playwright().start().chromium.launch()
+        import glob
+        exe = (glob.glob("/opt/pw-browsers/chromium-*/chrome-linux*/chrome") or [None])[0]
+        _browser = sync_playwright().start().chromium.launch(executable_path=exe)
     page = _browser.new_page(user_agent=UA)
     try:
         resp = page.goto(url, timeout=30000, wait_until="domcontentloaded")

@@ -99,3 +99,14 @@ which clusters/buildings you exhausted, and what blocked you.
   finishing, check that every file in your folder has your market.
 - Emails in search summaries are often obfuscated ("[email protected]") — never reconstruct one.
 - Skip businesses already researched: check `ls leadrun_diamonds/raw/*/` for their slug first.
+
+## Wave-3 rules (egress opened at 11:42 UTC)
+- The sandbox shell can now reach the web. Fetch pages with Bash + Python `requests` (header
+  `User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126 Safari/537.36`,
+  timeout 20) and parse with BeautifulSoup. Keep helper scripts in `leadrun_diamonds/work/<YOUR_DIR>/`
+  only (never /tmp, never the shared scratchpad). Be polite: ≤2 requests/second per host.
+- WebSearch still works for discovery/LinkedIn; WebFetch is still broken — don't use it.
+- For every business with a website: fetch `/`, `/contact`, `/about` yourself and record `mailto:`
+  emails and `tel:` numbers. `tel_source` must be ONLY the business's own page URL(s) — never mix a
+  directory/Yelp URL into `tel_source` (the builder rejects mixed sources).
+- `phone` = the number the directory lists; put every number from the business's own site in `tel_numbers`.
