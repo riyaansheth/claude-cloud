@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: no own website; the listed website is a jewelersjournal.com directory listing (Jewelers-Retail category there)",
+ "verified": false
 }

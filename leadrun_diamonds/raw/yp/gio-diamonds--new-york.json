@@ -11,21 +11,30 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/gio-diamonds-495411390",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@kddiamonds.com",
+ "email_source": "https://www.kddiamonds.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "877-869-0811",
+  "212-869-0811"
+ ],
+ "tel_source": "https://www.kddiamonds.com/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "loose-diamonds",
+  "wholesale",
+  "gia",
+  "ags"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Listed website is K & D Diamonds Inc (36 W 47th St Suite 1006): 'Diamond Dealers you can trust... certified loose diamonds', 2500+ GIA/AGS stones 'ready for your showcase' (name differs from Gio listing).",
+ "verified": true
 }

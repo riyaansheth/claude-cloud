@@ -11,21 +11,33 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/rish-diamond-542806138",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@generaldiamonds.com",
+ "email_source": "https://generaldiamonds.com/pages/contact",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Farid and Aida (surnames not given)",
+ "role": "Owners",
+ "contact_source": "https://generaldiamonds.com/pages/about",
+ "tel_numbers": [
+  "1-800-996-4367",
+  "213-624-7298"
+ ],
+ "tel_source": "https://generaldiamonds.com/pages/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1985",
+  "importer",
+  "loose-diamonds",
+  "wholesale",
+  "manufacturer",
+  "custom-design",
+  "gia-educated"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site (branded General Diamonds, 550 S. Hill St Suite #860) About page: 'Established international diamond importer in Los Angeles since 1985... We specialize in loose wholesale diamonds of all sizes and shapes'; also manufactures jewelry.",
+ "verified": true
 }

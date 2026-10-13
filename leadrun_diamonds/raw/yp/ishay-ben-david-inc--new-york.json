@@ -11,21 +11,38 @@
  "reviews": "14",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/ishay-ben-david-inc-574373556",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@fancycolordiamond.net",
+ "email_source": "https://fancycolordiamond.net/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/ishay-ben-david-88468026/",
+ "linkedin_source": "\"Ishay Ben-David\" IBD Fancy Colors LinkedIn",
+ "contact_person": "Ishay Ben-David",
+ "role": "Founder & President",
+ "contact_source": "https://fancycolordiamond.net/pages/wfdb-nyddc",
+ "tel_numbers": [
+  "+1 212-944-5441",
+  "+1 800-411-0951"
+ ],
+ "tel_source": "https://fancycolordiamond.net/pages/contact",
+ "socials": [
+  "https://twitter.com/fancycolordiam",
+  "https://www.facebook.com/fancycolordiamond",
+  "https://www.instagram.com/fancycolordiamond"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "NY DDC (board member)",
+  "WFDB (via NY DDC)"
+ ],
+ "hooks": [
+  "since-1979",
+  "fancy-color",
+  "natural",
+  "family-owned",
+  "loose-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "IBD Fancy Colors (580 Fifth Ave) family business since 1979, a 'leading source for natural fancy colored diamonds in the industry'; NY DDC member, founder sits on its board.",
+ "verified": true
 }

@@ -11,21 +11,34 @@
  "reviews": "32",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/swati-diamond-462021499",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "wantmydiamondla@gmail.com",
+ "email_source": "https://wantmydiamond.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Tony Tala",
+ "role": "President",
+ "contact_source": "https://wantmydiamond.com/",
+ "tel_numbers": [
+  "213-924-3227"
+ ],
+ "tel_source": "https://wantmydiamond.com/",
+ "socials": [
+  "https://www.facebook.com/WantMyDiamondLA",
+  "https://www.instagram.com/wantmydiamond",
+  "https://www.tiktok.com/@want_my_diamond"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1994",
+  "importer",
+  "manufacturer",
+  "gia-certified",
+  "custom-design"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Listed website is branded 'Want My Diamond' (608 S Hill St Ste 906, not the Swati name): 'Diamond Importers Specializing in All Shapes, Sizes and Qualities of GIA Certified Diamonds. High End Jewelry Manufacturing in the Los Angeles Jewelry District Since 1994.'",
+ "verified": true
 }

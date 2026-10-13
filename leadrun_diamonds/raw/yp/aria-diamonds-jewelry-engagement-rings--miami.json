@@ -11,21 +11,33 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/aria-diamonds-jewelry-engagement-rings-3244892",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "ariadiamondsus@gmail.com",
+ "email_source": "https://ariajerusalem.com/he/293-2/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Tomer Baruch",
+ "role": "Founder",
+ "contact_source": "https://ariajerusalem.com/he/293-2/",
+ "tel_numbers": [
+  "02-500-44-50"
+ ],
+ "tel_source": "https://ariajerusalem.com/he/293-2/",
+ "socials": [
+  "https://www.facebook.com/ariadiamonds1",
+  "https://www.instagram.com/ariajewelry_diamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-2015",
+  "manufacturer",
+  "israel-diamond-exchange",
+  "custom-design",
+  "gemologist"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Designers, Jewelers"
+ "scope_reason": "ariadiamonds.com redirects to ariajerusalem.com: 'Design and manufacture of diamond jewelry', founded 2015 by Tomer Baruch, a diamond dealer in the Israeli Diamonds Exchange (Ramat Gan); lists a Miami branch at 36 NE 1st St #902.",
+ "verified": true
 }
