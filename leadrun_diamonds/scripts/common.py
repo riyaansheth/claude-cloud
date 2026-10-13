@@ -49,7 +49,7 @@ _KILL = [(r, re.compile(p, re.I)) for r, p in KILL_LIST]
 # Agent drop reasons that are judgement calls (not regex-detectable) but still out of scope.
 JUDGEMENT_DROPS = {"retail-only", "gemstone-only", "appraiser-lab", "other", "pawn", "cash-for-gold",
                    "coin", "beads-craft", "costume-fashion", "piercing", "kiosk", "simulant",
-                   "chain", "thrift"}
+                   "chain", "thrift", "unverified"}
 
 
 def kill_reason(name: str, category: str = "") -> str:

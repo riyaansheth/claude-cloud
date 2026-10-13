@@ -45,6 +45,8 @@ def gate(rec: dict):
         return "dropped", reason
     if rec.get("is_diamond_trade") is False:
         dr = (rec.get("drop_reason") or "other").strip().lower()
+        if (rec.get("scope_reason") or "").lower().startswith("unverified"):
+            dr = "unverified"  # could not confirm a diamond line — not shipped, but not proven out of scope
         return "dropped", dr if dr in JUDGEMENT_DROPS else "other"
     return "keep", ""
 
@@ -66,6 +68,11 @@ def main():
             continue
         row = con.execute("SELECT content_sha, found_at FROM listings WHERE listing_key=?", (key,)).fetchone()
         if row and row[0] == sha:
+            # unchanged file: re-apply the gate only (rules may have changed); keeps found_at
+            status, reason = gate(rec)
+            con.execute("UPDATE listings SET status=?, drop_reason=?, drop_stage=? WHERE listing_key=? "
+                        "AND (status!=? OR drop_reason!=?)",
+                        (status, reason, "discovery" if status == "dropped" else "", key, status, reason))
             continue
         status, reason = gate(rec)
         biz_key = f"{norm_name(rec.get('business', ''))}|{(rec.get('market') or '').lower()}"
