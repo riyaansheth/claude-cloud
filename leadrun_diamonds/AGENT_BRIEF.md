@@ -87,3 +87,15 @@ minimal (business, source_url, drop_reason, scope_reason, market).
 
 Finish with a short summary: files written, in-scope count, emails found, LinkedIn found,
 which clusters/buildings you exhausted, and what blocked you.
+
+## Wave-2 rules (learned from wave 1)
+- **WebFetch is broken in this environment (DNS ENOTFOUND on every host).** Do not call it more than once.
+  Work from WebSearch results only.
+- **Budget: max 30 WebSearch calls for you.** The 200/turn budget is shared by all workers. Count them.
+- **LinkedIn profiles mostly appear in `mode: "extended"` searches** — use extended for person lookups
+  (e.g. `"<First Last>" <Company> diamonds LinkedIn`), standard for discovery.
+- **Do NOT write helper scripts into the shared scratchpad** (wave-1 workers overwrote each other's `w.py`).
+  Write each business file directly with the Write tool to your own `raw/<YOUR_DIR>/` folder. Before
+  finishing, check that every file in your folder has your market.
+- Emails in search summaries are often obfuscated ("[email protected]") — never reconstruct one.
+- Skip businesses already researched: check `ls leadrun_diamonds/raw/*/` for their slug first.
