@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: site unreachable (exceldiamonds.com redirects to a GoDaddy for-sale parked page)",
+ "verified": false
 }

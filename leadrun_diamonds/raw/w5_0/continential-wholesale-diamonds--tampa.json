@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: listed website monmouthjewelers.com belongs to a different business (Monmouth Jewelers, 108 Pavilion Parkway, Newport, KY), not Continential Wholesale Diamonds in Tampa",
+ "verified": false
 }

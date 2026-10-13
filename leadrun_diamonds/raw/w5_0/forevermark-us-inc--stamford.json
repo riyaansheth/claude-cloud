@@ -20,12 +20,20 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/debeersforevermark/",
+  "https://www.instagram.com/forevermarkbydebeers/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "De Beers Group diamond brand",
+  "inscribed diamonds",
+  "responsible sourcing"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "forevermark.com: 'Every Forevermark inscribed diamond comes with a promise that it is beautiful, rare and responsibly sourced' - a De Beers Group diamond brand (corporate; no US-office contacts on the site).",
+ "verified": true
 }

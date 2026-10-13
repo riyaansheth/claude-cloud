@@ -11,21 +11,31 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/st-pete-beach-fl/mip/owen-sweet-jewlery-design-3095226",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "owensweet25@gmail.com",
+ "email_source": "https://ohsosweet.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Owen Sweet",
+ "role": "Founder/Designer",
+ "contact_source": "https://ohsosweet.com/about/",
+ "tel_numbers": [
+  "+1 727 392 6936"
+ ],
+ "tel_source": "https://ohsosweet.com/contact-us/",
+ "socials": [
+  "https://twitter.com/OwenSweetDesig1",
+  "https://www.facebook.com/owensweetjewelry/",
+  "https://www.youtube.com/channel/UCIQMQyS0KI2fyfP5nGuvu8Q"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Designers, Watch Repair"
+ "hooks": [
+  "formed 1996",
+  "South African-born designer"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site title 'We're the Premier Jewelry Repair Shop in St. Petersburg, Florida'; a designer-jeweler studio selling handcrafted pieces and designer lines (Niessing etc.) plus watch/jewelry repair - no loose-diamond trade or wholesale.",
+ "verified": true
 }

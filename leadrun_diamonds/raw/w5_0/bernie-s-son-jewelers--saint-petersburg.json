@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Clock Repair"
+ "scope_reason": "unverified: site unreachable (berniesandson.net redirects to berniesandsonjeweler.com which only serves a SiteGround captcha; other paths time out/404)",
+ "verified": false
 }

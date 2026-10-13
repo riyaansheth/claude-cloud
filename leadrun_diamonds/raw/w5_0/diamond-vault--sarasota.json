@@ -14,18 +14,32 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Ali Chokr\" Diamond Vault LinkedIn (no matching /in/ profile)",
+ "contact_person": "Ali Chokr",
+ "role": "Founder",
+ "contact_source": "https://diamondvaultjewelers.com/pages/about",
+ "tel_numbers": [
+  "(941) 921-4016"
+ ],
+ "tel_source": "https://diamondvaultjewelers.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/DiamondVaultSarasota/",
+  "https://www.instagram.com/diamondvault/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since 1978",
+  "family-run",
+  "founder began in diamond wholesale",
+  "GIA Certified Gemologists on staff",
+  "Diamond Wall",
+  "estate buying",
+  "on-site workshop / custom"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Appraisers, Jewelers"
+ "scope_reason": "About page: founder Ali Chokr 'entered the diamond wholesale business and invested in diamond jewelry'; site offers 'an unrivaled selection of GIA certified diamonds and diamond jewelry' with a trademark Diamond Wall, on-site workshop and estate buying.",
+ "verified": true
 }
