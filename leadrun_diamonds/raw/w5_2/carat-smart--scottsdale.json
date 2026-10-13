@@ -18,14 +18,25 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "866.365.3935",
+  "480.945.1232"
+ ],
+ "tel_source": "https://www.caratsmartdiamonds.com/",
  "socials": [],
  "building": "",
  "suite": "Ste 1050",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "35+ years in diamond industry",
+  "Smart Cut branded diamond",
+  "melee (tested for CVD/synthetics)",
+  "memo programs",
+  "affiliates in Israel",
+  "buys excess diamond inventory"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "About page: 'We are not the largest diamond wholesale company. We choose to work with only the number of retail customers we can handle so that we can make sure our customer gets goods on memo'; offers loose diamonds, calibrated melee and branded Smart Cut diamonds.",
+ "verified": true
 }

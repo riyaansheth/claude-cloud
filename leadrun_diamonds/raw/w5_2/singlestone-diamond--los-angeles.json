@@ -13,19 +13,29 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/ari-madilian-b2b12722/",
+ "linkedin_source": "\"Ari Madilian\" Single Stone LinkedIn",
+ "contact_person": "Ari Madilian",
+ "role": "Featured On About Page",
+ "contact_source": "https://www.singlestone.com/pages/our-story-1",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/SingleStoneLosAngeles",
+  "https://www.instagram.com/singlestonela/",
+  "https://www.pinterest.com/singlestonela/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "antique/vintage diamonds",
+  "husband-and-wife duo Ari & Corina Madilian",
+  "wholesale to stockists nationwide",
+  "loose diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Repairing"
+ "scope_reason": "Our Story: 'After a decade spent sourcing vintage stones and restoring antique jewelry' the founders hand-craft collections around antique center diamonds in Los Angeles, 'available at luxury boutiques across the US' (stockists, retailer login), also offering loose diamonds.",
+ "verified": true
 }

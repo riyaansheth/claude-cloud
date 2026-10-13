@@ -11,21 +11,37 @@
  "reviews": "24",
  "source_url": "https://www.yellowpages.com/scottsdale-az/mip/wrm-jewelry-inc-459018488",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "scottsdale@finer.jewelry",
+ "email_source": "https://finercustomjewelry.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Shimon",
+ "role": "Featured On About Page",
+ "contact_source": "https://finercustomjewelry.com/the-team/",
+ "tel_numbers": [
+  "480.771.8833",
+  "713.903.7788",
+  "469.772.4714"
+ ],
+ "tel_source": "https://finercustomjewelry.com/contact-us/",
+ "socials": [
+  "https://www.instagram.com/finer.jewelry/",
+  "https://www.facebook.com/people/Finer-Custom-Engagement-Rings-Diamonds/100063627697616/",
+  "https://www.linkedin.com/company/finer-custom-engagement-rings-and-diamonds"
+ ],
  "building": "",
  "suite": "Ste 1050",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "in the trade since 2011",
+  "founded 2018",
+  "wholesale diamond background",
+  "GIA-certified diamonds",
+  "locations Scottsdale/Houston/Dallas",
+  "buys diamonds/gold/watches"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Finer Custom Jewelry (finer.jewelry) offers 'Diamond sourcing, custom design' of engagement rings, 'In the Trade Since 2011'; team page says Shimon 'got started in the wholesale diamond business... supplying diamonds to stores throughout the Phoenix Valley' \u2014 bridal specialist sourcing its own stones.",
+ "verified": true
 }

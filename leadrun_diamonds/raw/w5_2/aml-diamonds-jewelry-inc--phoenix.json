@@ -20,12 +20,21 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/AMIDiamond",
+  "https://www.instagram.com/amidiamondandjewelry/",
+  "https://x.com/AMIDiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelers-Wholesale & Manufacturers, Watch Repair"
+ "hooks": [
+  "40+ years",
+  "estate jewelry",
+  "open to wholesale/retail partnerships"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site calls itself 'Scottsdale's premier destination for fine luxury jewelry' offering GIA-certified diamonds, estate pieces, repairs and appraisals, and says it is 'partnered with industry-leading gemstone suppliers and diamond providers' (buys in).",
+ "verified": true
 }

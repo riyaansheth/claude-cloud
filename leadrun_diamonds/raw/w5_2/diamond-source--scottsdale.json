@@ -11,21 +11,32 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/scottsdale-az/mip/diamond-source-20987029",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "diamonds@diasource.com",
+ "email_source": "https://diasource.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "480-990-0100"
+ ],
+ "tel_source": "https://diasource.com/",
+ "socials": [
+  "https://facebook.com/diasource",
+  "https://instagram.com/diamondsourceaz",
+  "https://youtube.com/diamondsourceaz"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Suite 103",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "diamond cutters (rough to polished)",
+  "GIA-certified loose diamonds",
+  "buys gold & diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Site: 'We don't buy our diamonds from the source. We are the source! We are diamond cutters... from the rough, to the cutting, to the polished diamonds that we send to the GIA Lab', with a Scottsdale showroom.",
+ "verified": true
 }

@@ -15,17 +15,28 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Scott & Mariela",
+ "role": "Founder",
+ "contact_source": "https://www.summitdiamond.com/heritage",
+ "tel_numbers": [
+  "(813) 992-9291"
+ ],
+ "tel_source": "https://www.summitdiamond.com/login",
+ "socials": [
+  "https://instagram.com/summit_diamond",
+  "https://www.facebook.com/summitdiamond"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Suite 910",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "30+ years",
+  "family business, second generation (Ryan) runs engagement rings & operations",
+  "started selling to jewelers on the road",
+  "private client vault"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Heritage page: 'Founded by Scott and Mariela, Summit's story began on the road \u2014 one handshake at a time \u2014 visiting jewelers'; now a by-appointment Tampa diamond house with a client-only inventory 'Vault' serving clients from Tampa to Kuwait, Bahrain and Canada.",
+ "verified": true
 }

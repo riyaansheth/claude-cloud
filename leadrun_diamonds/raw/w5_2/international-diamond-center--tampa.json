@@ -13,19 +13,34 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_url": "https://www.linkedin.com/in/keith-leclerc-7b5951b9/",
+ "linkedin_source": "\"Keith Leclerc\" International Diamond Center LinkedIn",
+ "contact_person": "Keith Leclerc",
+ "role": "Owner",
+ "contact_source": "https://shopidc.com/pages/our-story",
+ "tel_numbers": [
+  "(813) 961-0097"
+ ],
+ "tel_source": "https://shopidc.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/internationaldiamondcenter/",
+  "https://www.instagram.com/internationaldiamondcenter_/",
+  "https://twitter.com/shopidc?lang=en",
+  "https://www.pinterest.com/shopidc/",
+  "https://www.youtube.com/c/InternationalDiamondCenterClearwater"
+ ],
  "building": "",
  "suite": "Ste 110",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Designers"
+ "hooks": [
+  "first retail store 1990",
+  "11 showrooms FL/GA",
+  "owner formerly owned cutting facilities in Brazil and Tel Aviv",
+  "Forevermark partner",
+  "lab-grown diamonds offered"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Site: 'IDC currently has eleven locations between Naples, Florida and Savannah, Georgia' selling engagement rings, fine jewelry, designer brands and watches; owner's wholesale/cutting history predates the retail chain opened in 1990.",
+ "verified": true
 }
