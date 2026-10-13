@@ -3,12 +3,13 @@
 
   python3 run.py preflight             # which source hosts are reachable from here
   python3 run.py all [--cities 10]     # every stage, in order, resumable
-  python3 run.py osm|gmaps|yp|bbb|trade|crawl|socials|linkedin|agents-export|agents-import|build|status
+  python3 run.py osm|gmaps|yp|bbb|trade|crawl|socials|linkedin|agents-export|agents-import|build|status|push
 
 Each stage is idempotent: discovery tasks, crawls, social lookups and LinkedIn
 searches are keyed in progress.sqlite3 and skipped when already done. `all`
-runs discovery sources concurrently (separate worker processes), then the crawl,
-and prints a status line every 20 minutes.
+runs discovery sources concurrently (separate worker processes), then the crawl.
+Every 20 minutes it prints a status line, rebuilds the outputs and pushes them to
+the results branch (pipeline/autopush.py); `--no-push` disables that.
 """
 import argparse
 import multiprocessing as mp
@@ -95,6 +96,8 @@ def stage(name, n=0, limit=None):
         return build.build()
     if name == "status":
         return status()
+    if name == "push":
+        return checkpoint(build=False)
     raise SystemExit(f"unknown stage {name}")
 
 
@@ -114,14 +117,30 @@ def status():
     return line
 
 
-def _ticker(stop, every=1200):
+def checkpoint(build=True):
+    """Rebuild outputs and push them to the results branch (never fails the run)."""
+    from pipeline import autopush
+    try:
+        summary = ""
+        if build:
+            r = stage("build")
+            summary = f"{r['businesses']} researched, {r['qualified']} qualified"
+        return autopush.push(summary)
+    except Exception as e:  # noqa: BLE001
+        print(f"[autopush] failed: {e}", flush=True)
+        db.log_event(db.connect(), "autopush", "error", e)
+
+
+def _ticker(stop, every=1200, push=True):
     while not stop.wait(every):
         status()
+        if push:
+            checkpoint()
 
 
-def run_all(n):
+def run_all(n, push=True):
     stop = threading.Event()
-    threading.Thread(target=_ticker, args=(stop,), daemon=True).start()
+    threading.Thread(target=_ticker, args=(stop, 1200, push), daemon=True).start()
     try:
         # Discovery sources in parallel worker processes (each with its own browser).
         procs = [mp.Process(target=stage, args=(s, n), name=s)
@@ -134,8 +153,12 @@ def run_all(n):
             time.sleep(60)
         for p in procs:
             p.join()
-        for s in ("crawl", "socials", "linkedin", "agents-export", "build"):
+        for s in ("crawl", "socials", "linkedin", "agents-export"):
             stage(s, n)
+        if push:
+            checkpoint()
+        else:
+            stage("build")
         status()
     finally:
         stop.set()
@@ -146,6 +169,8 @@ def main():
     ap.add_argument("stage")
     ap.add_argument("--cities", type=int, default=10, help="first N markets (0 = all 25)")
     ap.add_argument("--limit", type=int, default=None)
+    ap.add_argument("--no-push", action="store_true",
+                    help="don't push outputs to the results branch")
     a = ap.parse_args()
     if a.stage == "preflight":
         sys.exit(0 if preflight() else 1)
@@ -153,7 +178,7 @@ def main():
         if not preflight():
             print("WARNING: some source hosts are unreachable; those stages will log "
                   "'blocked' events and produce nothing (no data is invented).")
-        return run_all(a.cities)
+        return run_all(a.cities, push=not a.no_push)
     print(stage(a.stage, a.cities, a.limit))
 
 

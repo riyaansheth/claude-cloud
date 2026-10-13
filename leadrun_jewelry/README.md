@@ -26,7 +26,14 @@ python3 -m pytest -q -p no:cacheprovider tests   # offline tests
 
 Each stage can be run on its own, and all of them can be resumed:
 `osm`, `gmaps`, `yp`, `bbb`, `trade`, `crawl`, `socials`, `linkedin`,
-`agents-export`, `agents-import`, `build`, `status`.
+`agents-export`, `agents-import`, `build`, `status`, `push`.
+
+**Auto-push.** During `all`, the CSVs and REPORT.md are rebuilt and pushed every
+20 minutes, and again at the end, to the separate branch
+`claude/jewelry-leads-results`. That branch holds only those three files, never code.
+It is pushed with git plumbing, so the working tree and code branch are untouched,
+and nothing is pushed if the outputs haven't changed. Use `--no-push` to switch this
+off, or `python3 run.py push` to push by hand.
 `progress.sqlite3` keys everything by a stable business or listing key (`osm:node/123`,
 `yp:<hash>`, `bbb:<hash>`, website root for crawls), never a row number. Re-running a
 stage skips work that is already done, and `build` is deterministic.
