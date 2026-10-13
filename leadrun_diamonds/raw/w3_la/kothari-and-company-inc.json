@@ -1,0 +1,39 @@
+{
+ "business": "Kothari and Company Inc.",
+ "category_as_listed": "Diamonds",
+ "phone": "(213) 627-3456",
+ "email": "RAJ@KOTHARIANDCOMPANY.COM",
+ "email_source": "https://www.kothariandcompany.com/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Lalit Kothari",
+ "role": "President",
+ "contact_source": "https://www.manta.com/c/mt13mx6/kothari-company",
+ "website": "https://www.kothariandcompany.com",
+ "address": "550 South Hill Street, Suite 1220, Los Angeles, California, United States, 90013",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [
+  "(212) 203-1902",
+  "(213) 627-3456"
+ ],
+ "tel_source": "https://www.kothariandcompany.com/contact",
+ "socials": [],
+ "building": "International Jewelry Center",
+ "suite": "Suite 1220",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "estate"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds; secondary: Gemstones/ Estate Jewelry",
+ "drop_reason": ""
+}

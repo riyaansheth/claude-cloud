@@ -1,0 +1,36 @@
+{
+ "business": "A.D.I",
+ "category_as_listed": "Manufacturer, Diamond cutting",
+ "phone": "(213) 623-7740",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://adidiamonds.com",
+ "address": "630 W. 6th Street, Suite 217, Los Angeles, California, United States, 90017",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "Suite 217",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "manufacturer"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Manufacturer (Diamond cutting)",
+ "drop_reason": ""
+}

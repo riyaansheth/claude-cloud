@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin,urlparse
 from fetch import UA
 def scan(root,extra=()):
+    root=root.replace('http://','https://')
     res={'root':root,'pages':{}}
     paths=['/','/contact','/contact-us','/about','/about-us','/our-story']+list(extra)
     seen=set()

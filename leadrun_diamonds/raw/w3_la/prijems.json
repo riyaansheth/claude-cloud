@@ -1,0 +1,43 @@
+{
+ "business": "Prijems",
+ "category_as_listed": "Diamonds, Fancy color, rose cut, old cut, one of a kind",
+ "phone": "(213) 489-1234",
+ "email": "sales@prijems.com",
+ "email_source": "https://www.prijems.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Harsheel Shah",
+ "role": "President",
+ "contact_source": "https://www.prijems.com/pages/about-1",
+ "website": "https://www.prijems.com",
+ "address": "550 South Hill Street, Suite 891, Los Angeles, California, United States, 90013",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [
+  "(213) 489-1234"
+ ],
+ "tel_source": "https://www.prijems.com/pages/contact",
+ "socials": [
+  "https://www.instagram.com/prijems"
+ ],
+ "building": "International Jewelry Center",
+ "suite": "Suite 891",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "manufacturer",
+  "fancy-color",
+  "since-1985",
+  "4th-generation"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Fancy color, rose cut, old cut, one of a kind); secondary: Manufacturer",
+ "drop_reason": ""
+}

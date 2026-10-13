@@ -1,0 +1,39 @@
+{
+ "business": "Diamond Trading Company",
+ "category_as_listed": "Diamonds, GIA,HRD,EGL USA",
+ "phone": "(310) 246-1000",
+ "email": "info@dtcusa.com",
+ "email_source": "https://www.dtcusa.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Aria Ahdoot",
+ "role": "President",
+ "contact_source": "https://www.dtcusa.com/about",
+ "website": "https://www.dtcusa.com",
+ "address": "9777 Wilshire blvd, Suite 550, Beverly Hills, California, United States, 90210",
+ "city": "Beverly Hills",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [
+  "213 624 4811",
+  "310 246 1000"
+ ],
+ "tel_source": "https://www.dtcusa.com/, https://www.dtcusa.com/about, https://www.dtcusa.com/contact",
+ "socials": [],
+ "building": "",
+ "suite": "Suite 550",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "gia-certified"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Retail; primary specialty: Diamonds (GIA,HRD,EGL USA); secondary: Jewelry",
+ "drop_reason": ""
+}

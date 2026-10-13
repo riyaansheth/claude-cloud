@@ -1,0 +1,37 @@
+{
+ "business": "Alpha Diamond Cutting Works",
+ "category_as_listed": "Industry Services, Diamond cutting services for the trade",
+ "phone": "(213) 840-9252",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "",
+ "address": "4711 Hope Valley Road, 4F-129, Durham, NC, United States, 27713",
+ "city": "Durham",
+ "state": "NC",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "manufacturer",
+  "estate"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Industry Services (Diamond cutting services for the trade); secondary: Diamonds, Estate Jewelry",
+ "drop_reason": ""
+}

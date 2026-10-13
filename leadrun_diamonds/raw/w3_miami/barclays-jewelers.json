@@ -1,0 +1,44 @@
+{
+  "business": "BARCLAY'S JEWELERS",
+  "category_as_listed": "",
+  "phone": "(305) 371-3476",
+  "email": "raju@barclaysmiami.com",
+  "email_source": "https://seyboldjewelry.com/barclays-jewelers/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.barclaysjewelry.com",
+  "address": "36 NE 1st St",
+  "city": "Miami",
+  "state": "FL",
+  "market": "Miami, FL",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://seyboldjewelry.com/barclays-jewelers/",
+  "tel_numbers": [
+    "(305) 371-3476"
+  ],
+  "tel_source": "https://www.barclaysjewelry.com/pages/contact-us",
+  "socials": [
+    "https://facebook.com/Barclays.Jewelers.Miami",
+    "https://www.instagram.com/barclaysjewelers/",
+    "https://x.com/barclaysmiami"
+  ],
+  "building": "Seybold Building",
+  "suite": "Ste 115",
+  "trade_memberships": [],
+  "hooks": [
+    "natural",
+    "lab-grown",
+    "loose-diamond-search",
+    "bridal",
+    "40-years",
+    "gold-diamond-buying"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: natural and lab-created loose diamond search by shape, bridal/engagement focus, also buys gold & diamonds; Seybold listing: 40+ years, brilliant diamonds.",
+  "drop_reason": ""
+}

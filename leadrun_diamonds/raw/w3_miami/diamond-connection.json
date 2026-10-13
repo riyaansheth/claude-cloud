@@ -1,0 +1,33 @@
+{
+  "business": "DIAMOND CONNECTION",
+  "category_as_listed": "",
+  "phone": "(305) 377-8884",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Avinash K Thakor",
+  "role": "",
+  "contact_source": "https://opencorporates.com/companies/us_fl/P92000007649",
+  "website": "",
+  "address": "36 NE 1st St",
+  "city": "Miami",
+  "state": "FL",
+  "market": "Miami, FL",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://seyboldjewelry.com/full-directory/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "Seybold Building",
+  "suite": "Ste 515",
+  "trade_memberships": [],
+  "hooks": [
+    "registered-agent-name"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Directory name (Suite 515); FL corp at 36 NE 1st St #515 with registered agent Avinash K Thakor (OpenCorporates P92000007649). No website found; diamond trade inferred from name/location only.",
+  "drop_reason": ""
+}

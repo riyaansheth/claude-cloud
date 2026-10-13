@@ -1,0 +1,36 @@
+{
+ "business": "Paradise Diamonds Inc.",
+ "category_as_listed": "Diamonds, Diamonds & Jewelry",
+ "phone": "(213) 622-4225",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.paradisediamonds.com",
+ "address": "222 North Canon Dr., Suite 202, Beverly Hills, California, United States, 90210",
+ "city": "Beverly Hills",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "Suite 202",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "manufacturer"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds (Diamonds & Jewelry); secondary: Jewelry/ Manufacturer",
+ "drop_reason": ""
+}

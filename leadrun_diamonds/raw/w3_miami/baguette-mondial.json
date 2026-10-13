@@ -1,0 +1,46 @@
+{
+  "business": "BAGUETTE MONDIAL",
+  "category_as_listed": "",
+  "phone": "(305) 539-1133",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Malka Roizen",
+  "role": "President",
+  "contact_source": "https://baguettemondial.com/about",
+  "website": "https://baguettemondial.com",
+  "address": "36 NE 1st St",
+  "city": "Miami",
+  "state": "FL",
+  "market": "Miami, FL",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://seyboldjewelry.com/full-directory/",
+  "tel_numbers": [
+    "(305) 539-1133"
+  ],
+  "tel_source": "https://baguettemondial.com/contact",
+  "socials": [
+    "https://www.instagram.com/baguettemondialdiamonds/"
+  ],
+  "building": "Seybold Building",
+  "suite": "Ste 750",
+  "trade_memberships": [],
+  "hooks": [
+    "importer",
+    "calibrated",
+    "baguettes",
+    "matched-pairs",
+    "fancy-cut-side-stones",
+    "israel",
+    "ramat-gan-bourse",
+    "since-1979",
+    "women-owned",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: Baguette Mondial Diamond Importers Inc - matched pairs & fancy-cut side stones (calibrated baguettes, step cuts) from Israel, custom cutting to spec; president trained on the Ramat Gan diamond bourse.",
+  "drop_reason": ""
+}

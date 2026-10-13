@@ -2,7 +2,7 @@ import requests,json,re,time,sys,concurrent.futures as cf
 from urllib.parse import urljoin,urlparse
 from bs4 import BeautifulSoup
 H={'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126 Safari/537.36'}
-SITES=json.load(open('sites_in.json'))
+SITES=json.load(open(sys.argv[2] if len(sys.argv)>2 else 'sites_in.json'))
 SUB=['','contact','contact-us','pages/contact','pages/contact-us','about','about-us','pages/about','pages/about-us','our-story','team']
 SOC=re.compile(r'(facebook\.com|instagram\.com|twitter\.com|x\.com|linkedin\.com|tiktok\.com|youtube\.com)',re.I)
 EM=re.compile(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}')

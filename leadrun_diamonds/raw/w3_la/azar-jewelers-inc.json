@@ -1,0 +1,43 @@
+{
+ "business": "Azar Jewelers Inc.",
+ "category_as_listed": "Diamonds, Diamond wholesalers",
+ "phone": "(213) 627-6670",
+ "email": "SALES@AZARDESIGNS.COM",
+ "email_source": "https://www.azardesigns.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.azardesigns.com",
+ "address": "550 South Hill Street, Suite 600, Los Angeles, California, United States, 90013",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [
+  "(213) 627-6670"
+ ],
+ "tel_source": "https://www.azardesigns.com/, https://www.azardesigns.com/contact, https://www.azardesigns.com/our-story",
+ "socials": [
+  "https://twitter.com/azardesigns",
+  "https://www.facebook.com/AzarDesigns",
+  "https://www.instagram.com/azardesigns"
+ ],
+ "building": "International Jewelry Center",
+ "suite": "Suite 600",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "manufacturer",
+  "estate"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Diamond wholesalers); secondary: Jewelry Manufacturers/ Estate Jewelry",
+ "drop_reason": ""
+}

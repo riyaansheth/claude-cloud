@@ -1,0 +1,36 @@
+{
+ "business": "Himelsein Inc./National Pacific Corporation",
+ "category_as_listed": "Diamonds",
+ "phone": "(805) 966-6788",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://himelseingroup.com",
+ "address": "1129 State street, Suite 6, Santa Barbara, California, United States, 93101",
+ "city": "Santa Barbara",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "Suite 6",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "estate"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds; secondary: Estate Jewelry, Watches",
+ "drop_reason": ""
+}

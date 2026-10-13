@@ -1,0 +1,95 @@
+##### https://www.araratjewelers.com
+  mailto []
+  tel []
+  emails []
+  phones []
+  soc []
+##### https://amorosojewelers.com
+  OK https://amorosojewelers.com/ -> https://www.amorosojewelers.com/
+  OK https://amorosojewelers.com/contact-us -> https://www.amorosojewelers.com/contact-us
+  OK https://amorosojewelers.com/about-us -> https://www.amorosojewelers.com/about-us
+  mailto ['mailto:info@amorosojewelers.com']
+  tel ['tel:617-742-9900']
+  emails ['info@amorosojewelers.com']
+  phones ['617-742-9900']
+  soc ['https://www.facebook.com/AmorosoJewelers.Co/?fref=nf', 'https://www.instagram.com/amorosojewelers/?hl=en']
+   .. d the most. Moving forward, as we make this transition into retirement, you will be able to find us down the hallway at Suite 315A but with limited availability . So many of you have been instrumental in our success and we can’t thank you enough! We 
+   ..                                               Closed Your Trusted Choice for Diamonds, Karat Gold, Platinum, and Pearls Since 1948 Delivering Personalized Service Buying and selling quality diamonds, colored gemstones, and cultured pearls is our spec
+   .. 17-742-9900 Our Facebook Feed Hibu FB Page Find Us Get Directions Contact Us Call Us Amoroso Jewelers 333 Washington St Suite 305 Boston, MA 02108 Tel: 617-742-9900 info@amorosojewelers.com Business Hours Mon - Sat                     10:00 am to 4:
+   .. ne Jewelry Facts Diamonds Karat Gold Pearls Platinum Birthstones Reviews About Us Contact Contact Serving the Community Since 1948 Amoroso Jewelers 333 Washington St Suite 305 Boston, MA 02108 617-742-9900 info@amorosojewelers.com Business Hours Mon 
+   .. ly owned and operated for over 70 years. In 1995, the showroom was moved from 373 Washington St. to 333 Washington St., Suite 305. Expert jewelers to assist you with purchase, repairs, and appraisals. Get in touch with us today! Graduate Gemologists
+   .. taff Amoroso Jewelers set out to provide the residents of Boston with educated appraisals, gemstone identification, and GIA diamond nomenclature. For this reason, Robert Amoroso became the first graduate gemologist to open a gem lab in the are
+   .. so became the first graduate gemologist to open a gem lab in the area. John Amoroso and Denise Cote have received their GIA diplomas. We are dedicated to offering our customers top-quality service and jewelry at reasonable prices. When we purc
+   ..  We utilize local talent and skilled craftsmen from overseas to create our pieces, rather than buy them finished from a manufacturer. Also we own our location, eliminating high rent prices. Custom designs Repairs - Full-service expert repairs by mast
+##### https://www.dubinjewelers.com
+  OK https://www.dubinjewelers.com/ -> https://www.dubinjewelers.com/
+  OK https://www.dubinjewelers.com/contact -> https://www.dubinjewelers.com/contact.html
+  mailto []
+  tel []
+  emails []
+  phones ['617.742.3132']
+  soc []
+   .. Closed Tuesday-Thursday 11am-5pm Saturday By appointment We are located in the Jewelers Building: 333 Washington Street Suite 610 Boston, MA 02108 617.742.3132 * Indicates required field Name * First Last Email * Comment * Submit Proudly powered by 
+##### https://www.freedmandiamonds.com
+  OK https://www.freedmandiamonds.com/ -> https://freedmandiamonds.com/
+  mailto []
+  tel []
+  emails ['freedmanjewelers@gmail.com']
+  phones ['617-227-4294']
+   .. Freedman Jewelers | 3rd Generation Full Service Jewelry Store Freedman Jewelers | 3rd Generation Full Service Jewelry Store 0 Search Home Diamonds Engagem
+   ..  fine jewelry, where timeless elegance meets modern sophistication. Shop Fine Jewelry Exquisite Diamonds A selection of lab-grown and natural diamonds that is stunning, conflict-free and affordably-priced. Learn More Explore the refined craftsmanshi
+   .. r Custom Rings EXPLORE Shop Fine Jewelry Earrings 264 Items Necklaces 194 Items Bracelets 149 Items The Freedman Legacy Founded in 1945 by David Freedman, Freedman Jewelers is a third-generation family business. We've evolved with the times, maint
+   ..  with the times, maintaining our core values while embracing advanced technology. ABOUT OUR HISTORY The Freedman Legacy Founded in 1945 by David Freedman, Freedman Jewelers is a third-generation family business. We've evolved with the times, maint
+   .. tions of everything that was going on - by phone, text, and email - every step of the way. Anthony C. 333 Washington St Suite 408, Boston, MA Monday - Saturday 10am–4pm *Open till 6pm with an appointment on Tuesdays , Wednesdays & Thursdays 617-227-
+##### https://santisiandbove.com
+  OK https://santisiandbove.com/ -> https://www.santisiandbove.com/
+  mailto []
+  tel []
+  emails ['info@santisiandbove.com']
+  phones ['(617)-758-9942', '617-523-1131']
+  soc ['http://instagram.com/squarespace', 'http://twitter.com/squarespace']
+   ..  Kim at (617)-758-9942 to Book an Appointment The Entire Jeweler’s Building is Closed on Sundays Kimberley Murphy Third Generation Owner Contact 333 Washington Street Suite 418, Boston MA 02108 info@santisiandbove.com 617-523-1131 Summer  Hours On va
+##### https://www.bedrosianjewelry.com
+  OK https://www.bedrosianjewelry.com/ -> https://www.bedrosianjewelry.com/
+  mailto []
+  tel []
+  emails []
+  phones []
+  soc ['https://www.facebook.com/pages/Bedrosian-Jewelry/212172395518324']
+   .. mond Request Form Purchase Form Testimonials Contact Us Welcome to our website Bedrosian Jewelry, a family run business since 1987, prides itself on our expertise and superior workmanship.  We offer quality service and an honest value that is unsurpa
+##### https://www.regencydiamond.com
+  OK https://www.regencydiamond.com/ -> https://www.regencydiamond.com/
+  OK https://www.regencydiamond.com/contact -> https://www.regencydiamond.com/contact
+  OK https://www.regencydiamond.com/contact-us -> https://www.regencydiamond.com/contact-us
+  OK https://www.regencydiamond.com/about -> https://www.regencydiamond.com/about
+  OK https://www.regencydiamond.com/about-us -> https://www.regencydiamond.com/about-us
+  OK https://www.regencydiamond.com/our-story -> https://www.regencydiamond.com/our-story
+  mailto []
+  tel []
+  emails []
+  phones []
+  soc []
+##### https://www.idstrading.com
+  OK https://www.idstrading.com/ -> https://www.idstrading.com/
+  OK https://www.idstrading.com/contact -> https://www.idstrading.com/contact
+  OK https://www.idstrading.com/contact-us -> https://www.idstrading.com/contact-us
+  OK https://www.idstrading.com/about -> https://www.idstrading.com/about
+  mailto ['mailto:info@idstrading.com']
+  tel ['tel:+6177205233']
+  emails ['info@idstrading.com']
+  phones ['617-720-5233']
+  soc ['https://www.facebook.com/ids.trading', 'https://www.instagram.com/ids_trading']
+   .. IDS Trading | LOGIN/REGISTER Your cart is empty. Home Natural Diamonds White Diamonds Fancy Color Diamonds Lab-Grown Diamonds Contact Us BROWSE NATURAL DIAMONDS BROWSE LAB-GROWN DIAMONS Search by shape Round Oval Cushion Radiant Princes
+   .. shion Radiant Princess Emerald Pear Browse all shapes IDS Trading Established in 1996, IDS Trading is a leading diamond wholesaler in New England. Located in downtown Boston, we work with companies all across the USA, and all over the world. At IDS 
+   .. ighest quality of merchandise at competitive prices to each of our clients. Our in-house stock includes a wide array of GIA/EGL certified diamonds ranging from 0.30 carats to 10 carats and more in various shapes, cuts, clarities, and colors. W
+   .. rovide diamond of only the highest quality at reasonable prices. Our stones are certified by the leading laboratories – GIA, HRD, IGI, EGL. Customer Service. We do our best to provide the best customer service for all our clients. Trust. IDS T
+   .. ` needs and requests. Subscribe to our newsletter Your email * Leave this field blank CONTACT US 333 Washington street, Suite 643 Boston, MA 02108 Phone 617-720-5233 Email info@idstrading.com Follow us Copyright © 2021 IDS Trading YCS-Yahalom Creati
+   .. al Diamonds White Diamonds Fancy Color Diamonds Lab-Grown Diamonds Contact Us Contact Contact Us 333 Washington street, Suite 643 Boston, MA 02108 617-720-5233 info@idstrading.com Your name * Your email address * Subject * Message * Leave this field
+   .. Diamonds White Diamonds Fancy Color Diamonds Lab-Grown Diamonds Contact Us Contact Us Contact Us 333 Washington street, Suite 643 Boston, MA 02108 617-720-5233 info@idstrading.com Your name * Your email address * Subject * Message * Leave this field
+   .. g Inc. and its team of professionals. Started by Isaac Erez and soon followed by Steve Rudoff, who have worked together since 1988 when they began together at Dynasty International Inc. Leslie Lavigne joined Isaac and Steve in 1995. What makes Cedar 
+##### https://bouvierjewelersfordiamonds.com
+  mailto []
+  tel []
+  emails []
+  phones []
+  soc []

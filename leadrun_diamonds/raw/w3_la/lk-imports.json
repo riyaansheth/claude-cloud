@@ -1,0 +1,36 @@
+{
+ "business": "LK Imports",
+ "category_as_listed": "Diamonds, Melees and larger sizes",
+ "phone": "(213) 622-0264",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "",
+ "address": "606 South Olive Street, Suite 2170, Los Angeles, California, United States, 90014",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "Suite 2170",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "melee"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Melees and larger sizes); secondary: Gemstones",
+ "drop_reason": ""
+}

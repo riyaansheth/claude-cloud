@@ -1,0 +1,36 @@
+{
+ "business": "David Klass Jewelry",
+ "category_as_listed": "Jewelry, Custom Jewelry And Restorations",
+ "phone": "(213) 489-4569",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://davidklassjewelry.com",
+ "address": "607 South Hill Street, Arcade 8, Los Angeles, California, United States, 90014",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "Arcade 8",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "estate"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Jewelry (Custom Jewelry And Restorations); secondary: Diamonds, Estate Jewelry",
+ "drop_reason": ""
+}

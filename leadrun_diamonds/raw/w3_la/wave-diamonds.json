@@ -1,0 +1,36 @@
+{
+ "business": "Wave Diamonds",
+ "category_as_listed": "Diamonds, Gia eglusa",
+ "phone": "",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "",
+ "address": "550 South Hill Street, Suite 1649, Los Angeles, California, United States, 90013",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "International Jewelry Center",
+ "suite": "Suite 1649",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "gia-certified"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Gia eglusa)",
+ "drop_reason": ""
+}

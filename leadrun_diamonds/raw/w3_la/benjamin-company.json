@@ -1,0 +1,39 @@
+{
+ "business": "Benjamin & Company",
+ "category_as_listed": "Manufacturer, Tennis bracelets, necklaces & body jewelry.",
+ "phone": "(213) 622-0260",
+ "email": "info@benjamincompany.com",
+ "email_source": "https://www.benjamincompany.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.benjamincompany.com",
+ "address": "550 South Hill Street, Suite 875, Los Angeles, California, United States, 90013",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [
+  "(213) 622-0260",
+  "800-359-0593"
+ ],
+ "tel_source": "https://www.benjamincompany.com/, https://www.benjamincompany.com/about, https://www.benjamincompany.com/about-us, https://www.benjamincompany.com/contact, https://www.benjamincompany.com/contact-us, https://www.benjamincompany.com/information/aboutUs",
+ "socials": [],
+ "building": "International Jewelry Center",
+ "suite": "Suite 875",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "manufacturer"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Manufacturer (Tennis bracelets, necklaces & body jewelry.)",
+ "drop_reason": ""
+}

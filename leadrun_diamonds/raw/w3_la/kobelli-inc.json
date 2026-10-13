@@ -1,0 +1,49 @@
+{
+ "business": "Kobelli Inc",
+ "category_as_listed": "Diamonds, eCommerce",
+ "phone": "(213) 689-0076",
+ "email": "info@kobelli.com",
+ "email_source": "https://kobelli.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Kobi Katz",
+ "role": "Founder",
+ "contact_source": "https://kobelli.com/pages/about",
+ "website": "https://kobelli.com",
+ "address": "801 South Flower Street, Sutie 305, Los Angeles, California, United States, 91017",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [
+  "800.432.3222",
+  "2136890076"
+ ],
+ "tel_source": "https://kobelli.com/, https://kobelli.com/pages/about-us, https://kobelli.com/pages/contact-us, https://kobelli.com/pages/about, https://kobelli.com/policies/contact-information",
+ "socials": [
+  "https://twitter.com/kobellijewelry",
+  "https://www.facebook.com/KobelliJewelry",
+  "https://www.instagram.com/kobellijewelry",
+  "https://www.pinterest.com/kobelli",
+  "https://www.tiktok.com/@kobelli",
+  "https://www.youtube.com/user/DiamondMeJewelry",
+  "https://www.instagram.com/stories/highlights/18000705068309552"
+ ],
+ "building": "",
+ "suite": "Suite 305",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "manufacturer",
+  "since-1980",
+  "importer"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds (eCommerce); secondary: Manufacturer/ Jewelry",
+ "drop_reason": ""
+}

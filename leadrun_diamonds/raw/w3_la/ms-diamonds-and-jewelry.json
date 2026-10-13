@@ -1,0 +1,39 @@
+{
+ "business": "MS Diamonds and Jewelry",
+ "category_as_listed": "Diamonds",
+ "phone": "(213) 627-5188",
+ "email": "info@msdiamonds.la",
+ "email_source": "https://msdiamonds.la/contact/",
+ "linkedin_url": "https://www.linkedin.com/in/moshe-salem-a692bba/",
+ "linkedin_source": "WebSearch: \"Moshe Salem\" MS Diamonds Los Angeles LinkedIn",
+ "contact_person": "Moshe Salem",
+ "role": "Founder",
+ "contact_source": "https://msdiamonds.la/about/",
+ "website": "https://msdiamonds.la",
+ "address": "606 South Hill Street, Suite 1101, Los Angeles, California, United States, 90014",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [
+  "2136275188"
+ ],
+ "tel_source": "https://msdiamonds.la/, https://msdiamonds.la/about/, https://msdiamonds.la/contact/",
+ "socials": [
+  "https://www.facebook.com/DiamondsandJewelry",
+  "https://www.instagram.com/msdiamondsandjewelry"
+ ],
+ "building": "",
+ "suite": "Suite 1101",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds; secondary: Jewelry",
+ "drop_reason": ""
+}

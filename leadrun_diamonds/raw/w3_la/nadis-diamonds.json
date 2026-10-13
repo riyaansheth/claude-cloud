@@ -1,0 +1,41 @@
+{
+ "business": "Nadis Diamonds",
+ "category_as_listed": "Diamonds, Any shape, any sizes white and color diamonds",
+ "phone": "(213) 489-1915",
+ "email": "info@nadis.com",
+ "email_source": "https://www.nadis.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Stephan Gozumian",
+ "role": "Featured On About Page",
+ "contact_source": "https://www.nadis.com/about-us",
+ "website": "https://www.nadis.com",
+ "address": "625 South Hill Street, Suite 134, Los Angeles, California, United States, 90014",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [
+  "213-489-1915",
+  "213-489-5428"
+ ],
+ "tel_source": "https://www.nadis.com/, https://www.nadis.com/about-us, https://www.nadis.com/contact",
+ "socials": [],
+ "building": "",
+ "suite": "Suite 134",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "fancy-color",
+  "importer",
+  "since-1978"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds (Any shape, any sizes white and color diamonds); secondary: Jewelry",
+ "drop_reason": ""
+}

@@ -1,0 +1,38 @@
+{
+ "business": "Sparkling Jewelry, Inc.",
+ "category_as_listed": "Diamonds, D-H color 50 points and below",
+ "phone": "(213) 623-1817",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://sparklingjewelry.com",
+ "address": "550 South Hill Street, Suite 1141, Los Angeles, California, United States, 90013",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [
+  "+18886231817"
+ ],
+ "tel_source": "https://sparklingjewelry.com, https://sparklingjewelry.com/about-us, https://sparklingjewelry.com/contact-us",
+ "socials": [],
+ "building": "International Jewelry Center",
+ "suite": "Suite 1141",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "fancy-color"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (D-H color 50 points and below); secondary: Jewelry",
+ "drop_reason": ""
+}

@@ -1,0 +1,43 @@
+{
+ "business": "Revere Jewels",
+ "category_as_listed": "Diamonds",
+ "phone": "(310) 775-2025",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://reverejewels.com",
+ "address": "9250 Wilshire Blvd, Suite 224, Beverly Hills, California, United States, 90212",
+ "city": "Beverly Hills",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "tel_numbers": [
+  "3107752025"
+ ],
+ "tel_source": "https://reverejewels.com/, https://reverejewels.com/about-us/, https://reverejewels.com/about-us, https://reverejewels.com/contact, https://reverejewels.com/contact/",
+ "socials": [
+  "https://twitter.com/reverejewels",
+  "https://www.facebook.com/RevereJewels",
+  "https://www.instagram.com/reverejewels",
+  "https://www.youtube.com/channel/UCXqYLbjFAwfr0dN8HmGtHUQ"
+ ],
+ "building": "",
+ "suite": "Suite 224",
+ "trade_memberships": [
+  "Bourse",
+  "DCWC"
+ ],
+ "hooks": [
+  "estate"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds; secondary: Estate Jewelry, Watches",
+ "drop_reason": ""
+}
