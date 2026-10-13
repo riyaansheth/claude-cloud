@@ -334,3 +334,8 @@ def test_regex_names_need_given_name():
     assert [p[0] for p in util.extract_people(t)] == []          # 'Mish' not a common given name
     assert [p[0] for p in util.extract_people("Owner: Dana Hartwell")] == ["Dana Hartwell"]
     assert util.is_role_email("careers@x.test") and util.is_role_email("concierge@x.test")
+
+
+def test_street_is_not_a_person():
+    assert not util.plausible_name("Madison Ave", need_given=True)
+    assert util.plausible_name("Madison Clarke", need_given=True)

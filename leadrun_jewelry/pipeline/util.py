@@ -243,6 +243,10 @@ yellow white rose karat carat sapphire ruby emerald pearl pearls opal topaz piec
 heritage legacy quality service services welcome visit located location hours open
 contact appointment book schedule shop online""".split())
 
+STREET_WORDS = {"ave", "avenue", "st", "street", "blvd", "boulevard", "rd", "road", "dr",
+                "drive", "ln", "lane", "way", "pl", "place", "plaza", "sq", "square", "park",
+                "center", "centre", "mall", "ct", "court", "pkwy", "parkway", "hwy", "highway",
+                "village", "heights", "hills", "beach", "city", "county", "district"}
 _ROLE_ALT = "|".join(sorted((re.escape(k) for k in ROLE_WORDS), key=len, reverse=True))
 _NAME_THEN_ROLE = re.compile(_NAME + r"\s*(?:,|-|–|—|\||is the|is our|,? our)?\s*(?i:the\s+)?((?i:" + _ROLE_ALT + r"))\b")
 _ROLE_THEN_NAME = re.compile(r"\b((?i:" + _ROLE_ALT + r"))\s*(?::|,|-|–|—|\bis\b|\bby\b)?\s*" + _NAME)
@@ -258,6 +262,8 @@ def plausible_name(n, business_name="", need_given=False):
         if not parts or parts[0].lower() not in FIRST_NAMES:
             return False
     if len(parts) < 2 or len(parts) > 4:
+        return False
+    if parts[-1].lower() in STREET_WORDS:      # "Madison Ave", "Lincoln Park"
         return False
     if any(p.lower().strip("'") in NOT_NAMES for p in parts):
         return False
