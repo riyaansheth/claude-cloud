@@ -197,7 +197,10 @@ def classify_segment(name, category="", site_text="", osm_tags=None):
     osm_tags = osm_tags or {}
     # A crawled site with no jewelry vocabulary at all is not a jeweler's site
     # (e.g. a law firm "Mintz & Gold" filed under Jewelers by a directory).
-    if (site_text and len(site_text) > 200 and not SITE_JEWELRY.search(site_text)
+    strong_name = _rx(r"jewel\w*", r"gems?", r"diamonds?", r"goldsmiths?", r"silversmiths?",
+                      r"watch(?:es)?", r"jewell?ery").search(name or "")
+    if (not strong_name and site_text and len(site_text) > 200
+            and not SITE_JEWELRY.search(site_text)
             and not re.search(r"facebook|instagram|log in|sign in|temporarily blocked",
                               site_text[:400], re.I)):
         return None

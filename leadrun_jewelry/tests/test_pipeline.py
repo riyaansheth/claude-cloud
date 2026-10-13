@@ -367,3 +367,9 @@ def test_directory_self_links_are_not_websites():
     assert util.root_url("https://lanejewelersny.localsearch.com/") == "https://lanejewelersny.localsearch.com"
     assert scope.classify_segment("Sister Jewelry", "Jewelers",
                                   "Facebook Email or phone Password You're Temporarily Blocked " * 8) is not None
+
+
+def test_strong_jewelry_name_survives_thin_site():
+    js_shell = "Please enable JavaScript to view this site. Loading... Cookies policy accept " * 5
+    assert scope.classify_segment("Paul's Jewelry", "Jewelers", js_shell) == "Jewelry retailer"
+    assert scope.classify_segment("Loft", "Jewelers, Clothing Stores", "Women's clothing, dresses, pants and tops " * 8) is None

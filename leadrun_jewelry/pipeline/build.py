@@ -363,6 +363,8 @@ def assert_schema(out_rows, shared_phones):
 
 def build(log=print):
     con = db.connect()
+    # Builder decisions are recomputed every pass from the current rules.
+    con.execute("DELETE FROM dropped WHERE stage='builder'")
     listings, crawls, socials_map, people, linked = _load(con)
     drops = Counter()
     rows = []
@@ -390,7 +392,7 @@ def build(log=print):
             reason = "no-segment"
         if reason:
             db.drop(con, lst["bkey"], lst["name"], lst["category"], lst["market"], lst["origin"],
-                    reason, "builder", lst["source_url"])
+                    reason, "builder", lst["source_url"], keep=True)
             drops[reason] += 1
             continue
         lst["segment"] = seg

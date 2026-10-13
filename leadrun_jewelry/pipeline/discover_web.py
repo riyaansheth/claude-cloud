@@ -20,7 +20,7 @@ from .util import (fmt_phone, parse_city_state, phone_digits, root_url, sha,
 
 
 def ingest(con, rec, stats, stage="discovery"):
-    if not rec.get("name") or db.is_dropped(con, rec["bkey"]):
+    if not rec.get("name") or db.is_dropped(con, rec["bkey"], stage_not="builder"):
         return
     reason = scope.kill_reason(rec["name"], rec.get("category", ""),
                                rec.get("address", ""), rec["market"])

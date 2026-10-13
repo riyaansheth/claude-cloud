@@ -96,7 +96,7 @@ def run(markets, log=print):
             if not rec["name"]:
                 stats["unnamed"] += 1
                 continue
-            if db.is_dropped(con, rec["bkey"]):
+            if db.is_dropped(con, rec["bkey"], stage_not="builder"):
                 continue
             tags = rec["extra"]["tags"]
             reason = scope.kill_reason(rec["name"], rec["category"], rec["address"],

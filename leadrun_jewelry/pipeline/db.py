@@ -107,16 +107,21 @@ def upsert_listing(con, rec):
     return False
 
 
-def drop(con, bkey, name, category, market, origin, reason, stage, source_url):
+def drop(con, bkey, name, category, market, origin, reason, stage, source_url, keep=False):
+    """Record a drop. Discovery/site-check drops also remove the listing; builder
+    drops (keep=True) leave it in place, so a rule change can be re-evaluated
+    without re-scraping — the builder re-applies every rule on each pass."""
     from .util import now_iso
-    con.execute("INSERT OR IGNORE INTO dropped VALUES (?,?,?,?,?,?,?,?,?)",
+    con.execute("INSERT OR REPLACE INTO dropped VALUES (?,?,?,?,?,?,?,?,?)",
                 (bkey, name, category, market, origin, reason, stage, source_url, now_iso()))
-    # A listing dropped later (site check / builder) leaves the research pool.
-    con.execute("DELETE FROM listings WHERE bkey=?", (bkey,))
+    if not keep:
+        con.execute("DELETE FROM listings WHERE bkey=?", (bkey,))
 
 
-def is_dropped(con, bkey):
-    return con.execute("SELECT 1 FROM dropped WHERE bkey=?", (bkey,)).fetchone() is not None
+def is_dropped(con, bkey, stage_not=None):
+    sql = "SELECT 1 FROM dropped WHERE bkey=?" + (" AND stage!=?" if stage_not else "")
+    args = (bkey, stage_not) if stage_not else (bkey,)
+    return con.execute(sql, args).fetchone() is not None
 
 
 def add_person(con, bkey, name, role, source_url, method, evidence=""):
