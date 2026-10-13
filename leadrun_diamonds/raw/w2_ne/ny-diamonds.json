@@ -1,0 +1,33 @@
+{
+  "business": "NY Diamonds",
+  "category_as_listed": "",
+  "phone": "(646) 868-2221",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.nydiamonds.com",
+  "address": "333 Washington St STE 230, Boston MA 02108",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.nydiamonds.com/about-us.htm",
+  "tel_numbers": [
+    "(646) 868-2221"
+  ],
+  "tel_source": "https://www.nydiamonds.com/about-us.htm",
+  "socials": [],
+  "building": "Jewelers Building (333 Washington St)",
+  "suite": "Ste 230",
+  "trade_memberships": [],
+  "hooks": [],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond business with Boston Jewelers Building suite (NY phone number); trade status unverified.",
+  "drop_reason": ""
+}

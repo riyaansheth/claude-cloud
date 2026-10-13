@@ -1,0 +1,33 @@
+{
+  "business": "The Diamond Spot",
+  "category_as_listed": "",
+  "phone": "(617) 816-5710",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://thediamondspotboston.com",
+  "address": "333 Washington Street, Suite 430, Boston, MA",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://thediamondspotboston.com/2020/07/08/the-diamond-spot-on-boston-jewelers-building/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/TheDiamondSpot/"
+  ],
+  "building": "Jewelers Building (333 Washington St)",
+  "suite": "Ste 430",
+  "trade_memberships": [],
+  "hooks": [],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond specialist in the Jewelers Building; trade vs retail unverified.",
+  "drop_reason": ""
+}

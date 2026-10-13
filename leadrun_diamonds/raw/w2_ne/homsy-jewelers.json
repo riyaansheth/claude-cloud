@@ -1,0 +1,36 @@
+{
+  "business": "Homsy Jewelers",
+  "category_as_listed": "",
+  "phone": "(617) 523-1918",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Nicholas Homsy",
+  "role": "Founder",
+  "contact_source": "https://www.homsyjewelers.com/about-us",
+  "website": "https://www.homsyjewelers.com",
+  "address": "333 Washington Street, Suite 215, Boston, MA 02108",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.homsyjewelers.com/contact",
+  "tel_numbers": [
+    "(617) 523-1918"
+  ],
+  "tel_source": "https://www.homsyjewelers.com/contact",
+  "socials": [],
+  "building": "Jewelers Building (333 Washington St)",
+  "suite": "Ste 215",
+  "trade_memberships": [],
+  "hooks": [
+    "family-business",
+    "gia-certified"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Family jeweler carrying GIA-certified loose diamonds; bridal loose-stone specialist, retail-facing.",
+  "drop_reason": ""
+}

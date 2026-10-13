@@ -1,0 +1,38 @@
+{
+  "business": "Frank Salese Fine Diamonds",
+  "category_as_listed": "Diamonds-Wholesale",
+  "phone": "215-922-5995",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://philadelphiapa.diamonds",
+  "address": "733 Sansom St, Philadelphia, PA 19106",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.superpages.com/philadelphia-pa/diamonds-wholesale",
+  "tel_numbers": [
+    "215-922-5995"
+  ],
+  "tel_source": "https://philadelphiapa.diamonds/",
+  "socials": [
+    "https://www.facebook.com/FrankSaleseFineDiamonds/"
+  ],
+  "building": "Jewelers Row",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "family-business",
+    "wholesaler"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Says it offers wholesale diamonds on Jewelers Row, by appointment; family owned 50+ years (Facebook).",
+  "drop_reason": ""
+}

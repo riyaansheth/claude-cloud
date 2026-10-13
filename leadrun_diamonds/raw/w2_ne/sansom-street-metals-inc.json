@@ -1,0 +1,36 @@
+{
+  "business": "Sansom Street Metals Inc.",
+  "category_as_listed": "Wholesale Diamonds & Precious Metals",
+  "phone": "215-629-0799",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.sansomstreetmetals.com",
+  "address": "730 Sansom St, Philadelphia, PA",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.sansomstreetmetals.com/",
+  "tel_numbers": [
+    "215-629-0799"
+  ],
+  "tel_source": "https://www.sansomstreetmetals.com/location",
+  "socials": [],
+  "building": "Jewelers Row",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesaler",
+    "trade-only"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Trade-only (not retail) seller of wholesale diamonds and precious metals; also buys gold/diamonds - borderline with metals buying.",
+  "drop_reason": ""
+}

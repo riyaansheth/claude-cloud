@@ -1,0 +1,36 @@
+{
+  "business": "Boston Diamond Studio",
+  "category_as_listed": "",
+  "phone": "(617) 227-1559",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.bostondiamondstudio.com",
+  "address": "333 Washington Street, Suite 226, Boston, MA",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bostondiamondstudio.com/contact-us/",
+  "tel_numbers": [
+    "(617) 227-1559"
+  ],
+  "tel_source": "https://www.bostondiamondstudio.com/contact-us/",
+  "socials": [],
+  "building": "Jewelers Building (333 Washington St)",
+  "suite": "Ste 226",
+  "trade_memberships": [],
+  "hooks": [
+    "natural",
+    "lab-grown"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Sells loose natural and lab-grown diamonds from Jewelers Building studio; bridal/loose-stone specialist, retail-facing.",
+  "drop_reason": ""
+}

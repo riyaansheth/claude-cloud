@@ -1,0 +1,39 @@
+{
+  "business": "Bostonian Jewelers & Manufacturers",
+  "category_as_listed": "",
+  "phone": "(617) 523-2934",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://bostonianjewelers.com",
+  "address": "333 Washington St, Ste 711-713, Boston, MA 02108",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://bostonianjewelers.com/pages/contact-us",
+  "tel_numbers": [
+    "(617) 523-2934"
+  ],
+  "tel_source": "https://bostonianjewelers.com/pages/contact-us",
+  "socials": [],
+  "building": "Jewelers Building (333 Washington St)",
+  "suite": "Ste 710-713",
+  "trade_memberships": [
+    "Jewelers of America"
+  ],
+  "hooks": [
+    "manufacturer",
+    "family-business",
+    "since-1969"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Family-owned jewelry manufacturer with on-site production, diamond setting, CAD/CAM (JA member, founded 1969/1980 per sources).",
+  "drop_reason": ""
+}
