@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: site unreachable - listed website is a third-party directory page (jewelersjournal.com/listing/shriji-gems-inc), no own site found",
+ "verified": false
 }

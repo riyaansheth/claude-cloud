@@ -11,21 +11,33 @@
  "reviews": "21",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/diamond-hotline-467842992",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@weddingbandswholesale.com",
+ "email_source": "https://www.weddingbandswholesale.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "800-515-1561"
+ ],
+ "tel_source": "https://www.weddingbandswholesale.com/",
+ "socials": [
+  "https://www.facebook.com/weddingbandswholesale",
+  "https://twitter.com/wbwholesale",
+  "https://www.pinterest.com/weddingbands1"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Suite 302A",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "bridal",
+  "40-years",
+  "diamond-district"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Wedding Bands Wholesale com, Inc. (48 West 48th St., Suite 302A, Diamond District): \"We design and manufacture various styles of wedding rings\", diamond bridal jewelry, \"over 40 years of experience\".",
+ "verified": true
 }

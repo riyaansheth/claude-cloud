@@ -11,21 +11,38 @@
  "reviews": "32",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/dalumi-diamond-corp-532812807",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@dalumi.com",
+ "email_source": "https://www.dalumi.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
+ "contact_person": "Biana Catapano",
  "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_source": "https://www.dalumi.com/contact",
+ "tel_numbers": [
+  "+1 212-644-9030",
+  "+1-917-543-4005"
+ ],
+ "tel_source": "https://www.dalumi.com/ ; https://www.dalumi.com/contact",
+ "socials": [
+  "https://www.facebook.com/dalumidiamonds",
+  "https://www.instagram.com/dalumidiamonds/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "De Beers Sightholder"
+ ],
+ "hooks": [
+  "since-1960",
+  "2nd-generation",
+  "manufacturer",
+  "natural",
+  "large-stones",
+  "yellow-diamonds",
+  "sightholder"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "\"Dalumi specializes in manufacturing, polishing, and marketing finest quality natural diamonds\"; De Beers Sightholder since 1993 with a Botswana factory and offices incl. New York and Los Angeles.",
+ "verified": true
 }

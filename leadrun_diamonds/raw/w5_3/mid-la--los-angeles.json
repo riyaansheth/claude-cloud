@@ -11,21 +11,41 @@
  "reviews": "65",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/mid-la-16327101",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "losangeles@middiamonds.com",
+ "email_source": "https://www.middiamonds.com/contact-us/mid-los-angeles-llc/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Michael Meirov",
+ "role": "CEO",
+ "contact_source": "https://www.middiamonds.com/about/number-one-diamond-exporter/",
+ "tel_numbers": [
+  "+1-213-689-4355",
+  "+1-800-689-7077"
+ ],
+ "tel_source": "https://www.middiamonds.com/contact-us/mid-los-angeles-llc/",
+ "socials": [
+  "https://www.facebook.com/MIDLosangeles/",
+  "https://www.facebook.com/middiamonds",
+  "https://www.instagram.com/middiamonds/",
+  "https://twitter.com/MIDDIAMONDS",
+  "https://www.pinterest.com/middiamonds/"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Suite 1155",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "exporter",
+  "wholesale",
+  "natural",
+  "fancy-color",
+  "gia",
+  "igi",
+  "hrd",
+  "family-owned",
+  "jck-exhibitor"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "\"Wholesale diamonds in Los Angeles\" - M.I.D. LA LLC (606 South Olive Street Suite 1155) of MID House of Diamonds, \"Israel's leading diamond exporter\", offering \"a standing wholesale arrangement\".",
+ "verified": true
 }

@@ -11,21 +11,34 @@
  "reviews": "20",
  "source_url": "https://www.yellowpages.com/webster-ny/mip/mj-gabel-541657793",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@mjgabel.com",
+ "email_source": "https://mjgabel.com/",
+ "linkedin_url": "https://www.linkedin.com/in/matthew-gabel-8b8a70b/",
+ "linkedin_source": "WebSearch extended: \"Matthew Gabel\" MJ Gabel LinkedIn (profile lists company website www.mjgabel.com)",
+ "contact_person": "Matthew Gabel",
+ "role": "Owner",
+ "contact_source": "https://mjgabel.com/about/",
+ "tel_numbers": [
+  "5855981090"
+ ],
+ "tel_source": "https://mjgabel.com/",
+ "socials": [
+  "https://www.facebook.com/mjgabeljewelry/",
+  "https://www.instagram.com/mjgabeljewelry/",
+  "https://www.youtube.com/channel/UCEALcMZvaZFEuSc8L9loSAQ"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-2011",
+  "estate-buyer",
+  "broker",
+  "consignment",
+  "gia-experts"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamond Buyers, Jewelry Buyers"
+ "scope_reason": "Site: \"Sell, consign, broker or auction your diamond jewelry using our network\"; \"Buyers & Consignors of Fine Jewelry\" offering \"Direct diamond jewelry purchasing\" and estate buying - estate diamond buyer/broker.",
+ "verified": true
 }

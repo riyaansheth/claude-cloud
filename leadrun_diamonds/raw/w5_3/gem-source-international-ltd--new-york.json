@@ -11,21 +11,30 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/gem-source-international-ltd-542829334",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "David.Birnbaum.NY@gmail.com",
+ "email_source": "https://www.rare1.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "David Birnbaum",
+ "role": "Principal",
+ "contact_source": "https://www.rare1.com/",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.instagram.com/davidbirnbaumrare1/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "rare-diamonds",
+  "asscher-cut",
+  "large-stones",
+  "colored-gems",
+  "private-jeweler"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Rare 1 \"headed by internationally recognized private jeweler and gem authority David Birnbaum\", \"offering the rarest diamonds in the world\" (Asscher cut diamonds) plus rare rubies, emeralds and sapphires.",
+ "verified": true
 }

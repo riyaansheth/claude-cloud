@@ -11,21 +11,32 @@
  "reviews": "35",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/johnny-ritz-co-453653931",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "jonny@jonnyritz.com",
+ "email_source": "https://www.jonnyritz.com/contact-us",
+ "linkedin_url": "https://www.linkedin.com/in/jonny-ritz-48206b1/",
+ "linkedin_source": "WebSearch extended: \"Jonny Ritz\" Jonny Ritz & Company jeweler LinkedIn",
+ "contact_person": "Jonny Ritz",
+ "role": "Featured On About Page",
+ "contact_source": "https://www.jonnyritz.com/",
+ "tel_numbers": [
+  "+12134895111"
+ ],
+ "tel_source": "https://www.jonnyritz.com/contact-us",
+ "socials": [
+  "http://instagram.com/brilliancewithjonnyritz",
+  "https://www.facebook.com/jonnyritzandco"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Suite 310",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "gemology-trained",
+  "bridal",
+  "certified-diamonds",
+  "custom-design"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "Private bridal jeweler by the LA Jewelry District (523 W 6th St Ste 310) providing \"an array of accurately certified gems\" for engagement rings with gemology-led client education - bridal specialist sourcing certified stones (borderline).",
+ "verified": true
 }
