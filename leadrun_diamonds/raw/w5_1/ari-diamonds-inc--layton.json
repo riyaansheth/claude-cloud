@@ -11,21 +11,35 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/layton-ut/mip/ari-diamonds-inc-2746748",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "panna.aridiamonds@gmail.com",
+ "email_source": "https://www.aridiamonds.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/panna-goott-48480724/",
+ "linkedin_source": "\"Panna Goott\" Ari Diamonds LinkedIn",
+ "contact_person": "Panna Goott",
+ "role": "Owner",
+ "contact_source": "https://www.cience.com/company/ari-diamonds/3127050658431507516",
+ "tel_numbers": [
+  "801-255-8992",
+  "801-776-8830"
+ ],
+ "tel_source": "https://www.aridiamonds.com/contact",
+ "socials": [
+  "https://www.facebook.com/aridiamonds",
+  "https://www.instagram.com/aridiamondsutah"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1994",
+  "family-owned",
+  "bridal",
+  "natural",
+  "lab-grown",
+  "direct-from-cutters"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Bridal jeweler sourcing its own loose stones: \"We source diamonds directly from cutters and manufacturers around the world\"; natural and lab-grown, family-owned since 1994.",
+ "verified": true
 }

@@ -11,21 +11,40 @@
  "reviews": "72",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/william-goldberg-diamond-corp-2949270",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@williamgoldberg.com",
+ "email_source": "https://www.williamgoldberg.com/contact/",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Saul Goldberg\" William Goldberg Diamond Corp LinkedIn",
+ "contact_person": "Saul Goldberg",
+ "role": "CEO",
+ "contact_source": "https://www.bloomberg.com/profile/person/25550157",
+ "tel_numbers": [
+  "212.980.4343"
+ ],
+ "tel_source": "https://www.williamgoldberg.com/contact/",
+ "socials": [
+  "https://www.instagram.com/williamgoldbergdiamonds",
+  "https://www.facebook.com/williamgoldbergdiamonds",
+  "https://www.pinterest.com/williamgoldberg",
+  "https://www.tiktok.com/@williamgoldbergdiamonds",
+  "https://www.youtube.com/user/goldbergdiamonds"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "RJC (since 2020)"
+ ],
+ "hooks": [
+  "since-1973",
+  "2nd-generation",
+  "cutter",
+  "manufacturer",
+  "natural",
+  "fancy-color",
+  "Ashoka"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "Diamantaire/cutter: \"In 1973, when a burgeoning diamantaire named William Goldberg established William Goldberg Diamond Corporation\"; family cuts major stones (Ashoka) in its workshop.",
+ "verified": true
 }
