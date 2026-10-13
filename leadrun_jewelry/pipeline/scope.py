@@ -13,6 +13,7 @@ def _rx(*terms):
 # reason -> pattern, matched against business name and source category.
 KILL_NAME_CATEGORY = [
     ("pawn", _rx(r"pawn", r"pawns", r"pawnbrokers?", r"pawn ?shops?", r"ez ?pawn",
+                 r"(?:jewelry|gold|diamond) ?(?:&|and) ?loans?", r"loan co\.?",
                  r"cash america", r"loans? on jewelry", r"collateral loans?")),
     ("gold-buyer", _rx(r"cash for gold", r"we buy gold", r"gold exchange",
                        r"scrap gold", r"bullion", r"precious metals? buyers?",

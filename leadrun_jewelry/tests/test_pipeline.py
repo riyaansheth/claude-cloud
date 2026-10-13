@@ -379,3 +379,12 @@ def test_strong_jewelry_name_survives_thin_site():
     js_shell = "Please enable JavaScript to view this site. Loading... Cookies policy accept " * 5
     assert scope.classify_segment("Paul's Jewelry", "Jewelers", js_shell) == "Jewelry retailer"
     assert scope.classify_segment("Loft", "Jewelers, Clothing Stores", "Women's clothing, dresses, pants and tops " * 8) is None
+
+
+def test_linkedin_prejudge():
+    pj = linkedin.prejudge
+    assert pj("Sami Saatchi", "SVS Fine Jewelry", "Los Angeles", "Sami Saatchi - Owner at SVS Fine Jewelry", "") == "match"
+    assert pj("Vahe Sargsyan", "Clean Casting Jewelry", "Los Angeles",
+              "Vahe Sargsyan - Student at University of Southern California", "Los Angeles") == "ambiguous"
+    assert pj("Michael Saghian", "Sage Designs", "Los Angeles", '4 "Michael Saghian" profiles', "") == "reject"
+    assert scope.kill_reason("State Street Jewelry & Loan", "Jewelers") == "pawn"

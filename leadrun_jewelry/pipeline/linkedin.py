@@ -126,10 +126,12 @@ def parse_google(html):
     """(url, title, snippet) for each linkedin.com/in/ organic result."""
     soup = BeautifulSoup(html, "lxml")
     out = []
-    for a in soup.select("a[href*='linkedin.com/in/']"):
-        href = a["href"]
-        if href.startswith("/url?"):
-            href = parse_qs(urlparse(href).query).get("q", [""])[0]
+    for a in soup.find_all("a", href=True):
+        href = html_unescape(a["href"])
+        if "/url?" in href:
+            qs = parse_qs(urlparse(href).query)
+            href = (qs.get("url") or qs.get("q") or [""])[0]
+        href = unquote(href)
         m = IN_RX.match(href)
         if not m:
             continue
@@ -141,6 +143,59 @@ def parse_google(html):
         out.append((url, h3.get_text(" ").strip() if h3 else a.get_text(" ").strip(),
                     box.get_text(" ")[:400] if box else ""))
     return out
+
+
+def parse_google_hidden(html):
+    """Google now links results via /goto?url=<opaque token>; for LinkedIn
+    profile results the title is 'First Last - Company - Role' and the snippet
+    names the location. Return (goto_href, title, snippet) for those."""
+    soup = BeautifulSoup(html, "lxml")
+    out = []
+    for h3 in soup.find_all("h3"):
+        a = h3.find_parent("a", href=True)
+        if not a:
+            continue
+        box = a.find_parent("div", attrs={"data-hveid": True}) or a.parent
+        text = box.get_text(" ", strip=True) if box else ""
+        if "linkedin" not in text.lower():
+            continue
+        out.append((html_unescape(a["href"]), h3.get_text(" ", strip=True), text[:400]))
+    return out
+
+
+def prejudge(person, business, city, title, snippet):
+    """Title-level screen before spending a click: 'match' needs first+last
+    name at the start of the title (profile titles read 'Name - …') and a tie
+    to jewelry, the business, or the city."""
+    parts = [p.lower() for p in re.findall(r"[A-Za-z]+", person)]
+    if len(parts) < 2:
+        return "reject"
+    if " - " not in title and " – " not in title:
+        return "reject"          # directory pages: '4 "X" profiles', addresses, 'Profile of X'
+    if re.search(r"profiles?\b|profils|people found|address|phone number|profile of", title, re.I):
+        return "reject"
+    head = re.split(r" [-–] ", title)[0].lower()
+    if not (parts[0] in head and parts[-1] in head):
+        return "reject"
+    rest = re.split(r" [-–] ", title, maxsplit=1)[1] if re.search(r" [-–] ", title) else ""
+    btoks = [t for t in name_tokens(business) if len(t) > 3 and t not in parts]
+    ctx = f"{rest} {snippet}".lower()
+    if JEWEL_CTX.search(rest) or any(t in ctx for t in btoks):
+        return "match"
+    return "ambiguous"       # same name, no tie to jewelry/this business (city alone is not enough)
+
+
+def resolve(br, href):
+    """Follow Google's redirect and return the linkedin.com/in/ URL (LinkedIn's
+    authwall keeps the original in sessionRedirect)."""
+    url = href if href.startswith("http") else "https://www.google.com" + href
+    try:
+        br.page.goto(url, wait_until="domcontentloaded", timeout=30000)
+    except Exception:  # noqa: BLE001
+        pass
+    final = unquote(br.page.url)
+    m = IN_RX.search(final)
+    return f"https://www.linkedin.com/in/{m.group(1).rstrip('/')}" if m else ""
 
 
 def run_browser(limit=None, log=print, min_gap=None):
@@ -175,7 +230,17 @@ def run_browser(limit=None, log=print, min_gap=None):
                 db.log_event(con, "linkedin", "error", f"{su}: {e}")
                 continue
             best = ("none", "", su, "")
-            for url, title, snip in parse_google(html):
+            for href, title, snip in parse_google_hidden(html):
+                v = prejudge(r["person"], r["business"], r["city"], title, snip)
+                if v == "reject":
+                    continue
+                url = resolve(br, href) if v == "match" else ""
+                if url and judge(r["person"], r["business"], r["city"], url, title, snip) != "reject":
+                    best = ("match", url, su, f"{title} | {snip[:200]}")
+                    break
+                if best[0] == "none":
+                    best = ("ambiguous", url, su, f"{title} | {snip[:200]}")
+            for url, title, snip in ([] if best[0] == "match" else parse_google(html)):
                 v = judge(r["person"], r["business"], r["city"], url, title, snip)
                 if v == "match":
                     best = ("match", url, su, f"{title} | {snip[:200]}")
