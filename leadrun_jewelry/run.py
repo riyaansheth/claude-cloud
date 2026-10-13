@@ -77,7 +77,8 @@ def stage(name, n=0, limit=None):
     if name in ("gmaps", "yp", "bbb", "trade"):
         return _browser_stage(name, n)
     if name == "crawl":
-        from pipeline import crawl_sites
+        from pipeline import crawl_sites, discover_web
+        discover_web.backfill_bbb_websites()
         return crawl_sites.run(limit=limit)
     if name == "socials":
         from pipeline import socials

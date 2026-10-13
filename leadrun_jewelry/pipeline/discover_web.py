@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 
 from . import config, db, scope
 from .http import Blocked
-from .util import (fmt_phone, parse_city_state, phone_digits, root_url, sha,
+from .util import (domain_of, fmt_phone, parse_city_state, phone_digits, root_url, sha,
                    state_from_zip, plausible_name)
 
 
@@ -213,10 +213,14 @@ def parse_bbb_profile(html, url, market):
         rec["zip"] = addr.get("postalCode", "")
     rec["phone"] = ld.get("telephone", "") or _txt(s.select_one("a[href^='tel:']"))
     site = ld.get("url") or ""
+    if "bbb.org" in site:
+        site = ""   # JSON-LD url is BBB's own profile page, not the business site
     if not site:
-        a = s.find("a", string=re.compile(r"Visit Website", re.I))
+        # The anchor holds an <svg> icon before the text, so match on get_text().
+        a = next((a for a in s.select("a[href^='http']")
+                  if re.search(r"visit website", a.get_text(" "), re.I)), None)
         site = a.get("href", "") if a else ""
-    rec["website"] = root_url(site) if site and "bbb.org" not in site else ""
+    rec["website"] = root_url(site) if site and "bbb" not in domain_of(site) else ""
     # Category as BBB lists it (breadcrumb / "Business Categories").
     cats = [_txt(a) for a in s.select("a[href*='/category/']")]
     rec["category"] = cats[0] if cats else ""
@@ -368,3 +372,23 @@ def run_trade(br, markets, log=print):
             db.mark_task(con, task, detail=str(len(rows)))
             log(f"[trade] {which} {market}: {len(rows)} members; {stats}")
     return stats
+
+
+def backfill_bbb_websites(log=print):
+    """Fill missing BBB websites from cached profile pages (older parser missed
+    the 'Visit Website' link). Cheap: cache only, no network."""
+    from .http import cache_path
+    con = db.connect()
+    n = 0
+    for r in con.execute("SELECT bkey, source_url, market FROM listings "
+                         "WHERE origin='BBB' AND website=''").fetchall():
+        p = cache_path("browser:" + r["source_url"])
+        if not p.exists():
+            continue
+        site = parse_bbb_profile(p.read_text("utf-8", "replace"), r["source_url"], r["market"])["website"]
+        if site:
+            con.execute("UPDATE listings SET website=? WHERE bkey=?", (site, r["bkey"]))
+            n += 1
+    if n:
+        log(f"[bbb] backfilled {n} websites from cached profiles")
+    return n

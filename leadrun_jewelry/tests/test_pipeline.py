@@ -187,9 +187,10 @@ def test_yp_parse():
 
 
 BBB_HTML = """<html><script type="application/ld+json">{"@type":"LocalBusiness","name":"Hartwell Jewelers",
-"telephone":"(312) 555-0142","url":"https://hartwell.test",
+"telephone":"(312) 555-0142",
 "address":{"streetAddress":"12 Main St","addressLocality":"Evanston","addressRegion":"IL","postalCode":"60201"}}</script>
 <body><h1>Hartwell Jewelers</h1><a href="/us/category/jewelry-stores">Jewelry Stores</a>
+<a href="https://www.bbbaihub.org">hub</a><a href="https://hartwell2.test/"><svg><path d="M0"/></svg>Visit Website</a>
 <h3>Business Management</h3>
 Ms. Dana Hartwell, Owner
 Business Started:
@@ -202,6 +203,7 @@ def test_bbb_profile_parse():
     assert r["name"] == "Hartwell Jewelers" and r["category"] == "Jewelry Stores"
     assert r["extra"]["bbb_people"] == [{"name": "Dana Hartwell", "role": "Owner"}]
     assert r["extra"]["bbb_years"] == "1962"
+    assert r["website"] == "https://hartwell2.test"
 
 
 # ------------------------------------------------------------------ builder
