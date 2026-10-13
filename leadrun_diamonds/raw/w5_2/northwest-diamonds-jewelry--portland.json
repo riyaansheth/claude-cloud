@@ -15,9 +15,9 @@
  "email_source": "https://www.northwestdiamonds.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Wadih Kaldawi",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/or/portland/profile/wholesale-jewelry/northwest-diamond-jewelry-1296-22008583 (BBB: Mr. Wadih Kaldawi, Owner); own site about page: \"Wady, the staff certified gemologist\"",
  "tel_numbers": [
   "(503) 222-5571"
  ],
@@ -35,10 +35,14 @@
   "family owned, in Portland since 1990",
   "staff gemologist Wady, certified 1980",
   "buys / consigns diamonds",
-  "534 SW 3rd Ave Suite 216 (Willamette Building)"
+  "534 SW 3rd Ave Suite 216 (Willamette Building)",
+  "since-1990",
+  "family-owned",
+  "wholesale"
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site: 'Northwest Diamonds is a family owned diamond wholesaler that has been in Portland since 1990 ... we have handled thousands of GIA certified, loose diamonds'.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

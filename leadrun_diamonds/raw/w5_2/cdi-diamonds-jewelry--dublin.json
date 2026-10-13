@@ -41,5 +41,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Bridal/loose-diamond specialist: \"the jeweler of choice for certified natural and lab grown loose diamonds, wedding bands, engagement rings\"; owner Matt Carlozzi Jr. \"made his name ... as CEO/Owner of a diamond manufacturing and wholesale company which featured his own patented loose diamond design\" (also sells pre-owned Rolex and buys gold).",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

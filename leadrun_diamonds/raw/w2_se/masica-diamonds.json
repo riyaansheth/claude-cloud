@@ -2,8 +2,8 @@
  "business": "Masica Diamonds",
  "category_as_listed": "",
  "phone": "(301) 255-0000",
- "email": "",
- "email_source": "",
+ "email": "sales@masicadiamonds.com",
+ "email_source": "https://www.weddingwire.com/biz/masica-diamonds-rockville/a6364e8b86d5eb3a.html (business listing: \"301.255.0000 and sales@masicadiamonds.com\"; not printed on own site)",
  "linkedin_url": "https://www.linkedin.com/in/david-masica-5a93197",
  "linkedin_source": "WebSearch extended '\"David Masica\" diamonds LinkedIn' -> contactout.com/DAVID-MASICA-18080556 ('Owner at masica diamonds | Rockville, Maryland')",
  "contact_person": "David Masica",
@@ -36,5 +36,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "Master diamond cutter on premises; listed as direct diamond wholesaler; founder GIA + American School of Diamond Cutting.",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }
