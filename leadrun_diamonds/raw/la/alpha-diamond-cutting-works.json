@@ -1,0 +1,35 @@
+{
+  "business": "Alpha Diamond Cutting Works",
+  "category_as_listed": "Diamond Cutters",
+  "phone": "213-622-9252",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "607 S Hill St",
+  "city": "Los Angeles",
+  "state": "CA",
+  "market": "Los Angeles, CA",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.superpages.com/los-angeles-ca/diamond-cutters",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Diamond Club West Coast"
+  ],
+  "hooks": [
+    "cutter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond cutting works; listed by SuperPages under Diamond Cutters and in DCWC directory (DCWC entry shows a conflicting Durham NC address).",
+  "drop_reason": ""
+}

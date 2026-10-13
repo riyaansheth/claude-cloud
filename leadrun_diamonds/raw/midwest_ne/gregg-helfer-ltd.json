@@ -1,0 +1,35 @@
+{
+  "business": "Gregg Helfer Ltd",
+  "category_as_listed": "Jewelers-Wholesale & Manufacturers; Diamond Buyers",
+  "phone": "312-920-0970",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "5 S Wabash Ave",
+  "city": "Chicago",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+  "tel_numbers": [
+    "312-920-0970"
+  ],
+  "tel_source": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+  "socials": [],
+  "building": "Mallers Building",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "diamond-buyer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed as wholesale jeweler/manufacturer and diamond buyer at 5 S Wabash.",
+  "drop_reason": ""
+}

@@ -1,0 +1,33 @@
+{
+  "business": "Sunny Diamond & Jewelry Inc",
+  "category_as_listed": "Wholesale Diamonds",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "36 NE 1st St, Suite 130",
+  "city": "Miami",
+  "state": "FL",
+  "market": "Miami, FL",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.manta.com/mb_55_B805E02U_374/wholesale_diamonds/miami_fl",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "Seybold Building",
+  "suite": "Ste 130",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Manta category Wholesale Diamonds.",
+  "drop_reason": ""
+}

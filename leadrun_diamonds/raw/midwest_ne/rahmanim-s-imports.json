@@ -1,0 +1,37 @@
+{
+  "business": "Rahmanim's Imports",
+  "category_as_listed": "Diamonds-Wholesale; Jewelry Designers",
+  "phone": "(312) 236-2200",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "5 S Wabash Ave",
+  "city": "Chicago",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+  "tel_numbers": [
+    "(312) 236-2200"
+  ],
+  "tel_source": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+  "socials": [],
+  "building": "Mallers Building",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "importer",
+    "manufacturer",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamonds-Wholesale listing; as 'RI Diamonds' on HKTDC Sourcing it is an Illinois exporter/manufacturer of GIA-certified loose diamonds.",
+  "drop_reason": ""
+}

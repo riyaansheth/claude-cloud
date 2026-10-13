@@ -1,0 +1,36 @@
+{
+  "business": "United Gemdiam (UGI)",
+  "category_as_listed": "",
+  "phone": "(212) 221-8233",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "580 Fifth Ave., Suite 617, New York, NY 10036",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.jckonline.com/?p=42290",
+  "tel_numbers": [
+    "(800) 225-5844",
+    "(212) 221-8233"
+  ],
+  "tel_source": "https://www.jckonline.com/?p=42290 (older JCK article; may be dated)",
+  "socials": [],
+  "building": "580 Fifth Ave",
+  "suite": "Suite 617",
+  "trade_memberships": [],
+  "hooks": [
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond company (JCK 'UGI Celebrates Quarter-Century') at 580 Fifth Ave; data from older article.",
+  "drop_reason": ""
+}

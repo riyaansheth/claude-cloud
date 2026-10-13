@@ -1,0 +1,33 @@
+{
+  "business": "Diamond Headquarters, LLC",
+  "category_as_listed": "",
+  "phone": "(786) 642-0914",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "36 NE 1st St, Suite 364",
+  "city": "Miami",
+  "state": "FL",
+  "market": "Miami, FL",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://seyboldjewelry.com/full-directory/",
+  "tel_numbers": [
+    "(786) 642-0914"
+  ],
+  "tel_source": "https://seyboldjewelry.com/full-directory/",
+  "socials": [],
+  "building": "Seybold Building",
+  "suite": "3rd Floor / 364",
+  "trade_memberships": [],
+  "hooks": [],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond-named tenant in Seybold diamond & jewelry building directory; trade vs retail mix not verified (WebFetch unavailable).",
+  "drop_reason": ""
+}

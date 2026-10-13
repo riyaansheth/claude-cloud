@@ -1,0 +1,36 @@
+{
+  "business": "Diamonds on Wabash",
+  "category_as_listed": "Diamonds",
+  "phone": "312.332.3133",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://diamondsonwabash.com",
+  "address": "5 S Wabash Ave",
+  "city": "Chicago",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://cdn.nwe.io/files/x/5e/91/23bbb31a605b89074614d59756a3.pdf",
+  "tel_numbers": [
+    "312.332.3133"
+  ],
+  "tel_source": "https://cdn.nwe.io/files/x/5e/91/23bbb31a605b89074614d59756a3.pdf",
+  "socials": [],
+  "building": "Mallers Building",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "lab-grown",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Jewelers Row diamond/bridal house listed under BBB 'Diamonds'; offers mined and lab-grown stones (2019 press release). Suite unconfirmed; borderline retail.",
+  "drop_reason": ""
+}

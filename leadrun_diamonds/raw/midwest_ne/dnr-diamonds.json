@@ -1,0 +1,33 @@
+{
+  "business": "DNR Diamonds",
+  "category_as_listed": "",
+  "phone": "312-357-2610",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://dnrdiamonds.com",
+  "address": "5 S Wabash Ave Suite #1920",
+  "city": "Chicago",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://dnrdiamonds.com/chicago-diamond-dealer/",
+  "tel_numbers": [
+    "312-357-2610"
+  ],
+  "tel_source": "https://dnrdiamonds.com/chicago-diamond-dealer/",
+  "socials": [],
+  "building": "Mallers Building",
+  "suite": "Suite #1920",
+  "trade_memberships": [],
+  "hooks": [],
+  "is_diamond_trade": true,
+  "scope_reason": "Self-described Chicago diamond dealer in the heart of the Chicago Diamond District.",
+  "drop_reason": ""
+}

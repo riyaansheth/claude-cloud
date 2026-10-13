@@ -1,0 +1,40 @@
+{
+  "business": "Carat Trade Inc",
+  "category_as_listed": "Jewelry",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.carattrade.com",
+  "address": "111 NE 1st St, Ste 301",
+  "city": "Miami",
+  "state": "FL",
+  "market": "Miami, FL",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.carattrade.com/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/p/Carat-Trade-100089435541676/"
+  ],
+  "building": "",
+  "suite": "Ste 301",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale",
+    "natural",
+    "melee",
+    "large-stones",
+    "diamond-sourcing",
+    "estate-buyer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: wholesale suppliers & private client jewelers; supplies natural diamonds .001-25ct, partnered with three major stockholders; also buys diamond/estate jewelry.",
+  "drop_reason": ""
+}

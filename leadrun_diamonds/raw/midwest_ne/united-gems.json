@@ -1,0 +1,33 @@
+{
+  "business": "United Gems",
+  "category_as_listed": "Diamonds-Wholesale",
+  "phone": "(312) 641-3006",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "29 E Madison St",
+  "city": "Chicago",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+  "tel_numbers": [
+    "(312) 641-3006"
+  ],
+  "tel_source": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+  "socials": [],
+  "building": "29 E Madison",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed under Diamonds-Wholesale at 29 E Madison.",
+  "drop_reason": ""
+}

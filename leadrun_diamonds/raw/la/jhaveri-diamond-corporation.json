@@ -1,0 +1,39 @@
+{
+  "business": "Jhaveri Diamond Corporation",
+  "category_as_listed": "Wholesale and retail diamonds",
+  "phone": "(213) 624-6422",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Nikhil C. Jhaveri",
+  "role": "President",
+  "contact_source": "https://www.city-data.com/business-entities/CA/JHAVERI-DIAMOND-CORPORATION-C1633483-CA.html",
+  "website": "",
+  "address": "550 South Hill Street",
+  "city": "Los Angeles",
+  "state": "CA",
+  "market": "Los Angeles, CA",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "International Jewelry Center",
+  "suite": "Suite 1596",
+  "trade_memberships": [
+    "Diamond Club West Coast"
+  ],
+  "hooks": [
+    "natural",
+    "loose-diamonds",
+    "since-1989",
+    "melee",
+    "large-stones"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "DCWC directory lists as wholesale diamond business; DCWC says it is a prime source for loose diamonds from 2 ct to 1/200 ct (melee).",
+  "drop_reason": ""
+}

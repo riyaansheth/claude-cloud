@@ -1,0 +1,33 @@
+{
+  "business": "Iannelli Diamonds",
+  "category_as_listed": "",
+  "phone": "(212) 575-1700",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "45 West 47th Street, New York, NY 10036",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "BBB",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bbb.org/us/ny/new-york/category/diamond/accredited",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "45 W 47th St",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "bbb-accredited"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed in BBB 'Diamonds' category (accredited, A+) on W 47th St; business type not further verified.",
+  "drop_reason": ""
+}

@@ -1,0 +1,37 @@
+{
+  "business": "Iza & Sons",
+  "category_as_listed": "jeweler, jewelry design, custom jewelry, diamond dealer, watches, engagement rings, wholesale diamonds, gold, loose diamonds, jewelry",
+  "phone": "(305) 374-2569",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "36 NE 1st St, Suite 401",
+  "city": "Miami",
+  "state": "FL",
+  "market": "Miami, FL",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.manta.com/c/mm23fh4/iza-sons",
+  "tel_numbers": [
+    "(305) 374-2569"
+  ],
+  "tel_source": "https://www.manta.com/c/mm23fh4/iza-sons",
+  "socials": [],
+  "building": "Seybold Building",
+  "suite": "Ste 401",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale",
+    "loose-diamonds",
+    "custom"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Manta profile lists diamond dealer, wholesale diamonds, loose diamonds.",
+  "drop_reason": ""
+}

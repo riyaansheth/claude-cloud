@@ -1,0 +1,33 @@
+{
+  "business": "The South African Diamond Co",
+  "category_as_listed": "Diamonds",
+  "phone": "(312) 726-5226",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "5 S Wabash Ave",
+  "city": "Chicago",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/chicago-il/diamonds",
+  "tel_numbers": [
+    "(312) 726-5226"
+  ],
+  "tel_source": "https://www.yellowpages.com/chicago-il/diamonds",
+  "socials": [],
+  "building": "Mallers Building",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond dealer listed at 5 S Wabash.",
+  "drop_reason": ""
+}

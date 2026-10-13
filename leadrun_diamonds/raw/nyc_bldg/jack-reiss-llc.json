@@ -1,0 +1,39 @@
+{
+  "business": "Jack Reiss LLC",
+  "category_as_listed": "",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "580 Fifth Avenue, New York, NY 10036",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://commercialobserver.com/2011/05/extells-20-west-47th-loses-diamond-maker-to-580-fifth/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "580 Fifth Ave (World Diamond Tower)",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "manufacturer",
+    "3rd-generation",
+    "natural",
+    "large-stones",
+    "cutter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond cutter/manufacturer; took 3,600 sf at 580 Fifth in 2011 (10-yr lease; current tenancy unconfirmed); NY Social Diary: third generation manufacturers and dealers of fine diamonds; RJC member since June 2009 (responsiblejewellery.com).",
+  "drop_reason": ""
+}

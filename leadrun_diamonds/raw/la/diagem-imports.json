@@ -1,0 +1,33 @@
+{
+  "business": "Diagem Imports",
+  "category_as_listed": "Diamonds Wholesale",
+  "phone": "(213) 622-0333",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "550 S Hill St",
+  "city": "Los Angeles",
+  "state": "CA",
+  "market": "Los Angeles, CA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/los-angeles-ca/diamonds-wholesale/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "International Jewelry Center",
+  "suite": "Ste 1065",
+  "trade_memberships": [],
+  "hooks": [
+    "importer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed under YP Diamonds Wholesale; importer by name.",
+  "drop_reason": ""
+}

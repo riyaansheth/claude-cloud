@@ -1,0 +1,33 @@
+{
+  "business": "Abe Mor Diamond Corporation",
+  "category_as_listed": "",
+  "phone": "(800) 787-4399",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "62 W 47th St Ste 401, New York, NY 10036",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "BBB",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bbb.org/us/ny/new-york/category/diamond/accredited",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "62 W 47th St",
+  "suite": "Ste 401",
+  "trade_memberships": [],
+  "hooks": [
+    "bbb-accredited"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond corporation listed in BBB 'Diamonds' category (accredited, A+).",
+  "drop_reason": ""
+}

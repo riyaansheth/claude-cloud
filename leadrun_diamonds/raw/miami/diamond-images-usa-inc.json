@@ -1,0 +1,33 @@
+{
+  "business": "Diamond Images USA, Inc.",
+  "category_as_listed": "",
+  "phone": "(786) 361-5231",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "36 NE 1st St, Suite 1016",
+  "city": "Miami",
+  "state": "FL",
+  "market": "Miami, FL",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://seyboldjewelry.com/full-directory/",
+  "tel_numbers": [
+    "(786) 361-5231"
+  ],
+  "tel_source": "https://seyboldjewelry.com/full-directory/",
+  "socials": [],
+  "building": "Seybold Building",
+  "suite": "10th Floor / 1016",
+  "trade_memberships": [],
+  "hooks": [],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond-named upper-floor (non-street-retail) tenant in Seybold directory; business model not verified (WebFetch unavailable).",
+  "drop_reason": ""
+}

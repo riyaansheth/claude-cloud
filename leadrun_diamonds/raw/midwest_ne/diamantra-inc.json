@@ -1,0 +1,33 @@
+{
+  "business": "Diamantra Inc",
+  "category_as_listed": "Diamonds-Wholesale",
+  "phone": "(312) 854-3999",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "5 S Wabash Ave",
+  "city": "Chicago",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+  "tel_numbers": [
+    "(312) 854-3999"
+  ],
+  "tel_source": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+  "socials": [],
+  "building": "Mallers Building",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed in Diamonds-Wholesale results at 5 S Wabash.",
+  "drop_reason": ""
+}

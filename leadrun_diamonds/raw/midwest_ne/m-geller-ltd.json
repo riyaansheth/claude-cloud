@@ -1,0 +1,42 @@
+{
+  "business": "M. Geller Ltd",
+  "category_as_listed": "Diamonds-Wholesale",
+  "phone": "(312) 984-1041",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Marc Geller",
+  "role": "Founder",
+  "contact_source": "https://www.americangemsociety.org/supplier-spotlight-m-geller-diamonds/",
+  "website": "",
+  "address": "29 E. Madison St., Suite 1805",
+  "city": "Chicago",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+  "tel_numbers": [
+    "(312) 984-1041"
+  ],
+  "tel_source": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+  "socials": [],
+  "building": "29 E Madison",
+  "suite": "Suite 1805",
+  "trade_memberships": [
+    "RJC",
+    "AGS"
+  ],
+  "hooks": [
+    "since-1984",
+    "lab-grown",
+    "natural",
+    "fancy-color",
+    "memo-house"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Loose-diamond wholesale/special-order memo house with 30,000+ natural and lab-grown stones (National Jeweler, AGS supplier spotlight); RJC certified.",
+  "drop_reason": ""
+}

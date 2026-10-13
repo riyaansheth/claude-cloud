@@ -1,0 +1,38 @@
+{
+  "business": "William Goldberg Diamond Corp",
+  "category_as_listed": "diamond dealer",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Saul Goldberg",
+  "role": "Member",
+  "contact_source": "https://www.jckonline.com/editorial-article/dmia-elects-stuart-samuels/",
+  "website": "",
+  "address": "",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://en.wikipedia.org/wiki/William_Goldberg_(diamond_dealer)",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "DMIA",
+    "DDC"
+  ],
+  "hooks": [
+    "natural",
+    "large-stones",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Firm of NY diamond dealer William Goldberg (3-term DDC president); Saul Goldberg named DMIA VP.",
+  "drop_reason": ""
+}

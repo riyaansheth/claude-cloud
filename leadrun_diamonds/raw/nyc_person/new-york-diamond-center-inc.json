@@ -1,0 +1,33 @@
+{
+  "business": "New York Diamond Center, Inc.",
+  "category_as_listed": "diamond wholesaler",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Eran Goldshmit",
+  "role": "Founder",
+  "contact_source": "https://www.nydiamondcenter.com/about.html (search snippet)",
+  "website": "https://www.nydiamondcenter.com",
+  "address": "",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.nydiamondcenter.com/about.html",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Lower Manhattan diamond wholesaler, founder Eran Goldshmit (search summary); unverified on-site due to fetch outage.",
+  "drop_reason": ""
+}

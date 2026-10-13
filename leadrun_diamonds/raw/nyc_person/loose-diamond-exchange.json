@@ -1,0 +1,33 @@
+{
+  "business": "Loose Diamond Exchange",
+  "category_as_listed": "",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "LinkedIn",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.linkedin.com/company/loose-diamond-exchange",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "loose-diamonds"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "LinkedIn company page surfaced for New York GIA certified loose diamond wholesale query; details not verified (fetch outage).",
+  "drop_reason": ""
+}

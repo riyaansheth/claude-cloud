@@ -1,0 +1,36 @@
+{
+  "business": "J. Izhakoff & Sons",
+  "category_as_listed": "",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Eli Izhakoff",
+  "role": "Partner",
+  "contact_source": "https://en.wikipedia.org/wiki/Eli_Izhakoff",
+  "website": "",
+  "address": "",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://en.wikipedia.org/wiki/Eli_Izhakoff",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "DDC"
+  ],
+  "hooks": [
+    "natural",
+    "family-business"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Eli Izhakoff, partner at J. Izhakoff & Sons, longtime DDC board member/chairman (Wikipedia).",
+  "drop_reason": ""
+}

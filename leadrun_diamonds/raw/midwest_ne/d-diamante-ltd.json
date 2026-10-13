@@ -1,0 +1,33 @@
+{
+  "business": "D. Diamante, Ltd.",
+  "category_as_listed": "Diamonds",
+  "phone": "(312) 346-5423",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "5 S Wabash Ave Ste 304",
+  "city": "Chicago",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "lead_origin": "BBB",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bbb.org/us/il/chicago/category/diamond",
+  "tel_numbers": [
+    "(312) 346-5423"
+  ],
+  "tel_source": "https://www.bbb.org/us/il/chicago/category/diamond",
+  "socials": [],
+  "building": "Mallers Building",
+  "suite": "Ste 304",
+  "trade_memberships": [],
+  "hooks": [],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed under BBB 'Diamonds' category at 5 S Wabash.",
+  "drop_reason": ""
+}

@@ -1,0 +1,36 @@
+{
+  "business": "Midwest Diamond Buyers",
+  "category_as_listed": "",
+  "phone": "708-683-9833",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://midwestdiamondbuyers.com",
+  "address": "29 E. Madison Street, Suite 1818",
+  "city": "Chicago",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://midwestdiamondbuyers.com/contact/",
+  "tel_numbers": [
+    "708-683-9833"
+  ],
+  "tel_source": "https://midwestdiamondbuyers.com/contact/",
+  "socials": [],
+  "building": "29 E Madison",
+  "suite": "Suite 1818",
+  "trade_memberships": [],
+  "hooks": [
+    "diamond-buyer",
+    "estate"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond buying office on Jewelers Row (estate/secondary diamond buyer).",
+  "drop_reason": ""
+}

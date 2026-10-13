@@ -1,0 +1,37 @@
+{
+  "business": "Miami Diamond Traders",
+  "category_as_listed": "Diamond Wholesale",
+  "phone": "(786) 381-1255",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://miamidiamondtraders.com",
+  "address": "111 NE 1st St, Ste 525",
+  "city": "Miami",
+  "state": "FL",
+  "market": "Miami, FL",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yelp.com/biz/miami-diamond-traders-miami",
+  "tel_numbers": [
+    "(786) 381-1255"
+  ],
+  "tel_source": "https://www.yelp.com/biz/miami-diamond-traders-miami",
+  "socials": [],
+  "building": "",
+  "suite": "Ste 525",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale",
+    "loose-diamonds",
+    "by-appointment"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Yelp: diamond wholesalers in Downtown Miami specializing in buying and selling loose diamonds; by appointment only.",
+  "drop_reason": ""
+}

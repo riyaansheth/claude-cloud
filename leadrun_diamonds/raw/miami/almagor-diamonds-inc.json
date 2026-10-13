@@ -7,8 +7,8 @@
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "David Almagor",
-  "role": "President",
-  "contact_source": "https://search.sunbiz.org (Almagor Diamonds, Inc. P03000025667 officer/registered agent)",
+  "role": "Principal",
+  "contact_source": "https://search.sunbiz.org (Almagor Diamonds, Inc. P03000025667 - officer and registered agent)",
   "website": "http://almagordiamonds.com",
   "address": "36 NE 1st St, Suite 915",
   "city": "Miami",
@@ -31,6 +31,6 @@
     "wholesale"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Listed by Manta under Wholesale Diamonds and as diamond tenant in Seybold directory; David Almagor listed as officer in Sunbiz (role recorded as officer).",
+  "scope_reason": "Listed by Manta under Wholesale Diamonds and as a diamond tenant in the Seybold directory.",
   "drop_reason": ""
 }

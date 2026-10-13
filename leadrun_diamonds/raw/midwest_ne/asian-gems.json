@@ -1,0 +1,35 @@
+{
+  "business": "Asian Gems",
+  "category_as_listed": "Diamonds",
+  "phone": "(312) 984-0997",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "29 E Madison St",
+  "city": "Chicago",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/chicago-il/diamonds",
+  "tel_numbers": [
+    "(312) 984-0997"
+  ],
+  "tel_source": "https://www.yellowpages.com/chicago-il/diamonds",
+  "socials": [],
+  "building": "29 E Madison",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1984"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed under Diamonds in the 29 E Madison jewelers building (42 years in business per listing).",
+  "drop_reason": ""
+}
