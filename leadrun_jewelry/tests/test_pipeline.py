@@ -388,3 +388,12 @@ def test_linkedin_prejudge():
               "Vahe Sargsyan - Student at University of Southern California", "Los Angeles") == "ambiguous"
     assert pj("Michael Saghian", "Sage Designs", "Los Angeles", '4 "Michael Saghian" profiles', "") == "reject"
     assert scope.kill_reason("State Street Jewelry & Loan", "Jewelers") == "pawn"
+
+
+def test_jewelry_only_category_survives_thin_site():
+    thin = "Welcome to our site. Hours Mon-Sat. Call us. Directions. Contact. " * 5
+    assert scope.classify_segment("Taxco Sterling", "Jewelry store", thin) == "Jewelry retailer"
+    assert scope.classify_segment("Roslyn", "Jewelers, Jewelry Designers", thin)
+    assert scope.classify_segment("Fleming John J Jewlr", "Jewelers", thin)
+    assert scope.classify_segment("Windsor", "Jewelers, Clothing Stores, Lingerie",
+                                  "Dresses, lingerie, prom and party wear for women " * 6) is None

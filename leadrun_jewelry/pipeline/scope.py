@@ -198,9 +198,22 @@ def classify_segment(name, category="", site_text="", osm_tags=None):
     osm_tags = osm_tags or {}
     # A crawled site with no jewelry vocabulary at all is not a jeweler's site
     # (e.g. a law firm "Mintz & Gold" filed under Jewelers by a directory).
-    strong_name = _rx(r"jewel\w*", r"gems?", r"diamonds?", r"goldsmiths?", r"silversmiths?",
-                      r"watch(?:es)?", r"jewell?ery").search(name or "")
-    if (not strong_name and site_text and len(site_text) > 200
+    strong_name = _rx(r"jewel\w*", r"jewlr", r"jwlr", r"gems?", r"diamonds?", r"goldsmiths?",
+                      r"silversmiths?", r"watch(?:es)?", r"jewell?ery").search(name or "")
+    # A directory that files the business ONLY under jewelry categories is strong
+    # evidence too; mixed listings ("Jewelers, Clothing Stores") still get the site check.
+    cats = [c.strip() for c in (category or "").split(",") if c.strip()]
+    jewelry_only = bool(cats) and all(
+        re.search(r"jewel|diamond|watch|gem|goldsmith|silversmith|shop=jewelry|craft=jeweller", c, re.I)
+        for c in cats)
+    other_trade = _rx(r"law firm", r"attorneys?", r"litigation", r"dental", r"dentist",
+                      r"restaurant", r"salon", r"spa", r"clothing", r"apparel", r"dresses",
+                      r"lingerie", r"real estate", r"insurance", r"loans?", r"payday",
+                      r"coffee", r"camera", r"software", r"marketing agency", r"web design",
+                      r"plumbing", r"auto repair", r"florist", r"bakery").search(site_text or "")
+    if jewelry_only and other_trade and site_text and not SITE_JEWELRY.search(site_text):
+        return None   # jewelry-only listing, but its own site is plainly another trade
+    if (not strong_name and not jewelry_only and site_text and len(site_text) > 200
             and not SITE_JEWELRY.search(site_text)
             and not re.search(r"facebook|instagram|log in|sign in|temporarily blocked",
                               site_text[:400], re.I)):
