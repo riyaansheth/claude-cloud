@@ -1,0 +1,33 @@
+{
+  "business": "CSW Diamond Cutting",
+  "category_as_listed": "Diamonds Wholesale",
+  "phone": "(206) 682-7599",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "1424 4th Ave, Ste 210",
+  "city": "Seattle",
+  "state": "WA",
+  "market": "Seattle, WA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://m.yelp.com/biz/csw-diamond-cutting-seattle",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "1424 4th Ave (4th & Pike Building)",
+  "suite": "Ste 210 (Yelp lists Ste 825)",
+  "trade_memberships": [],
+  "hooks": [
+    "cutter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed as diamond wholesaler / diamond cutting in the 4th & Pike building (Seattle diamond district); no website found",
+  "drop_reason": ""
+}

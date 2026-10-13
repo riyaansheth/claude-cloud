@@ -1,0 +1,33 @@
+{
+  "business": "Fifth Avenue Designs",
+  "category_as_listed": "Jewelers-Wholesale & Manufacturers",
+  "phone": "303-394-2020",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "150 Steele St",
+  "city": "Denver",
+  "state": "CO",
+  "market": "Denver, CO",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/80016/diamonds",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YellowPages lists as Jewelers-Wholesale & Manufacturers under diamonds search; diamond line not confirmed",
+  "drop_reason": ""
+}

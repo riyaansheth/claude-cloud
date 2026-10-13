@@ -1,0 +1,33 @@
+{
+  "business": "Exclusive Diamonds By Carter",
+  "category_as_listed": "Diamonds",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "861 6th Ave Suite 185",
+  "city": "San Diego",
+  "state": "CA",
+  "market": "San Diego, CA",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.cityfeet.com/cont/listing/861-6th-ave-san-diego-ca-92101/cs8477929",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "San Diego Jewelry Exchange (861 6th Ave)",
+  "suite": "Ste 185",
+  "trade_memberships": [],
+  "hooks": [
+    "diamond-dealer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Named as tenant in 861 6th Ave building listing and YP 'Diamonds' category; listing dated (leases to 2009-2011) - verify active.",
+  "drop_reason": ""
+}

@@ -1,0 +1,33 @@
+{
+  "business": "Apple Valley Diamonds",
+  "category_as_listed": "",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "",
+  "city": "Apple Valley",
+  "state": "MN",
+  "market": "Minneapolis, MN",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.scrapmonster.com/company/apple-valley-diamonds/87171",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "ex-wholesaler"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Sells diamonds at wholesale prices; founder previously ran Crown Trading, a loose-diamond goods wholesaler to the retail industry",
+  "drop_reason": ""
+}

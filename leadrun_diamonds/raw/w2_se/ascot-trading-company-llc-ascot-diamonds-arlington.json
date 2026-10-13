@@ -1,0 +1,33 @@
+{
+ "business": "Ascot Trading Company, LLC (Ascot Diamonds Arlington)",
+ "category_as_listed": "Diamonds, Jewelry Stores",
+ "phone": "(703) 243-8929",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.ascotdiamonds.com",
+ "address": "4301 Fairfax Dr Ste 107R, Arlington, VA 22203-1633",
+ "city": "Arlington",
+ "state": "VA",
+ "market": "Washington, DC",
+ "lead_origin": "BBB",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.bbb.org/us/va/category/diamond",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "Ste 107R",
+ "trade_memberships": [],
+ "hooks": [
+  "natural"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "BBB lists under Diamonds; DC-area location of Ascot Diamonds (diamond specialist).",
+ "drop_reason": ""
+}

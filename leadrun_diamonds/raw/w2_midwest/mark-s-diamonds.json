@@ -1,0 +1,36 @@
+{
+  "business": "Mark's Diamonds",
+  "category_as_listed": "Jewelry",
+  "phone": "877-566-5524",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Mark Hadley",
+  "role": "Owner",
+  "contact_source": "https://cherrycreeknorth.com/post/marks-diamonds/",
+  "website": "https://marksdiamonds.com",
+  "address": "3033 East 1st Avenue, Suite 503",
+  "city": "Denver",
+  "state": "CO",
+  "market": "Denver, CO",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://cherrycreeknorth.com/business/marks-diamonds/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://x.com/marksdiamonds"
+  ],
+  "building": "",
+  "suite": "Suite 503",
+  "trade_memberships": [],
+  "hooks": [
+    "loose-diamonds",
+    "in-trade-since-1980"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Represents one of the largest diamond wholesalers in the world to offer loose diamonds; owner in diamond business since 1980; has storefront (part retail)",
+  "drop_reason": ""
+}

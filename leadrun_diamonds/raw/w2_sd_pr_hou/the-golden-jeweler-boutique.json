@@ -1,0 +1,40 @@
+{
+  "business": "The Golden Jeweler Boutique",
+  "category_as_listed": "",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Christian Santiago",
+  "role": "Featured On About Page",
+  "contact_source": "https://thegoldenjeweler.com/",
+  "website": "https://thegoldenjeweler.com",
+  "address": "200 Calle Tanca",
+  "city": "San Juan",
+  "state": "PR",
+  "market": "San Juan, PR",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://thegoldenjeweler.com/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/p/The-Golden-Jeweler-Boutique-100094052917999/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Jewelers of America"
+  ],
+  "hooks": [
+    "natural",
+    "lab-grown",
+    "custom-manufacture",
+    "15-plus-years"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Old San Juan jeweler doing design and manufacture, offers natural and lab-grown diamonds; Christian Santiago named as expert jeweler. Borderline bridal/custom.",
+  "drop_reason": ""
+}

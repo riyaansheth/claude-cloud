@@ -1,0 +1,35 @@
+{
+  "business": "Diamond Exchange San Diego",
+  "category_as_listed": "",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "861 Sixth Ave",
+  "city": "San Diego",
+  "state": "CA",
+  "market": "San Diego, CA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.facebook.com/diamondexchangesandiego/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/diamondexchangesandiego/"
+  ],
+  "building": "San Diego Jewelry Exchange (861 6th Ave)",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale-diamonds"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Facebook listing: store specializing in wholesale diamonds and engagement rings at 861 Sixth Ave.",
+  "drop_reason": ""
+}

@@ -1,0 +1,33 @@
+{
+  "business": "Findco Inc",
+  "category_as_listed": "Jewelry and ring store",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "6222 Richmond Ave #610",
+  "city": "Houston",
+  "state": "TX",
+  "market": "Houston, TX",
+  "lead_origin": "Building Directory",
+  "rating": "8.1",
+  "reviews": "",
+  "source_url": "https://www.atly.com/location/Findco-Inc",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "6222 Richmond Ave",
+  "suite": "#610",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesaler"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "6222 Richmond Ave (Houston diamond wholesale building) tenant; search described it as diamond & jewelry wholesaler - thin evidence, verify.",
+  "drop_reason": ""
+}
