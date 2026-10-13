@@ -11,8 +11,8 @@
  "reviews": "34",
  "source_url": "https://www.yellowpages.com/rochester-ny/mip/rochester-diamonds-gold-inc-460571463",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "credit@rdidiamonds.com",
+ "email_source": "https://rdidiamonds.com/privacy-policy",
  "linkedin_url": "https://www.linkedin.com/in/michael-indelicato-14493918/",
  "linkedin_source": "\"Michael Indelicato\" RDI Diamonds LinkedIn",
  "contact_person": "Michael Indelicato",
@@ -47,5 +47,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "RDI Diamonds history: \"an international leader among wholesale diamond distributors\", \"exclusively providing quality wholesale diamonds\", 8,000+ loose diamonds .50-10ct for retailers; NYC office 50 W 47th St Ste 1907.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }
