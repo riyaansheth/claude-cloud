@@ -33,6 +33,7 @@
   "importer"
  ],
  "is_diamond_trade": true,
- "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds (Real Diamond, Jewelry, Lab Grown Manufacturer Importer and Exporters); secondary: Jewelry, Manufacturer",
- "drop_reason": ""
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds (Real Diamond, Jewelry, Lab Grown Manufacturer Importer and Exporters); secondary: Jewelry, Manufacturer. Own site bulinc.com unreachable (Cloudflare 525 SSL handshake failed); no other web presence found.",
+ "drop_reason": "",
+ "enriched": true
 }

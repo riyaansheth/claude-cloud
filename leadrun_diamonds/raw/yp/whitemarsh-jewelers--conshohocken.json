@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: listed website belongs to an unrelated business (whitemarshjewelers.com redirects to jeniustooto.net, an online gambling/lottery site)",
- "verified": false
+ "scope_reason": "unverified: listed website hijacked (whitemarshjewelers.com -> jeniustooto.net gambling). Scrapmonster: Whitemarsh Jewelers Inc, 200 W Ridge Pike Ste 118 (owners \"John and Helene\", no surnames); mallsinamerica.com says the Plymouth Square store has closed; Checkbook lists 4031 Skippack Pike, Skippack PA with the same phone 610-825-9355. No evidence of diamond trade activity.",
+ "verified": false,
+ "enriched": true
 }

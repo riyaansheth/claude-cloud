@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
- "verified": false
+ "verified": false,
+ "enriched": true,
+ "enrich_note": "enrich r2: rosejewelrystore.com returns 404/interrupted; no listing found for 509 SW 3rd Ave."
 }

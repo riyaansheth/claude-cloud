@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: listed website thekaratpatch.com is a different Karat Patch retail jewelry store in Big Spring, TX (432.267.1480), not this San Pedro, CA listing",
- "verified": false
+ "verified": false,
+ "enriched": true,
+ "enrich_note": "enrich r2: no San Pedro listing found; other 'Karat Patch' stores are Big Spring TX, Calgary, Asheville."
 }
