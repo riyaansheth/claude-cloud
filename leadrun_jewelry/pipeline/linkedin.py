@@ -15,7 +15,7 @@ from urllib.parse import quote_plus, unquote, urlparse, parse_qs
 
 from bs4 import BeautifulSoup
 
-from . import db
+from . import config, db
 from .http import fetch, Blocked
 from .util import name_tokens, now_iso
 
@@ -213,8 +213,21 @@ def run_browser(limit=None, log=print, min_gap=None):
         LEFT JOIN linkedin k ON k.bkey = p.bkey AND k.person = p.name
         WHERE k.bkey IS NULL ORDER BY p.method='bbb-profile' DESC, p.bkey""").fetchall()
     from .util import plausible_name
-    todo = [r for r in rows if plausible_name(r["person"], r["business"], need_given=True)][: limit or None]
-    log(f"[linkedin] {len(todo)} people to search (Google via browser)")
+    todo = [r for r in rows if plausible_name(r["person"], r["business"], need_given=True)]
+    # Search first where a LinkedIn hit flips a lead to qualified (currently 1 of 3).
+    near = set()
+    try:
+        import csv
+        src = {row["Source"] for row in csv.DictReader(open(config.ALL_CSV, encoding="utf-8"))
+               if row["Signals"].startswith("1 of 3") and not row["LinkedIn Profile"]}
+        near = {x["bkey"] for x in con.execute("SELECT bkey, source_url FROM listings")
+                if x["source_url"] in src}
+    except OSError:
+        pass
+    todo.sort(key=lambda r: r["bkey"] not in near)
+    todo = todo[: limit or None]
+    log(f"[linkedin] {len(todo)} people to search (Google via browser); "
+        f"{sum(r['bkey'] in near for r in todo)} would make a lead qualify")
     counts = {}
     br = Browser()
     try:
@@ -236,7 +249,8 @@ def run_browser(limit=None, log=print, min_gap=None):
                     continue
                 url = resolve(br, href) if v == "match" else ""
                 if url and judge(r["person"], r["business"], r["city"], url, title, snip) != "reject":
-                    best = ("match", url, su, f"{title} | {snip[:200]}")
+                    # Never auto-accept: a subagent confirms the human (AGENTS.md).
+                    best = ("ambiguous", url, su, f"{title} | {snip[:200]}")
                     break
                 if best[0] == "none":
                     best = ("ambiguous", url, su, f"{title} | {snip[:200]}")
