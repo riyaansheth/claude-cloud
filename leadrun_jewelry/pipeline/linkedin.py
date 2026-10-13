@@ -143,11 +143,13 @@ def parse_google(html):
     return out
 
 
-def run_browser(limit=None, log=print, min_gap=7):
+def run_browser(limit=None, log=print, min_gap=None):
     """Search via headless Chrome on Google (Bing ignores quoted/site: queries
     from scripted clients; DuckDuckGo HTML returns 403). Sequential + polite;
     stops on the first captcha and leaves the rest for a later run."""
+    import os
     from .browser import Browser
+    min_gap = min_gap or float(os.environ.get("LINKEDIN_GAP", "7"))
     con = db.connect()
     rows = con.execute("""
         SELECT p.bkey, p.name AS person, l.name AS business,
