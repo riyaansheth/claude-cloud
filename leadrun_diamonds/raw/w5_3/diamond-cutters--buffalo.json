@@ -15,9 +15,9 @@
  "email_source": "https://wnydiamonds.com/static/js/main.903eec21.js",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "William Warthling",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/ny/buffalo/profile/diamond-cutter/diamond-cutters-of-western-new-york-inc-0041-1597",
  "tel_numbers": [
   "+1 (716) 854-4455"
  ],
@@ -33,10 +33,12 @@
   "since-1984",
   "manufacturer",
   "loose-diamonds",
-  "borderline-retail"
+  "borderline-retail",
+  "gia-gg"
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site (Diamond Cutters of Western New York, same phone 716-854-4455, 2618 Union Rd) is a JS retail storefront with loose-diamond search; a local guide quotes it: 'since opening our doors in 1984, our business has grown from a small wholesale operation into Buffalo's prominent diamond manufacturer' - borderline retail.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

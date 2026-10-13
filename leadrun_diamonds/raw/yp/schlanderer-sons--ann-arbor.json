@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Chuck Schlanderer",
+ "role": "Owner",
+ "contact_source": "https://www.annarbor.com/business-review/schalnderer-and-sons---120-years-and-still-going-strong",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (HTTP 500 \"Error establishing a database connection\")",
- "verified": false
+ "verified": false,
+ "enriched": true
 }

@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Brian Walters",
+ "role": "Owner",
+ "contact_source": "https://patch.com/minnesota/lakeminnetonka/making-your-rings-come-true",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable",
- "verified": false
+ "scope_reason": "unverified: site unreachable (bwrings.com times out; reader shows a blank Webuzo default page). Patch: goldsmith 'the Ring Maker' on Water Street, Excelsior - custom ring maker.",
+ "verified": false,
+ "enriched": true
 }
