@@ -15,17 +15,31 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Aspen Demirdjian",
+ "role": "Owner",
+ "contact_source": "https://www.aspendiamond.com/aspen_demirdjian",
+ "tel_numbers": [
+  "(213) 624.2088",
+  "888-624.2088"
+ ],
+ "tel_source": "https://www.aspendiamond.com/contacts",
+ "socials": [
+  "https://www.facebook.com/aspendiamond",
+  "https://instagram.com/aspendiamond/",
+  "https://twitter.com/AspenDiamond",
+  "https://www.pinterest.com/aspendiamond/"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Suite A",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "3rd-generation jeweler",
+  "owner background in diamond wholesaling",
+  "Los Angeles and Montreal",
+  "635 S. Olive St Suite A"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Buyers"
+ "scope_reason": "Aspen Diamond Company describes itself as \"one of the fastest growing companies in the diamond industry\", runs a loose-diamond search by stock number, and owner Aspen Demirdjian is a third-generation jeweler \"with a background in diamond wholesaling\" - bridal/loose-diamond specialist.",
+ "verified": true
 }

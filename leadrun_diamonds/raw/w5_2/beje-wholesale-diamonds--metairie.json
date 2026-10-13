@@ -18,14 +18,24 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(504) 832-1115"
+ ],
+ "tel_source": "https://bejediamonds.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/bejediamonds/",
+  "https://www.instagram.com/beje_diamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelers-Wholesale & Manufacturers"
+ "hooks": [
+  "since 1977",
+  "family business, next generation",
+  "custom design"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Despite the name, the site describes \"a jewelry store in Metairie specializing in wholesale diamonds, fine jewelry, and custom designs since 1977\" that \"has offered unmatched wholesale diamond and jewelry prices to the public\" - a consumer retail store (also sells Rolex/Cartier watches).",
+ "verified": true
 }

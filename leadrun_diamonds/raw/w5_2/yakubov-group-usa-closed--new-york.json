@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamond Buyers, Diamonds"
+ "scope_reason": "unverified: site unreachable (503 upstream timeout / connection reset; listing marked CLOSED)",
+ "verified": false
 }

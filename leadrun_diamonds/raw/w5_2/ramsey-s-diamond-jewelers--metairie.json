@@ -14,18 +14,34 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "\"Robert Ramsey\" Ramsey's Diamond Jewelers LinkedIn",
+ "contact_person": "Robert Ramsey",
+ "role": "CEO",
+ "contact_source": "https://www.ramseys.com/company/our-team/",
+ "tel_numbers": [
+  "504-885-4653",
+  "(504) 264-6226"
+ ],
+ "tel_source": "https://www.ramseys.com/company/our-story/",
+ "socials": [
+  "https://www.facebook.com/ramseysdiamondjewelers",
+  "https://www.instagram.com/ramseysdiamondjewelers/",
+  "https://twitter.com/ramseysdiamonds",
+  "https://www.pinterest.com/ramseysdiamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since 1958",
+  "worldwide diamond sourcing since 1998",
+  "largest diamond store in Louisiana (2018)",
+  "Lori Ramsey - Jewelers of Louisiana Lifetime Achievement Award 2023",
+  "3rd generation (Bobby, Wes)",
+  "lab-grown"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelers-Wholesale & Manufacturers, Diamonds"
+ "scope_reason": "Diamond-focused bridal retailer sourcing its own stones: \"1998 Robert and Lori focus entirely on diamonds ... Worldwide diamond sourcing begins\"; bills itself \"Louisiana's Largest Diamond Store\" selling natural and lab-grown diamonds (also repair and gold buying); founder's 1958 B & J Manufacturing Jewelers made jewelry for other jewelers.",
+ "verified": true
 }

@@ -18,14 +18,27 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "213-627-2808",
+  "212-840-0042",
+  "800-462-3313"
+ ],
+ "tel_source": "https://www.houseofbaguettes.com/contact",
+ "socials": [
+  "https://www.instagram.com/houseofbaguettes"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "multi-generation family",
+  "sources own diamonds",
+  "semi-mounts and bridal manufacturer",
+  "loaded yellow diamonds line",
+  "LA (607 S Hill St Ste 920) & NY"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "'For generations, the House of Baguettes family has been traversing the globe to source the finest diamonds for their luxury jewelry collections. Based in LA and NY' - a manufacturer whose 'finished design and semi-mount' pieces are handcrafted by its own artisans.",
+ "verified": true
 }

@@ -11,21 +11,29 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/ovadia-diamonds-usa-inc-542342835",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "odny@ovadiadiamonds.com",
+ "email_source": "https://www.ovadiadiamonds.com/location",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "2123198840"
+ ],
+ "tel_source": "https://www.ovadiadiamonds.com/location",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Suite #822",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since 1998",
+  "wholesale + retail GIA-certified diamonds",
+  "2 W 46th St Suite 822",
+  "ethically/sustainably sourced"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Ovadia Diamonds: \"your premier source for wholesale and retail diamonds\", founded 1998, offering \"Wholesale and Retail Sales of high-quality, GIA-certified diamonds\" plus custom design and certification.",
+ "verified": true
 }

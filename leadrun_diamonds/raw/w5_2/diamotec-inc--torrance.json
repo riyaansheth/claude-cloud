@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "unverified: site unreachable (diamotec.com TLS certificate expired; page could not be fetched with verification)",
+ "verified": false
 }

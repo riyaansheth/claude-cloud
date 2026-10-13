@@ -14,18 +14,28 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Bony Levy\" Bony Levy LinkedIn",
+ "contact_person": "Bony Levy",
+ "role": "Founder / Designer",
+ "contact_source": "https://bonylevy.com/about-us/",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/BonyLevy/",
+  "https://www.instagram.com/bonylevy/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "20+ years",
+  "family diamond business roots (Tel Aviv)",
+  "designer brand, made-in-Italy and LA-reviewed pieces",
+  "trunk shows",
+  "borderline: brand/manufacturer rather than loose-diamond dealer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Listed site is Bony Levy (name differs from listing): 'Born in Tel Aviv, Bony learned extensive diamond knowledge from his father ... After taking the diamond business to Los Angeles, Bony Levy fine jewelry was established' - a designer fine-jewelry brand/manufacturer with a trunk-show calendar, though the site itself sells direct online; borderline.",
+ "verified": true
 }

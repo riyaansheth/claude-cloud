@@ -18,14 +18,21 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "812-277-9850",
+  "877-772-0717"
+ ],
+ "tel_source": "https://www.diamondstonetechnologies.com/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "hooks": [
+  "est. 2007",
+  "Bedford, IN; 40,000 sq ft plant"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Industrial tooling maker: \"one of the industry's leading manufacturers of diamond segmented tooling for all types of natural stone\" (saw belts and blades for quarries) - not a gem-diamond business.",
+ "verified": true
 }

@@ -11,21 +11,42 @@
  "reviews": "91",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/palak-diam-7048997",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "ankur@palakdiam.com",
+ "email_source": "https://palakdiam.com/contact",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Ankur Savani\" Palak Diam LinkedIn",
+ "contact_person": "Ankur Savani",
+ "role": "President",
+ "contact_source": "https://palakdiam.com/about",
+ "tel_numbers": [
+  "(213) 228-0077",
+  "(213) 268-8485",
+  "+1 (212) 408-1111"
+ ],
+ "tel_source": "https://palakdiam.com/contact",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA",
+  "RJO",
+  "IDCA",
+  "Jewelers Board of Trade (JBT)",
+  "RapNet",
+  "National Pawnbrokers Association (NPA)",
+  "Jewelers for Children",
+  "Diamond Club West Coast (DCWC)"
+ ],
+ "hooks": [
+  "3rd-generation diamond dealers",
+  "buys melee, breakout, certified and fancy color diamonds",
+  "vertically integrated recycler with own cutting",
+  "trade credit application",
+  "also sales@palakdiam.com; buyer Manny Shah manny@palakdiam.com (NY)",
+  "550 S Hill St Ste 1040"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Palak Diam Inc. describes itself as 'a fully vertically integrated diamond recycler and buyer based in Los Angeles' and '3rd generation diamond dealers' that 'grown from a simple wholesaler', buying certified, uncertified, melee and fancy color diamonds, with trade credit accounts (content read from the site's JS app bundle).",
+ "verified": true
 }

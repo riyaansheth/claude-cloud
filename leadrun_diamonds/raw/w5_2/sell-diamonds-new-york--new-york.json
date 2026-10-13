@@ -18,14 +18,21 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "646-755-3981"
+ ],
+ "tel_source": "https://selldiamondsnyc.com/contact-us/",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "suite #203d",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "55 W 47th St suite 203d, Diamond District",
+  "buys loose, certified (GIA/EGL), large 3ct+ and rare/colored diamonds",
+  "mail-in option"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "Site (redirects to selldiamondsnyc.com) is a Diamond District diamond buyer: \"We Buy All Diamond Types ... large and rare diamonds and loose diamonds\", \"certified diamond buyers in NYC\" with \"20 years\" in diamond buying and selling - estate-diamond buyer, consumer-facing (also buys gold, coins, watches).",
+ "verified": true
 }

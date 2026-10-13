@@ -11,21 +11,38 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/metairie-la/mip/rothschild-diamond-12266250",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@rothschilddiamond.com",
+ "email_source": "https://rothschilddiamond.com/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/effie-rothschild-431a369b/",
+ "linkedin_source": "\"Effie Rothschild\" Rothschild Diamond LinkedIn",
+ "contact_person": "Effie Rothschild",
+ "role": "Founder",
+ "contact_source": "https://rothschilddiamond.com/",
+ "tel_numbers": [
+  "504-837-8002"
+ ],
+ "tel_source": "https://rothschilddiamond.com/pages/contact",
+ "socials": [
+  "http://facebook.com/rothschilddiamond",
+  "https://www.instagram.com/rothschilddiamond/",
+  "http://twitter.com/NOLAdiamonds",
+  "https://www.pinterest.com/noladiamonds/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "diamond exchange (full membership, per site)",
+  "GIA diamond seller (per site)"
+ ],
+ "hooks": [
+  "founder trained as cutter in Netanya, Israel",
+  "New Orleans office since ~1980",
+  "2nd generation (Tiffany and Sarah)",
+  "wholesale program: loose, melee, layouts & matched pairs, semi-mounts",
+  "sold to Saks Fifth Avenue"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Diamond Buyers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Rothschild Diamond began \"selling diamonds to local and national jewelry stores, including Saks Fifth Avenue\", founder Effie is \"a master cutter\", it claims \"full membership to the diamond exchange\", and its Wholesale page invites distributors for \"Loose Diamonds, Melee, Layouts & Matched Pairs\".",
+ "verified": true
 }

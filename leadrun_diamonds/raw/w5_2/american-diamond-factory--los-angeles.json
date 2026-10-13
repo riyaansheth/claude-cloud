@@ -11,21 +11,34 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/american-diamond-factory-453927234",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@ladiamondfactory.com",
+ "email_source": "https://www.ladiamondfactory.com/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/mervyn-hahn-33302312/",
+ "linkedin_source": "\"Mervyn Hahn\" Los Angeles Diamond Factory LinkedIn",
+ "contact_person": "Mervyn Hahn",
+ "role": "Founder",
+ "contact_source": "https://www.ladiamondfactory.com/pages/about-us",
+ "tel_numbers": [
+  "(213)6278700",
+  "(818) 342-6663",
+  "(800) 652-7237"
+ ],
+ "tel_source": "https://www.ladiamondfactory.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/losangelesdiamondfactory",
+  "https://www.instagram.com/ladiamondfactory/",
+  "https://twitter.com/DiamondFactory"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Ste.302",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelry Designers"
+ "hooks": [
+  "founded 1981",
+  "founder trained as diamond cutter in South Africa",
+  "607 S. Hill St Ste 302"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Los Angeles Diamond Factory says it was \"Originally a diamond manufacturer, we now pride ourselves on providing our clients with expertly crafted pieces of jewelry\" - a consumer engagement-ring/custom-design store.",
+ "verified": true
 }

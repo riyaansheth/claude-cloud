@@ -20,12 +20,24 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://twitter.com/ns_diamonds",
+  "https://www.facebook.com/nsdiamonds",
+  "https://www.instagram.com/normansilverman/",
+  "https://www.pinterest.com/normansilverman/",
+  "https://www.youtube.com/@Norman.Silverman"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since 1982",
+  "family-owned \"Diamond House of Los Angeles\"",
+  "rare high-carat and fancy yellow diamonds",
+  "retailer store locator"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "'Founded in 1982 as a diamond business, Norman Silverman built its foundation selecting exceptional natural diamonds for jewelers. That expertise has evolved into a diamond house of its own' - designs and produces high-carat diamond jewelry in Los Angeles sold through retailers (store locator).",
+ "verified": true
 }
