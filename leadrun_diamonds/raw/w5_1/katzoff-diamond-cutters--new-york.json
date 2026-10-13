@@ -18,14 +18,21 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "800.324.0688",
+  "212.869.0476"
+ ],
+ "tel_source": "https://diamondcutters.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "natural",
+  "loose-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "Linked site diamondcutters.com ('Diamond Cutters Inc', NYC 212.869.0476) sells 'the finest quality certified diamonds' loose with build-your-own rings; site does not name Katzoff, so the tie to this listing is thin.",
+ "verified": true
 }

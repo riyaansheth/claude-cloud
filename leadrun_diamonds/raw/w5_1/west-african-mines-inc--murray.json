@@ -18,14 +18,25 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+18015311880"
+ ],
+ "tel_source": "https://westafricanmines.com/contact-us/",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "wholesale",
+  "to-the-trade",
+  "cutter",
+  "diamond-buyer",
+  "loose-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "scope_reason": "Site: 'West African Mines \u2013 Diamond Wholesalers to The Trade'... 'huge in house inventory of loose diamonds in all shapes and sizes'; founders include a journeyman diamond cutter; GIA-trained.",
+ "verified": true
 }

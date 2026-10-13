@@ -11,21 +11,34 @@
  "reviews": "41",
  "source_url": "https://www.yellowpages.com/melbourne-fl/mip/diamond-brokers-9388093",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "brokersj@bellsouth.net",
+ "email_source": "http://www.dbof.com/contactus",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "321-497-7576",
+  "321-984-0757"
+ ],
+ "tel_source": "http://www.dbof.com/, http://www.dbof.com/contactus",
+ "socials": [
+  "https://www.facebook.com/people/Diamond-Brokers-of-Florida/100028389019182",
+  "https://www.instagram.com/diamondbrokersflorida",
+  "https://www.tiktok.com/@diamondbrokersflorida"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1985",
+  "broker",
+  "lab-grown",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "Diamond Brokers of Florida: 'Trusted Diamond Experts Since 1985'... 'certified diamonds, luxury jewelry, and personalized brokerage services', natural and lab-grown loose diamonds; consumer-facing broker.",
+ "verified": true
 }
