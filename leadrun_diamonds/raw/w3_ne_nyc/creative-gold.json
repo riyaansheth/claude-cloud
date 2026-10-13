@@ -1,0 +1,43 @@
+{
+  "business": "Creative Gold",
+  "category_as_listed": "",
+  "phone": "215-925-3278",
+  "email": "george@creativegold.com",
+  "email_source": "https://jrow.org/creative-gold/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "George Earussi",
+  "role": "Principal",
+  "contact_source": "https://jrow.org/creative-gold/",
+  "website": "https://creativegold.com",
+  "address": "740 Sansom St, Suite 601, Philadelphia, PA 19106",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://jrow.org/creative-gold/",
+  "tel_numbers": [
+    "+12159253278",
+    "+18666970000"
+  ],
+  "tel_source": "https://creativegold.com",
+  "socials": [
+    "https://www.facebook.com/profile.php?id=100063907446384"
+  ],
+  "building": "740 Sansom St (Jewelers Row)",
+  "suite": "Suite 601",
+  "trade_memberships": [
+    "Jewelers Row District"
+  ],
+  "hooks": [
+    "manufacturer",
+    "modelmaker",
+    "cad-cam",
+    "custom"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "jrow.org: George Earussi's custom jewelry design/manufacture shop using Revo540 milling for models; trade modelmaker in the 740 Sansom trade building. Diamond-jewelry manufacturer (diamond sourcing not stated).",
+  "drop_reason": ""
+}

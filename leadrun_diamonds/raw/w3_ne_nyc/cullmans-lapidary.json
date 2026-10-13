@@ -1,0 +1,37 @@
+{
+  "business": "Cullman's Lapidary",
+  "category_as_listed": "",
+  "phone": "215-922-1850",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "740 Sansom St, Suite 206, Philadelphia, PA 19106",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://jrow.org/cullmans-lapidary/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "740 Sansom St (Jewelers Row)",
+  "suite": "Suite 206",
+  "trade_memberships": [
+    "Jewelers Row District"
+  ],
+  "hooks": [
+    "since-1981",
+    "lapidary",
+    "cutter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "jrow.org: lapidary providing 'Jewelry And Precious Stones' since 1981 in the 740 Sansom trade building. Stone cutter; diamond line not explicitly confirmed. No website (jrow links Yelp only).",
+  "drop_reason": ""
+}

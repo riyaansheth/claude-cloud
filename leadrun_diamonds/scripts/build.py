@@ -85,6 +85,9 @@ def load(con):
         if status == "keep":
             # kill-list gate #2 (builder) — catches anything that slipped past discovery
             r2 = kill_reason(rec.get("business", ""), rec.get("category_as_listed", ""))
+            site = (rec.get("website") or "") + " " + rec.get("business", "")
+            if not r2 and re.search(r"pearl", site, re.I) and not re.search(r"diamond", site, re.I):
+                r2 = "gemstone-only"  # pearl house with no diamond line in its name/domain
             if r2:
                 dropped.append((rec, r2, "builder"))
                 continue
@@ -236,7 +239,11 @@ def build_row(b):
         main = next((d for d in cands if not is_toll_free(d)), cands[0])
         b["_phone_d"], b["phone"], phone_from_site = main, fmt(main), True
         cands = [d for d in cands if d != main]
-    direct_ok = any(not is_toll_free(d) for d in cands)
+    # a number on the main line's exchange within a few digits of it is a fax / rollover, not a direct line
+    def adjacent(d):
+        m = b["_phone_d"]
+        return bool(m) and d[:6] == m[:6] and abs(int(d[6:]) - int(m[6:])) <= 5
+    direct_ok = any(not is_toll_free(d) and not adjacent(d) for d in cands)
     score = email_ok + li_ok + direct_ok
 
     signals = [f"{score} of 3"]

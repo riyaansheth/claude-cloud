@@ -1,0 +1,33 @@
+{
+  "business": "Louis F Guiness",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers",
+  "phone": "(617) 720-0207",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "333 Washington St, Boston, MA 02108",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/boston-ma/mip/louis-f-guiness-465640604",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "Jewelers Building, 333 Washington St",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale in the Boston jewelry district.",
+  "drop_reason": ""
+}

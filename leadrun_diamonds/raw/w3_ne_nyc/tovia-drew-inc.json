@@ -1,0 +1,33 @@
+{
+  "business": "Tovia Drew Inc",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers, Watches",
+  "phone": "(212) 768-8510",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "580 5th Ave Ste 925, New York, NY 10036",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/new-york-ny/mip/tovia-drew-inc-9148643",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "580 Fifth Ave (World Diamond Tower)",
+  "suite": "Ste 925",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale in 580 Fifth Ave (World Diamond Tower).",
+  "drop_reason": ""
+}

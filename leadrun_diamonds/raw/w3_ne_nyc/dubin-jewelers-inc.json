@@ -1,0 +1,35 @@
+{
+  "business": "Dubin Jewelers Inc.",
+  "category_as_listed": "Jewelers, Jewelry Buyers, Diamonds",
+  "phone": "(617) 742-3132",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.dubinjewelers.com",
+  "address": "333 Washington Street Suite 610, Boston, MA 02108",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/boston-ma/mip/dubin-jewelers-inc-458898673",
+  "tel_numbers": [
+    "617.742.3132"
+  ],
+  "tel_source": "https://www.dubinjewelers.com/contact.html",
+  "socials": [],
+  "building": "Jewelers Building, 333 Washington St",
+  "suite": "Suite 610",
+  "trade_memberships": [],
+  "hooks": [
+    "diamond-buyer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP: Jewelers/Jewelry Buyers/Diamonds; small by-appointment office in the Jewelers Building. Diamond focus only from YP category.",
+  "drop_reason": ""
+}

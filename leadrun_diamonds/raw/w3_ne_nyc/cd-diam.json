@@ -1,0 +1,33 @@
+{
+  "business": "CD Diam",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers",
+  "phone": "(212) 302-1307",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "50 W 47th St, New York, NY 10036",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/new-york-ny/mip/cd-diam-502824528",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "International Gem Tower, 50 W 47th St",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale in International Gem Tower, 50 W 47th St. cddiam.com failed TLS.",
+  "drop_reason": ""
+}

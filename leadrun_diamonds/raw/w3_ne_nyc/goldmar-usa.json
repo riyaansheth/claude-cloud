@@ -1,0 +1,33 @@
+{
+  "business": "GoldMar USA",
+  "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers",
+  "phone": "(267) 687-1296",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.goldmarusa.com",
+  "address": "732 Sansom St Ste B, Philadelphia, PA 19106",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/goldmar-usa-455261657",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "Jewelers Row",
+  "suite": "Ste B",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale on Jewelers Row. Website goldmarusa.com failed TLS.",
+  "drop_reason": ""
+}

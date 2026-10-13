@@ -1,0 +1,33 @@
+{
+  "business": "Unclaimed Diamonds",
+  "category_as_listed": "Jewelers-Wholesale & Manufacturers, Jewelry Repairing, Diamonds-Wholesale",
+  "phone": "(215) 923-3210",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.unclaimeddiamonds.com",
+  "address": "113 S 8th St, Philadelphia, PA 19106",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/unclaimed-diamonds-27903592",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "Jewelers Row",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale on Jewelers Row. Website unclaimeddiamonds.com rate-limited (429) - not read.",
+  "drop_reason": ""
+}

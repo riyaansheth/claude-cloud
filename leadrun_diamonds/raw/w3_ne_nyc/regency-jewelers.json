@@ -1,0 +1,33 @@
+{
+  "business": "Regency Jewelers",
+  "category_as_listed": "Diamonds-Wholesale, Diamond Buyers",
+  "phone": "(617) 523-5138",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.regencydiamond.com",
+  "address": "333 Washington St Ste 329, Boston, MA 02108",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/boston-ma/mip/regency-jewelers-467546707",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "Jewelers Building, 333 Washington St",
+  "suite": "Ste 329",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale in the Boston jewelry district. Website loads only a JS shell (no readable contacts).",
+  "drop_reason": ""
+}

@@ -1,0 +1,39 @@
+{
+  "business": "Karli Jewelers",
+  "category_as_listed": "Jewelers, Jewelers-Wholesale & Manufacturers, Jewelry Repairing",
+  "phone": "(617) 523-0435",
+  "email": "karlijewelers@yahoo.com",
+  "email_source": "https://www.karlijewelers.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.karlijewelers.com",
+  "address": "333 Washington St. Suite 616, Boston, MA 02108",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/boston-ma/mip/karli-jewelers-548237643",
+  "tel_numbers": [
+    "617-523-0435"
+  ],
+  "tel_source": "https://www.karlijewelers.com/",
+  "socials": [
+    "https://www.facebook.com/karlijewelers",
+    "https://www.instagram.com/karlijewelers/"
+  ],
+  "building": "Jewelers Building, 333 Washington St",
+  "suite": "Suite 616",
+  "trade_memberships": [],
+  "hooks": [
+    "since-2006",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP: Jewelers-Wholesale & Manufacturers; founded 2006 by 'Kevork' (40+ years in industry). Diamond line not explicitly confirmed.",
+  "drop_reason": ""
+}

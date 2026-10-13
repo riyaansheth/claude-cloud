@@ -1,0 +1,33 @@
+{
+  "business": "Debs Jewelers & Gemologists",
+  "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Diamonds",
+  "phone": "(215) 627-7821",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.debsfordiamonds.com",
+  "address": "128 S 8th St, Philadelphia, PA 19107",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/debs-jewelers-gemologists-16511853",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "Jewelers Row",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale on Jewelers Row. jrow.org lists it as 'Jeffery Debs Jeweler' ('Debs (is) for Diamonds'); debsfordiamonds.com failed TLS.",
+  "drop_reason": ""
+}

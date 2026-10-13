@@ -1,0 +1,41 @@
+{
+  "business": "Gemelody, Inc",
+  "category_as_listed": "Diamonds-Wholesale",
+  "phone": "(212) 730-7373",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Ahron Kavakeb",
+  "role": "Owner",
+  "contact_source": "https://www.jckonline.com/editorial-article/gemelody-fancy-diamonds/",
+  "website": "https://www.gemelody.com",
+  "address": "580 Fifth Avenue Suite 531, New York, NY 10036",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/new-york-ny/mip/gemelody-inc-469477693",
+  "tel_numbers": [
+    "18003339925"
+  ],
+  "tel_source": "https://www.gemelody.com/contact.php",
+  "socials": [],
+  "building": "580 Fifth Ave (World Diamond Tower)",
+  "suite": "Suite 531",
+  "trade_memberships": [
+    "AGS"
+  ],
+  "hooks": [
+    "since-1980",
+    "fancy-color",
+    "manufacturer",
+    "natural",
+    "family"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'manufacturer and wholesaler of natural fancy color diamonds and fine jewelry', family-owned since 1980. Email on site is Cloudflare-obfuscated (not recorded).",
+  "drop_reason": ""
+}

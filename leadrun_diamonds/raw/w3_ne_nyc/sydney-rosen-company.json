@@ -1,0 +1,47 @@
+{
+  "business": "Sydney Rosen Company",
+  "category_as_listed": "",
+  "phone": "215-922-3500",
+  "email": "sales@sydneyrosen.com",
+  "email_source": "https://jrow.org/sydney-rosen-company/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.sydneyrosen.com",
+  "address": "712-714 Sansom Street, Philadelphia, PA 19106",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://jrow.org/sydney-rosen-company/",
+  "tel_numbers": [
+    "(215) 922-3500"
+  ],
+  "tel_source": "https://www.sydneyrosen.com/",
+  "socials": [
+    "http://www.facebook.com/pages/Philadelphia-PA/Sydney-Rosen-Company/116014355105441",
+    "https://www.instagram.com/sydneyrosencompany/",
+    "https://twitter.com/SydneyRosenCo"
+  ],
+  "building": "Jewelers Row",
+  "suite": "",
+  "trade_memberships": [
+    "AGS",
+    "Jewelers Row District"
+  ],
+  "hooks": [
+    "3rd-generation",
+    "since-1947",
+    "independently-certified",
+    "lab-grown",
+    "natural",
+    "bridal"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "jrow.org: 'Every diamond ... carefully chosen by my brother and I, and all are independently certified' - bridal specialist sourcing its own loose stones; site covers lab-grown and natural. AGS membership per The Knot (search summary). Owner brothers not named in sources seen.",
+  "drop_reason": ""
+}

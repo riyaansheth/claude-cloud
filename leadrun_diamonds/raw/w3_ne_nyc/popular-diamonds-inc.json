@@ -1,0 +1,41 @@
+{
+  "business": "Popular Diamonds Inc.",
+  "category_as_listed": "Diamonds-Wholesale, Diamonds-Industrial, Diamonds",
+  "phone": "(866) 867-1184",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.populardiamonds.com",
+  "address": "580 5th Ave, New York, NY 10036",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/new-york-ny/mip/popular-diamonds-inc-1837630",
+  "tel_numbers": [
+    "(866) 867-1184"
+  ],
+  "tel_source": "https://www.populardiamonds.com/",
+  "socials": [
+    "https://www.facebook.com/PopularDiamonds/",
+    "https://www.instagram.com/populardiamonds/"
+  ],
+  "building": "580 Fifth Ave (World Diamond Tower)",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "gia-certified",
+    "fancy-color",
+    "lab-grown",
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP: Diamonds-Wholesale; own site sells GIA-certified loose diamonds, fancy colors and lab-grown at wholesale (online-heavy). No tel/mailto links on site; phone (866) 867-1184 shown in text.",
+  "drop_reason": ""
+}

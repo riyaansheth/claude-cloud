@@ -1,0 +1,119 @@
+##### https://hbsdiamonds.com
+   https://hbsdiamonds.com/ 500 https://hbsdiamonds.com/
+   https://hbsdiamonds.com/contact 500 https://hbsdiamonds.com/contact
+   https://hbsdiamonds.com/contact-us 500 https://hbsdiamonds.com/contact-us
+   https://hbsdiamonds.com/about 500 https://hbsdiamonds.com/about
+   https://hbsdiamonds.com/about-us 500 https://hbsdiamonds.com/about-us
+   https://hbsdiamonds.com/our-story 500 https://hbsdiamonds.com/our-story
+  mailto []
+  tel []
+  emails []
+  phones []
+  soc []
+##### https://cddiam.com
+  mailto []
+  tel []
+  emails []
+  phones []
+  soc []
+##### https://mellendiamonds.com
+  OK https://mellendiamonds.com/ -> https://mellendiamonds.com/
+  OK https://mellendiamonds.com/contact -> https://mellendiamonds.com/contact
+  OK https://mellendiamonds.com/our-story -> https://mellendiamonds.com/our-story
+  mailto ['mailto:info@mellenco.com']
+  tel ['tel:212.371.1836']
+  emails ['info@mellenco.com']
+  phones ['212.371.1836']
+  soc []
+   .. Mellen collection manufacturing our story contact toggle menu collection manufacturing our story contact ©2026 Mellen Inc. explore collection manufa
+   .. ontact ©2026 Mellen Inc. explore collection manufacturing ©2026 Mellen Inc. International Gem Tower 50 West 47th street Suite 2113 New York, NY 10036 212.371.1836 info@mellenco.com ©2026 Mellen Inc. International Gem Tower 50 West 47th street Suite 2
+   .. r story contact toggle menu collection manufacturing our story contact ©2026 Mellen Inc. contact MELLEN Inc. is a third generation family run organization based in New York. Through proprietary sourcing, manufacturing and strategic partnerships MELLE
+   .. ents by referral. E-mail:  info@mellenco.com Tel:  212.371.1836 MELLEN Inc. International Gem Tower 50 West 47th street Suite 2113 New York, NY 10036 ©2026 Mellen Inc. International Gem Tower 50 West 47th street Suite 2113 New York, NY 10036 212.371.
+   .. owth Ben Mellen is largely credited within the industry for being among the very first to encourage an appetite for the wholesale marketing and trading of large diamonds which were at that time relegated predominantly to the retail sector. The Famil
+   .. n & Son was solidly established in the top hierarchy of the diamond trade having participated in the purchase, sale and manufacture of a great number of storied stones including The Indore Pear Shapes, The Tiffany Yellow and The Marcos Blue. The Mome
+   .. omentum The following years added momentum and growth for our company and Mellen Inc. found itself participating in the manufacture and sale of a number of important diamonds such as the Winston Legacy and the Pink Star, as well as notable Sapphires,
+##### https://www.populardiamonds.com
+  OK https://www.populardiamonds.com/ -> https://www.populardiamonds.com/
+  mailto []
+  tel []
+  emails []
+  phones ['(866) 867-1184']
+  soc ['https://www.facebook.com/PopularDiamonds/', 'https://www.instagram.com/populardiamonds/']
+   .. Buy Diamond Jewelry Online | Natural Diamonds For Sale GIA Certified – Popular Diamonds Skip to content Search DIAMONDS ENGAGEMENT JEWELRY Lab Grown Diamonds Expand menu Collapse
+   .. fied – Popular Diamonds Skip to content Search DIAMONDS ENGAGEMENT JEWELRY Lab Grown Diamonds Expand menu Collapse menu Lab Grown Jewelry WEDDING WATCHES Contact Account Site navigation Search Search Cart Menu Site navigation DIAMONDS ENGAGEMENT JEW
+   .. lry WEDDING WATCHES Contact Account Site navigation Search Search Cart Menu Site navigation DIAMONDS ENGAGEMENT JEWELRY Lab Grown Diamonds Lab Grown Jewelry WEDDING WATCHES Contact Account Item added to cart. View cart and check out . Close Close OR
+   .. ew all 50% OFF Natural Fancy Color Diamonds View all Our Diamond Collection View all DIAMOND BRACELETS View all 1 Carat Lab Grown Loose Diamonds Certified View all Popular Diamonds: A Trusted Online diamond jewelry Store for Top Quality Diamonds in 
+   .. ceeds them too! You can be rest assured that Popular Diamonds is indeed the best diamond jewelry store—our diamonds are GIA certified. At our store, you pay for superb quality and top value for your money. Diamonds can be quite the worthwhile 
+   .. lity as a diamond jeweler is guaranteed. We offer a fine collection of diamond accessories, including wedding bands and wholesale diamond rings, engagement rings, and diamond necklaces. We also have in stock an exquisite selection of diamond watches
+   .. mond watches for sale! In addition to accessories, Popular Diamonds is also the best source for purchasing high-quality wholesale loose diamonds, Fancy Color Diamonds, Yellow diamonds, Blue Diamonds, Red Diamonds, Pink Diamonds, and much more Get in
+##### https://www.mherz.com
+  OK https://www.mherz.com/ -> https://www.mherz.com/
+  mailto []
+  tel []
+  emails ['mayer@mherz.com']
+  phones ['212-719-4747']
+  soc []
+   .. M Herz & Son - Diamonds Since 1948 Our Company Our Cutters Our Mission Contact Stunningly perfect. Curated by our team of expert diamond cutters, our diam
+   .. s have a unique
+                        stamp of perfectionist touch. Learn more Who we are M. Herz & Son is a diamond manufacturing and trading company. Three generations of our family have been growing the company for almost 70 years. Our perfectl
+   .. d to help them sell more diamonds. We dedicate ourselves to providing only the most salable and brilliant collection of loose diamonds and sharing our expertise with jewelers worldwide. This culminates in creating new tools and online experiences to imp
+##### https://excellentfacets.com
+  OK https://excellentfacets.com/ -> https://excellentfacets.com/
+  OK https://excellentfacets.com/contact -> https://excellentfacets.com/contact
+  OK https://excellentfacets.com/about -> https://excellentfacets.com/about
+  mailto ['mailto:You can contact us at info@excellentfacets.com', 'mailto:info@excellentfacets.com']
+  tel ['tel:+12123545554', 'tel:+33619990766', 'tel:+41795528052', 'tel:+9114131799657', 'tel:+919638133336']
+  emails ['info@excellentfacets.com']
+  phones ['212 354 5554']
+  soc []
+   .. elee Fancy Color Certified Why Work with Us? Sustainability 100% Synthetic Free Responsible Sourcing Socially Compliant Manufacturing Philanthropy Human Rights Contact Us EN FR Diamonds are forever. Suppliers can be too. Trusted supplier to the world
+   .. nds are forever. Suppliers can be too. Trusted supplier to the world’s most prestigious jewellery and timepiece maisons since 1998. down next section Facets of Excellence HERITAGE CURATION COMPLIANCE Heritage. CUSTOMER-FIRST INTEGRITY RIGOROUS QUALIT
+   .. r search for rare diamonds. We pledge traceable sourcing with mine of origin, carbon neutrality, and socially conscious manufacturing. Diamond sustainability Facets of Excellence HERITAGE CURATION COMPLIANCE Heritage. CUSTOMER-FIRST INTEGRITY RIGOROU
+   ..  India, we are among the few suppliers that combine senior leadership close to our maison clients with a directly owned manufacturing atelier. This means faster quotations, faster feasibility and design studies, more direct communication, and full co
+   .. ved! Oops! Something went wrong while submitting the form. Headquarters New York Excellent Facets Inc. 580 Fifth Avenue Suite 1129, New York NY 10036, USA +1 212 354 5554 GENÈVE Excellent Facets SA Avenue Louis-Casaï 18 1209 Genève, Switzerland +41 7
+   .. llentfacets.com or kindly fill out the form. info@excellentfacets.com NEW YORK Excellent Facets Inc., 580 Fifth Avenue, Suite 1129 New York, NY 10036, USA +1 212 354 5554 PARIS Excellent Facets SAS, 10 Place Vendôme 75001 Paris, France +33 6 19 99 07
+   .. loor, Sitapura Industrial Area Jaipur, India 302022 +91 141 317 99657 NEW YORK Excellent Facets Inc., 580 Fifth Avenue, Suite 1129 New York, NY 10036, USA +1 212 354 5554 PARIS Excellent Facets SAS, 10 Place Vendôme 75001 Paris, France +33 6 19 99 07
+   .. polishing atelier in Jaipur, India, we combine senior leadership close to our maison clients with full control over our manufacturing, ready to serve our global clientele. 30% of our team have been with Excellent Facets since the start of the journey
+##### https://www.laurenbjewelry.com
+  mailto []
+  tel []
+  emails []
+  phones []
+  soc []
+##### https://gemcash.com
+  mailto []
+  tel []
+  emails []
+  phones []
+  soc []
+##### https://www.jbediamonds.com
+  OK https://www.jbediamonds.com/ -> https://jbediamonds.com/
+  OK https://www.jbediamonds.com/contact -> https://jbediamonds.com/contact-us/
+   https://www.jbediamonds.com/contact-us 200 https://jbediamonds.com/contact-us/
+  OK https://www.jbediamonds.com/about -> https://jbediamonds.com/about-diamonds/
+  OK https://www.jbediamonds.com/about-us -> https://jbediamonds.com/about-us/
+  mailto ['mailto:info@jbediamonds.com']
+  tel ['tel:(212) 221-1095', 'tel:212-221-1095']
+  emails ['info@jbediamonds.com']
+  phones ['(212) 221-1095', '(917)400-8823', '212-221-1095', '800-711-5059']
+  soc ['https://twitter.com/jbediamonds', 'https://www.facebook.com/jbediamonds']
+   .. Diamond Buyer NYC | Wholesale Diamond | Sell My Diamond October 13, 2026 212-221-1095 Home About Us WHAT WE BUY LOOSE DIAMONDS DIAMOND RINGS DIAMOND 
+   .. , 2026 212-221-1095 Home About Us WHAT WE BUY LOOSE DIAMONDS DIAMOND RINGS DIAMOND JEWELRY ENGAGEMENT RINGS WATCHES BUY GIA DIAMOND HOW TO SELL DIAMOND APPRAISAL VISIT MANHATTAN LOCATION SHIP YOUR JEWELRY ABOUT DIAMONDS DIAMOND SHAPE DIAMOND C
+   ..  FLUORESCENSE SELL LARGE DIAMOND DIAMOND INVENTORY UPGRADE SERVICE CASH QUOTE BLOG Contact Us Home About Us WHAT WE BUY LOOSE DIAMONDS DIAMOND RINGS DIAMOND JEWELRY ENGAGEMENT RINGS WATCHES BUY GIA DIAMOND HOW TO SELL DIAMOND APPRAISAL VISIT MANHATTAN L
+   .. y you immediately in cash. We are here to help you get paid the best value when you sell your diamonds and jewelry Sell Loose Diamonds Sell Engagement Rings Sell Diamond Rings Sell Large Diamonds Sell Rolex Watches Sell Diamond Necklaces Diamond Jewelri
+   .. ell Engagement Rings Sell Diamond Rings Sell Large Diamonds Sell Rolex Watches Sell Diamond Necklaces Diamond Jewelries GIA Certified Diamonds EGL Certified Diamonds Sell Earrings Wedding Rings Diamond Bangles Why JBEDiamonds <span style="disp
+   .. n> Diamond Buyers Located in New York City, NY We Buy and Sell all kinds of Diamonds and Jewelry. We Pay Top Dollar For GIA Certified Diamonds And Non Certified Diamonds. If you are looking to sell your diamonds, jewelry, or watches please vis
+   ..  offer the best prices for quality diamonds. If your diamonds are certified by a reputable independent lab, such as the GIA, be sure to bring this along for evaluation as this can significantly raise the prices you get for your diamonds. The d
+   .. ng diamond jewelry Based in New York, JBE Diamonds has been buying and selling diamond authentic diamond jewelry pieces since 1975. We deal in high quality, certified diamonds and diamond jewelry. With an aim to combine product quality and efficient 
+##### https://www.diamondlighthouse.com
+  OK https://www.diamondlighthouse.com/ -> https://www.diamondlighthouse.com/
+  OK https://www.diamondlighthouse.com/contact -> https://www.diamondlighthouse.com/contact
+  OK https://www.diamondlighthouse.com/contact-us -> https://www.diamondlighthouse.com/contact-us
+  OK https://www.diamondlighthouse.com/about -> https://www.diamondlighthouse.com/about
+  OK https://www.diamondlighthouse.com/about-us -> https://www.diamondlighthouse.com/about-us
+  OK https://www.diamondlighthouse.com/our-story -> https://www.diamondlighthouse.com/our-story
+  mailto []
+  tel []
+  emails []
+  phones []
+  soc []

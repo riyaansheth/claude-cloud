@@ -1,0 +1,33 @@
+{
+  "business": "Keezing Briner",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers, Diamonds",
+  "phone": "(617) 482-4800",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "387 Washington St Ste 706, Boston, MA 02108",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/boston-ma/mip/keezing-briner-1811522",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "Jewelers Exchange, 387 Washington St",
+  "suite": "Ste 706",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale in the Boston jewelry district.",
+  "drop_reason": ""
+}

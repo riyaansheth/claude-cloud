@@ -1,0 +1,42 @@
+[
+ {
+  "name": "580 5th Avenue World Diamond",
+  "addr": "580 5th Ave",
+  "loc": "New York, NY 10036",
+  "phone": "(212) 382-0005",
+  "cats": "Real Estate Management",
+  "mip": "https://www.yellowpages.com/new-york-ny/mip/580-5th-avenue-world-diamond-519954887",
+  "web": "https://www.580fifth.com",
+  "src": "https://www.yellowpages.com/search?search_terms=diamonds+580+5th+Ave&geo_location_terms=New+York%2C+NY"
+ },
+ {
+  "name": "Cartier Fifth Avenue Mansion",
+  "addr": "653 5th Ave",
+  "loc": "New York, NY 10022",
+  "phone": "(212) 446-3400",
+  "cats": "Clothing Stores,Cosmetics & Perfumes,Gift Shops",
+  "mip": "https://www.yellowpages.com/new-york-ny/mip/cartier-fifth-avenue-mansion-473484129",
+  "web": "https://stores.cartier.com/united-states/ny/new-york/653-fifth-avenue",
+  "src": "https://www.yellowpages.com/search?search_terms=diamonds+580+5th+Ave&geo_location_terms=New+York%2C+NY"
+ },
+ {
+  "name": "Fifth Avenue Gem Lab",
+  "addr": "2 W 46th St Ste 1103",
+  "loc": "New York, NY 10036",
+  "phone": "(212) 221-3494",
+  "cats": "Diamond Setters",
+  "mip": "https://www.yellowpages.com/new-york-ny/mip/fifth-avenue-gem-lab-5280594",
+  "web": "http://fifthavenuegemlab.localsearch.com",
+  "src": "https://www.yellowpages.com/search?search_terms=diamonds+580+5th+Ave&geo_location_terms=New+York%2C+NY"
+ },
+ {
+  "name": "Fifth Ave Gold & Silver Buyers",
+  "addr": "5 S 5th Ave",
+  "loc": "Mount Vernon, NY 10550",
+  "phone": "(914) 699-5700",
+  "cats": "Diamond Buyers,Diamonds-Wholesale",
+  "mip": "https://www.yellowpages.com/mount-vernon-ny/mip/fifth-ave-gold-silver-buyers-472674344",
+  "web": "http://fifthavegoldsilverbuyers.localsearch.com",
+  "src": "https://www.yellowpages.com/search?search_terms=diamonds+580+5th+Ave&geo_location_terms=New+York%2C+NY"
+ }
+]

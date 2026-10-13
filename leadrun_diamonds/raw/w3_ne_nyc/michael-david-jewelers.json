@@ -1,0 +1,33 @@
+{
+  "business": "Michael David Jewelers",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers",
+  "phone": "(215) 922-1150",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "132 S 8th St, Philadelphia, PA 19107",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/michael-david-jewelers-3755823",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "Jewelers Row",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale on Jewelers Row.",
+  "drop_reason": ""
+}

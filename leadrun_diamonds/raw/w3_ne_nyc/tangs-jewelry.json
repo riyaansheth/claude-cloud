@@ -1,0 +1,38 @@
+{
+  "business": "Tang's Jewelry",
+  "category_as_listed": "",
+  "phone": "215-922-8264",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "711 Sansom St, Philadelphia, PA 19106",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://jrow.org/tangs-jewelry/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/tangsdiamond/"
+  ],
+  "building": "Jewelers Row",
+  "suite": "",
+  "trade_memberships": [
+    "Jewelers Row District"
+  ],
+  "hooks": [
+    "loose-diamonds",
+    "bridal"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "jrow.org: 'Tang's Diamond ... we specialize in loose diamonds, bridal, custom jewelry design and precious gemstone'. No website.",
+  "drop_reason": ""
+}

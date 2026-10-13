@@ -1,0 +1,33 @@
+{
+  "business": "Finesse Diamonds Corp",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers, Diamonds",
+  "phone": "(212) 944-9441",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "50 W 47th St Ste 2001, New York, NY 10036",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/new-york-ny/mip/finesse-diamonds-corp-466670319",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "International Gem Tower, 50 W 47th St",
+  "suite": "Ste 2001",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale in International Gem Tower, 50 W 47th St. YP website points to hod.live (House of Diamonds, Ste 2018) - possibly related to existing lead house-of-diamonds-inc.",
+  "drop_reason": ""
+}

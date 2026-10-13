@@ -1,0 +1,39 @@
+{
+  "business": "Freedman Jewelers",
+  "category_as_listed": "Jewelers, Jewelry Buyers, Diamonds",
+  "phone": "(617) 227-4294",
+  "email": "freedmanjewelers@gmail.com",
+  "email_source": "https://freedmandiamonds.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://freedmandiamonds.com",
+  "address": "333 Washington St Suite 408, Boston, MA 02108",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/boston-ma/mip/freedman-jewelers-467214620",
+  "tel_numbers": [
+    "617-227-4294"
+  ],
+  "tel_source": "https://freedmandiamonds.com/",
+  "socials": [],
+  "building": "Jewelers Building, 333 Washington St",
+  "suite": "Suite 408",
+  "trade_memberships": [],
+  "hooks": [
+    "3rd-generation",
+    "since-1945",
+    "lab-grown",
+    "natural",
+    "diamond-buyer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP: Jewelers/Jewelry Buyers/Diamonds; own site: 3rd-generation firm founded 1945 by David Freedman, sells lab-grown and natural diamonds and custom rings. Diamond-led bridal/buyer, borderline retail.",
+  "drop_reason": ""
+}

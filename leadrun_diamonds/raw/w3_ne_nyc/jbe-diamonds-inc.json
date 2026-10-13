@@ -1,0 +1,42 @@
+{
+  "business": "JBE Diamonds Inc",
+  "category_as_listed": "Diamond Buyers, Jewelry Buyers",
+  "phone": "(212) 221-1095",
+  "email": "info@jbediamonds.com",
+  "email_source": "https://jbediamonds.com/contact-us/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://jbediamonds.com",
+  "address": "580 5th Ave, New York, NY 10036",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/new-york-ny/mip/jbe-diamonds-inc-267117",
+  "tel_numbers": [
+    "(212) 221-1095",
+    "212-221-1095"
+  ],
+  "tel_source": "https://jbediamonds.com/contact-us/",
+  "socials": [
+    "https://www.facebook.com/jbediamonds",
+    "https://twitter.com/jbediamonds"
+  ],
+  "building": "580 Fifth Ave (World Diamond Tower)",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1975",
+    "diamond-buyer",
+    "gia-certified",
+    "large-stones"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: buys and sells GIA/non-certified diamonds and diamond jewelry since 1975 in the Diamond District.",
+  "drop_reason": ""
+}

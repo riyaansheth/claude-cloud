@@ -1,0 +1,42 @@
+{
+  "business": "Amoroso Jewelers",
+  "category_as_listed": "Jewelers, Jewelry Designers, Jewelry Buyers",
+  "phone": "(617) 742-9900",
+  "email": "info@amorosojewelers.com",
+  "email_source": "https://www.amorosojewelers.com/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "John Amoroso",
+  "role": "Featured On About Page",
+  "contact_source": "https://www.amorosojewelers.com/about-us",
+  "website": "https://www.amorosojewelers.com",
+  "address": "333 Washington St Ste 305, Boston, MA 02108",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/boston-ma/mip/amoroso-jewelers-495407421",
+  "tel_numbers": [
+    "617-742-9900"
+  ],
+  "tel_source": "https://www.amorosojewelers.com/contact-us",
+  "socials": [
+    "https://www.facebook.com/AmorosoJewelers.Co/",
+    "https://www.instagram.com/amorosojewelers/"
+  ],
+  "building": "Jewelers Building, 333 Washington St",
+  "suite": "Ste 305",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "since-1948",
+    "gia-gg",
+    "diamond-buyer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP: Diamonds-Wholesale/Diamond Buyers; own site: 'Buying and selling quality diamonds' since 1948, GIA graduates. NOTE: homepage says firm is transitioning into retirement, moving to Suite 315A with limited availability.",
+  "drop_reason": ""
+}

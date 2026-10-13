@@ -68,3 +68,16 @@ Wave 1 = 8 agents; wave 2 = 6 agents (unstarted cities + NYC DMIA people), web-s
 - Some tenancy data is from 2008-2014 articles; Derco (SF) may be in Chapter 11; Rising Star Diamonds (LA) may be closed.
 - `Found At` is the first-ingest timestamp of the raw record into progress.sqlite3.
 - `Category (as listed)` is blank where the search result showed no category — not normalised or invented.
+
+## Wave 3 (after egress opened, 11:42 UTC) — direct scraping
+| Source | Result |
+|---|---|
+| Diamond Club West Coast member directory (LA bourse) | **Exhausted** — 210 members: 180 in scope, 30 dropped; 99 member sites crawled |
+| Seybold Building full directory (Miami) | **Exhausted** — 227 tenants: 30 in scope, ~40 dropped on evidence, 124 `unverified` (generic names, no site — follow-up candidates, not shipped) |
+| jrow.org Jewelers Row list (Philadelphia) | **Exhausted** — plus YP 740 Sansom tenants |
+| Boston 333 / 387 Washington St | **Exhausted for YP categories** — no building-published roster exists |
+| NYC 50 W 47th / 580 Fifth (YP Diamonds-Wholesale, Diamond Buyers) | Exhausted for those categories; YP "Jewelers-Wholesale & Manufacturers" for these buildings not yet done |
+| DDC (nyddc.com) | Member list is behind a login — not scrapable |
+| Own-site crawl (scripts/crawl.py, requests + headless Chromium) | ~25 sites dead/blocked (TLS errors, 403/429, parked domains); contact-form-only sites yield nothing |
+
+Still blocked: Sunbiz (Cloudflare), LinkedIn profile pages (login), DDC member list (login).

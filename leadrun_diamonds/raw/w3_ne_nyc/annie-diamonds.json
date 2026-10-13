@@ -1,0 +1,33 @@
+{
+  "business": "Annie Diamonds",
+  "category_as_listed": "Diamonds-Wholesale",
+  "phone": "(617) 720-1166",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "333 Washington St Ste 323, Boston, MA 02108",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/boston-ma/mip/annie-diamonds-2695018",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "Jewelers Building, 333 Washington St",
+  "suite": "Ste 323",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale in the Boston jewelry district.",
+  "drop_reason": ""
+}

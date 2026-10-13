@@ -1,0 +1,33 @@
+{
+  "business": "Ygi",
+  "category_as_listed": "Diamonds-Wholesale, Diamonds",
+  "phone": "(212) 764-0186",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "580 5th Ave, New York, NY 10036",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/new-york-ny/mip/ygi-490405247",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "580 Fifth Ave (World Diamond Tower)",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "YP category Diamonds-Wholesale in 580 Fifth Ave (World Diamond Tower).",
+  "drop_reason": ""
+}
