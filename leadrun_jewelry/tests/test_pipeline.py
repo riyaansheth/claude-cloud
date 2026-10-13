@@ -397,3 +397,9 @@ def test_jewelry_only_category_survives_thin_site():
     assert scope.classify_segment("Fleming John J Jewlr", "Jewelers", thin)
     assert scope.classify_segment("Windsor", "Jewelers, Clothing Stores, Lingerie",
                                   "Dresses, lingerie, prom and party wear for women " * 6) is None
+
+
+def test_appraisal_only_names():
+    assert scope.kill_reason("Artabella Jewelry Appraisals", "Jewelry appraiser") == "appraiser-lab-insurer"
+    assert scope.kill_reason("Toodie's Jewelry Appraisal Boston", "Jewelers") == "appraiser-lab-insurer"
+    assert scope.kill_reason("Smith Jewelers & Appraisals", "Jewelers") is None

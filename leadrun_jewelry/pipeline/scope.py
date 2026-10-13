@@ -144,6 +144,12 @@ def kill_reason(name, category="", address="", market="", osm_tags=None):
         return "diamond-trade"
     if WHOLESALE_NAME.search(name):
         return "wholesale-manufacturer"
+    # Appraisal-only businesses ("Artabella Jewelry Appraisals") have no retail line;
+    # "Smith Jewelers & Appraisals" names its retail side and stays.
+    if (re.search(r"apprais", name, re.I)
+            and not re.search(r"jewell?ers|jewelry (?:store|shop|gallery|co\b)|fine jewelry|gallery|designs?|boutique",
+                              name, re.I)):
+        return "appraiser-lab-insurer"
     if re.search(r"\bjewel+ers of america\b|\bjewelers board of trade\b|\bgemological institute\b",
                  name, re.I):
         return "trade-association"
