@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable",
- "verified": false
+ "scope_reason": "unverified: listed website is americangemsociety.org (the AGS trade association, not this business); no own site found. Listing shares 23077 Greenfield Rd, Southfield with Estate Large Diamond Buyers.",
+ "verified": false,
+ "enriched": true
 }
