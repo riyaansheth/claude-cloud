@@ -11,8 +11,8 @@
  "reviews": "41",
  "source_url": "https://www.yellowpages.com/gotha-fl/mip/excelsior-diamonds-501081795",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "greg@excelsior-diamonds.com",
+ "email_source": "https://www.facebook.com/ExcelsiorDiamonds/",
  "linkedin_url": "",
  "linkedin_source": "\"Greg Weiss\" Excelsior Diamonds LinkedIn (no linkedin.com/in/ result)",
  "contact_person": "Greg Weiss",
@@ -39,6 +39,7 @@
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "Site: 'Excelsior Diamonds began in the early 1980's as a Rough Diamond Importer and Diamond Manufacturer as well as a Wholesaler to the Trade'; now buys and sells diamonds for trade and consumers.",
- "verified": true
+ "scope_reason": "Site: 'Excelsior Diamonds began in the early 1980's as a Rough Diamond Importer and Diamond Manufacturer as well as a Wholesaler to the Trade'; now buys and sells diamonds for trade and consumers. | Enrich: email shown on the business's own Facebook page (seen via WebSearch extended result; ZoomInfo masks it as g***@excelsior-diamonds.com). FL LLC EXCELSIOR DIAMONDS, LLC agent Greg Weiss (OpenCorporates L12000065701).",
+ "verified": true,
+ "enriched": true
 }

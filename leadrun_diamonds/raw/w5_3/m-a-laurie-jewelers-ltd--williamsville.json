@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Jeff Bean",
+ "role": "Owner",
+ "contact_source": "https://instoremag.com/jeweler-helps-competitor-recover-from-300k-burglary/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable (lauriejewelers.com does not resolve)",
- "verified": false
+ "scope_reason": "unverified: site unreachable (lauriejewelers.com does not resolve) | Enrich: InStore (2017) names Jeff Bean owner of M.A. Laurie Jewelers; MapQuest marks the Main St listing permanently closed; lauriejewelers.com does not resolve. LinkedIn candidate not tied to the store - not recorded.",
+ "verified": false,
+ "enriched": true
 }

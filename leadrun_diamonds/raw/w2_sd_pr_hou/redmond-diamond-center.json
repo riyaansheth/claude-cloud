@@ -2,14 +2,14 @@
   "business": "Redmond Diamond Center",
   "category_as_listed": "Jewelry",
   "phone": "(760) 814-2997",
-  "email": "",
-  "email_source": "",
+  "email": "info@redmonddiamondcenter.com",
+  "email_source": "https://www.redmonddiamondcenter.com/contact",
   "linkedin_url": "https://www.linkedin.com/in/noam-drori-b6520a40/",
   "linkedin_source": "WebSearch extended: \"Noam Drori Redmond Diamond Center LinkedIn\" (title: Noam Drori - Owner, NDC Diamonds Llc DBA Redmond Diamond Center)",
   "contact_person": "Noam Drori",
   "role": "Owner",
   "contact_source": "https://chamber.sanmarcoschamber.com/list/member/redmond-diamond-center-17514",
-  "website": "",
+  "website": "https://www.redmonddiamondcenter.com",
   "address": "2888 Loker Ave E, Suite 222",
   "city": "Carlsbad",
   "state": "CA",
@@ -18,9 +18,16 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://chamber.sanmarcoschamber.com/list/member/redmond-diamond-center-17514",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "760-814-2997",
+    "206.713.8990"
+  ],
+  "tel_source": "https://www.redmonddiamondcenter.com/contact",
+  "socials": [
+    "https://facebook.com/redmonddiamondcenter",
+    "https://instagram.com/Redmond_Diamond_Center/",
+    "https://twitter.com/RedmondDiamond"
+  ],
   "building": "",
   "suite": "Ste 222",
   "trade_memberships": [
@@ -35,5 +42,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Chamber listing: private jewelry boutique and diamond wholesaler; owner cut/polished at family factory and brokered diamonds internationally. Alt address 3141 Tiger Run Ct Ste 105 per Carlsbad Chamber; BBB lists NDC Diamonds LLC (Redmond WA) as Wholesale Jewelry.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

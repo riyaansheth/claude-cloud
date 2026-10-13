@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable",
- "verified": false
+ "scope_reason": "unverified: site unreachable | Enrich: listings (MapQuest) describe a custom-jewelry store (rings, watches); Facebook 'Alvin Wilson Jewelers' est. 1949 mentions an inventory liquidation sale; no owner found; alvinwilson.com is a Cloudflare 409 error. Still unverified.",
+ "verified": false,
+ "enriched": true
 }

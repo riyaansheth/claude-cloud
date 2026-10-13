@@ -13,11 +13,11 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/john-gretkowski-173795a/",
+ "linkedin_source": "WebSearch extended: \"John Gretkowski\" Chandel Jewelers LinkedIn -> \"John Gretkowski - Pres. - Chandel Jewelers\" (Midland Park, NJ)",
+ "contact_person": "John Gretkowski",
+ "role": "President",
+ "contact_source": "https://www.linkedin.com/in/john-gretkowski-173795a/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable (chandeljewelers.com shows only a Softaculous default hosting page)",
- "verified": false
+ "scope_reason": "unverified: site unreachable (chandeljewelers.com shows only a Softaculous default hosting page) | Enrich: chandeljewelers.com (per search result; site 403 to our crawler) - est. 1968, buys directly as a Certified Diamond Broker in Antwerp; Midland Park store recently closed after 52 years and consolidated into 635 Ridge Rd, Lyndhurst, NJ 07071, (201) 933-1311.",
+ "verified": false,
+ "enriched": true
 }

@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable (HTTP 403)",
- "verified": false
+ "scope_reason": "unverified: site unreachable (HTTP 403) | Enrich: internationaldiamondproducts.com now redirects to janelinc.com (ESD/soldering supplies distributor) - no diamond content; NJ corp INTERNATIONAL DIAMOND PRODUCTS CORP. exists (OpenCorporates 4914210000); YP category includes Diamonds-Industrial. No owner found; still unverified.",
+ "verified": false,
+ "enriched": true
 }

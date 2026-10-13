@@ -11,8 +11,8 @@
  "reviews": "48",
  "source_url": "https://www.yellowpages.com/austin-tx/mip/danforth-jewelry-design-diamonds-465934279",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "pwdan4th@gmail.com",
+ "email_source": "https://www.danforthjewelry.com/contact.html",
  "linkedin_url": "https://www.linkedin.com/in/phil-danforth-0087281b/",
  "linkedin_source": "WebSearch: \"Phil Danforth\" Danforth Jewelry Design LinkedIn",
  "contact_person": "Phil Danforth",
@@ -35,5 +35,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Borderline: About: Phil Danforth designs and makes jewelry since 1975 and 'specialized in fine color gemstones and \"Ideal cut\" diamonds'; contact page invites 'diamond quotes'; also authorized dealer for bridal designers.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

@@ -13,11 +13,11 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/brian-harris-97004a19/",
+ "linkedin_source": "WebSearch extended: \"Brian Harris\" Worldwide Diamonds Northbrook LinkedIn -> \"Brian Harris - Worldwide Diamonds, Inc.\" (Northbrook, IL)",
+ "contact_person": "Brian Harris",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/il/northbrook/profile/jewelry-stores/worldwide-diamonds-inc-0654-88000471",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,6 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable",
- "verified": false
+ "scope_reason": "unverified: site unreachable | Enrich: business listing text (MapQuest/Yelp) - 'started in 1932 exclusively as a diamond importer and wholesale supplier of loose diamonds and jewelry, selling to jewelry stores across the country' (4th generation, Harris family). worldwidediamonds.com is now a GoDaddy for-sale page.",
+ "verified": false,
+ "enriched": true
 }

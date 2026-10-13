@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Sam Fribush",
+ "role": "Owner",
+ "contact_source": "https://jckonline.com/?p=63959",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -25,8 +25,9 @@
  "suite": "Ste 105",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (bermansjewelers.com now serves an unrelated 'hicksindustries' SEO-spam WordPress page with no jeweler content)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "unverified: site unreachable (bermansjewelers.com now serves an unrelated 'hicksindustries' SEO-spam WordPress page with no jeweler content) | Enrich: JCK 'Berman's Jewelers in Maryland to Close After a Century in Business' (owners Sam & Paula Fribush; founded 1910 as pawn shop and jewelry store); domain now SEO spam - business closed.",
+ "verified": false,
+ "enriched": true
 }

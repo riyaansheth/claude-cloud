@@ -36,5 +36,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site says the store 'specialize[s] in antiques and estate engagement rings, diamonds, and jewelry. From estates, we acquire some of the finest diamonds from the 40's, 50's, and 60's' (estate-diamond buyer; also retail/repair).",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

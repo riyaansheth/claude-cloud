@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Eli Benisty",
+ "role": "Founder",
+ "contact_source": "https://www.ibj.com/articles/63452-local-jewelry-business-bought-by-north-carolina-based-chain",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -25,8 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (HTTP 500 on every page)",
- "verified": false
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "unverified: site unreachable (HTTP 500 on every page) | Enrich: IBJ/JCK - Distinctive Diamonds (founded 2002 by Eli Benisty) was bought by Charlotte-based chain Diamonds Direct (Blackstone-owned); own site returns HTTP 500.",
+ "verified": false,
+ "enriched": true
 }
