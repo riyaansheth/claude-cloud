@@ -16,7 +16,7 @@ import re
 from collections import Counter, defaultdict
 
 from . import config, db, scope
-from .util import (LOW_VALUE_LOCALS, domain_of, email_relates, email_status, fmt_phone, is_role_email,
+from .util import (LOW_VALUE_LOCALS, domain_of, is_us_number, email_relates, email_status, fmt_phone, is_role_email,
                    is_shared_host, is_toll_free, name_tokens, now_iso, parse_city_state,
                    phone_digits, state_from_zip)
 
@@ -82,8 +82,14 @@ def _pick_email(lst, crawl, socials_res, site_dom):
         for e, src in sres.get("emails", {}).items():
             cands.append((2, e, src))
     good = []
+    toks = [t for t in name_tokens(lst["name"]) if len(t) >= 3]
+    # Own-domain mail counts only when that domain is recognisably this business's
+    # (a retailer page about a designer brand carries the retailer's inbox).
+    trust_dom = site_dom if (not toks or domain_relates(site_dom, toks)) else ""
     for rank, e, src in cands:
-        if email_status(e) != "ok" or not email_relates(e, site_dom, lst["name"]):
+        if email_status(e) != "ok" or not email_relates(e, trust_dom, lst["name"]):
+            continue
+        if e.rsplit("@", 1)[-1] in ASSOCIATION_DOMAINS:
             continue
         own = site_dom and e.endswith("@" + site_dom)
         # Prefer own-domain named inbox, then own-domain role inbox, then others.
@@ -115,13 +121,27 @@ def site_is_business(lst, crawl):
     association pages (e.g. a trade group's member page) carry someone else's
     emails and phone numbers. Trusted when the domain or the homepage title/h1
     carries a distinctive token of the business name, or the name has none."""
+    dom = domain_of(lst["website"])
+    if dom in ASSOCIATION_DOMAINS:
+        return False
     toks = [t for t in name_tokens(lst["name"]) if len(t) >= 3]
     if not toks or not crawl:
         return True
-    label = domain_of(lst["website"]).split(".")[0]
+    if domain_relates(dom, toks):
+        return True
     m = crawl.get("meta") or {}
     head = f"{m.get('title', '')} {m.get('h1', '')}".lower()
-    return any(t in label or re.search(rf"\b{re.escape(t)}", head) for t in toks)
+    return all(re.search(rf"\b{re.escape(t)}", head) for t in toks)
+
+
+ASSOCIATION_DOMAINS = {"agta.org", "plumbclub.com", "jewelers.org", "americangemsociety.org",
+                       "gia.edu", "jbt.org", "jvclegal.org", "ijo.com", "rjoonline.com",
+                       "centurionjewelry.com", "jckonline.com", "nationaljeweler.com"}
+
+
+def domain_relates(dom, toks):
+    label = dom.split(".")[0] if dom else ""
+    return any(t in label for t in toks)
 
 
 def assemble(lst, crawl, socials_map, plist, links):
@@ -286,7 +306,8 @@ def qualify(r):
     # A number that is some listing's directory phone (e.g. the same owner's other
     # store) is a published main line, not a private/direct one.
     directory = r["_group_phones"] | ({main} if main else set()) | DIRECTORY_PHONES
-    mobiles = sorted(t for t in r["_tels"] if t not in directory and not is_toll_free(t))
+    mobiles = sorted(t for t in r["_tels"]
+                     if t not in directory and not is_toll_free(t) and is_us_number(t))
     r["Mobile Candidates"] = ", ".join(fmt_phone(t) for t in mobiles)
     has_email = bool(r["Email"])
     has_li = bool(r["LinkedIn Profile"]) and "/in/" in r["LinkedIn Profile"]

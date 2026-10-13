@@ -20,6 +20,16 @@ def sha(s):
 
 # ------------------------------------------------------------------ phones
 TOLL_FREE = {"800", "833", "844", "855", "866", "877", "888"}
+# NANP area codes outside the US (Canada + Caribbean): never a US direct line.
+NON_US_AREA = set("""204 226 236 249 250 257 263 289 306 343 354 365 367 368 382 387 403 416
+418 428 431 437 438 450 460 468 474 506 514 519 548 579 581 584 587 600 604 613 622 639 647
+672 683 705 709 742 753 778 780 782 807 819 825 867 873 879 902 905 242 246 264 268 284 345
+441 473 649 658 664 721 758 767 784 809 829 849 868 869 876""".split())
+
+
+def is_us_number(d):
+    d = phone_digits(d)
+    return bool(d) and d[:3] not in NON_US_AREA
 _PHONE_RX = re.compile(r"(?:\+?1[\s.\-]?)?\(?([2-9]\d{2})\)?[\s.\-]?([2-9]\d{2})[\s.\-]?(\d{4})\b")
 
 
@@ -67,8 +77,8 @@ def is_shared_host(dom):
 
 def root_url(url):
     dom = domain_of(url)
-    if not dom:
-        return ""
+    if not dom or any(dom == h or dom.endswith("." + h) for h in config.DIRECTORY_HOSTS):
+        return ""   # a directory's own link (e.g. YP pointing back at itself)
     host = (urlparse(url if "://" in url else "https://" + url).hostname or "").lower()
     if is_shared_host(dom):
         # Keep the path for hosted pages (wixsite.com/<site>), otherwise the
@@ -141,7 +151,13 @@ def name_tokens(s):
     stop = {"the", "and", "of", "co", "inc", "llc", "ltd", "jewelers", "jeweler",
             "jewelry", "jewellery", "jewellers", "fine", "company", "store",
             "shop", "designs", "design", "studio", "gallery", "custom", "diamonds",
-            "diamond", "gold", "gems", "estate", "watches", "watch", "repair", "by"}
+            "diamond", "gold", "gems", "estate", "watches", "watch", "repair", "by",
+            # too generic to tie a website or email to one business
+            "new", "york", "nyc", "los", "angeles", "san", "francisco", "city", "usa",
+            "america", "american", "national", "international", "group", "mart",
+            "center", "exchange", "jewel", "jewels", "gem", "silver", "platinum",
+            "bridal", "wedding", "rings", "ring", "creations", "collection", "boutique",
+            "house", "world", "district", "downtown", "east", "west", "north", "south"}
     return [t for t in s.split() if len(t) > 2 and t not in stop]
 
 

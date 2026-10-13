@@ -55,7 +55,11 @@ KILL_NAME_CATEGORY = [
                   r"swatch", r"fossil", r"lovisa", r"mejuri", r"chow tai fook",
                   r"links of london", r"thomas sabo", r"michael kors",
                   r"james avery", r"jostens?", r"gorjana", r"ross[- ]simons",
-                  r"reeds jewelers", r"kirk freeport", r"pandora")),
+                  r"reeds jewelers", r"kirk freeport", r"graff", r"de beers",
+                  r"mikimoto", r"chanel", r"boucheron", r"piaget", r"chaumet",
+                  r"buccellati", r"messika", r"pomellato", r"damiani", r"hermes",
+                  r"herm[eè]s", r"louis vuitton", r"dior", r"gucci", r"rolex boutique",
+                  r"omega boutique", r"john hardy", r"david morris", r"fabergé|faberge")),
     ("thrift-consignment", _rx(r"thrift", r"consignment", r"resale",
                                r"goodwill", r"second ?hand", r"salvation army",
                                r"flea market", r"swap meet")),
@@ -182,10 +186,21 @@ _RET = _rx(r"jewel\w*", r"fine jewelry", r"watch(?:es)?", r"diamonds?",
            r"gems?", r"gold", r"bridal", r"engagement rings?")
 
 
+SITE_JEWELRY = _rx(r"jewel\w*", r"rings?", r"diamonds?", r"gold", r"silver", r"gems?",
+                   r"bracelets?", r"necklaces?", r"earrings?", r"watch(?:es)?",
+                   r"pendants?", r"engagement", r"goldsmith", r"platinum", r"pearls?")
+
+
 def classify_segment(name, category="", site_text="", osm_tags=None):
     """Return one of config.SEGMENTS, or None (= out of scope, drop)."""
     head = f"{name} | {category}"
     osm_tags = osm_tags or {}
+    # A crawled site with no jewelry vocabulary at all is not a jeweler's site
+    # (e.g. a law firm "Mintz & Gold" filed under Jewelers by a directory).
+    if (site_text and len(site_text) > 200 and not SITE_JEWELRY.search(site_text)
+            and not re.search(r"facebook|instagram|log in|sign in|temporarily blocked",
+                              site_text[:400], re.I)):
+        return None
     if _EST.search(head):
         return "Estate & antique jewelry"
     if _REP.search(head) or osm_tags.get("craft") in ("jeweller", "goldsmith",

@@ -72,7 +72,11 @@ SHARED_HOSTS = {
     "instagram.com", "squarespace.com", "godaddysites.com", "weebly.com",
     "myshopify.com", "google.com", "sites.google.com", "yelp.com", "x.com",
     "twitter.com", "tiktok.com", "etsy.com", "wordpress.com", "blogspot.com",
+    "yellowpages.com", "yp.com", "bbb.org", "yelp.com", "mapquest.com",
 }
+# Directory hosts are never a business's own website.
+DIRECTORY_HOSTS = {"yellowpages.com", "yp.com", "bbb.org", "yelp.com", "google.com",
+                   "mapquest.com", "superpages.com", "manta.com", "bing.com"}
 
 # Exact output schema. 1-26 match usaENRICHEDleads.xlsx (minus the two legacy
 # verification columns); 27-28 are working columns appended after.

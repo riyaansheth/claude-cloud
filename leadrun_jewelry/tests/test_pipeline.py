@@ -339,3 +339,31 @@ def test_regex_names_need_given_name():
 def test_street_is_not_a_person():
     assert not util.plausible_name("Madison Ave", need_given=True)
     assert util.plausible_name("Madison Clarke", need_given=True)
+
+
+def test_foreign_site_contacts_rejected():
+    agta = {"meta": {"title": "AGTA - American Gem Trade Association", "h1": "New York"}}
+    assert not build.site_is_business({"name": "New York Jewelry Mart", "website": "https://agta.org"}, agta)
+    lst = {"name": "Peggy Skemp Jewelry", "website": "https://laurelelliott.test", "extra": "{}",
+           "source_url": "https://www.yellowpages.com/x"}
+    crawl = {"emails": {"customerservice@laurelelliott.test": "https://laurelelliott.test/"}}
+    assert build._pick_email(lst, crawl, [], "laurelelliott.test")[0] == ""
+    lst2 = dict(lst, name="Lewis Jewelers", website="https://lewisusa.test")
+    crawl2 = {"emails": {"info@lewisusa.test": "https://lewisusa.test/"}}
+    assert build._pick_email(lst2, crawl2, [], "lewisusa.test")[0] == "info@lewisusa.test"
+
+
+def test_more_scope_rules():
+    assert scope.kill_reason("Graff Diamonds Chicago", "Jewelers") == "chain"
+    assert scope.classify_segment("Mintz & Gold", "Jewelers", "A litigation law firm "
+                                  "representing clients in commercial disputes, employment matters " * 3) is None
+    assert scope.classify_segment("Hartwell Jewelers", "Jewelers", "Engagement rings and fine jewelry " * 10)
+    assert not util.is_us_number("(647) 537-8336") and util.is_us_number("(312) 555-0142")
+
+
+def test_directory_self_links_are_not_websites():
+    assert util.root_url("https://www.yellowpages.com/new-york-ny/mip/x") == ""
+    assert util.root_url("https://www.bbb.org/us/x") == ""
+    assert util.root_url("https://lanejewelersny.localsearch.com/") == "https://lanejewelersny.localsearch.com"
+    assert scope.classify_segment("Sister Jewelry", "Jewelers",
+                                  "Facebook Email or phone Password You're Temporarily Blocked " * 8) is not None
