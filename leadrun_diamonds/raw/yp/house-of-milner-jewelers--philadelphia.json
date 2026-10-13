@@ -15,17 +15,32 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Josef Milner",
+ "role": "Founder",
+ "contact_source": "https://milnerdiamonds.com/pages/about-house-of-milner-jewelers-philadelphia",
+ "tel_numbers": [
+  "+12159221248"
+ ],
+ "tel_source": "https://milnerdiamonds.com/pages/about-house-of-milner-jewelers-philadelphia",
+ "socials": [
+  "https://www.facebook.com/milnerdiamonds",
+  "https://www.instagram.com/_milner_",
+  "https://x.com/milnerdiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1906",
+  "5th-generation",
+  "family-owned",
+  "custom-design",
+  "estate",
+  "gia-gg",
+  "jewelers-row"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamond Buyers"
+ "scope_reason": "Family-owned Jewelers Row (728 Sansom St) diamond house established 1906 offering engagement rings, custom design, a Diamond Concierge service and estate purchasing (bridal specialist; borderline retail).",
+ "verified": true
 }
