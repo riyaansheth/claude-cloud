@@ -1,0 +1,9 @@
+# Run state and outputs are produced by the run, not committed by default.
+progress.sqlite3*
+cache/
+agent_queue/
+logs/
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/_work/
