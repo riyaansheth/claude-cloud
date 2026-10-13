@@ -11,21 +11,34 @@
  "reviews": "29",
  "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/sansom-street-metals-17519484",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@sansommetals.com",
+ "email_source": "https://www.sansomstreetmetals.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "2156290799"
+ ],
+ "tel_source": "https://www.sansomstreetmetals.com/, https://www.sansomstreetmetals.com/contact",
+ "socials": [
+  "https://twitter.com/SansomMetals",
+  "https://www.facebook.com/Sansom-Street-Metals-1430639127182686"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale",
+  "trade-only",
+  "loose-diamonds",
+  "memo-terms",
+  "20-plus-years",
+  "scrap-buyer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Gold, Silver & Platinum Buyers & Dealers, Jewelers"
+ "scope_reason": "Site says it deals with jewelry stores, pawnshops, check cashiers and antique dealers, \"deals with trade, not retail\", sells loose and mounted diamonds wholesale and offers memo terms; also buys scrap/precious metals primarily from dealers.",
+ "verified": true
 }
