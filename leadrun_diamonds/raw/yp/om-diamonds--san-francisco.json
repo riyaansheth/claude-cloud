@@ -36,6 +36,6 @@
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YP-linked diamondsonweb.com redirects to Yadav Diamonds and Jewelry (a search result places Yadav at 888 Brannan St, the listing's building), whose site offers 'Natural Or Lab Grown Diamonds By Shape' and says 'See our jewelry and loose diamonds in person'; name link Om->Yadav not confirmed on site.",
- "verified": true
+ "scope_reason": "unverified: YP-linked diamondsonweb.com redirects to a different-named business (Yadav Diamonds and Jewelry, 888 Brannan St); Om->Yadav link not confirmed on site",
+ "verified": false
 }
