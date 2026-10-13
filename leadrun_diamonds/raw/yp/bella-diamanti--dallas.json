@@ -11,21 +11,34 @@
  "reviews": "17",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/bella-diamanti-23313509",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@belladiamanti.com",
+ "email_source": "https://www.belladiamanti.com/about-us",
+ "linkedin_url": "https://www.linkedin.com/in/rotem-fartook-40b05636/",
+ "linkedin_source": "\"Rotem Fartook\" Bella Diamanti LinkedIn",
+ "contact_person": "Rotem Fartook",
+ "role": "Owner",
+ "contact_source": "https://www.belladiamanti.com/about-us",
+ "tel_numbers": [
+  "+1-972-544-7600"
+ ],
+ "tel_source": "https://www.belladiamanti.com/about-us",
+ "socials": [
+  "https://www.facebook.com/4carats",
+  "https://www.instagram.com/bella_diamanti",
+  "https://www.tiktok.com/@bella_diamanti"
+ ],
  "building": "",
  "suite": "Ste mmons",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale loose diamonds",
+  "industry partner A.D. Diamonds",
+  "20+ years",
+  "Dallas World Trade Center Suite 7507",
+  "sister brand Bella Vaughan"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Site says Bella Diamanti is 'one of the most competitive wholesale diamond suppliers in the nation' and deals 'in loose diamonds and wholesale jewelry', serving wholesale dealers of loose diamonds.",
+ "verified": true
 }

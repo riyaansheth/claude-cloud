@@ -11,21 +11,32 @@
  "reviews": "16",
  "source_url": "https://www.yellowpages.com/houston-tx/mip/designer-jewels-inc-464835908",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@designerjewels.com",
+ "email_source": "https://designerjewels.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_source": "https://designerjewels.com/about/ (Sandler family; son Mark and grandson Joshua named, no titles)",
+ "tel_numbers": [
+  "+1-713-623-6996"
+ ],
+ "tel_source": "https://designerjewels.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/designerjewelshouston",
+  "https://www.instagram.com/designerjewelshouston"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "hooks": [
+  "since 1968",
+  "5 generations",
+  "on-premises factory",
+  "Masonic jewelry"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Custom jeweler: 'For 5 generations the Sandler family has created handmade jewelry ... We also appraise fine jewelry ... We repair and restore fine jewelry and watches' - finished custom pieces/repair, no loose-diamond or wholesale trade.",
+ "verified": true
 }

@@ -11,21 +11,28 @@
  "reviews": "33",
  "source_url": "https://www.yellowpages.com/bellevue-wa/mip/diamond-banque-jewelry-loan-16526955",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "thediamondbanque@gmail.com",
+ "email_source": "https://diamondbanque.com/assets/index-CRAPvHtX.js",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Ron McCully",
+ "role": "Founder",
+ "contact_source": "https://diamondbanque.com/assets/index-CRAPvHtX.js",
+ "tel_numbers": [
+  "425-455-3540"
+ ],
+ "tel_source": "https://diamondbanque.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Diamonds"
+ "hooks": [
+  "established 1993 by Ron and Linda McCully",
+  "collateral jewelry loans",
+  "estate jewelry"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "pawn",
+ "scope_reason": "Site: 'We've been buying and providing loans on fine jewelry since 1983... Walk away with cash or a loan' with collateral-loan rates 'set by the State of Washington' - a jewelry & loan (pawn) shop with estate retail.",
+ "verified": true
 }

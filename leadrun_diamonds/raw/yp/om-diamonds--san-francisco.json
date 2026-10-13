@@ -18,14 +18,24 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "8889688810"
+ ],
+ "tel_source": "https://www.yadavjewelry.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/Yadavjewelry",
+  "https://www.instagram.com/yadavjewelry",
+  "https://www.pinterest.com/yadavdiamondsandjewelry"
+ ],
  "building": "",
  "suite": "Ste 1110",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "loose natural and lab-grown diamonds",
+  "rings made for the exact diamond selected"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "YP-linked diamondsonweb.com redirects to Yadav Diamonds and Jewelry (a search result places Yadav at 888 Brannan St, the listing's building), whose site offers 'Natural Or Lab Grown Diamonds By Shape' and says 'See our jewelry and loose diamonds in person'; name link Om->Yadav not confirmed on site.",
+ "verified": true
 }

@@ -11,21 +11,32 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/san-diego-ca/mip/diamond-engagement-ring-519917826",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "support@hallmanjwl.com",
+ "email_source": "https://hallmanjewelers.com/contact/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "888-295-1092",
+  "619-922-7501",
+  "858-597-0050",
+  "760-720-0660"
+ ],
+ "tel_source": "https://hallmanjewelers.com/contact/,https://hallmanjewelers.com/about/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "40+ years in business",
+  "certified loose diamond list",
+  "by appointment only",
+  "manufactures jewelry"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "YP-linked site is Hallman Jewelers (appointment-only office, 1455 Frazee Rd Ste 500), which says it 'carry or manufacture over 100,000 jewelry pieces' and has 'diamonds in any shape or size, certified and non-certified' with a published Diamond List at 'up to 70% off' retail; borderline (also fashion jewelry/gifts) and the listing's address/phone differ from the site.",
+ "verified": true
 }

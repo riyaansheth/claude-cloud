@@ -11,21 +11,32 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/del-mar-ca/mip/jewels-by-tashne-4553105",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "kirk@jewelsbytashne.com",
+ "email_source": "https://jewelsbytashne.com/pages/about-us",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
+ "contact_person": "Kirk Tashne",
  "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_source": "https://jewelsbytashne.com/pages/about-us (Marv Tashne founder 1945; son Kirk GG)",
+ "tel_numbers": [
+  "+1-858-481-5949"
+ ],
+ "tel_source": "https://jewelsbytashne.com/",
+ "socials": [
+  "https://twitter.com/jewelsbytashne",
+  "https://www.facebook.com/JewelsByTashne",
+  "https://www.instagram.com/jewelsbytashne/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamond Buyers"
+ "trade_memberships": [
+  "GIA GG (Kirk)"
+ ],
+ "hooks": [
+  "since 1945"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Del Mar retail jeweler that 'features the work of some of the most renowned jewelry designers' (Simon G, Rahaminov, JB Star...) plus custom design, estate and repair; no loose-diamond trade.",
+ "verified": true
 }

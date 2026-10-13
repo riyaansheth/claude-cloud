@@ -11,21 +11,31 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/san-diego-ca/mip/yahalom-diamonds-467591697",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@stardiamondsandiego.com",
+ "email_source": "http://www.stardiamondsandiego.com/Contact_us.html",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(619) 234-2133",
+  "(619) 232-1215"
+ ],
+ "tel_source": "http://www.stardiamondsandiego.com/,http://www.stardiamondsandiego.com/Contact_us.html",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale diamonds .005 to 50+ ct",
+  "fancy colored diamonds (natural and enhanced)",
+  "fancy-shape and ideal-cut melee 1-4.7mm",
+  "CAD/wax/casting manufacturing",
+  "buys precious stones and metals"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "YP-linked site Star Diamond San Diego, at the same 861 Sixth Ave building as this listing, says: 'Custom Jewelry manufacturing. Wholesale Diamonds, fancy colored, natural and enhanced, from .005 to 50+ carats' plus fancy-shape and ideal-cut melee; listing phone is not shown on the site.",
+ "verified": true
 }

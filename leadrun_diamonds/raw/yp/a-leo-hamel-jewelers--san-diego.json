@@ -11,21 +11,39 @@
  "reviews": "22",
  "source_url": "https://www.yellowpages.com/san-diego-ca/mip/a-leo-hamel-jewelers-468947099",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "contact@leohamel.com",
+ "email_source": "https://www.leohamel.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Leo Hamel",
+ "role": "Founder",
+ "contact_source": "https://www.leohamel.com/our-history/",
+ "tel_numbers": [
+  "+16192991500",
+  "+16196440000",
+  "+17607572000",
+  "+18585095900"
+ ],
+ "tel_source": "https://www.leohamel.com/,https://www.leohamel.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/profile.php?id=100089904223194",
+  "https://www.instagram.com/leohamelfinejewelers",
+  "https://x.com/leohamel",
+  "https://www.youtube.com/user/LeoHamelFineJewelers",
+  "https://www.pinterest.com/leohamel"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "hooks": [
+  "since 1980",
+  "lab-grown loose diamonds",
+  "pre-owned Rolex",
+  "gold buying",
+  "pawn/collateral loans"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "pawn",
+ "scope_reason": "Site calls itself 'San Diego's Award-Winning Full-Service Jewelry Store' selling watches, handbags and designer jewelry, with 'Collateral Loans Pawns', 'Coins & Bullion' and separate 'Jewelry & Gold Buyers' locations; loose lab-grown diamonds are a side line of a retail/pawn business.",
+ "verified": true
 }

@@ -11,21 +11,35 @@
  "reviews": "41",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/rs-diamond-broker-545383141",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "robert@rsdiamondbroker.com",
+ "email_source": "https://www.rsdiamondbroker.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/robert-wolchuk-60a095162/",
+ "linkedin_source": "\"Robert Wolchuk\" RS Diamond Broker LinkedIn",
+ "contact_person": "Robert Wolchuk",
+ "role": "Founder",
+ "contact_source": "https://www.rsdiamondbroker.com/ ('Founded by Robert and Seymour Wolchuk')",
+ "tel_numbers": [
+  "+1-469-709-8005"
+ ],
+ "tel_source": "https://www.rsdiamondbroker.com/contact",
+ "socials": [
+  "https://www.instagram.com/rsdiamondbroker",
+  "https://www.facebook.com/people/RS-Diamond-Broker/61567864942121/",
+  "https://www.pinterest.com/RSDiamondBroker",
+  "https://www.tiktok.com/@rsdiamondbroker",
+  "http://youtube.com/@RSDiamondBroker"
+ ],
  "building": "",
  "suite": "Ste 221A",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "family-owned",
+  "co-founder Seymour Wolchuk",
+  "natural & lab-grown loose diamonds",
+  "in diamond business since 1991 (prior R.W. Diamond Broker)"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Diamond Setters"
+ "scope_reason": "Site: 'We specialize in wholesale loose diamonds in Dallas of all shapes and sizes'; a family-owned direct broker selling certified natural and lab-grown loose diamonds sourced from global distributors.",
+ "verified": true
 }

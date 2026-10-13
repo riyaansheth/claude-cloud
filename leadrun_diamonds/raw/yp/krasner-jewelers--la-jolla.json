@@ -13,19 +13,31 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_url": "https://www.linkedin.com/in/milton-krasner-2104649/",
+ "linkedin_source": "\"Milton Krasner\" Krasner Jewelers LinkedIn",
+ "contact_person": "Milton Krasner",
+ "role": "Owner",
+ "contact_source": "https://krasnerjewelers.com/about",
+ "tel_numbers": [
+  "858-677-9000"
+ ],
+ "tel_source": "https://krasnerjewelers.com/about",
+ "socials": [
+  "https://www.instagram.com/krasner.jewelers"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA Graduate Gemologist"
+ ],
+ "hooks": [
+  "since 1943",
+  "3rd generation",
+  "by appointment only",
+  "custom engagement rings"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Designers"
+ "scope_reason": "Appointment-only custom/bridal studio: 'You compare stones in person with Milton or Daniel Krasner, both GIA Graduate Gemologists' and 'Choose your stone, setting, and proportions'; family-owned since 1943 - bridal specialist sourcing stones (borderline, no explicit loose inventory).",
+ "verified": true
 }

@@ -11,8 +11,8 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/area-diamonds-wholesalers-bay-561356481",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@bayareadiamonds.com",
+ "email_source": "https://bayareadiamonds.com/assets/index-GbTxVacU.js",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -20,12 +20,19 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://instagram.com/bayareadiamonds",
+  "https://www.facebook.com/BayAreaDiamondWholesalers"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "hooks": [
+  "gold/diamond/watch buyer",
+  "GIA-based evaluations"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Despite the name, site describes itself as 'San Francisco's trusted buyer of gold, diamonds, gemstones, and luxury watches' offering 'private, no-obligation valuation' and online gold/diamond/watch estimates, plus some custom design - a consumer buy-from-public shop, not a wholesaler.",
+ "verified": true
 }
