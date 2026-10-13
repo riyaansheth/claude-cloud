@@ -20,12 +20,23 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://twitter.com/harrykotlar",
+  "https://www.facebook.com/harrykotlarjewelry",
+  "https://www.instagram.com/harrykotlar"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1948",
+  "3rd-generation",
+  "manufacturer",
+  "loose-diamonds",
+  "proprietary-cut"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Harry Kotlar began in 1948 selling cut stones in the LA diamond district and 'supplies diamonds to manufacturers and dealers'; now a third-generation manufacturer (Kotlar Cushion, loose stones) selling through retailers (retailer login).",
+ "verified": true
 }

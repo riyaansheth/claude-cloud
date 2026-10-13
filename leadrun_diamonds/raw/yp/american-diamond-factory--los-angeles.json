@@ -11,21 +11,37 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/american-diamond-factory-453927234",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@ladiamondfactory.com",
+ "email_source": "https://www.ladiamondfactory.com/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/mervyn-hahn-33302312/",
+ "linkedin_source": "\"Mervyn Hahn\" Los Angeles Diamond Factory LinkedIn",
+ "contact_person": "Mervyn Hahn",
+ "role": "Founder",
+ "contact_source": "https://www.ladiamondfactory.com/pages/about-us",
+ "tel_numbers": [
+  "(213) 627-8700",
+  "(818) 342-6663",
+  "(800) 652-7237"
+ ],
+ "tel_source": "https://www.ladiamondfactory.com/pages/contact,https://www.ladiamondfactory.com/pages/about-us",
+ "socials": [
+  "https://twitter.com/DiamondFactory",
+  "https://www.facebook.com/losangelesdiamondfactory",
+  "https://www.instagram.com/ladiamondfactory"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1981",
+  "former-diamond-cutter",
+  "custom-design",
+  "natural",
+  "lab-grown",
+  "bridal"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelry Designers"
+ "scope_reason": "Listed site is Los Angeles Diamond Factory (607 S. Hill St): 'Originally a diamond manufacturer', founded 1981 by Mervyn Hahn who 'entered the diamond cutting profession'; offers natural and lab-grown diamond search, personal diamond shopper and custom design (bridal-focused).",
+ "verified": true
 }
