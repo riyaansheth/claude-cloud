@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "unverified: listed website is a NY Department of Labor page (Nontraditional Employment for Women), not this business's own site",
+ "verified": false
 }

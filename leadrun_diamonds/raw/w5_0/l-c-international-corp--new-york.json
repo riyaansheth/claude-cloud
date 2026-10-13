@@ -11,21 +11,35 @@
  "reviews": "27",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/l-c-international-corp-459259743",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@lcidiamonds.com",
+ "email_source": "http://lcidiamonds.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(800) 223-0248",
+  "(212) 688-1198"
+ ],
+ "tel_source": "http://lcidiamonds.com/contact-us/ ; http://lcidiamonds.com/about-us/",
  "socials": [],
  "building": "",
- "suite": "Ste 1009",
- "trade_memberships": [],
- "hooks": [],
+ "suite": "Suite 1309",
+ "trade_memberships": [
+  "Diamond Dealers Club of New York",
+  "World Federation of Diamond Bourses",
+  "Diamond Manufacturers and Importers Association",
+  "GIA Gem Trade Laboratory (as stated on site)"
+ ],
+ "hooks": [
+  "in the diamond business since 1910",
+  "wholesaler and cutter since 1939",
+  "GIA/AGS/EGL-graded diamonds 0.50 ct and up",
+  "15 West 47th Street, Suite 1309"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "LCI's About page says the family has been 'one of the nation's leading diamond wholesalers and cutters since 1939', supplying lab-graded diamonds 0.50 ct and up.",
+ "verified": true
 }

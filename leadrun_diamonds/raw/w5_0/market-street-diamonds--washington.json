@@ -11,21 +11,35 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/washington-dc/mip/market-street-diamonds-470703007",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "redbox@marketstreetdiamonds.com",
+ "email_source": "https://www.marketstreetdiamonds.com/contact-us/",
+ "linkedin_url": "https://www.linkedin.com/in/dino-lonzano-547923191/",
+ "linkedin_source": "\"Dino Lonzano\" Market Street Diamonds LinkedIn",
+ "contact_person": "Dino Lonzano",
+ "role": "CEO",
+ "contact_source": "https://www.marketstreetdiamonds.com/about-us/",
+ "tel_numbers": [
+  "(202) 552-5744"
+ ],
+ "tel_source": "https://www.marketstreetdiamonds.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/MarketStreetDiamonds/",
+  "https://www.instagram.com/marketstreetdiamonds/",
+  "https://www.youtube.com/channel/UCqHUsSrPaE7ybguwjOUyGeQ"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "only diamond cutter in the mid-Atlantic (per site)",
+  "buys conflict-free rough, proprietary cuts",
+  "wholesale and retail clients",
+  "custom jewelry manufacturer for over a century (per site)",
+  "lab-grown diamonds offered",
+  "GIA-certified team; Potomac MD location"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Diamonds, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Market Street Diamonds says it is 'a leader in producing and exporting the world's most exquisite diamonds', buys conflict-free rough for its proprietary cuts, and is 'the only diamond cutter in the mid-Atlantic region'.",
+ "verified": true
 }
