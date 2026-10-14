@@ -1,6 +1,6 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-14T07:56:26+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-14T08:16:40+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
@@ -12,7 +12,7 @@ Generated 2026-10-14T07:56:26+05:30 by `python3 run.py build`. Every number belo
 | Qualification rate | 3.1% |
 | Websites crawled OK / attempted | 8730 / 10516 |
 | Listings with an owner/decision-maker name | 2747 |
-| LinkedIn searches by outcome | ambiguous: 151, match: 97, none: 339, reject: 32 |
+| LinkedIn searches by outcome | ambiguous: 165, match: 97, none: 356, reject: 32 |
 
 ## Fill rate per field
 
@@ -130,7 +130,7 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 2202 | bbb:1fc7a0b0fac80fee: appraiser-lab-insurer |
+| builder | final-kill | 2249 | bbb:1fc7a0b0fac80fee: appraiser-lab-insurer |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
 | bbb | blocked | 181 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | osm | error | 32 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
