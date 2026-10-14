@@ -1,6 +1,6 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-14T09:11:01+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-14T09:31:14+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
@@ -8,51 +8,51 @@ Generated 2026-10-14T09:11:01+05:30 by `python3 run.py build`. Every number belo
 |---|---|
 | Listings in research pool (in scope after discovery) | 16357 |
 | Businesses researched (after dedupe) → `jewelry_all.csv` | 11025 |
-| Qualified (2 of 3) → `jewelry_qualified.csv` | 350 |
+| Qualified (2 of 3) → `jewelry_qualified.csv` | 353 |
 | Qualification rate | 3.2% |
 | Websites crawled OK / attempted | 8730 / 10516 |
 | Listings with an owner/decision-maker name | 2747 |
-| LinkedIn searches by outcome | ambiguous: 167, match: 107, none: 368, reject: 40 |
+| LinkedIn searches by outcome | ambiguous: 182, match: 110, none: 383, reject: 44 |
 
 ## Fill rate per field
 
 | # | Column | all.csv | qualified.csv |
 |---|---|---|---|
-| 1 | Business | 11025 (100.0%) | 350 (100.0%) |
-| 2 | Segment | 11025 (100.0%) | 350 (100.0%) |
-| 3 | Category (as listed) | 11002 (99.8%) | 350 (100.0%) |
-| 4 | Phone | 10318 (93.6%) | 344 (98.3%) |
-| 5 | Email | 2574 (23.3%) | 341 (97.4%) |
-| 6 | LinkedIn Profile | 98 (0.9%) | 92 (26.3%) |
-| 7 | Contact Person | 1337 (12.1%) | 191 (54.6%) |
-| 8 | Role | 1337 (12.1%) | 191 (54.6%) |
-| 9 | Website | 8435 (76.5%) | 350 (100.0%) |
-| 10 | Address | 10567 (95.8%) | 347 (99.1%) |
-| 11 | Real City | 9197 (83.4%) | 303 (86.6%) |
-| 12 | Real State | 9293 (84.3%) | 302 (86.3%) |
-| 13 | Market | 11025 (100.0%) | 350 (100.0%) |
-| 14 | Lead Origin | 11025 (100.0%) | 350 (100.0%) |
-| 15 | Rating | 3036 (27.5%) | 178 (50.9%) |
-| 16 | Reviews | 3036 (27.5%) | 178 (50.9%) |
-| 17 | Source | 11025 (100.0%) | 350 (100.0%) |
-| 18 | Signals | 11025 (100.0%) | 350 (100.0%) |
-| 19 | Match Type | 11025 (100.0%) | 350 (100.0%) |
-| 20 | Email Source | 2574 (23.3%) | 341 (97.4%) |
-| 21 | LinkedIn Source | 98 (0.9%) | 92 (26.3%) |
-| 22 | Found At | 11025 (100.0%) | 350 (100.0%) |
-| 23 | Also Listed As | 1415 (12.8%) | 99 (28.3%) |
-| 24 | Other Markets | 251 (2.3%) | 27 (7.7%) |
-| 25 | Merged Listings | 2503 (22.7%) | 156 (44.6%) |
-| 26 | Flags | 1456 (13.2%) | 69 (19.7%) |
-| 27 | Mobile Candidates | 362 (3.3%) | 269 (76.9%) |
-| 28 | Socials | 2546 (23.1%) | 308 (88.0%) |
+| 1 | Business | 11025 (100.0%) | 353 (100.0%) |
+| 2 | Segment | 11025 (100.0%) | 353 (100.0%) |
+| 3 | Category (as listed) | 11002 (99.8%) | 353 (100.0%) |
+| 4 | Phone | 10318 (93.6%) | 347 (98.3%) |
+| 5 | Email | 2574 (23.3%) | 344 (97.5%) |
+| 6 | LinkedIn Profile | 101 (0.9%) | 95 (26.9%) |
+| 7 | Contact Person | 1337 (12.1%) | 194 (55.0%) |
+| 8 | Role | 1337 (12.1%) | 194 (55.0%) |
+| 9 | Website | 8435 (76.5%) | 353 (100.0%) |
+| 10 | Address | 10567 (95.8%) | 350 (99.2%) |
+| 11 | Real City | 9197 (83.4%) | 306 (86.7%) |
+| 12 | Real State | 9293 (84.3%) | 305 (86.4%) |
+| 13 | Market | 11025 (100.0%) | 353 (100.0%) |
+| 14 | Lead Origin | 11025 (100.0%) | 353 (100.0%) |
+| 15 | Rating | 3036 (27.5%) | 179 (50.7%) |
+| 16 | Reviews | 3036 (27.5%) | 179 (50.7%) |
+| 17 | Source | 11025 (100.0%) | 353 (100.0%) |
+| 18 | Signals | 11025 (100.0%) | 353 (100.0%) |
+| 19 | Match Type | 11025 (100.0%) | 353 (100.0%) |
+| 20 | Email Source | 2574 (23.3%) | 344 (97.5%) |
+| 21 | LinkedIn Source | 101 (0.9%) | 95 (26.9%) |
+| 22 | Found At | 11025 (100.0%) | 353 (100.0%) |
+| 23 | Also Listed As | 1415 (12.8%) | 99 (28.0%) |
+| 24 | Other Markets | 251 (2.3%) | 27 (7.6%) |
+| 25 | Merged Listings | 2503 (22.7%) | 158 (44.8%) |
+| 26 | Flags | 1456 (13.2%) | 69 (19.5%) |
+| 27 | Mobile Candidates | 362 (3.3%) | 269 (76.2%) |
+| 28 | Socials | 2546 (23.1%) | 311 (88.1%) |
 
 ## Qualification components
 
 | Signal | Businesses | Rate |
 |---|---|---|
 | email | 2574 | 23.3% |
-| linkedin | 98 | 0.9% |
+| linkedin | 101 | 0.9% |
 | direct-line | 362 | 3.3% |
 | role-email | 1132 | 10.3% |
 | gia | 690 | 6.3% |
@@ -68,10 +68,10 @@ Generated 2026-10-14T09:11:01+05:30 by `python3 run.py build`. Every number belo
 |---|---|---|---|---|---|---|
 | New York, NY | 1442 | 1227 | 282 | 97 | 11 | 36 |
 | Los Angeles, CA | 1280 | 1033 | 235 | 78 | 8 | 31 |
-| Chicago, IL | 993 | 687 | 154 | 65 | 4 | 18 |
+| Chicago, IL | 993 | 687 | 154 | 65 | 5 | 19 |
 | Houston, TX | 1030 | 701 | 145 | 58 | 5 | 22 |
-| Dallas, TX | 722 | 487 | 91 | 59 | 4 | 9 |
-| Miami, FL | 1024 | 733 | 165 | 69 | 4 | 33 |
+| Dallas, TX | 722 | 487 | 91 | 59 | 5 | 10 |
+| Miami, FL | 1024 | 733 | 165 | 69 | 5 | 34 |
 | Atlanta, GA | 739 | 527 | 128 | 62 | 11 | 23 |
 | Philadelphia, PA | 767 | 546 | 92 | 28 | 3 | 14 |
 | San Francisco, CA | 732 | 447 | 125 | 67 | 3 | 11 |
@@ -97,7 +97,7 @@ Generated 2026-10-14T09:11:01+05:30 by `python3 run.py build`. Every number belo
 | Source | Listings | Businesses (as base row) | Qualified |
 |---|---|---|---|
 | Google Maps | 3108 | 1929 | 117 |
-| YellowPages | 9439 | 7061 | 119 |
+| YellowPages | 9439 | 7061 | 122 |
 | BBB | 2497 | 1276 | 98 |
 | OpenStreetMap | 1313 | 759 | 16 |
 
@@ -130,11 +130,11 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 2343 | bbb:1fc7a0b0fac80fee: appraiser-lab-insurer |
+| builder | final-kill | 2390 | bbb:1fc7a0b0fac80fee: appraiser-lab-insurer |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
 | bbb | blocked | 181 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | osm | error | 32 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
-| linkedin | blocked | 12 | http-429 or challenge page at https://www.google.com/search?q=%22Annie+Brown%22+Minneapolis+linkedin&hl=en&num=10 |
+| linkedin | blocked | 13 | http-429 or challenge page at https://www.google.com/search?q=%22Annie+Brown%22+Minneapolis+linkedin&hl=en&num=10 |
 | osm | http-504 | 12 | https://maps.mail.ru/osm/tools/overpass/api/interpreter |
 | osm | http-406 | 11 | https://overpass-api.de/api/interpreter |
 | yp | soft-block-503 | 4 | https://www.yellowpages.com/search?search_terms=jewelers&geo_location_terms=Denver%2C+CO&page=11 |
