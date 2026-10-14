@@ -2,7 +2,7 @@
  "business": "California",
  "category_as_listed": "Diamonds-Wholesale, Jewelers, Diamonds",
  "phone": "(818) 881-6060",
- "website": "http://cadiamonds.net",
+ "website": "https://www.cadiamonds.net",
  "address": "19001 Ventura Blvd",
  "city": "Tarzana",
  "state": "CA",
@@ -11,21 +11,33 @@
  "reviews": "37",
  "source_url": "https://www.yellowpages.com/tarzana-ca/mip/california-7064441",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@cadiamonds.net",
+ "email_source": "https://www.cadiamonds.net/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "818-881-6060"
+ ],
+ "tel_source": "https://www.cadiamonds.net/",
+ "socials": [
+  "https://www.instagram.com/californiadiamondsco/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "wholesale",
+  "natural",
+  "20-plus-years"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "Own site: 'Supplying GIA and EGL Certified Diamonds around the world \u2014 WHOLESALE DIAMONDS'; 'supplying high quality GIA and EGL certified loose diamonds for over twenty years'. Owner not named on site or in search.",
+ "verified": true,
+ "enriched": true
 }

@@ -25,7 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Buyers, Diamond Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site: 'GIA certified jeweler in Woodland Hills specializing in custom design and estate buying', family owned since 1977 \u2014 retail store / gold & estate buyer.",
+ "verified": true,
+ "enriched": true
 }

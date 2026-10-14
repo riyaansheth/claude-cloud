@@ -39,5 +39,6 @@
  "scope_reason": "Chamber listing: 'Walnut Creek-based loose gemstone and diamond supplier serving local jewelers... transparent wholesale pricing'; site: 'Wholesale Loose Gemstones & Natural Diamonds', 'Request Trade Access'.",
  "drop_reason": "",
  "business": "Lucidum",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

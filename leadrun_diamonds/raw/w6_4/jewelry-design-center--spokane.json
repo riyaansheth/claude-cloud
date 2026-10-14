@@ -41,5 +41,6 @@
  "scope_reason": "Own site: 'We began as a manufacturer for other outlets, and have since become the largest independent supplier of diamonds in the Northwest'; opened 1977 as Doug Toone Jewelry Manufacturing providing wholesale services; onsite fabrication.",
  "drop_reason": "",
  "business": "Jewelry Design Center",
- "verified": true
+ "verified": true,
+ "enriched": true
 }
