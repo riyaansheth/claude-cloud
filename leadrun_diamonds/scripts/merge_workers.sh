@@ -5,7 +5,7 @@
 set -uo pipefail
 cd "$(git -C "$(dirname "$0")" rev-parse --show-toplevel)"
 BRANCHES=(leadrun/worker-1 leadrun/worker-2 leadrun/worker-3 leadrun/worker-4 leadrun/worker-5 leadrun/worker-6
-          leadrun/verify-a leadrun/verify-b leadrun/enrich-0 leadrun/enrich-1 leadrun/enrich-2 leadrun/enrich-3 leadrun/enrich-4)
+          leadrun/verify-a leadrun/verify-b leadrun/enrich-0 leadrun/enrich-1 leadrun/enrich-2 leadrun/enrich-3 leadrun/enrich-4 leadrun/r3-0 leadrun/r3-1 leadrun/r3-2 leadrun/r3-3 leadrun/r3-4)
 for b in "${BRANCHES[@]}"; do
   if git fetch -q origin "$b" 2>/dev/null; then
     # only the files this worker itself changed since it forked — never its stale copies of others' files

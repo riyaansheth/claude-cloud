@@ -44,3 +44,17 @@ For each target:
 Set `"enriched": true` on every target you processed. Budget ≤ 120 WebSearch calls; use up to 4 subagents
 (split your shard by city). Commit ONLY the raw files you edited; push to your outcome branch after every
 ~10 targets. Report: targets, now-qualified estimate, owners, LinkedIn, emails, direct lines found, drops.
+
+## Round-3 worker (given CITIES list and OUT=w6_<k>) — full process, new cities
+1. `cd leadrun_diamonds && python3 scripts/yp_discover.py --cities <CITIES...> --pages 3 --outdir <OUT>`
+2. `python3 scripts/yp_discover.py --cities <CITIES...> --pages 1 --outdir <OUT> --terms "diamond brokers" "diamond cutters" "diamond buyers"`
+3. Also WebSearch (≤ 10 calls) for each city's diamond trade beyond YellowPages — e.g. `"diamond wholesaler" <city>`,
+   `"loose diamonds" wholesale <city>`, `"diamond dealer" <city> LinkedIn owner` — and write any real trade
+   businesses you find as new raw JSON files in `raw/<OUT>/` (AGENT_BRIEF schema, lead_origin "Web Search"/"LinkedIn").
+4. `python3 scripts/ingest.py && python3 scripts/crawl.py --workers 12`
+5. `python3 scripts/make_batches.py --dir <OUT> --out batches_<OUT> --size 25`
+6. For every listing in those batches do BOTH Wave-4 (scope verdict, verified=true) AND the Enrich steps
+   (owner, LinkedIn, email, direct line; enriched=true) — editing the raw files in place. Up to 4 subagents.
+7. Commit ONLY `leadrun_diamonds/raw/<OUT>/`; push to your outcome branch after every batch.
+Report: listings scraped, verified, in scope, dropped by reason, owners, LinkedIn, emails, direct lines, and
+which of your cities you think now have at least one lead meeting 2 of 3.
