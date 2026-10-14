@@ -1,0 +1,38 @@
+{
+ "business": "Diamonds East International",
+ "category_as_listed": "Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Watches",
+ "phone": "(561) 353-3278",
+ "website": "http://www.diamondseast.com",
+ "address": "4251 N Federal Hwy",
+ "city": "Boca Raton",
+ "state": "FL",
+ "market": "West Palm Beach, FL",
+ "rating": "5",
+ "reviews": "4",
+ "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/diamonds-east-international-467094639",
+ "lead_origin": "YellowPages",
+ "email": "online@diamondseast.com",
+ "email_source": "https://diamondseast.com/pages/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "(561)353-3278"
+ ],
+ "tel_source": "https://diamondseast.com/pages/contact",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "watches",
+  "pre-owned-rolex"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Watch dealer: site inventory is Rolex/Patek/AP etc. and states 'DIAMONDS EAST INTL. IS AN INDEPENDENT WATCH DEALER'; only finished diamond jewelry, engagement rings 'coming soon'.",
+ "verified": true,
+ "enriched": true
+}

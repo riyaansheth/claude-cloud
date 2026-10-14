@@ -6,9 +6,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Payal Kakadia",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/burbank/bul-inc (CA filing summary, July 2025: CEO/CFO/director/agent, 942 Bethany Rd, Burbank)",
  "website": "https://www.bulinc.com",
  "address": "942 Bethany Rd, Burbank, California, United States, 91504",
  "city": "Burbank",
@@ -33,7 +33,7 @@
   "importer"
  ],
  "is_diamond_trade": true,
- "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds (Real Diamond, Jewelry, Lab Grown Manufacturer Importer and Exporters); secondary: Jewelry, Manufacturer. Own site bulinc.com unreachable (Cloudflare 525 SSL handshake failed); no other web presence found.",
+ "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds (Real Diamond, Jewelry, Lab Grown Manufacturer Importer and Exporters). Caveat: bulinc.com (unreachable, Cloudflare 525) is titled \"Bul MarketPlace\" — an online store for electronics, appliances and jewelry — and the CA filing classifies it as retail; borderline.",
  "drop_reason": "",
  "enriched": true
 }

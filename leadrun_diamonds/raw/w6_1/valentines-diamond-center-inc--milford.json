@@ -1,0 +1,38 @@
+{
+ "business": "Valentines Diamond Center Inc",
+ "category_as_listed": "Diamond Buyers",
+ "phone": "(203) 204-6775",
+ "website": "http://www.valentinesdiamondcenter.com",
+ "address": "350 Boston Post Rd",
+ "city": "Milford",
+ "state": "CT",
+ "market": "New Haven, CT",
+ "rating": "",
+ "reviews": "39",
+ "source_url": "https://www.yellowpages.com/milford-ct/mip/valentines-diamond-center-inc-6383361",
+ "lead_origin": "YellowPages",
+ "email": "info@valentinesdiamondcenter.com",
+ "email_source": "https://www.valentinesdiamondcenter.com/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "+1203-204-6775"
+ ],
+ "tel_source": "https://www.valentinesdiamondcenter.com/contact",
+ "socials": [
+  "https://www.facebook.com/valentinesdiamondcenter/",
+  "https://www.instagram.com/valentinesdiamondcenter/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site: \"established itself since 1981 as one of Connecticut's top retailers in: Fine Jewelry, Engagement Rings, Wedding Bands, Watches\" plus repair; no wholesale/import line.",
+ "verified": true,
+ "enriched": true
+}

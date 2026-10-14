@@ -1,0 +1,49 @@
+{
+ "business": "Princess Diamonds",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
+ "phone": "(781) 362-4767",
+ "website": "http://www.princessdiamonds.net",
+ "address": "34 Cambridge St",
+ "city": "Burlington",
+ "state": "MA",
+ "market": "Worcester, MA",
+ "rating": "5",
+ "reviews": "1",
+ "source_url": "https://www.yellowpages.com/burlington-ma/mip/princess-diamonds-482434209",
+ "lead_origin": "YellowPages",
+ "email": "info@princessdiamonds.net",
+ "email_source": "https://princessdiamonds.net/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/charbel-hayek-50680ba/",
+ "linkedin_source": "WebSearch extended: \"Charbel Hayek\" Princess Diamonds LinkedIn (result 'Charbel Hayek - Hayek Jewelers', Burlington; Hayek Jewelers = Princess Diamonds' own atelier per princessdiamonds.net; Instagram bio: Founder & CEO Princess Diamonds / Hayek Jewelers)",
+ "contact_person": "Charbel Hayek",
+ "role": "Principal",
+ "contact_source": "https://www.bbb.org/us/ma/burlington/profile/jewelry-stores/princess-diamonds-inc-0021-18313",
+ "tel_numbers": [
+  "+1781.362.4767"
+ ],
+ "tel_source": "https://princessdiamonds.net/pages/contact",
+ "socials": [
+  "https://www.facebook.com/princessdiamondsburlington",
+  "https://www.instagram.com/princessdiamonds_ma"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-2001",
+  "family-owned",
+  "manufacturer",
+  "custom-design",
+  "loose-diamonds",
+  "lab-grown",
+  "natural",
+  "gia-graduates",
+  "diamond-buying"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Family-owned since 2001 with its own \"Hayek Jewelers atelier and manufacturing facility in Derry, New Hampshire\"; sells loose natural and lab-grown diamonds it sources itself and runs a diamond buying/trade-in program.",
+ "verified": true,
+ "enriched": true,
+ "dup_of": "raw/yp/princess-diamonds--burlington.json"
+}

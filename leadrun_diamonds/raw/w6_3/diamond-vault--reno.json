@@ -1,0 +1,42 @@
+{
+ "business": "Diamond Vault",
+ "category_as_listed": "Jewelers, Jewelers-Wholesale & Manufacturers",
+ "phone": "(775) 342-6663",
+ "website": "http://www.diamondvaultreno.com",
+ "address": "4950 Kietzke Ln Ste 301",
+ "city": "Reno",
+ "state": "NV",
+ "market": "Reno, NV",
+ "rating": "",
+ "reviews": "30",
+ "source_url": "https://www.yellowpages.com/reno-nv/mip/diamond-vault-10526313",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "7753426663"
+ ],
+ "tel_source": "https://diamondvaultreno.com/about-us/",
+ "socials": [
+  "https://twitter.com/DVaultReno",
+  "https://www.facebook.com/DiamondVaultReno",
+  "https://www.instagram.com/diamond_vault_reno"
+ ],
+ "building": "",
+ "suite": "Ste 301",
+ "trade_memberships": [],
+ "hooks": [
+  "broker",
+  "estate"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Own About page: \"We are the only diamond broker in Reno, Nevada ... as brokers, we do not own the items in our showcases. Rather we broker these items from the distributors\"; also estate brokering.",
+ "verified": true,
+ "enriched": true
+}

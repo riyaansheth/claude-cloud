@@ -1,0 +1,38 @@
+{
+ "business": "Adele Diamond",
+ "category_as_listed": "Diamond Buyers, Jewelers, Jewelry Buyers",
+ "phone": "(757) 389-8005",
+ "website": "https://adelediamond.com",
+ "address": "1628 Laskin Rd # 724",
+ "city": "Virginia Beach",
+ "state": "VA",
+ "market": "Virginia Beach, VA",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/virginia-beach-va/mip/adele-diamond-520535351",
+ "lead_origin": "YellowPages",
+ "email": "info@adelediamond.com",
+ "email_source": "https://adelediamond.com/pages/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Chris Lyons",
+ "role": "Founder",
+ "contact_source": "https://adelediamond.com/pages/about-us",
+ "tel_numbers": [
+  "+1 (757) 389-8005"
+ ],
+ "tel_source": "https://adelediamond.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/AdeleDiamondRings",
+  "https://www.instagram.com/adelediamondrings/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site About Us: retail jeweler founded 2015 by Chris and Ashley Lyons, \"three thriving showrooms across Virginia Beach\" selling bridal, fine jewelry, watches and designer handbags; no wholesale/import line.",
+ "verified": true,
+ "enriched": true
+}

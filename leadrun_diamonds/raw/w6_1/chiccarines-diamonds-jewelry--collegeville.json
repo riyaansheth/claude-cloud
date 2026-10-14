@@ -1,0 +1,38 @@
+{
+ "business": "Chiccarines Diamonds & Jewelry",
+ "category_as_listed": "Diamonds-Wholesale, Watches, Appraisers",
+ "phone": "(610) 489-2007",
+ "website": "https://chiccarines.com",
+ "address": "222 E Main St",
+ "city": "Collegeville",
+ "state": "PA",
+ "market": "Wilmington, DE",
+ "rating": "",
+ "reviews": "33",
+ "source_url": "https://www.yellowpages.com/collegeville-pa/mip/chiccarines-diamonds-jewelry-22247633",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "(610) 489-2007"
+ ],
+ "tel_source": "https://chiccarines.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/Chiccarines",
+  "https://www.instagram.com/chiccarinesjewelry"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Collegeville retail jewelry store selling designer lines (Gabriel & Co, Lashbrook, Shy Creation, Stuller catalogs) plus jewelry and watch repair; mentions loose diamonds in-store but no trade/wholesale or own-sourcing claim.",
+ "verified": true,
+ "dup_of": "raw/yp/chiccarines-diamonds-jewelry--collegeville.json"
+}

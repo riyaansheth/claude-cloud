@@ -1,0 +1,42 @@
+{
+ "business": "World Jewelry Buyers ( Cash 4 Gold , Diamond, Watch )",
+ "category_as_listed": "Diamond Buyers, Watches, Antiques",
+ "phone": "(305) 373-3333",
+ "website": "https://www.yespawn.com",
+ "address": "865 NE 62nd St",
+ "city": "Fort Lauderdale",
+ "state": "FL",
+ "market": "West Palm Beach, FL",
+ "rating": "5",
+ "reviews": "4",
+ "source_url": "https://www.yellowpages.com/fort-lauderdale-fl/mip/world-jewelry-buyers-cash-4-gold-diamond-watch--465527551",
+ "lead_origin": "YellowPages",
+ "email": "yespawn@yahoo.com",
+ "email_source": "https://www.yespawn.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "786.393.4955",
+  "954.533.0263"
+ ],
+ "tel_source": "https://www.yespawn.com/",
+ "socials": [
+  "http://instagram.com/yespawn",
+  "https://twitter.com/PawnYes",
+  "https://www.facebook.com/EarthVip/photos"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "pawn"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "pawn",
+ "scope_reason": "Site is 'Yes Pawn' offering loans, layaway, scrap gold, electronics, power tools, musical instruments etc.",
+ "verified": true,
+ "enriched": true
+}

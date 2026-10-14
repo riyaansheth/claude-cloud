@@ -1,0 +1,44 @@
+{
+ "business": "Diamond Banc",
+ "category_as_listed": "Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Watches",
+ "phone": "(561) 899-7575",
+ "website": "https://www.diamondbanc.com/fl/west-palm-beach",
+ "address": "515 N Flagler Dr Ste 350",
+ "city": "West Palm Beach",
+ "state": "FL",
+ "market": "West Palm Beach, FL",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/west-palm-beach-fl/mip/diamond-banc-579128519",
+ "lead_origin": "YellowPages",
+ "email": "westpalm@diamondbanc.com",
+ "email_source": "https://www.diamondbanc.com/fl/west-palm-beach/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Alex Perdomo",
+ "role": "Manager",
+ "contact_source": "https://www.diamondbanc.com/fl/west-palm-beach/",
+ "tel_numbers": [
+  "561-899-7575",
+  "573-875-2265"
+ ],
+ "tel_source": "https://www.diamondbanc.com/fl/west-palm-beach/",
+ "socials": [
+  "https://www.facebook.com/diamondbanc/",
+  "https://www.instagram.com/diamondbanc/",
+  "https://twitter.com/diamondbanc"
+ ],
+ "building": "",
+ "suite": "Ste 350",
+ "trade_memberships": [],
+ "hooks": [
+  "jewelry-loans",
+  "buyer-lender",
+  "multi-location"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Multi-location chain: site calls itself 'The Nations Premier Jewelry Buyer & Lender' (jewelry loans, sell/consign) with directors in Kansas City, Orlando, Tampa, Miami, Nashville, Scottsdale, etc.",
+ "verified": true,
+ "enriched": true
+}
