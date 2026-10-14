@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Jewelry Buyers"
+ "scope_reason": "unverified: no website found",
+ "verified": false,
+ "enriched": true,
+ "research_note": "Shares phone (561) 706-5006 with the HJ Ehrlich West Palm Beach listing (6653 Lake Worth Rd) - likely same operator / duplicate. Only directory traces found; buyer (gold/silver) profile."
 }

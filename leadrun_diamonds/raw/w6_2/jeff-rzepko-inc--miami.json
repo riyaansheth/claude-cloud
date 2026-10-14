@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "unverified: no website found",
+ "verified": false,
+ "enriched": true,
+ "research_note": "OpenCorporates: JEFF RZEPKO & SON, INC. (FL K51632) status Active; registered agent is a law firm (Gonzalez & Corona, P.A.), officers hidden. No own site found."
 }

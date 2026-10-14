@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Jewelry Repairing"
+ "scope_reason": "unverified: no website found",
+ "verified": false,
+ "enriched": true,
+ "research_note": "OpenCorporates: STAR DIAMOND JEWELRY, INC. (FL P11000098105) active but agent in Orlando - not confirmed as this Boynton Beach shop. No own site found."
 }

@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
+ "contact_person": "Doron Tilayoff",
  "role": "",
- "contact_source": "",
+ "contact_source": "https://opencorporates.com/companies/us_fl/P99000072954",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,9 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "unverified: no website found",
+ "verified": false,
+ "enriched": true,
+ "research_note": "OpenCorporates: TILAYOFF DIAMONDS INC. (FL P99000072954) Active; registered agent Doron Tilayoff, 1825 NW Corporate Blvd, Boca Raton (agent role only; officers hidden). No own site found.",
+ "contact_note": "Florida registered agent of same-named corporation (not confirmed as owner)"
 }

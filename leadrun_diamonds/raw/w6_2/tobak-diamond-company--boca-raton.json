@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "scope_reason": "unverified: no website found",
+ "verified": false,
+ "enriched": true,
+ "research_note": "No own site or matching registry entity found (only unrelated/inactive TOBAK entities)."
 }
