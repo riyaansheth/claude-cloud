@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds-Wholesale, Diamonds"
+ "scope_reason": "unverified: no website found (only YellowPages directory traces: custom work from client diamonds, sizing, chain repair).",
+ "verified": false,
+ "enriched": true
 }

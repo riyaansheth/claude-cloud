@@ -9,7 +9,7 @@
  "contact_person": "Jay Grdina",
  "role": "CEO",
  "contact_source": "https://www.nationaljeweler.com/articles/12181-adamas-one-to-buy-lab-grown-diamond-manufacturer",
- "website": "",
+ "website": "https://www.adamasone.com",
  "address": "",
  "city": "Greenville",
  "state": "SC",
@@ -29,6 +29,8 @@
   "manufacturer"
  ],
  "is_diamond_trade": true,
- "scope_reason": "Search results (National Jeweler/JCK, 2022-23): lab-grown diamond producer with CVD growing facilities in Greenville, SC (bought Scio Diamond assets); CEO status as of 2026 unconfirmed",
- "drop_reason": ""
+ "scope_reason": "unverified: site unreachable (adamasone.com 403). SEC 10-K FY2022 (sec.gov/Archives/edgar/data/1884072/000119983523000008/jewl-10k.htm): Nasdaq JEWL, CVD lab-grown diamond grower with factory leases in Greenville, SC; HQ 17767 N. Perimeter Dr, Scottsdale AZ, tel (480) 356-8798; Grdina named CEO there. Current (2026) status unconfirmed.",
+ "drop_reason": "",
+ "verified": false,
+ "enriched": true
 }

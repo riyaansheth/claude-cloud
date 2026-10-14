@@ -2,7 +2,7 @@
  "business": "Elgin's Fine Jewelry",
  "category_as_listed": "Diamond Buyers, Diamonds-Wholesale, Watches",
  "phone": "(225) 292-3355",
- "website": "http://www.elginsfj.com",
+ "website": "https://www.elginsfj.com/",
  "address": "10330 Airline Hwy Ste B12",
  "city": "Baton Rouge",
  "state": "LA",
@@ -18,14 +18,24 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(225) 292-3355"
+ ],
+ "tel_source": "https://www.elginsfj.com/contact",
+ "socials": [
+  "https://www.facebook.com/elginsfinejewelry",
+  "https://www.instagram.com/elginsfinejewelry"
+ ],
  "building": "",
  "suite": "Ste B12",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds-Wholesale, Watches"
+ "hooks": [
+  "lab-grown",
+  "custom"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site is a Punchmark retail storefront selling branded finished jewelry (Allison Kaufman, Simon G, Verragio...), watches and repairs with a virtual 'Diamond Search'; no wholesale, loose-diamond buying or own sourcing stated.",
+ "verified": true,
+ "enriched": true
 }

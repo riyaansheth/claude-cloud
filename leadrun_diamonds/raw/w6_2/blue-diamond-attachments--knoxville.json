@@ -2,7 +2,7 @@
  "business": "Blue Diamond Attachments",
  "category_as_listed": "Diamond Buyers",
  "phone": "(865) 688-3133",
- "website": "https://www.bluediamondattachments.com/contact",
+ "website": "https://www.bluediamondattachments.com/",
  "address": "4512 Anderson Rd",
  "city": "Knoxville",
  "state": "TN",
@@ -18,14 +18,21 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "1-888-376-7027"
+ ],
+ "tel_source": "https://www.bluediamondattachments.com/contact",
+ "socials": [
+  "https://www.facebook.com/BlueDiamondAttachments",
+  "https://www.instagram.com/bluediamondattachments/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Site sells skid steer, excavator and tractor attachments (augers, buckets, grapples) - heavy-equipment maker, not diamonds.",
+ "verified": true,
+ "enriched": true
 }
