@@ -54,7 +54,13 @@ def preflight():
     return ok
 
 
+MARKET_RANGE = None   # set by --range A:B (1-based, inclusive) to shard work across workers
+
+
 def markets(n):
+    if MARKET_RANGE:
+        a, b = MARKET_RANGE
+        return config.MARKETS[a - 1:b]
     return config.MARKETS[:n] if n else config.MARKETS
 
 
@@ -177,11 +183,17 @@ def run_all(n, push=True):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("stage")
-    ap.add_argument("--cities", type=int, default=10, help="first N markets (0 = all 25)")
+    ap.add_argument("--cities", type=int, default=10, help="first N markets (0 = all)")
     ap.add_argument("--limit", type=int, default=None)
     ap.add_argument("--no-push", action="store_true",
                     help="don't push outputs to the results branch")
+    ap.add_argument("--range", default=None,
+                    help="market slice A:B, 1-based inclusive (e.g. 26:30) — for parallel shards")
     a = ap.parse_args()
+    if a.range:
+        global MARKET_RANGE
+        lo, hi = (int(x) for x in a.range.split(":"))
+        MARKET_RANGE = (lo, hi)
     if a.stage == "preflight":
         sys.exit(0 if preflight() else 1)
     if a.stage == "all":
