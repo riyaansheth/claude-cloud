@@ -154,7 +154,9 @@ def crawl_domain(root, business_name, max_extra=4):
     return res
 
 
-def run(workers=16, limit=None, log=print):
+def run(workers=None, limit=None, log=print):
+    import os
+    workers = workers or int(os.environ.get("CRAWL_WORKERS", "16"))
     con = db.connect()
     rows = con.execute("""
         SELECT l.website, MIN(l.name) AS name FROM listings l
