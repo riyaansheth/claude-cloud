@@ -1,0 +1,44 @@
+{
+ "business": "Diamond Guild",
+ "category_as_listed": "Diamonds-Wholesale, Gold, Silver & Platinum Buyers & Dealers, Jewelers",
+ "phone": "(781) 326-8600",
+ "website": "http://thediamondguild.com",
+ "address": "234 Legacy Pl",
+ "city": "Dedham",
+ "state": "MA",
+ "market": "Worcester, MA",
+ "rating": "",
+ "reviews": "22",
+ "source_url": "https://www.yellowpages.com/dedham-ma/mip/diamond-guild-7286906",
+ "lead_origin": "YellowPages",
+ "email": "info@thediamondguild.com",
+ "email_source": "https://thediamondguild.com/contact-us/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Louis Karten",
+ "role": "Owner (with Carolyn Karten)",
+ "contact_source": "https://thediamondguild.com/about-us/",
+ "tel_numbers": [
+  "7813268600"
+ ],
+ "tel_source": "https://thediamondguild.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/DiamondGuild",
+  "https://www.instagram.com/thediamondguild"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1945",
+  "3rd-generation",
+  "manufacturer",
+  "custom-design",
+  "bridal"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Site says that since 1945 the family-owned Diamond Guild specializes in \"designing, manufacturing, and selling\" engagement rings, with clients picking their center stone in the Norwood showroom; owner Louis Karten also manufactures his own jewelry line.",
+ "verified": true,
+ "dup_of": "raw/yp/diamond-guild--dedham.json"
+}

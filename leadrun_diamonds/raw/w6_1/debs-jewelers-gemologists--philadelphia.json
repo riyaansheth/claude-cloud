@@ -1,0 +1,40 @@
+{
+ "business": "Debs Jewelers & Gemologists",
+ "category_as_listed": "Diamond Buyers, Diamonds, Diamonds-Wholesale",
+ "phone": "(215) 627-7821",
+ "website": "http://www.debsfordiamonds.com",
+ "address": "128 S 8th St",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Wilmington, DE",
+ "rating": "",
+ "reviews": "70",
+ "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/debs-jewelers-gemologists-16511853",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Jeffrey Debs",
+ "role": "Owner",
+ "contact_source": "https://jeffreydebs.com/debs-difference/",
+ "tel_numbers": [
+  "215.627.7821"
+ ],
+ "tel_source": "https://jeffreydebs.com/contact/",
+ "socials": [
+  "https://www.instagram.com/jeffreydebs"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1956",
+  "jewelers-row"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Domain redirects to Jeffrey Debs Jeweler Gemologist (128 S. 8th St), a Jewelers Row retail jeweler since 1956 selling brand lines (Parade, Charles Garnier, Shinola) plus repairs/appraisals; says it searches \"within the wholesale marketplace\" as a buyer, not a supplier.",
+ "verified": true,
+ "dup_of": "raw/yp/debs-jewelers-gemologists--philadelphia.json"
+}

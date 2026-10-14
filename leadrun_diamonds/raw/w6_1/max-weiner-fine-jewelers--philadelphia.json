@@ -1,0 +1,40 @@
+{
+ "business": "Max Weiner Fine Jewelers",
+ "category_as_listed": "Diamond Buyers, Diamonds, Diamonds-Wholesale",
+ "phone": "(215) 627-6910",
+ "website": "http://www.maxweiner.com",
+ "address": "805 Sansom St",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Wilmington, DE",
+ "rating": "1",
+ "reviews": "2",
+ "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/max-weiner-fine-jewelers-11611631",
+ "lead_origin": "YellowPages",
+ "email": "max@maxweiner.com",
+ "email_source": "https://www.maxweiner.com/",
+ "linkedin_url": "https://www.linkedin.com/in/maxweiner/",
+ "linkedin_source": "\"Max Weiner\" Max Weiner Fine Jewelers LinkedIn",
+ "contact_person": "Max Weiner",
+ "role": "Owner (BBB: \"Mr. Max Weiner, Owner\"); GIA-trained gemologist",
+ "contact_source": "https://www.maxweiner.com/, https://www.bbb.org/us/pa/philadelphia/profile/jewelry-stores/max-weiner-gemologist-llc-0241-80004243",
+ "tel_numbers": [
+  "2156276910"
+ ],
+ "tel_source": "https://www.maxweiner.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1995",
+  "gia-gg",
+  "estate",
+  "estate-buyer"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Max Weiner Estate Advisors provides appraisals and \"outright acquisition of jewelry, diamonds, and precious objects for estates\", purchasing entire collections (trade estate buyer, est. 1995).",
+ "verified": true,
+ "dup_of": "raw/yp/max-weiner-fine-jewelers--philadelphia.json"
+}
