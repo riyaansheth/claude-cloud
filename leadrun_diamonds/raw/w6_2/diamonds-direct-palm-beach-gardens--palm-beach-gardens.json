@@ -25,7 +25,9 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Diamonds Direct is a multi-store chain (JCK Online via WebSearch notes stores in Boca Raton, Jacksonville and a planned West Palm Beach store); its site returned HTTP 403 so it could not be read directly.",
+ "verified": false,
+ "enriched": true
 }

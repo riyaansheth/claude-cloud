@@ -2,7 +2,7 @@
  "business": "Brian Fabrikant & Sons",
  "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers",
  "phone": "(561) 391-9808",
- "website": "https://brianfabrikant.com/defaultsite",
+ "website": "https://www.brianfabrikant.com/",
  "address": "8221 Glades Rd",
  "city": "Boca Raton",
  "state": "FL",
@@ -11,21 +11,34 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/brian-fabrikant-sons-564726497",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "bfabsons@gmail.com",
+ "email_source": "https://www.brianfabrikant.com/contact/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Brian Fabrikant",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/fl/boca-raton/profile/jewelry-stores/brian-fabrikant-sons-0633-7004109",
+ "tel_numbers": [
+  "+1 (561) 391-9808"
+ ],
+ "tel_source": "https://www.brianfabrikant.com/contact/",
+ "socials": [
+  "https://www.facebook.com/BrianFabrikantinc/"
+ ],
  "building": "",
- "suite": "",
+ "suite": "#101-D",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1895",
+  "4th-generation family business",
+  "47th Street Diamond District roots",
+  "gemologist",
+  "estate & vintage diamonds",
+  "diamond buyer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers"
+ "scope_reason": "Site says the family has been 'in the diamond and jewelry trade since 1895' and Brian 'entered the jewelry trade in 1992, working for his father on 47th Street', now buying and selling estate diamonds and jewelry with a gemologist's evaluation (trade estate-diamond buyer).",
+ "verified": true,
+ "enriched": true
 }
