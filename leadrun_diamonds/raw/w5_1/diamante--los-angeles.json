@@ -29,6 +29,6 @@
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
  "verified": false,
- "li_note": "listed website is a jeans brand (ignored); owner not found; linkedin search not run (web search budget exhausted)",
+ "li_note": "pass2: no owner name found; listed website is a jeans brand (ignored); no Diamante jeweler in Beverly Hills found",
  "li_backfill": true
 }

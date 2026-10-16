@@ -6,9 +6,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Sol Dunst",
+ "role": "President",
+ "contact_source": "https://www.scrapmonster.com/company/sol-jewelry-designs-inc/86277",
  "website": "https://www.soljewelry.com",
  "address": "550 South Hill Street, Suite 1020, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -30,5 +30,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Jewelry (Engagement rings and wedding bands); secondary: Diamonds/ Manufaturer",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "pass2: Sol Dunst listed as President (co-founded 1987 with Giselle Dunst); no linkedin.com/in/ URL found",
+ "li_backfill": true
 }

@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (polanwaski.com does not resolve); no web results for the business. YP category: Diamond Buyers.",
- "enriched": true
+ "enriched": true,
+ "li_note": "pass2: no owner name found; listed website polanwaski.com unrelated; no Nemati Diamond Center Greenwich found",
+ "li_backfill": true
 }

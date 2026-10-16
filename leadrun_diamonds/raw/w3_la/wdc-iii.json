@@ -4,8 +4,8 @@
  "phone": "(646) 499-0863",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/wes-carroll-85381159/",
+ "linkedin_source": "\"Wes Carroll\" WDC III diamonds LinkedIn",
  "contact_person": "Wes Carroll",
  "role": "Founder",
  "contact_source": "https://www.wdciii.com",
@@ -33,6 +33,6 @@
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Estate Jewelry (Estate Jewelry); secondary: Diamonds, Jewelry",
  "drop_reason": "",
- "li_note": "linkedin search not run (web search budget exhausted)",
+ "li_note": "pass2: linkedin found (profile title Wes Carroll - WDC III, Beverly Hills, GIA)",
  "li_backfill": true
 }

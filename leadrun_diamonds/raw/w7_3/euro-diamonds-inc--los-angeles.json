@@ -31,5 +31,7 @@
  "drop_reason": "",
  "scope_reason": "eurodiamonds.net (self-signed cert) belongs to a Mumbai firm; but Diamond Club West Coast member directory lists 'Euro Diamonds Inc. — Wholesale — Speciality: Diamonds — (213) 627-4070 — 550 South Hill Street, Suite 987'.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "pass2: no owner name found; eurodiamonds.net returned 503; no Torrance CA Euro Diamonds record found",
+ "li_backfill": true
 }

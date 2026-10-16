@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (Etsy shop returned 403)",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found; listed website is etsy (ignored); no Vivid Gems Beverly Hills found",
+ "li_backfill": true
 }

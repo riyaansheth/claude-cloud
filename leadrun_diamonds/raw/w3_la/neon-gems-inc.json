@@ -4,11 +4,11 @@
  "phone": "(213) 627-0433",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/nirmal-jain-592a5b29/",
+ "linkedin_source": "\"Nirmal Jain\" Neon Gems LinkedIn",
+ "contact_person": "Nirmal Jain",
+ "role": "Founder",
+ "contact_source": "https://centurionjewelry.com/?p=4877",
  "website": "https://www.neongemsinc.com",
  "address": "550 South Hill Street, Suite 1300, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -30,5 +30,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Loose Diamonds); secondary: Jewelry: One of A kind Jewelry Pieces/ Gemstones",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "pass2: cofounder (with Neena Jain) per Centurion exhibitor page; linkedin profile titled nirmal jain - NEON GEMS, INC. (Los Angeles)",
+ "li_backfill": true
 }

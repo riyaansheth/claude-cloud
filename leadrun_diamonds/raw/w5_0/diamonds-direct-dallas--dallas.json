@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Tom O'Rourke",
+ "role": "President",
+ "contact_source": "https://www.signetjewelers.com/newsroom/company-news/company-news-details/2025/Tom-ORourke-Promoted-to-President-Diamonds-Direct/default.aspx",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,6 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable (HTTP 403 on all pages); web search indicates Diamonds Direct is a multi-store chain (JCK/CB Insights) \u2014 likely chain if re-checked",
- "verified": false
+ "scope_reason": "unverified: site unreachable (HTTP 403 on all pages); web search indicates Diamonds Direct is a multi-store chain (JCK/CB Insights) — likely chain if re-checked",
+ "verified": false,
+ "li_note": "pass2: Diamonds Direct is a Signet-owned chain; Tom O'Rourke named president Nov 2025 (Amit Berger SVP oversaw Dallas store per press); no linkedin found",
+ "li_backfill": true
 }

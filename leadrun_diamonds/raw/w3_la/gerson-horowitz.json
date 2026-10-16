@@ -33,6 +33,6 @@
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Larger diamonds)",
  "drop_reason": "",
- "li_note": "owner not found; linkedin search not run (web search budget exhausted)",
+ "li_note": "pass2: no owner name found; site returned 503, no web results for the firm",
  "li_backfill": true
 }

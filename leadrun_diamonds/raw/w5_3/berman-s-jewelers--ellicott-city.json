@@ -29,6 +29,6 @@
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
  "verified": false,
- "li_note": "owner not found; linkedin search not run (web search budget exhausted)",
+ "li_note": "pass2: no owner name found; bermansjewelers.com now an unrelated/spam site; only Berman's Jewelers found is Ellicott City MD (closed per JCK), no Rockville location found",
  "li_backfill": true
 }
