@@ -1,51 +1,52 @@
 {
- "business": "Steven's Jewelers",
- "category_as_listed": "Diamonds-Wholesale, Jewelers",
- "phone": "(847) 674-1202",
- "website": "http://sethandreid.com",
- "address": "4711 Golf Rd",
- "city": "Skokie",
- "state": "IL",
- "market": "Chicago, IL",
- "rating": "",
- "reviews": "",
- "source_url": "https://www.yellowpages.com/skokie-il/mip/stevens-jewelers-1485377",
- "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Steven Saitelbach",
- "role": "President",
- "contact_source": "https://www.bbb.org/us/il/skokie/profile/jewelry-stores/stevens-jewelers-0654-88447155",
- "tel_numbers": [
-  "(847) 674-1202"
- ],
- "tel_source": "https://stevensjewelersinc.com/contact/",
- "socials": [
-  "https://www.facebook.com/SJIDiamonds",
-  "https://www.instagram.com/sjidiamonds",
-  "https://twitter.com/SJIDiamonds"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [
-  "JBT",
-  "JVC",
-  "WJA"
- ],
- "hooks": [
-  "manufacturer",
-  "private-label",
-  "to-the-trade",
-  "natural",
-  "2nd-generation",
-  "made-in-usa",
-  "position-cut-diamond"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Stevens Jewelers Inc (SJI, maker of the Seth & Reid Collection) runs \"a full service manufacturing facility\" with private-label services for \"our retail partners\" and its own Position Cut Diamond line of natural diamonds.",
- "verified": true,
- "enriched": true
+  "business": "Steven's Jewelers",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers",
+  "phone": "(847) 674-1202",
+  "website": "http://sethandreid.com",
+  "address": "4711 Golf Rd",
+  "city": "Skokie",
+  "state": "IL",
+  "market": "Chicago, IL",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/skokie-il/mip/stevens-jewelers-1485377",
+  "lead_origin": "YellowPages",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Steven Saitelbach",
+  "role": "President",
+  "contact_source": "https://www.bbb.org/us/il/skokie/profile/jewelry-stores/stevens-jewelers-0654-88447155",
+  "tel_numbers": [
+    "(847) 674-1202"
+  ],
+  "tel_source": "https://stevensjewelersinc.com/contact/",
+  "socials": [
+    "https://www.facebook.com/SJIDiamonds",
+    "https://www.instagram.com/sjidiamonds",
+    "https://twitter.com/SJIDiamonds"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "JBT",
+    "JVC",
+    "WJA"
+  ],
+  "hooks": [
+    "manufacturer",
+    "private-label",
+    "to-the-trade",
+    "natural",
+    "2nd-generation",
+    "made-in-usa",
+    "position-cut-diamond"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Stevens Jewelers Inc (SJI, maker of the Seth & Reid Collection) runs \"a full service manufacturing facility\" with private-label services for \"our retail partners\" and its own Position Cut Diamond line of natural diamonds.",
+  "verified": true,
+  "enriched": true,
+  "li_backfill": true
 }

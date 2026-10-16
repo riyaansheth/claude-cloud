@@ -4,8 +4,8 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/barry-baxman-3861098/",
+  "linkedin_source": "\"Barry Baxman\" JF Options LinkedIn",
   "contact_person": "Barry Baxman",
   "role": "",
   "contact_source": "https://denvermart.com/markets/denver-diamond-district/",
@@ -27,5 +27,6 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "By-appointment showroom in Denver Mart wholesale Diamond District (Becky and Barry Baxman); BBB shows Ringsby Court address; role 'Owner' inferred from directory naming",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

@@ -27,5 +27,6 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "By-appointment showroom in Denver Mart Diamond District (trade mart); roster may date to 2019",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }
