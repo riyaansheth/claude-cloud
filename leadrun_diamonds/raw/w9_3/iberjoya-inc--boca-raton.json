@@ -11,21 +11,37 @@
  "reviews": "21",
  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/iberjoya-inc-454860133",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@iberjoyausa.com",
+ "email_source": "https://iberjoyausa.com/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/ian-van-1b0b702a/",
+ "linkedin_source": "\"Angel Manrique\" IberJoya president LinkedIn",
+ "contact_person": "Ian Van",
+ "role": "Vice President/Owner",
+ "contact_source": "https://www.linkedin.com/in/ian-van-1b0b702a/ (also named on https://iberjoyausa.com/pages/history-heritage)",
+ "tel_numbers": [
+  "5615446076"
+ ],
+ "tel_source": "https://iberjoyausa.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/IberjoyaDiamonds",
+  "https://www.instagram.com/iberjoya/",
+  "https://www.pinterest.com/IberJoyaDiamonds/"
+ ],
  "building": "",
- "suite": "Ste 203",
+ "suite": "Suite 134",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1949",
+  "4th-generation",
+  "manufacturer",
+  "wholesale",
+  "gia-certified",
+  "loose-diamonds",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Own History page: est. 1949, supplied Macy's/Zales, HQ in Boca Raton 'integrate sourcing and manufacturing while concentrating its business largely in diamonds ... Jewelry manufacturing, wholesale business, and retail partnerships'; sells GIA loose diamonds.",
+ "verified": true,
+ "enriched": true
 }

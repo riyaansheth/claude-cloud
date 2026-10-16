@@ -14,18 +14,35 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
- "building": "",
- "suite": "",
+ "linkedin_source": "\"Malka Roizen\" Baguette Mondial LinkedIn; \"Malka Roizen\" Miami diamonds LinkedIn (no /in/ found)",
+ "contact_person": "Malka Roizen",
+ "role": "President",
+ "contact_source": "https://baguettemondial.com/",
+ "tel_numbers": [
+  "+13055391133",
+  "+13056068750"
+ ],
+ "tel_source": "https://baguettemondial.com/",
+ "socials": [
+  "https://www.instagram.com/baguettemondialdiamonds/"
+ ],
+ "building": "Seybold Building",
+ "suite": "Ste 750",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1992",
+  "importer",
+  "cut-in-israel",
+  "melee",
+  "matched-pairs",
+  "calibrated",
+  "custom-cutting",
+  "woman-owned",
+  "whatsapp-direct"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "Own site: 'Baguette Mondial Diamond Importers Inc. ... Cut in Israel · Located in Miami' supplies jewelers with matched pairs, calibrated layouts, melee and custom-cut side stones - wholesale importer/cutter.",
+ "verified": true,
+ "enriched": true
 }

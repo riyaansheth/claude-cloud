@@ -18,14 +18,23 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "7032438929",
+  "1-866-382-8020"
+ ],
+ "tel_source": "https://www.ascotdiamonds.com/company/about-us",
+ "socials": [
+  "https://twitter.com/ascotdiamonds",
+  "https://www.facebook.com/ascotdiamondsatlanta",
+  "https://www.instagram.com/ascotdiamondsatlanta"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Ste 107",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Own site lists 7 showrooms (DC/Arlington, Atlanta, Dallas, New York, Charlotte, Charleston, Philadelphia) 'TRUST AND VALUE SINCE 1978' selling engagement rings and diamonds to consumers - multi-state retail chain.",
+ "verified": true,
+ "enriched": true
 }

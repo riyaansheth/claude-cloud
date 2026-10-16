@@ -18,14 +18,21 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "301-230-1212",
+  "4103291801",
+  "4438960008",
+  "7038488000"
+ ],
+ "tel_source": "https://www.diamondexchangeusa.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Own site titled 'Diamond Exchange USA - We Buy Gold & Watches' with four locations, Sell Gold/Watches, Coins & Bullion and Collateral Loans; a custom retail jeweler/gold buyer, not diamond trade.",
+ "verified": true,
+ "enriched": true
 }

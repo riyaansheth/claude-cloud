@@ -18,14 +18,22 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "+13053713476"
+ ],
+ "tel_source": "https://www.barclaysjewelry.com/",
+ "socials": [
+  "https://facebook.com/Barclays.Jewelers.Miami",
+  "https://www.instagram.com/barclaysjewelers/",
+  "https://x.com/barclaysmiami"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Repairing"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site: 'Barclay's Jewelers - Engagement Rings in Miami ... Serving South Florida For Over 45 Years', a family-owned retail store selling engagement rings, designers, watches, repairs and gold buying - retail-only.",
+ "verified": true,
+ "enriched": true
 }
