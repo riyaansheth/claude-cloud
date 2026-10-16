@@ -33,7 +33,7 @@ PLATFORM_HOSTS = ("linktr.ee", "wixsite.com", "square.site", "business.site", "f
 # ---------------------------------------------------------------- kill-list
 # (reason, regex) — matched against business name and source category.
 KILL_LIST = [
-    ("pawn", r"\bpawn|pawnbroker|ezpawn|cash america|loans? on jewelry|collateral loan"),
+    ("pawn", r"\bloan co\b|\bpawn|pawnbroker|ezpawn|cash america|loans? on jewelry|collateral loan"),
     ("cash-for-gold", r"cash for gold|we buy gold|gold exchange|scrap gold|\bbullion\b|precious metals? buyer|\brefinery\b|\brefiners?\b|gold buyers?\b"),
     ("coin", r"\bcoins?\b|numismatic|currency exchange|stamp and coin"),
     ("beads-craft", r"\bbeads?\b|bead (store|shop)|\bfindings\b|jewelry suppl(y|ies)|\bcraft(s)?\b|\bhobby\b|wire wrapping|charm bar"),
@@ -41,7 +41,8 @@ KILL_LIST = [
     ("piercing", r"piercing|tattoo|body jewelry|permanent jewelry"),
     ("kiosk", r"\bkiosk\b|watch battery|\bbattery\b|mall cart|\bcart\b|phone case"),
     ("simulant", r"moissanite|cubic zirconia|\bcz\b|lab simulant|diamond alternative|simulated diamond"),
-    ("chain", r"\bkay jewelers\b|^kay$|\bjared (the galleria|jewel)|^jared$|\bzales\b|\bpandora\b|\btiffany ?(&|and) ?co|^tiffany$|blue nile|james allen|brilliant earth|\bsignet\b|shane co\b|helzberg|ben bridge|daniel'?s jewelers|rogers (&|and) hollands|swarovski|macy'?s|jcpenney|j\.c\. penney|nordstrom|\britani\b|with clarity|clean origin|\bvrai\b"),
+    ("chain", r"\bkay jewelers\b|^kay$|\bjared (the galleria|jewel)|^jared$|\bzales\b|\bpandora\b|\btiffany ?(&|and) ?co|^tiffany$|blue nile|james allen|brilliant earth|\bsignet\b|shane co\b|helzberg|ben bridge|daniel'?s jewelers|rogers (&|and) hollands|swarovski|macy'?s|jcpenney|j\.c\. penney|nordstrom|\britani\b|with clarity|clean origin|\bvrai\b|diamonds direct"),
+    ("industrial-tools", r"diamant boart|diamotec|diamond (tools?|blades?|core drill|saw|abrasives?)\b"),
     ("thrift", r"\bthrift\b|consignment|resale shop"),
 ]
 _KILL = [(r, re.compile(p, re.I)) for r, p in KILL_LIST]
@@ -49,7 +50,7 @@ _KILL = [(r, re.compile(p, re.I)) for r, p in KILL_LIST]
 # Agent drop reasons that are judgement calls (not regex-detectable) but still out of scope.
 JUDGEMENT_DROPS = {"retail-only", "gemstone-only", "appraiser-lab", "other", "pawn", "cash-for-gold",
                    "coin", "beads-craft", "costume-fashion", "piercing", "kiosk", "simulant",
-                   "chain", "thrift", "unverified"}
+                   "chain", "thrift", "unverified", "industrial-tools"}
 
 
 def kill_reason(name: str, category: str = "") -> str:
