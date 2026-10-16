@@ -1,0 +1,49 @@
+{
+ "business": "David Nygaard Fine Jewelers",
+ "category_as_listed": "",
+ "phone": "(757) 965-3337",
+ "email": "david@davidnygaard.com",
+ "email_source": "https://www.davidnygaardfinejewelers.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/david-nygaard-a0335119/",
+ "linkedin_source": "WebSearch extended: \"David Nygaard\" jeweler Virginia Beach LinkedIn (result title: \"David Nygaard - David Nygaard Fine Jewelers\")",
+ "contact_person": "David Nygaard",
+ "role": "Owner",
+ "contact_source": "https://www.davidnygaardfinejewelers.com/about",
+ "website": "https://www.davidnygaardfinejewelers.com",
+ "address": "249 Central Park Ave, Ste 300-10",
+ "city": "Virginia Beach",
+ "state": "VA",
+ "market": "Virginia Beach, VA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.davidnygaardfinejewelers.com/about",
+ "tel_numbers": [
+  "757-965-3337"
+ ],
+ "tel_source": "https://www.davidnygaardfinejewelers.com/contact",
+ "socials": [
+  "https://www.facebook.com/davidnygaardfinejewelers/",
+  "https://www.instagram.com/davidnygaardfinejewelers/",
+  "https://www.youtube.com/user/DavidNygaardFJ"
+ ],
+ "building": "",
+ "suite": "Ste 300-10",
+ "trade_memberships": [
+  "AGS",
+  "ASA"
+ ],
+ "hooks": [
+  "manufacturer",
+  "on-site-casting",
+  "cad-3d-printing",
+  "since-1986",
+  "certified-gemologist-appraiser",
+  "master-gemologist-appraiser"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "About page: custom designing and on-site manufacturing; CAD + 3D-printed prototypes, cast in gold/platinum/palladium, diamonds set on site; owner is AGS Certified Gemologist Appraiser and ASA Master Gemologist Appraiser.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

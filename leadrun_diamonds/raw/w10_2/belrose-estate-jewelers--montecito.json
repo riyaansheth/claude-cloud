@@ -1,0 +1,42 @@
+{
+ "rating": "",
+ "reviews": "",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/joe-schweke-b49b3b13/",
+ "linkedin_source": "WebSearch extended: \"Sarena Schweke\" OR \"Joe Schweke\" Belrose Estate Jewelers LinkedIn (title \"Joe Schweke - Belrose Estate Jewelers\", Santa Barbara)",
+ "contact_person": "Joe Schweke",
+ "role": "Owner",
+ "contact_source": "https://www.noozhawk.com/judy-foreman-family-owned-belrose-estate-jewelers-is-montecitos-newest-gem/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA",
+  "1stDibs"
+ ],
+ "hooks": [
+  "since-1967",
+  "3rd-generation",
+  "estate-buyer",
+  "gia-certified-diamonds",
+  "formerly-bella-rosa-galleries"
+ ],
+ "drop_reason": "",
+ "category_as_listed": "Estate jewelry dealer (1stDibs seller)",
+ "phone": "",
+ "website": "https://belroseestate.com",
+ "address": "1268 Coast Village Road",
+ "business": "Belrose Estate Jewelers",
+ "city": "Montecito",
+ "state": "CA",
+ "market": "Santa Barbara, CA",
+ "lead_origin": "Web Search",
+ "source_url": "https://www.1stdibs.com/dealers/bella-rosa-galleries/",
+ "is_diamond_trade": true,
+ "scope_reason": "Estate jeweler since 1967 (father-daughter Joe & Sarena Schweke; Sarena GIA graduate per Noozhawk); site has a 'Sell Modern Vintage & Antique Jewelry' buyer page; 1stDibs inventory of GIA-certified diamond pieces. Site behind Cloudflare (403) so no email/phone captured.",
+ "verified": true,
+ "enriched": true
+}

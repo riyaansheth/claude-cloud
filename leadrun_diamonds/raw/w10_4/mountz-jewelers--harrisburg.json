@@ -1,0 +1,59 @@
+{
+ "business": "Mountz Jewelers",
+ "category_as_listed": "Jewelers",
+ "phone": "(717) 545-7508",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/tonia-ulsh-88251596/",
+ "linkedin_source": "\"Tonia Ulsh\" Mountz Jewelers LinkedIn (WebSearch extended)",
+ "contact_person": "Tonia Leitzel Ulsh",
+ "role": "Owner",
+ "contact_source": "https://mountzjewelers.com/pages/about-us",
+ "website": "https://mountzjewelers.com",
+ "address": "4520 Jonestown Rd",
+ "city": "Harrisburg",
+ "state": "PA",
+ "market": "Harrisburg, PA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://business.harrisburgregionalchamber.org/memberdirectory/Search/jewelers-467107",
+ "tel_numbers": [
+  "717.545.7508",
+  "(717) 243-4936",
+  "(717) 763-1199"
+ ],
+ "tel_source": "https://mountzjewelers.com/pages/locations",
+ "socials": [
+  "https://www.facebook.com/MountzJewelers",
+  "https://www.instagram.com/mountzjewelers/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "AGS",
+  "GIA"
+ ],
+ "hooks": [
+  "gia-gg",
+  "ags-cga",
+  "5th-generation-family",
+  "natural",
+  "lab-grown",
+  "hand-selected-diamonds",
+  "multi-location"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: 'We hand-select every natural diamond... Every single diamond that comes through our doors is thoroughly inspected by our certified gemologists'; carries natural and lab-grown; co-owners Ronald Leitzel and Tonia Leitzel Ulsh (GIA GG, AGS CGA). Bridal/diamond specialist sourcing own stones.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true,
+ "other_contacts": [
+  {
+   "name": "Ronald Leitzel",
+   "role": "Owner (Chairman & CEO per site)",
+   "linkedin_url": "https://www.linkedin.com/in/ron-leitzel-b6b706aa/",
+   "linkedin_source": "\"Ron Leitzel\" Mountz Jewelers LinkedIn (WebSearch extended)"
+  }
+ ]
+}

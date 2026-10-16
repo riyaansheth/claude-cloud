@@ -1,0 +1,42 @@
+{
+ "business": "Stevens Diamond Jewelers",
+ "category_as_listed": "Diamond Buyers, Jewelers, Watches",
+ "phone": "(413) 731-9800",
+ "website": "https://stevensjewelers.com",
+ "address": "1501 Elm St",
+ "city": "West Springfield",
+ "state": "MA",
+ "market": "Springfield, MA",
+ "rating": "3",
+ "reviews": "2",
+ "source_url": "https://www.yellowpages.com/west-springfield-ma/mip/stevens-diamond-jewelers-2694634",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "413.731.9800"
+ ],
+ "tel_source": "https://stevensjewelers.com/",
+ "socials": [
+  "https://www.facebook.com/StevensDiamondJewelers/",
+  "https://www.instagram.com/stevensdiamondjewelers/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "natural",
+  "diamond-search",
+  "gold-diamond-buying"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Site: 'the jewelry store to visit if you're searching for certified natural diamonds'; has Diamond Search / Antwerp Diamonds loose-diamond pages and Gold & Diamond Buying. Borderline bridal retailer with loose stones; owner not found (about/team pages blocked).",
+ "verified": true,
+ "enriched": true
+}

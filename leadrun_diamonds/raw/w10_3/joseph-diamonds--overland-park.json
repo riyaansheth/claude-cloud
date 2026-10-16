@@ -1,0 +1,45 @@
+{
+  "business": "Joseph Diamonds",
+  "category_as_listed": "Diamond Buyers, Jewelers, Jewelry Buyers",
+  "phone": "(913) 242-7150",
+  "website": "http://www.josephdiamonds.com",
+  "address": "10560 Barkley St Ste 370",
+  "city": "Overland Park",
+  "state": "KS",
+  "market": "Overland Park, KS",
+  "rating": "5",
+  "reviews": "1",
+  "source_url": "https://www.yellowpages.com/overland-park-ks/mip/joseph-diamonds-527107612",
+  "lead_origin": "YellowPages",
+  "email": "sales@josephdiamonds.com",
+  "email_source": "https://www.josephdiamonds.com/pages/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "tel_numbers": [
+    "913-242-7150"
+  ],
+  "tel_source": "https://www.josephdiamonds.com/pages/contact-us",
+  "socials": [
+    "https://www.facebook.com/josephdiamondco/",
+    "https://www.instagram.com/samjdiamonds/",
+    "https://twitter.com/Joseph_Diamonds",
+    "https://www.pinterest.com/josephdiamonds/"
+  ],
+  "building": "",
+  "suite": "Ste 370",
+  "trade_memberships": [],
+  "hooks": [
+    "estate-buyer",
+    "natural",
+    "loose-diamonds",
+    "by-appointment"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Site: by-appointment buyer of loose natural diamonds, estate diamond jewelry and graded loose gemstones; describes itself as diamond dealer/broker (trade estate-diamond buyer)",
+  "verified": true,
+  "enriched": true
+}
