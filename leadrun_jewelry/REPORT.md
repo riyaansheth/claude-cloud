@@ -1,6 +1,6 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-16T17:26:53+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-16T17:47:32+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
@@ -12,7 +12,7 @@ Generated 2026-10-16T17:26:53+05:30 by `python3 run.py build`. Every number belo
 | Qualification rate | 2.7% |
 | Websites crawled OK / attempted | 15457 / 18616 |
 | Listings with an owner/decision-maker name | 4369 |
-| LinkedIn searches by outcome | ambiguous: 245, match: 162, none: 522, reject: 122 |
+| LinkedIn searches by outcome | ambiguous: 267, match: 162, none: 535, reject: 122 |
 
 ## Fill rate per field
 
@@ -170,7 +170,7 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 4669 | bbb:1fc7a0b0fac80fee: appraiser-lab-insurer |
+| builder | final-kill | 4739 | bbb:1fc7a0b0fac80fee: appraiser-lab-insurer |
 | bbb | blocked | 280 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
 | osm | error | 76 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
