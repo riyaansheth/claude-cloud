@@ -1,0 +1,44 @@
+{
+ "business": "Madison Jewelers",
+ "category_as_listed": "",
+ "phone": "(757) 200-0609",
+ "email": "sales@madisonjewelers.com",
+ "email_source": "https://www.madison-jewelers.com/contact-us",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Phil Ralph",
+ "role": "Owner",
+ "contact_source": "https://www.poyst.com/business/madison-jewelers",
+ "website": "https://www.madison-jewelers.com",
+ "address": "5304 Providence Rd",
+ "city": "Virginia Beach",
+ "state": "VA",
+ "market": "Virginia Beach, VA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.madison-jewelers.com/loose-diamond-inventory",
+ "tel_numbers": [
+  "(757) 200-0609"
+ ],
+ "tel_source": "https://www.madison-jewelers.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/MadisonJewelers/",
+  "https://www.instagram.com/madisonjewelers/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1997",
+  "loose-diamonds",
+  "certified-diamonds",
+  "diamond-buyer",
+  "natural"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: carries certified loose diamonds from GIA, AGS and EGL USA, hand selected; also buys diamonds based on wholesale value (We Buy Diamonds page).",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}
