@@ -14,10 +14,10 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "WebSearch extended: Kahiri Diamonds Ltd owner linkedin.com/in -> no /in/ profile",
+ "contact_person": "Itay Kahiri",
+ "role": "Owner",
+ "contact_source": "https://www.manta.com/c/mm4f4w3/kahiri-diamonds-limited",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: site unreachable (kahiri.com no page); Manta/D&B: wholesale diamond company est. 2007, 17 E 48th St Rm 702 / 580 5th Ave",
+ "enriched": true,
+ "verified": false
 }
