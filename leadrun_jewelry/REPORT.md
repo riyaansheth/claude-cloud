@@ -1,6 +1,6 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-17T01:48:59+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-17T01:54:46+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
@@ -10,7 +10,7 @@ Generated 2026-10-17T01:48:59+05:30 by `python3 run.py build`. Every number belo
 | Businesses researched (after dedupe) → `jewelry_all.csv` | 21178 |
 | Qualified (2 of 3) → `jewelry_qualified.csv` | 548 |
 | Qualification rate | 2.6% |
-| Websites crawled OK / attempted | 17705 / 21324 |
+| Websites crawled OK / attempted | 17705 / 21325 |
 | Listings with an owner/decision-maker name | 4708 |
 | LinkedIn searches by outcome | ambiguous: 276, match: 179, none: 551, reject: 131 |
 
@@ -161,7 +161,7 @@ Generated 2026-10-17T01:48:59+05:30 by `python3 run.py build`. Every number belo
 | BBB | 4454 | 2196 | 139 |
 | OpenStreetMap | 2266 | 1130 | 20 |
 
-Discovery tasks completed: bbb=1508, gmaps=425, osm=85, yp=987
+Discovery tasks completed: bbb=1509, gmaps=425, osm=85, yp=987
 
 ## dropped_out_of_scope
 
@@ -190,8 +190,8 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 5602 | bbb:041e21befdeeed50: appraiser-lab-insurer |
-| bbb | blocked | 297 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
+| builder | final-kill | 5683 | bbb:041e21befdeeed50: appraiser-lab-insurer |
+| bbb | blocked | 299 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
 | osm | error | 101 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
 | osm | http-500 | 59 | https://overpass.kumi.systems/api/interpreter |
