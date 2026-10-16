@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: site unreachable (listed diamondsonweb.com redirects to a Cloudflare Access login for staging.yadavjewelry.com); directories list Om Diamonds as wholesale diamonds at 888 Brannan St Ste 1110",
+ "verified": false,
+ "enriched": true
 }

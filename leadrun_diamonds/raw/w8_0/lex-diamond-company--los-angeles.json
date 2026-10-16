@@ -14,10 +14,10 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "WebSearch extended: \"Elie Benaron\" diamond LinkedIn (no /in/ profile found)",
+ "contact_person": "Elie Benaron",
+ "role": "Owner",
+ "contact_source": "https://opengovus.com/los-angeles-business/0000898209-0001-5",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "unverified: site unreachable (listed moroccanlemon.com does not resolve); LA city business registry lists Elie Benaron dba Lex Diamond Company, jewelry & precious stones, 550 S Hill St Unit 1363",
+ "verified": false,
+ "enriched": true
 }

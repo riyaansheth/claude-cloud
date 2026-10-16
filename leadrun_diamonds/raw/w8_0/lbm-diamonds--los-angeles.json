@@ -13,11 +13,11 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/robert-ma-4140b826/",
+ "linkedin_source": "WebSearch extended: \"Robert Ma\" LBM Diamond Los Angeles LinkedIn -> 'Robert Ma - LBM Diamond Inc.'",
+ "contact_person": "Robert Ma",
+ "role": "Owner",
+ "contact_source": "https://www.jewellist.us/company-lbm-diamond-inc-in-los-angeles-ca-44966",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Buyers, Diamond Buyers"
+ "scope_reason": "unverified: site unreachable (listed bluediamond.com is Blue Diamond Growers almonds, unrelated); YP lists Diamonds-Wholesale",
+ "verified": false,
+ "enriched": true
 }

@@ -14,10 +14,10 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "WebSearch extended: \"Essi Tehrani\" Optima Diamond LinkedIn (only an unverified ZoomInfo-derived mention; not recorded)",
+ "contact_person": "Essi Tehrani",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/optima-diamond (CA SOS filing: Director, CFO, Secretary, CEO)",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "unverified: site unreachable (optimadiamonds.com shows only a cPanel default page); CA filing type of business 'WHOLESALE DIAMONDS/JEWELRY'",
+ "verified": false,
+ "enriched": true
 }

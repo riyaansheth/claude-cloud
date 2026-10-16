@@ -2,7 +2,7 @@
  "business": "Padis Jewelry",
  "category_as_listed": "Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers",
  "phone": "(415) 861-5388",
- "website": "http://www.padisgems.com",
+ "website": "https://www.padisgems.com",
  "address": "888 Brannan St Ste 128",
  "city": "San Francisco",
  "state": "CA",
@@ -14,18 +14,37 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "WebSearch extended: \"Steve Padis\" Padis Jewelry LinkedIn (only 'Steve and Judy Padis - PADIS VINEYARDS' and an unrelated CFO profile; not recorded)",
+ "contact_person": "Steve Padis",
+ "role": "Founder",
+ "contact_source": "https://www.padisgems.com/",
+ "tel_numbers": [
+  "(415) 689-3065",
+  "(415) 626-8288"
+ ],
+ "tel_source": "https://www.padisgems.com/pages/contact",
+ "socials": [
+  "https://twitter.com/padisjewelry",
+  "https://www.facebook.com/StevePadisJewelry/",
+  "https://www.instagram.com/padisjewelry/",
+  "https://www.pinterest.com/PadisJewelry/"
+ ],
  "building": "",
  "suite": "Ste 128",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "AGS",
+  "AGTA"
+ ],
+ "hooks": [
+  "since-1974",
+  "lab-grown",
+  "natural",
+  "gia-gg",
+  "family-owned"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "padisgems.com: family-owned since 1974; 'Founder Steve Padis personally hand-picks every diamond', loose natural and lab-grown diamond sections plus custom design - borderline, largely designer bridal retail (Tacori, Verragio).",
+ "verified": true,
+ "enriched": true
 }

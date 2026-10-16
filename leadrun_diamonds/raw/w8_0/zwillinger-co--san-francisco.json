@@ -13,19 +13,23 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/melvin-wasserman-95b2269/",
+ "linkedin_source": "WebSearch extended: Zwillinger & Co San Francisco diamonds owner -> 'Melvin Wasserman - Carter's Jewelry Co.,Inc. dba Zwillinger & Co.'",
+ "contact_person": "Melvin Wasserman",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ca/san-francisco/profile/jewelry-stores/zwillinger-company-1116-12026",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "Ste 760",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1919"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: site unreachable (zwillinger.com returns 503); BBB/MapQuest list 'Zwillinger & Co Since 1919' jeweler",
+ "verified": false,
+ "enriched": true
 }

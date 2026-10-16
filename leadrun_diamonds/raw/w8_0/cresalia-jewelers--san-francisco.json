@@ -2,8 +2,8 @@
  "business": "Cresalia Jewelers",
  "category_as_listed": "Diamond Buyers, Diamonds-Wholesale",
  "phone": "(415) 781-7371",
- "website": "http://www.cresaliajewelers.com",
- "address": "111 Sutter St",
+ "website": "https://www.cresaliajewelers.com",
+ "address": "266 Sutter Street, Third Floor",
  "city": "San Francisco",
  "state": "CA",
  "market": "Oakland, CA",
@@ -11,21 +11,32 @@
  "reviews": "114",
  "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/cresalia-jewelers-459104477",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "cresalia@prodigy.net",
+ "email_source": "https://www.cresaliajewelers.com/contact",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "WebSearch extended: \"Jay Cresalia\" OR \"Joseph Cresalia\" Cresalia Jewelers LinkedIn (only Brooke Cresalia, bookkeeper, found - not owner)",
+ "contact_person": "Joseph G. Cresalia",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ca/san-francisco/profile/jewelry-stores/cresalia-jewelers-1116-12080",
+ "tel_numbers": [
+  "(415) 781-7371"
+ ],
+ "tel_source": "https://www.cresaliajewelers.com/contact",
+ "socials": [
+  "https://www.facebook.com/cresaliajewelers/",
+  "https://www.instagram.com/cresaliajewelers/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer",
+  "manufacturer",
+  "6th-generation"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds-Wholesale"
+ "scope_reason": "cresaliajewelers.com/diamonds: 'Cresalia Jewelers is a direct diamond importer utilizing the world's largest diamond centers'; About: six-generation family 'finding, designing, manufacturing, and selling fine jewelry'.",
+ "verified": true,
+ "enriched": true
 }

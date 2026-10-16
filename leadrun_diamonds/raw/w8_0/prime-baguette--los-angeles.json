@@ -11,21 +11,28 @@
  "reviews": "32",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/prime-baguette-459142494",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "vivat@sbcglobal.net",
+ "email_source": "https://www.primebaguette.com/contact",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "WebSearch extended: \"Alon Vivat\" Prime Baguette LinkedIn (no /in/ profile found)",
+ "contact_person": "Alon Vivat",
+ "role": "CEO",
+ "contact_source": "https://www.city-data.com/business-entities/CA/PRIME-BAGUETTE-INC-C2089335-CA.html (CA SOS filing: Director, CFO, CEO)",
+ "tel_numbers": [
+  "213-622-5870"
+ ],
+ "tel_source": "https://www.primebaguette.com/contact",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Suite 532",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "jck-award"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "primebaguette.com/about: 'Prime Baguette Inc. is an award-winning jewelry design company' that since the 1990s designs jewelry for businesses ('an exceptional player in the diamond and jewelry industry'); contact: 'For wholesale/retail inquiries'.",
+ "verified": true,
+ "enriched": true
 }

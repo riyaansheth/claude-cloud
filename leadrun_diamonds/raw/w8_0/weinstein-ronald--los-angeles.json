@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: site unreachable - listed loeb.com is the Loeb & Loeb LLP law firm, unrelated; no own site found",
+ "verified": false,
+ "enriched": true
 }

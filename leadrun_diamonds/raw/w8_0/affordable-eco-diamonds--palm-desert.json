@@ -14,18 +14,22 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "WebSearch extended: \"Michael Jacobs\" Eco Diamonds Palm Desert LinkedIn (no /in/ profile found)",
+ "contact_person": "Michael Jacobs",
+ "role": "Owner",
+ "contact_source": "https://coachellavalleyweekly.com/wine-and-eco-diamonds-are-forever/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "lab-grown"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers"
+ "scope_reason": "unverified: site unreachable (affordable-eco-diamonds.com does not resolve); search: Eco Diamonds / Affordable Eco Diamonds, Palm Desert, lab-grown diamond jewelry (760-296-7400)",
+ "verified": false,
+ "enriched": true
 }
