@@ -29,5 +29,7 @@
  "drop_reason": "",
  "scope_reason": "unverified: domain parked/unrelated - dialadiamond.com now redirects to empirediamond.com, a New York business ('By appointment in the Diamond District · 23 West 47th Street, New York'), not the Encino CA listing | enrich-0: no BBB/OpenCorporates/WebSearch record for an Encino 'Empire Diamond Corporation'; phone search empty",
  "verified": false,
- "enriched": true
+ "enriched": true,
+ "li_note": "pass2: no owner name found; dialadiamond.com redirects to empirediamond.com (fetch rate-limited); no CA filing/press found naming officers",
+ "li_backfill": true
 }

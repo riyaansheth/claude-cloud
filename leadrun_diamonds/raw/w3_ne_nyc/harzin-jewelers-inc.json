@@ -41,6 +41,6 @@
  "is_diamond_trade": true,
  "scope_reason": "Own site: 'Our loose diamond inventory comprises hundreds of stones in all sizes and shapes, most with an independent lab certification'; YP lists Diamonds-Wholesale. Owners named only as 'Vicky and Leonard'.",
  "drop_reason": "",
- "li_note": "site (harzin.com/our-story) names only first names Vicky and Leonard; owner not found; linkedin search not run (web search budget exhausted)",
+ "li_note": "pass2: no owner full name found; harzin.com/our-story names only Vicky and Leonard (since 1980); PA corp no. 746930 officers behind opencorporates login; linkedin not searchable without a full name",
  "li_backfill": true
 }

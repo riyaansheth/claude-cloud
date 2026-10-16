@@ -29,6 +29,6 @@
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (ckdiamonds.com does not resolve)",
  "verified": false,
- "li_note": "owner not found; linkedin search not run (web search budget exhausted)",
+ "li_note": "pass2: no J L Jems Inc found in searches; listed site ckdiamonds.com unreachable; no owner name found",
  "li_backfill": true
 }

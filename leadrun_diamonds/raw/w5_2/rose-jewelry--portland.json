@@ -30,5 +30,7 @@
  "scope_reason": "unverified: site unreachable",
  "verified": false,
  "enriched": true,
- "enrich_note": "enrich r2: rosejewelrystore.com returns 404/interrupted; no listing found for 509 SW 3rd Ave."
+ "enrich_note": "enrich r2: rosejewelrystore.com returns 404/interrupted; no listing found for 509 SW 3rd Ave.",
+ "li_note": "pass2: no owner name found; rosejewelrystore.com returns 404; no Portland Rose Jewelry listing found",
+ "li_backfill": true
 }
