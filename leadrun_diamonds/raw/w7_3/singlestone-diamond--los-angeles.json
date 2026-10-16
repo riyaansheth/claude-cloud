@@ -1,0 +1,43 @@
+{
+ "business": "Singlestone Diamond",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers, Jewelry Repairing",
+ "phone": "(213) 892-0772",
+ "website": "https://www.singlestone.com",
+ "address": "607 S Hill St",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Torrance, CA",
+ "rating": "",
+ "reviews": "37",
+ "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/singlestone-diamond-458824118",
+ "lead_origin": "YellowPages",
+ "email": "info@singlestone.com",
+ "email_source": "https://www.singlestone.com/pages/our-story-1",
+ "linkedin_url": "https://www.linkedin.com/in/ari-madilian-b2b12722/",
+ "linkedin_source": "\"Ari Madilian\" Single Stone LinkedIn",
+ "contact_person": "Ari Madilian",
+ "role": "Co-owner (with Corina Madilian)",
+ "contact_source": "https://www.singlestone.com/pages/our-story-1",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.facebook.com/SingleStoneLosAngeles",
+  "https://www.instagram.com/singlestonela",
+  "https://www.pinterest.com/singlestonela"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "antique-old-cut-diamonds",
+  "loose-diamonds",
+  "manufacturer",
+  "wholesale-to-boutiques",
+  "recycled"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Site: 'Single Stone was originally established as an antique diamond specialist, supplying loose, old cut diamonds to the antique jewelry industry'; collection now 'available at luxury boutiques across the US' (retailer login) plus own store.",
+ "verified": true,
+ "dup_of": "raw/w5_1/singlestone-diamond--los-angeles.json"
+}

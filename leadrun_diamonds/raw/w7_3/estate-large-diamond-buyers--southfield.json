@@ -1,0 +1,45 @@
+{
+ "business": "Estate Large Diamond Buyers",
+ "category_as_listed": "Diamonds-Wholesale",
+ "phone": "(248) 797-5931",
+ "website": "https://www.estatelargediamondbuyers.com/contact",
+ "address": "23077 Greenfield Rd",
+ "city": "Southfield",
+ "state": "MI",
+ "market": "Ann Arbor, MI",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/southfield-mi/mip/estate-large-diamond-buyers-482096057",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "2134883337",
+  "2487975931",
+  "3103905796",
+  "8885133303"
+ ],
+ "tel_source": "https://www.estatelargediamondbuyers.com/about/",
+ "socials": [
+  "https://twitter.com/ELDiamondBuyers",
+  "https://www.facebook.com/EstateLargeDiamondBuyers"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "large-stones",
+  "estate-buyer"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Estate diamond buyer: About page says it \"specializes\" in buying large diamonds, \"With over 20 years in the diamond buying industry\", with buyers across the nation (LA/Chicago/Michigan numbers); also buys watches and scrap gold.",
+ "verified": true,
+ "enriched": true,
+ "dup_of": "raw/yp/estate-large-diamond-buyers--southfield.json"
+}

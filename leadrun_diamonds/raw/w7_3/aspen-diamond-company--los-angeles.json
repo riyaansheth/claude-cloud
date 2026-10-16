@@ -1,0 +1,45 @@
+{
+ "business": "Aspen Diamond Company",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers, Jewelry Buyers",
+ "phone": "(213) 624-2088",
+ "website": "http://www.aspendiamond.com",
+ "address": "635 S Olive St",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Torrance, CA",
+ "rating": "",
+ "reviews": "16",
+ "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/aspen-diamond-company-470940255",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/aspen-demirdjian-072ab811/",
+ "linkedin_source": "\"Aspen Demirdjian\" Aspen Diamond LinkedIn",
+ "contact_person": "Aspen Demirdjian",
+ "role": "Owner",
+ "contact_source": "https://www.aspendiamond.com/aspen_demirdjian (role: LinkedIn result 'owner at Aspen Diamond Company')",
+ "tel_numbers": [
+  "888-624-2088"
+ ],
+ "tel_source": "https://www.aspendiamond.com/aspen_demirdjian",
+ "socials": [
+  "https://instagram.com/aspendiamond",
+  "https://www.facebook.com/aspendiamond",
+  "https://twitter.com/AspenDiamond",
+  "https://www.pinterest.com/aspendiamond"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "3rd-generation",
+  "loose-diamonds",
+  "bridal",
+  "LA-and-Montreal"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Bridal/loose-diamond house: site offers \"Loose Diamonds\" and Diamond Search, and owner Aspen Demirdjian has \"a background in diamond wholesaling\".",
+ "verified": true,
+ "dup_of": "raw/w5_1/aspen-diamond-company--los-angeles.json"
+}

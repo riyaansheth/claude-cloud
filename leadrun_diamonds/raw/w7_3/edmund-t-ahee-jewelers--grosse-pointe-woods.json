@@ -1,0 +1,41 @@
+{
+ "business": "Edmund T. AHEE Jewelers",
+ "category_as_listed": "Diamonds-Wholesale, Watches, Jewelers",
+ "phone": "(313) 886-4600",
+ "website": "https://www.ahee.com",
+ "address": "20139 Mack Ave",
+ "city": "Grosse Pointe Woods",
+ "state": "MI",
+ "market": "Ann Arbor, MI",
+ "rating": "",
+ "reviews": "77",
+ "source_url": "https://www.yellowpages.com/grosse-pointe-woods-mi/mip/edmund-t-ahee-jewelers-460701390",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "3138864600",
+  "8009872433"
+ ],
+ "tel_source": "https://www.ahee.com/",
+ "socials": [
+  "https://www.facebook.com/AheeJewelers",
+  "https://www.instagram.com/aheejewelers"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1947"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Retail jeweler: site sells finished designer collections (David Yurman, Roberto Coin), Patek Philippe/Tag Heuer watches and engagement rings; \"Celebrating Life's Special Moments Since 1947\" — no wholesale/loose-diamond trade line.",
+ "verified": true,
+ "dup_of": "raw/yp/edmund-t-ahee-jewelers--grosse-pointe-woods.json"
+}

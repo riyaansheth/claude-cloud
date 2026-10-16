@@ -1,0 +1,44 @@
+{
+ "business": "Dash Diamonds",
+ "category_as_listed": "Diamond Buyers, Diamonds-Wholesale, Gold, Silver & Platinum Buyers & Dealers",
+ "phone": "(248) 939-1377",
+ "website": "http://www.dashdiamonds.com",
+ "address": "42400 Grand River Ave",
+ "city": "Farmington",
+ "state": "MI",
+ "market": "Ann Arbor, MI",
+ "rating": "",
+ "reviews": "34",
+ "source_url": "https://www.yellowpages.com/farmington-mi/mip/dash-diamonds-519325356",
+ "lead_origin": "YellowPages",
+ "email": "info@dashdiamonds.com",
+ "email_source": "http://www.dashdiamonds.com/contact-us",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "248-757-2704"
+ ],
+ "tel_source": "http://www.dashdiamonds.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/dashdiamonds",
+  "https://www.instagram.com/dash.diamonds",
+  "https://www.youtube.com/@dashdiamondsmi"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "diamond brokers",
+  "GIA certified inventory",
+  "custom engagement rings",
+  "45 years staff experience"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "dashdiamonds.com Our Story: 'We are accomplished artists as well as experienced diamond brokers' with a 'diamond inventory of hand-picked diamonds' and GIA certified diamonds.",
+ "verified": true,
+ "dup_of": "raw/yp/dash-diamonds--farmington.json"
+}
