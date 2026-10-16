@@ -13,19 +13,22 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/efraim-nissim-13696b38/",
+ "linkedin_source": "WebSearch extended: \"Efraim Nissim\" diamonds Los Angeles (Efraim Nissim - Nissim Diamonds, Los Angeles)",
+ "contact_person": "Efraim Nissim",
+ "role": "Owner",
+ "contact_source": "https://www.alignable.com/los-angeles-ca/nissim-efraim",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
+ "building": "California Jewelry Mart, 607 S Hill St",
  "suite": "Ste 301",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1976"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Alignable self-description: diamond dealer serving all kinds of jewelers for 40 years; YP Diamonds-Wholesale; Manta est. 1976; no own site, unverified",
+ "enriched": true
 }

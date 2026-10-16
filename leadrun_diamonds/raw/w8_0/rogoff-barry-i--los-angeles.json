@@ -13,19 +13,23 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/barry-rogoff-1616975a/",
+ "linkedin_source": "WebSearch extended: \"Barry Rogoff\" diamond cutter Los Angeles LinkedIn (Barry Rogoff - Owner Barry Rogoff Diamond Cutters, Inc, Los Angeles)",
+ "contact_person": "Barry Rogoff",
+ "role": "Owner",
+ "contact_source": "https://www.linkedin.com/in/barry-rogoff-1616975a/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "gia"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "LinkedIn/Rapaport: master diamond cutter since 1985 serving wholesale diamond & jewelry trade \u2014 recutting, repairs, AGS/GIA cert work; no own site, unverified",
+ "enriched": true
 }

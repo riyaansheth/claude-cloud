@@ -2,7 +2,7 @@
  "business": "Weissbrot Diamond Cutters",
  "category_as_listed": "Diamond Cutters",
  "phone": "(213) 614-0022",
- "website": "",
+ "website": "https://weissbrotdiamondcutters.weebly.com",
  "address": "550 S Hill St",
  "city": "Los Angeles",
  "state": "CA",
@@ -18,14 +18,20 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "213-614-0022"
+ ],
+ "tel_source": "https://weissbrotdiamondcutters.weebly.com/",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Ste 500",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "Own site: \"diamond cutting experts with 29 years of experience\" \u2014 recutting diamonds for shape, proportions, brilliance",
+ "enriched": true,
+ "verified": true
 }
