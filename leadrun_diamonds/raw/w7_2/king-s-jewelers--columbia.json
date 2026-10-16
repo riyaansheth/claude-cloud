@@ -1,0 +1,42 @@
+{
+ "business": "King's Jewelers",
+ "category_as_listed": "",
+ "phone": "(803) 252-2168",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "WebSearch extended: \"Ian Picow\" King's Jewelers LinkedIn; \"Jeffrey Picow\" King's Jewelers Columbia LinkedIn — only /company/ page found, no /in/ profile",
+ "contact_person": "Ian Picow",
+ "role": "CEO",
+ "contact_source": "https://www.wistv.com/2024/09/19/sons-look-continue-fathers-legacy-historic-jewelry-store-downtown-columbia (sons Ian & Jeffrey Picow run the store; LinkedIn company page lists Ian Picow CEO, Jeffrey Picow COO)",
+ "website": "https://kings4diamonds.com",
+ "address": "1611 Main St",
+ "city": "Columbia",
+ "state": "SC",
+ "market": "Columbia, SC",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://merchants.jhssc.org/merchants/kings-jewelers/",
+ "tel_numbers": [
+  "8032522168"
+ ],
+ "tel_source": "https://kings4diamonds.com/",
+ "socials": [
+  "https://www.facebook.com/kings4diamonds",
+  "https://www.instagram.com/kings_jewelers"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1946",
+  "2nd-generation",
+  "importer"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Borderline: \"Columbia's Home for Diamonds Since 1946\"; merchant profile says member of the Association of Direct Diamond Importers with \"internationally imported\" GIA-certified diamonds; otherwise a downtown retail jeweler. Own site blocked after 2 pages (connection resets) — no email found.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

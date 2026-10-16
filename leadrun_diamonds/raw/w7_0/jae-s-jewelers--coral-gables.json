@@ -1,0 +1,50 @@
+{
+ "business": "Jae's Jewelers",
+ "category_as_listed": "",
+ "phone": "(305) 443-7724",
+ "email": "info@jaesjewelers.com",
+ "email_source": "https://www.jaesjewelers.com/pages/contact-us",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Bruce Hornik",
+ "role": "President",
+ "contact_source": "https://www.jaesjewelers.com/blogs/news/family-jewels-the-jaes-jewelers-story",
+ "website": "https://www.jaesjewelers.com",
+ "address": "237 Miracle Mile",
+ "city": "Coral Gables",
+ "state": "FL",
+ "market": "Coral Gables, FL",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.jaesjewelers.com/",
+ "tel_numbers": [
+  "(305) 443-7724"
+ ],
+ "tel_source": "https://www.jaesjewelers.com/pages/contact-us",
+ "socials": [
+  "https://facebook.com/JaesJewelers",
+  "https://instagram.com/JaesJewelers"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "AGS",
+  "GIA"
+ ],
+ "hooks": [
+  "since-1945",
+  "3rd-generation",
+  "gia-gg",
+  "manufacturer",
+  "estate-diamond-buyer",
+  "lab-grown",
+  "natural"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: 'focus on GIA graded diamonds, estate jewelry, custom engagement rings'; history page says it does 'designing, manufacturing, repairing, purchasing' and buys loose diamonds from the public; AGS member firm, GIA GG president (borderline retail-facing bridal/estate-diamond buyer).",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Found via WebSearch (1stdibs/Coral Gables magazine). Jillian Hornik = co-owner/manager (GIA GG). Extended LinkedIn searches for Bruce and Jillian Hornik returned no linkedin.com/in URL. Site shows only the main line."
+}

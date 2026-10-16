@@ -1,0 +1,50 @@
+{
+ "business": "Ascot Diamonds Atlanta",
+ "category_as_listed": "Diamond Cutters",
+ "phone": "(404) 844-0800",
+ "website": "https://www.ascotdiamonds.com",
+ "address": "6105 Blue Stone Rd",
+ "city": "Atlanta",
+ "state": "GA",
+ "market": "Chattanooga, TN",
+ "rating": "5",
+ "reviews": "1",
+ "source_url": "https://www.yellowpages.com/atlanta-ga/mip/ascot-diamonds-atlanta-5289214",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "1-866-382-8020",
+  "4048440800",
+  "2129139080",
+  "2679004242",
+  "7032438929",
+  "7049700377",
+  "8439946262",
+  "9729910001"
+ ],
+ "tel_source": "https://www.ascotdiamonds.com/",
+ "socials": [
+  "https://www.facebook.com/ascotdiamondsatlanta",
+  "https://www.instagram.com/ascotdiamondsatlanta",
+  "https://twitter.com/ascotdiamonds"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1978",
+  "lab-grown",
+  "natural"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Own site: diamond specialist \"Trust and value since 1978\" with showrooms in DC, Atlanta, Dallas, NYC, Charlotte, Charleston, Philadelphia, own \"Ascot Lab Grown Diamonds\" line, natural & lab-grown loose diamonds, sell/trade-your-diamond. Duplicate of raw/w2_se/ascot-diamonds.json (YP spillover into Atlanta).",
+ "verified": true,
+ "enriched": true
+}

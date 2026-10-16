@@ -1,0 +1,53 @@
+{
+ "business": "Rosenberg Diamonds & Co.",
+ "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Jewelers-Wholesale & Manufacturers",
+ "phone": "(561) 477-5444",
+ "website": "http://www.rosenbergdiamonds.com",
+ "address": "233 S Federal Hwy",
+ "city": "Boca Raton",
+ "state": "FL",
+ "market": "Aventura, FL",
+ "rating": "",
+ "reviews": "26",
+ "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/rosenberg-diamonds-co-2941036",
+ "lead_origin": "YellowPages",
+ "email": "info@rosenbergdiamonds.com",
+ "email_source": "https://rosenbergdiamonds.com/contact-us/",
+ "linkedin_url": "https://www.linkedin.com/in/david-rosenberg-3036b010/",
+ "linkedin_source": "WebSearch extended: \"David Rosenberg\" \"Rosenberg Diamonds\" LinkedIn (result title 'David Rosenberg - Rosenberg Diamonds & Co.', Boca Raton)",
+ "contact_person": "David Rosenberg",
+ "role": "Founder & CEO",
+ "contact_source": "https://rosenbergdiamonds.com/david-rosenberg/",
+ "tel_numbers": [
+  "+1.561.477.5444",
+  "+1.561.663.5004 (WhatsApp)"
+ ],
+ "tel_source": "https://rosenbergdiamonds.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/RosenbergDiamondsCo",
+  "https://www.instagram.com/rosenbergdiamonds/",
+  "https://x.com/dR_RosenbergDia",
+  "https://www.tiktok.com/@rosenbergdiamonds"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "DDC Southeast (past president)"
+ ],
+ "hooks": [
+  "natural",
+  "large-stones",
+  "fancy-color",
+  "gia-certified",
+  "cutter",
+  "manufacturer",
+  "by-appointment",
+  "ddc-southeast-past-president"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Site: 'Every stone is natural, GIA certified, and privately offered to serious collectors'; founder page says David Rosenberg, 'diamantaire', moved 'fully into diamond cutting, manufacturing, and gemology ... from sourcing rough stones'.",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "w7_0/sub3: fetched /, /contact-us, /boutique-location, /david-rosenberg; mailto info@ on contact page; WhatsApp 561.663.5004 on contact page; LinkedIn via 2 extended searches (city variant gave none, no-city variant gave /in/ URL); founder bio says youngest-ever president of Diamond Dealers Club of the Southeastern US."
+}

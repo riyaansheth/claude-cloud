@@ -1,0 +1,47 @@
+{
+ "business": "Diamond Banc",
+ "category_as_listed": "Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Watches",
+ "phone": "(786) 605-9593",
+ "website": "https://www.diamondbanc.com/fl/coral-gables",
+ "address": "1 Alhambra Plaza Columbus Center Floor Ph  #1420",
+ "city": "Coral Gables",
+ "state": "FL",
+ "market": "Aventura, FL",
+ "rating": "",
+ "reviews": "19",
+ "source_url": "https://www.yellowpages.com/coral-gables-fl/mip/diamond-banc-576518615",
+ "lead_origin": "YellowPages",
+ "email": "david@diamondbanc.com",
+ "email_source": "https://www.diamondbanc.com/fl/coral-gables/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Mills Menser",
+ "role": "Founder & Owner",
+ "contact_source": "https://www.diamondbanc.com/about-us/",
+ "tel_numbers": [
+  "(786) 605-9593",
+  "786-501-8006",
+  "954-323-8475",
+  "573-875-2265"
+ ],
+ "tel_source": "https://www.diamondbanc.com/fl/coral-gables/",
+ "socials": [
+  "https://www.facebook.com/DiamondBancMiami/",
+  "https://www.instagram.com/diamondbancmiami/",
+  "https://www.facebook.com/diamondbanc/",
+  "https://www.instagram.com/diamondbanc/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "multi-state chain",
+  "local contact 'David' (786-501-8006)"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "pawn",
+ "scope_reason": "Own page calls it 'Coral Gables' Premier Jewelry Buyer & Lender' offering jewelry/Rolex 'equity loans' and buying gold, diamonds and watches from consumers - collateral lender/buyer chain, not diamond trade.",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Fetched coral-gables + about-us pages; dropped as jewelry buyer/lender (pawn-type chain). Other mailtos on page: coralgables@diamondbanc.com, cba.coralgables@diamond-banc.com, info@diamondbanc.com. No LinkedIn search spent (out of scope); one search for local manager found nothing."
+}

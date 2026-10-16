@@ -1,0 +1,45 @@
+{
+ "business": "Diamond Banc",
+ "category_as_listed": "Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Watches",
+ "phone": "(954) 323-8475",
+ "website": "https://www.diamondbanc.com/fl/aventura",
+ "address": "19790 W Dixie Hwy Ste 1108",
+ "city": "Miami",
+ "state": "FL",
+ "market": "Aventura, FL",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/miami-fl/mip/diamond-banc-572112400",
+ "lead_origin": "YellowPages",
+ "email": "aventura@diamondbanc.com",
+ "email_source": "https://www.diamondbanc.com/fl/aventura/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Mills Menser",
+ "role": "Founder & Owner",
+ "contact_source": "https://www.diamondbanc.com/about-us/",
+ "tel_numbers": [
+  "954-323-8475",
+  "(786) 605-9593",
+  "573-875-2265"
+ ],
+ "tel_source": "https://www.diamondbanc.com/fl/aventura/",
+ "socials": [
+  "https://www.facebook.com/DiamondBancAventura/",
+  "https://www.instagram.com/diamondbancaventura/",
+  "https://www.facebook.com/diamondbanc/",
+  "https://www.instagram.com/diamondbanc/"
+ ],
+ "building": "",
+ "suite": "Ste 1108",
+ "trade_memberships": [],
+ "hooks": [
+  "multi-state chain"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "pawn",
+ "scope_reason": "Diamond Banc Aventura page is a jewelry/watch buyer offering 'jewelry equity loans' (site title 'The Nations Premier Jewelry Buyer & Lender') - collateral lender/buyer chain, not diamond trade.",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Fetched aventura + about-us pages; dropped as jewelry buyer/lender (pawn-type chain); info@diamondbanc.com also on page. No LinkedIn search (out of scope)."
+}

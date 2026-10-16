@@ -1,0 +1,47 @@
+{
+ "business": "buy diamond direct",
+ "category_as_listed": "Diamond Buyers, Diamonds, Jewelers",
+ "phone": "(305) 371-4788",
+ "website": "http://www.buydiamonddirect.com",
+ "address": "36 NE 1st St Ste 821",
+ "city": "Miami",
+ "state": "FL",
+ "market": "Aventura, FL",
+ "rating": "",
+ "reviews": "58",
+ "source_url": "https://www.yellowpages.com/miami-fl/mip/buy-diamond-direct-8559401",
+ "lead_origin": "YellowPages",
+ "email": "info@buydiamonddirect.com",
+ "email_source": "http://www.buydiamonddirect.com/pages/customerservice.asp",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Roni Davidoff",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/fl/hollywood/profile/jewelry-stores/buy-diamond-direct-0633-4008319",
+ "tel_numbers": [
+  "(305)479-5899",
+  "(954)538.7998 (fax per home page)"
+ ],
+ "tel_source": "http://www.buydiamonddirect.com/pages/customerservice.asp; http://www.buydiamonddirect.com/",
+ "socials": [
+  "https://www.facebook.com/BuyDiamondDirect"
+ ],
+ "building": "",
+ "suite": "Ste 821",
+ "trade_memberships": [
+  "BBB Accredited (A+)"
+ ],
+ "hooks": [
+  "since-1968",
+  "cutter",
+  "importer",
+  "loose-diamonds",
+  "gia-certified"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Own site (buydiamonddirect.com/pages/aboutus.asp): 'The Founders of the Company started the Diamond business in 1968 as Diamond Cutters and Importers of Fine cut Diamonds' and offer 'certified loose Diamonds at Below Retail Prices' (same business as the Hollywood listing).",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Duplicate of buy-diamond-direct--hollywood (same site). Listed main line (305) 371-4788 not on site; site shows (305)479-5899. Owner from BBB via search; no LinkedIn found."
+}

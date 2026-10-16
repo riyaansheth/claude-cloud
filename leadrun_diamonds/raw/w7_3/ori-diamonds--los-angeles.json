@@ -1,0 +1,49 @@
+{
+ "business": "Ori Diamonds",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
+ "phone": "(213) 327-0077",
+ "website": "https://www.ori-diamonds.com/contact.html",
+ "address": "550 S Hill St",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Torrance, CA",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/ori-diamonds-542661658",
+ "lead_origin": "YellowPages",
+ "email": "info@ori-diamonds.com",
+ "email_source": "https://www.ori-diamonds.com/contact.html",
+ "linkedin_url": "",
+ "linkedin_source": "\"Roy Balulu\" ORI Diamonds LinkedIn",
+ "contact_person": "Roy Balulu",
+ "role": "Owner",
+ "contact_source": "https://www.ori-diamonds.com/about.html",
+ "tel_numbers": [
+  "(213) 327-0077",
+  "213-268-7249"
+ ],
+ "tel_source": "https://www.ori-diamonds.com/contact.html, https://www.ori-diamonds.com/about.html",
+ "socials": [
+  "https://www.facebook.com/people/ORI-diamonds-inc/100063623591012",
+  "https://www.instagram.com/ori.diamonds"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "RapNet (ID 68832)",
+  "Polygon (ID 99939)"
+ ],
+ "hooks": [
+  "2nd-generation",
+  "Ramat-Gan-origin",
+  "layouts",
+  "parcels",
+  "melee-0.05ct-up",
+  "cutter"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "About page: satellite branch of ORI Diamonds Israel, 'managed today by 2nd generation diamond experts, merchants, cutters, and polishers', offering layouts, single stones and parcels to 'jewelers and private clients'; inventory on Rapnet ID 68832.",
+ "verified": true,
+ "dup_of": "raw/w5_1/ori-diamonds--los-angeles.json"
+}

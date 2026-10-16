@@ -1,0 +1,39 @@
+{
+ "business": "Barclay's Jewelers",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers, Jewelry Repairing",
+ "phone": "(305) 371-3476",
+ "website": "https://www.barclaysjewelry.com",
+ "address": "36 NE 1st St",
+ "city": "Miami",
+ "state": "FL",
+ "market": "Aventura, FL",
+ "rating": "",
+ "reviews": "48",
+ "source_url": "https://www.yellowpages.com/miami-fl/mip/barclays-jewelers-467215770",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "305-371-3476"
+ ],
+ "tel_source": "https://www.barclaysjewelry.com/pages/contact-us",
+ "socials": [
+  "https://facebook.com/Barclays.Jewelers.Miami",
+  "https://www.instagram.com/barclaysjewelers/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site (barclaysjewelry.com): 'We are a well-established jewelry store that has grown with our community from a small store to a multiple brand jewelry retailer' (Seybold Building since 1979); loose diamonds shown only via an online virtual-inventory search.",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Dropped as retail-only after reading home/contact; no email on site; no owner search spent."
+}

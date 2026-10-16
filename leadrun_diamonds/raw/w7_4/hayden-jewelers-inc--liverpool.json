@@ -1,0 +1,44 @@
+{
+ "business": "Hayden Jewelers Inc",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers, Diamond Buyers",
+ "phone": "(315) 622-1228",
+ "website": "https://www.haydenjewelers.com",
+ "address": "7647 Oswego Rd",
+ "city": "Liverpool",
+ "state": "NY",
+ "market": "Syracuse, NY",
+ "rating": "5",
+ "reviews": "3",
+ "source_url": "https://www.yellowpages.com/liverpool-ny/mip/hayden-jewelers-inc-11254089",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Mark Hayden",
+ "role": "Owner",
+ "contact_source": "https://www.haydenjewelers.com/company/about-us/",
+ "tel_numbers": [
+  "315-622-1228"
+ ],
+ "tel_source": "https://www.haydenjewelers.com/",
+ "socials": [
+  "https://www.facebook.com/haydenjewelers",
+  "https://www.instagram.com/haydenjewelers/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "MJSA",
+  "GIA"
+ ],
+ "hooks": [
+  "since-1979",
+  "2nd-generation"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site: retail jewelry store \"established in 1979 by Jim Hayden\", son Mark (GIA) bought the business; sells loose diamonds/engagement rings and buys gold to the public — no wholesale or own diamond sourcing stated.",
+ "verified": true,
+ "enriched": true
+}

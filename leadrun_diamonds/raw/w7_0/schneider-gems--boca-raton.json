@@ -1,0 +1,44 @@
+{
+ "business": "Schneider Gems",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers, Jewelry Designers",
+ "phone": "(561) 271-7443",
+ "website": "http://www.schneidergems.com",
+ "address": "1515 N Federal Hwy Ste 217",
+ "city": "Boca Raton",
+ "state": "FL",
+ "market": "Aventura, FL",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/schneider-gems-459028878",
+ "lead_origin": "YellowPages",
+ "email": "js@schneidergems.com",
+ "email_source": "http://www.schneidergems.com/",
+ "linkedin_url": "https://www.linkedin.com/in/jonathan-schneider-99329331/",
+ "linkedin_source": "\"Jonathan Schneider\" Schneider Gems Boca Raton LinkedIn (result title 'Jonathan Schneider - Vice President at Schneider Gems Inc')",
+ "contact_person": "Jonathan Schneider",
+ "role": "Vice President",
+ "contact_source": "http://www.schneidergems.com/about",
+ "tel_numbers": [
+  "561.391.3580"
+ ],
+ "tel_source": "http://www.schneidergems.com/",
+ "socials": [
+  "https://m.facebook.com/Schneider-Gems-145393518895770/",
+  "https://www.instagram.com/schneidergems/"
+ ],
+ "building": "",
+ "suite": "Ste 217",
+ "trade_memberships": [],
+ "hooks": [
+  "3rd generation",
+  "founder was Johannesburg diamond cutter (1950s)",
+  "GIA certified loose diamonds",
+  "estate buying"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Site title 'Buy and Sell Wholesale Diamonds and Jewelry'; About: David 'focused on the wholesale distribution of diamonds' and 'Schneider Gems' wholesale diamond & estate jewelry business has flourished in Boca Raton'.",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Fetched /, about, contact: email js@ in text, only phone 561.391.3580 (site main; listing shows 561-271-7443). About names David (father) and Jonathan (3rd gen); VP title from LinkedIn result. 1 LinkedIn search."
+}
