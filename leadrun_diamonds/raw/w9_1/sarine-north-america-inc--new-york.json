@@ -1,0 +1,44 @@
+{
+ "business": "Sarine North America Inc",
+ "category_as_listed": "Diamonds-Wholesale",
+ "phone": "(646) 727-4286",
+ "website": "https://sarine.com/contactus/usa",
+ "address": "50 W 47th St",
+ "city": "New York",
+ "state": "NY",
+ "market": "Princeton, NJ",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/sarine-north-america-inc-503178536",
+ "lead_origin": "YellowPages",
+ "email": "info@sarine.com",
+ "email_source": "https://sarine.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "+1-212-8698985"
+ ],
+ "tel_source": "https://sarine.com/",
+ "socials": [
+  "https://www.linkedin.com/company/sarine-technologies",
+  "https://www.facebook.com/sarinetech",
+  "https://instagram.com/sarine_tech",
+  "https://twitter.com/SarineTechLtd"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1988",
+  "technology"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Diamond-industry technology vendor, not a stone dealer: site says \"Sarine's technologies create value for everyone in the diamond industry\" (planning, scanning, grading equipment). [verdict carried from raw/w5_1/sarine-north-america-inc--new-york.json]",
+ "verified": true,
+ "enriched": true,
+ "carried_from": "raw/w5_1/sarine-north-america-inc--new-york.json"
+}

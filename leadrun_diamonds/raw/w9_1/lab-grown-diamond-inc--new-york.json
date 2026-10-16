@@ -1,0 +1,42 @@
+{
+ "business": "Lab Grown Diamond Inc",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers, Diamonds",
+ "phone": "(212) 221-0118",
+ "website": "https://www.imperialdiamonds.com/contact-1",
+ "address": "37 W 47th St",
+ "city": "New York",
+ "state": "NY",
+ "market": "Princeton, NJ",
+ "rating": "",
+ "reviews": "44",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/lab-grown-diamond-inc-473631275",
+ "lead_origin": "YellowPages",
+ "email": "sales@imperialdiamonds.com",
+ "email_source": "https://www.imperialdiamonds.com/contact-1",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "212-302-4305"
+ ],
+ "tel_source": "https://www.imperialdiamonds.com/contact-1",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1985",
+  "lab-grown",
+  "wholesale",
+  "mining",
+  "nyc-and-miami-offices"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Listing's site is Imperial Diamonds: \"MINING | WHOLESALE | RETAIL | FINANCIAL SERVICES SINCE 1985\"; about page: \"As wholesalers...\" and \"We produced an exclusive line of lab-grown diamonds\". [verdict carried from raw/w5_5/lab-grown-diamond-inc--new-york.json]",
+ "verified": true,
+ "enriched": true,
+ "carried_from": "raw/w5_5/lab-grown-diamond-inc--new-york.json"
+}
