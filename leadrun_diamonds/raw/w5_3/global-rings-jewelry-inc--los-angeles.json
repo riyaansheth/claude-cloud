@@ -1,49 +1,50 @@
 {
- "business": "Global Rings Jewelry Inc.",
- "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Bridal Supplies-Wholesale & Manufacturers",
- "phone": "(213) 623-3313",
- "website": "http://www.globalringsjewelry.com",
- "address": "550 S Hill St Ste 920",
- "city": "Los Angeles",
- "state": "CA",
- "market": "Glendale, CA",
- "rating": "5",
- "reviews": "62",
- "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/global-rings-jewelry-inc-459684446",
- "lead_origin": "YellowPages",
- "email": "info@globalringsjewelry.com",
- "email_source": "https://www.globalringsjewelry.com/pages/contact",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [
-  "+1 (888) 774-4367"
- ],
- "tel_source": "https://www.globalringsjewelry.com/",
- "socials": [
-  "https://www.facebook.com/globalringsjewelry/",
-  "https://www.instagram.com/globalringsjewelry/",
-  "https://twitter.com/globalring/",
-  "https://www.pinterest.com/globalringsj/_created/"
- ],
- "building": "",
- "suite": "Ste 920",
- "trade_memberships": [
-  "Diamond Council of America",
-  "California Jewelers Association"
- ],
- "hooks": [
-  "since-1983",
-  "manufacturer",
-  "family-owned",
-  "loose-diamonds",
-  "lab-grown",
-  "bridal"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "About: \"A staple in the Los Angeles Jewelry District since 1983 ... Manufacturing nearly everything in house\"; sells loose diamonds, engagement rings and wedding bands.",
- "verified": true
+  "business": "Global Rings Jewelry Inc.",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Bridal Supplies-Wholesale & Manufacturers",
+  "phone": "(213) 623-3313",
+  "website": "http://www.globalringsjewelry.com",
+  "address": "550 S Hill St Ste 920",
+  "city": "Los Angeles",
+  "state": "CA",
+  "market": "Glendale, CA",
+  "rating": "5",
+  "reviews": "62",
+  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/global-rings-jewelry-inc-459684446",
+  "lead_origin": "YellowPages",
+  "email": "info@globalringsjewelry.com",
+  "email_source": "https://www.globalringsjewelry.com/pages/contact",
+  "linkedin_url": "https://www.linkedin.com/in/billy-lulo-602a705b/",
+  "linkedin_source": "Global Rings Jewelry Inc Los Angeles owner CEO",
+  "contact_person": "Billy Lulo",
+  "role": "CEO",
+  "contact_source": "https://www.bizprofile.net/ca/los-angeles/global-rings-jewelry-incorporated",
+  "tel_numbers": [
+    "+1 (888) 774-4367"
+  ],
+  "tel_source": "https://www.globalringsjewelry.com/",
+  "socials": [
+    "https://www.facebook.com/globalringsjewelry/",
+    "https://www.instagram.com/globalringsjewelry/",
+    "https://twitter.com/globalring/",
+    "https://www.pinterest.com/globalringsj/_created/"
+  ],
+  "building": "",
+  "suite": "Ste 920",
+  "trade_memberships": [
+    "Diamond Council of America",
+    "California Jewelers Association"
+  ],
+  "hooks": [
+    "since-1983",
+    "manufacturer",
+    "family-owned",
+    "loose-diamonds",
+    "lab-grown",
+    "bridal"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "About: \"A staple in the Los Angeles Jewelry District since 1983 ... Manufacturing nearly everything in house\"; sells loose diamonds, engagement rings and wedding bands.",
+  "verified": true,
+  "li_backfill": true
 }

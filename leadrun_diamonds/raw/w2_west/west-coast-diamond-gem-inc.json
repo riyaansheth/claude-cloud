@@ -1,41 +1,42 @@
 {
- "business": "West Coast Diamond & Gem Inc",
- "category_as_listed": "Jewelry Stores",
- "phone": "(206) 624-8828",
- "email": "wcdandg@gmail.com",
- "email_source": "https://www.westcoastdiamondandgem.com/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Robert Santucci",
- "role": "President",
- "contact_source": "https://www.bbb.org/us/wa/seattle/profile/jewelry-stores/west-coast-diamond-gem-inc-1296-22398900 (BBB: Robert Santucci, President); own site westcoastdiamondandgem.com names founder Bob Santucci",
- "website": "https://www.westcoastdiamondandgem.com",
- "address": "1325 4th Ave, Ste 1220",
- "city": "Seattle",
- "state": "WA",
- "market": "Seattle, WA",
- "lead_origin": "BBB",
- "rating": "",
- "reviews": "",
- "source_url": "https://www.yelp.com/biz/west-coast-diamond-and-gem-seattle",
- "tel_numbers": [
-  "(206) 624-8828"
- ],
- "tel_source": "https://www.westcoastdiamondandgem.com/",
- "socials": [
-  "https://www.instagram.com/westcoastdiamondandgem/",
-  "https://www.facebook.com/p/West-Coast-Diamond-Gem-100069231799753/"
- ],
- "building": "Puget Sound Plaza",
- "suite": "Ste 1220",
- "trade_memberships": [],
- "hooks": [
-  "by-appointment",
-  "wholesaler",
-  "44-years"
- ],
- "is_diamond_trade": true,
- "scope_reason": "Yelp describes it as a small by-appointment-only diamond wholesaler with low overhead; formerly at 1424 4th Ave Ste 200 (Seattle diamond district). BBB category is jewelry stores - borderline",
- "drop_reason": "",
- "enriched": true
+  "business": "West Coast Diamond & Gem Inc",
+  "category_as_listed": "Jewelry Stores",
+  "phone": "(206) 624-8828",
+  "email": "wcdandg@gmail.com",
+  "email_source": "https://www.westcoastdiamondandgem.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Robert Santucci",
+  "role": "President",
+  "contact_source": "https://www.bbb.org/us/wa/seattle/profile/jewelry-stores/west-coast-diamond-gem-inc-1296-22398900 (BBB: Robert Santucci, President); own site westcoastdiamondandgem.com names founder Bob Santucci",
+  "website": "https://www.westcoastdiamondandgem.com",
+  "address": "1325 4th Ave, Ste 1220",
+  "city": "Seattle",
+  "state": "WA",
+  "market": "Seattle, WA",
+  "lead_origin": "BBB",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yelp.com/biz/west-coast-diamond-and-gem-seattle",
+  "tel_numbers": [
+    "(206) 624-8828"
+  ],
+  "tel_source": "https://www.westcoastdiamondandgem.com/",
+  "socials": [
+    "https://www.instagram.com/westcoastdiamondandgem/",
+    "https://www.facebook.com/p/West-Coast-Diamond-Gem-100069231799753/"
+  ],
+  "building": "Puget Sound Plaza",
+  "suite": "Ste 1220",
+  "trade_memberships": [],
+  "hooks": [
+    "by-appointment",
+    "wholesaler",
+    "44-years"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Yelp describes it as a small by-appointment-only diamond wholesaler with low overhead; formerly at 1424 4th Ave Ste 200 (Seattle diamond district). BBB category is jewelry stores - borderline",
+  "drop_reason": "",
+  "enriched": true,
+  "li_backfill": true
 }

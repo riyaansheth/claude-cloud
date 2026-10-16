@@ -4,11 +4,11 @@
   "phone": "(312) 368-1850",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/nimish-shah-6bab71115/",
+  "linkedin_source": "Crystal Gems Inc 5 S Wabash Chicago president owner",
+  "contact_person": "Nimish Shah",
+  "role": "President",
+  "contact_source": "https://www.bbb.org/us/il/chicago/profile/jewelry-stores/crystal-gems-inc-0654-88118059",
   "website": "",
   "address": "5 S Wabash Ave",
   "city": "Chicago",
@@ -29,5 +29,6 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "Listed under Diamonds-Wholesale and Jewelers-Wholesale & Manufacturers at 5 S Wabash.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

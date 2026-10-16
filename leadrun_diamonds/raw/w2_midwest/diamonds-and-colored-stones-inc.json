@@ -33,5 +33,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Ganoksin posting: family-owned wholesale stone supplier that imports and sells diamonds and colored stones; located in Denver Mart diamond district",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

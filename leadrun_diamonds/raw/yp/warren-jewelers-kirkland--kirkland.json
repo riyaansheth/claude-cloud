@@ -1,42 +1,43 @@
 {
- "business": "Warren Jewelers - Kirkland",
- "category_as_listed": "Diamonds-Wholesale, Jewelers, Jewelry Designers",
- "phone": "(425) 821-1444",
- "website": "http://www.warrenjewelers.net",
- "address": "12559 116th Ave",
- "city": "Kirkland",
- "state": "WA",
- "market": "Seattle, WA",
- "rating": "5",
- "reviews": "1",
- "source_url": "https://www.yellowpages.com/kirkland-wa/mip/warren-jewelers-kirkland-4430556",
- "lead_origin": "YellowPages",
- "email": "sales@warrenjewelers.net",
- "email_source": "http://www.warrenjewelers.net/contact-us",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [
-  "(360) 707-5444"
- ],
- "tel_source": "http://www.warrenjewelers.net/about-us",
- "socials": [
-  "https://www.facebook.com/warrenjewelersofficial",
-  "https://www.instagram.com/warrenjewelers"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [
-  "since 1973",
-  "in-house manufacturing",
-  "certified loose diamond inventory",
-  "GIA GG on staff"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "warrenjewelers.net: 'a custom jewelry design, jewelry manufacturing and jewelry repair company' since 1973 that carries 'one of the largest supplies of in-stock, certified loose diamonds' (site now lists only the Burlington, WA store).",
- "verified": true
+  "business": "Warren Jewelers - Kirkland",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers, Jewelry Designers",
+  "phone": "(425) 821-1444",
+  "website": "http://www.warrenjewelers.net",
+  "address": "12559 116th Ave",
+  "city": "Kirkland",
+  "state": "WA",
+  "market": "Seattle, WA",
+  "rating": "5",
+  "reviews": "1",
+  "source_url": "https://www.yellowpages.com/kirkland-wa/mip/warren-jewelers-kirkland-4430556",
+  "lead_origin": "YellowPages",
+  "email": "sales@warrenjewelers.net",
+  "email_source": "http://www.warrenjewelers.net/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "tel_numbers": [
+    "(360) 707-5444"
+  ],
+  "tel_source": "http://www.warrenjewelers.net/about-us",
+  "socials": [
+    "https://www.facebook.com/warrenjewelersofficial",
+    "https://www.instagram.com/warrenjewelers"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since 1973",
+    "in-house manufacturing",
+    "certified loose diamond inventory",
+    "GIA GG on staff"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "warrenjewelers.net: 'a custom jewelry design, jewelry manufacturing and jewelry repair company' since 1973 that carries 'one of the largest supplies of in-stock, certified loose diamonds' (site now lists only the Burlington, WA store).",
+  "verified": true,
+  "li_backfill": true
 }

@@ -33,5 +33,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Diamond wholesale firm founded 1948; JCK calls it the largest diamond house in the Midwest. Phone/suite are from the William Levine Fine Jewels listing.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }
