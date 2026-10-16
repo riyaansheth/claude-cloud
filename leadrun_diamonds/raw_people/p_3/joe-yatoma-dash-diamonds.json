@@ -1,0 +1,23 @@
+{
+ "person": "Joe Yatoma",
+ "title": "Owner",
+ "company": "Dash Diamonds",
+ "company_website": "https://www.dashdiamonds.com",
+ "city": "West Bloomfield",
+ "state": "MI",
+ "market": "Southfield, MI",
+ "linkedin_url": "https://www.linkedin.com/in/joe-yatoma-88727640/",
+ "linkedin_source": "\"Joe Yatooma\" diamonds LinkedIn",
+ "company_email": "info@dashdiamonds.com",
+ "company_phone": "248-757-2704",
+ "seniority": "owner",
+ "signals": [
+  "diamond-broker",
+  "wholesale",
+  "gia-certified-stones",
+  "custom-bridal",
+  "lab-grown"
+ ],
+ "source_url": "https://www.cbsnews.com/detroit/news/new-lab-formed-diamonds-gaining-popularity/",
+ "is_diamond_trade": true
+}

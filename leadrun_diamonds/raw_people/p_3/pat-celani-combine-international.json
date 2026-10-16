@@ -1,0 +1,23 @@
+{
+ "person": "Pat Celani",
+ "title": "Senior VP Sales/Marketing",
+ "company": "Combine International",
+ "company_website": "https://www.combine.com",
+ "city": "Troy",
+ "state": "MI",
+ "market": "Southfield, MI",
+ "linkedin_url": "https://www.linkedin.com/in/pat-celani-0586a313/",
+ "linkedin_source": "\"Pat Celani\" OR \"Tim Kozerski\" Combine International LinkedIn",
+ "company_email": "",
+ "company_phone": "(248) 585-9900",
+ "seniority": "executive",
+ "signals": [
+  "manufacturer",
+  "fine-jewelry-manufacturer",
+  "since-1970",
+  "parent-of-new-world-diamonds",
+  "lab-grown"
+ ],
+ "source_url": "https://www.linkedin.com/in/pat-celani-0586a313/",
+ "is_diamond_trade": true
+}

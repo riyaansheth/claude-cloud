@@ -1,0 +1,22 @@
+{
+ "person": "Ed Werner",
+ "title": "Sales",
+ "company": "William Levine Fine Jewels",
+ "company_website": "https://www.wlfj.com",
+ "city": "Chicago",
+ "state": "IL",
+ "linkedin_url": "https://www.linkedin.com/in/ed-werner-7201566/",
+ "linkedin_source": "\"William Levine\" diamonds Chicago \"David Levine\" LinkedIn",
+ "company_email": "",
+ "company_phone": "312-236-3700",
+ "seniority": "sales",
+ "signals": [
+  "diamantaire",
+  "since-1948",
+  "3rd-generation",
+  "sales-since-1987"
+ ],
+ "source_url": "https://www.linkedin.com/in/ed-werner-7201566/",
+ "market": "Chicago, IL",
+ "is_diamond_trade": true
+}
