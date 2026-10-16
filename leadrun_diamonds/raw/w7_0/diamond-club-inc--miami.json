@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Watches, Jewelers"
+ "scope_reason": "unverified: no website; one search found only investor-profile pages describing a Diamond Club as a family-owned fine jewelry & luxury watch store in Downtown (possibly retail-only)",
+ "enriched": true,
+ "enrich_notes": "Search on address found no own site/email/owner; Shlomo Bleier appears as an officer of a company named Diamond Club on financial-profile pages but not tied to this store — not recorded."
 }
