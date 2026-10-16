@@ -1,0 +1,45 @@
+{
+ "business": "Long Jewelers",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers, Watches",
+ "phone": "(757) 498-1186",
+ "website": "http://www.longjewelers.net",
+ "address": "2965 Virginia Beach Blvd",
+ "city": "Virginia Beach",
+ "state": "VA",
+ "market": "Norfolk, VA",
+ "rating": "",
+ "reviews": "45",
+ "source_url": "https://www.yellowpages.com/virginia-beach-va/mip/long-jewelers-8664311",
+ "lead_origin": "YellowPages",
+ "email": "info@longjewelers.net",
+ "email_source": "https://www.longjewelers.net/contact-us",
+ "linkedin_url": "https://www.linkedin.com/in/david-long-b027a514/",
+ "linkedin_source": "WebSearch extended: \"David Long\" Long Jewelers Virginia Beach LinkedIn (result title \"David Long - long jewelers\", Virginia Beach)",
+ "contact_person": "David Long",
+ "role": "President",
+ "contact_source": "https://www.longjewelers.net/about-us",
+ "tel_numbers": [
+  "(757) 498-1186"
+ ],
+ "tel_source": "https://www.longjewelers.net/about-us",
+ "socials": [
+  "https://www.facebook.com/longjewelers1",
+  "https://www.instagram.com/longjewelers",
+  "https://twitter.com/longjewelers"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "importer",
+  "gia-gg",
+  "in-house-diamond-cutter"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Own site about-us: \"Long Jewelers is the largest direct importer of Diamonds in the area... and sells diamonds at wholesale prices\", staff includes \"an actual diamond cutter\" (borderline: large designer-retail showroom).",
+ "verified": true,
+ "enriched": true
+}
