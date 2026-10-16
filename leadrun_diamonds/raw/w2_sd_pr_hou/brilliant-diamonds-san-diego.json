@@ -31,5 +31,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Site lists Custom Design & Manufacturing and Wholesale Diamonds; Gaslamp + North County locations.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

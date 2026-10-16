@@ -14,10 +14,10 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Akshie Jhaveri\" Grown Brilliance New York LinkedIn",
+ "contact_person": "Akshie Jhaveri",
+ "role": "Founder",
+ "contact_source": "https://retailbrew.com/stories/2025/11/06/grown-brilliance-bets-on-lab-grown-diamonds-to-redefine-what-luxury-and-inclusivity-look-like",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
- "verified": false
+ "verified": false,
+ "li_backfill": true
 }

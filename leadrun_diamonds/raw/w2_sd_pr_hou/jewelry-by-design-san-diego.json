@@ -30,5 +30,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Site: 6th floor of the Jewelers Exchange Building; provides diamonds at wholesale prices; jewelry maker.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }
