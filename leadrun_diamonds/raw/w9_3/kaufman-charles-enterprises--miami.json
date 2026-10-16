@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "YellowPages categories: Diamonds-Wholesale | unverified: no web presence found (searched: \"Charles Kaufman\" diamonds Miami 169 E Flagler; \"Kaufman Charles Enterprises\" OR \"Charles Kaufman Enterprises\" Miami (only an unrelated Montreal Kaufmann de Suisse surfaced)); Sunbiz/BBB/OpenCorporates/Bizapedia blocked (403/captcha) from shell.",
+ "verified": false,
+ "enriched": true
 }

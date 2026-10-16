@@ -2,7 +2,7 @@
  "business": "Samuelson's Diamonds",
  "category_as_listed": "Diamond Buyers, Jewelers, Jewelry Buyers",
  "phone": "(410) 837-0290",
- "website": "",
+ "website": "https://www.samuelsonsdiamonds.com",
  "address": "419 W Baltimore St",
  "city": "Baltimore",
  "state": "MD",
@@ -13,19 +13,34 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_url": "https://www.linkedin.com/in/jeweler/",
+ "linkedin_source": "WebSearch extended: \"Ron Samuelson\" Samuelson's Diamonds LinkedIn (result title \"Ron Samuelson - Samuelson's Diamonds\", location Baltimore)",
+ "contact_person": "Ron Samuelson",
+ "role": "CEO",
+ "contact_source": "https://www.bbb.org/us/md/baltimore/profile/jewelry-stores/samuelsons-diamonds-0011-90162375",
+ "tel_numbers": [
+  "(410) 837-0290",
+  "(301) 718-4825",
+  "(703) 714-9553"
+ ],
+ "tel_source": "https://www.samuelsonsdiamonds.com/",
+ "socials": [
+  "https://www.facebook.com/samuelsonsrocks/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1922",
+  "3rd-generation",
+  "estate-buyer",
+  "family-owned",
+  "multi-location-md-dc-va"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Jewelers, Jewelry Buyers"
+ "scope_reason": "Family estate-diamond buyer since 1922: JCK (jckonline.com/editorial-article/samuelsons-opens-baltimore-county/) says its Quarry Lake office focuses primarily on estate buying of diamonds, jewelry, watches, silverware and gold, and its site describes certified diamond buyers and gemologists; it also runs a retail showroom. YP address 419 W Baltimore St is the old downtown store (moved 2018 to 2800 Quarry Lake Dr Ste 240, Baltimore).",
+ "verified": true,
+ "notes": "Site returns 403 to requests; data from search snippets of own site, BBB, JCK. Steve Samuelson = President (samuelsonsdiamonds.com/about/team/steve-samuelson/); no LinkedIn found for him. No email published in results.",
+ "enriched": true
 }
