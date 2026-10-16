@@ -4,9 +4,9 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
+  "linkedin_url": "https://www.linkedin.com/in/jay-horgan-5668581a4/",
   "linkedin_source": "",
-  "contact_person": "",
+  "contact_person": "Jay Horgan",
   "role": "",
   "contact_source": "",
   "website": "https://houstondiamondoutlet.com",
@@ -32,5 +32,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Self-described 2nd generation importer of GIA/EGL certified loose diamonds.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "result title 'Jay Horgan - Owner / Operator - Houston Diamond Outlet'",
+  "li_backfill": true
 }

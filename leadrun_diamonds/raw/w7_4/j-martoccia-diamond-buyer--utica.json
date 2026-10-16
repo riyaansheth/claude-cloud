@@ -1,40 +1,42 @@
 {
- "business": "J. Martoccia Diamond Buyer",
- "category_as_listed": "Diamond Buyers, Diamonds-Wholesale",
- "phone": "(315) 570-3574",
- "website": "http://www.jmartocciadiamondbuyers.com",
- "address": "14 Arlington Rd",
- "city": "Utica",
- "state": "NY",
- "market": "Syracuse, NY",
- "rating": "",
- "reviews": "",
- "source_url": "https://www.yellowpages.com/utica-ny/mip/j-martoccia-diamond-buyer-543375333",
- "lead_origin": "YellowPages",
- "email": "martocciadiamonds@gmail.com",
- "email_source": "https://www.jmartocciadiamondbuyers.com/contact",
- "linkedin_url": "",
- "linkedin_source": "WebSearch extended: \"John Martoccia\" diamond buyers Utica LinkedIn — no linkedin.com/in/ result",
- "contact_person": "John Martoccia",
- "role": "Founder",
- "contact_source": "https://www.jmartocciadiamondbuyers.com/",
- "tel_numbers": [
-  "315-534-9973"
- ],
- "tel_source": "https://www.jmartocciadiamondbuyers.com/contact",
- "socials": [],
- "building": "",
- "suite": "",
- "trade_memberships": [
-  "GIA"
- ],
- "hooks": [
-  "gia-diamond-grader",
-  "diamond-buyer"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Second YP listing (14 Arlington Rd) of J. Martoccia Diamond Buyers; own site says it \"buys wholesale and retail\" — trade diamond buyer.",
- "verified": true,
- "enriched": true
+  "business": "J. Martoccia Diamond Buyer",
+  "category_as_listed": "Diamond Buyers, Diamonds-Wholesale",
+  "phone": "(315) 570-3574",
+  "website": "http://www.jmartocciadiamondbuyers.com",
+  "address": "14 Arlington Rd",
+  "city": "Utica",
+  "state": "NY",
+  "market": "Syracuse, NY",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/utica-ny/mip/j-martoccia-diamond-buyer-543375333",
+  "lead_origin": "YellowPages",
+  "email": "martocciadiamonds@gmail.com",
+  "email_source": "https://www.jmartocciadiamondbuyers.com/contact",
+  "linkedin_url": "",
+  "linkedin_source": "WebSearch extended: \"John Martoccia\" diamond buyers Utica LinkedIn — no linkedin.com/in/ result",
+  "contact_person": "John Martoccia",
+  "role": "Founder",
+  "contact_source": "https://www.jmartocciadiamondbuyers.com/",
+  "tel_numbers": [
+    "315-534-9973"
+  ],
+  "tel_source": "https://www.jmartocciadiamondbuyers.com/contact",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "gia-diamond-grader",
+    "diamond-buyer"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Second YP listing (14 Arlington Rd) of J. Martoccia Diamond Buyers; own site says it \"buys wholesale and retail\" — trade diamond buyer.",
+  "verified": true,
+  "enriched": true,
+  "li_note": "no linkedin.com/in result tied to person",
+  "li_backfill": true
 }

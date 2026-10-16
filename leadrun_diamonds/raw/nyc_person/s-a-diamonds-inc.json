@@ -4,7 +4,7 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
+  "linkedin_url": "https://www.linkedin.com/in/sunil-doshi-43564355/",
   "linkedin_source": "",
   "contact_person": "Sunil Doshi",
   "role": "President",
@@ -29,5 +29,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Diamond wholesaler at 22 W 48th St per D&B; key principal Sunil Doshi.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "result title 'Sunil Doshi - S A Diamonds Inc.' (NY); a second profile /in/sunil-doshi-18b2962 lists Managing Director at S A Diamonds Inc. (Dallas-Fort Worth)",
+  "li_backfill": true
 }

@@ -1,44 +1,46 @@
 {
- "business": "Diamond Brokers of Memphis",
- "category_as_listed": "Jewelers, Jewelry Buyers, Jewelers-Wholesale & Manufacturers",
- "phone": "(901) 682-3426",
- "website": "http://www.diamondbrokersofmemphis.com",
- "address": "5134 Poplar Ave",
- "city": "Memphis",
- "state": "TN",
- "market": "Memphis, TN",
- "rating": "",
- "reviews": "28",
- "source_url": "https://www.yellowpages.com/memphis-tn/mip/diamond-brokers-of-memphis-2629245",
- "lead_origin": "YellowPages",
- "email": "sales@diamondbrokersofmemphis.com",
- "email_source": "http://www.diamondbrokersofmemphis.com/contact.php (Cloudflare-protected mailto, data decoded from the page)",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Stephan Stanley",
- "role": "Owner",
- "contact_source": "https://www.bbb.org/us/tn/memphis/profile/jewelry-stores/diamond-brokers-of-memphis-0543-26000375",
- "tel_numbers": [
-  "901.682.3426"
- ],
- "tel_source": "http://www.diamondbrokersofmemphis.com/contact.php",
- "socials": [
-  "https://www.facebook.com/diamondbrokers/",
-  "https://www.instagram.com/diamondbrokersofmemphis/"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [
-  "bridal",
-  "broker-pricing",
-  "rolex-service",
-  "since-1998",
-  "natural"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Site: \"the area's leading engagement ring store... offers all diamonds at just 10% over cost\" with \"broker pricing\" - bridal diamond specialist (also Rolex service); email on site is obfuscated.",
- "verified": true,
- "enriched": true
+  "business": "Diamond Brokers of Memphis",
+  "category_as_listed": "Jewelers, Jewelry Buyers, Jewelers-Wholesale & Manufacturers",
+  "phone": "(901) 682-3426",
+  "website": "http://www.diamondbrokersofmemphis.com",
+  "address": "5134 Poplar Ave",
+  "city": "Memphis",
+  "state": "TN",
+  "market": "Memphis, TN",
+  "rating": "",
+  "reviews": "28",
+  "source_url": "https://www.yellowpages.com/memphis-tn/mip/diamond-brokers-of-memphis-2629245",
+  "lead_origin": "YellowPages",
+  "email": "sales@diamondbrokersofmemphis.com",
+  "email_source": "http://www.diamondbrokersofmemphis.com/contact.php (Cloudflare-protected mailto, data decoded from the page)",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Stephan Stanley",
+  "role": "Owner",
+  "contact_source": "https://www.bbb.org/us/tn/memphis/profile/jewelry-stores/diamond-brokers-of-memphis-0543-26000375",
+  "tel_numbers": [
+    "901.682.3426"
+  ],
+  "tel_source": "http://www.diamondbrokersofmemphis.com/contact.php",
+  "socials": [
+    "https://www.facebook.com/diamondbrokers/",
+    "https://www.instagram.com/diamondbrokersofmemphis/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "bridal",
+    "broker-pricing",
+    "rolex-service",
+    "since-1998",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Site: \"the area's leading engagement ring store... offers all diamonds at just 10% over cost\" with \"broker pricing\" - bridal diamond specialist (also Rolex service); email on site is obfuscated.",
+  "verified": true,
+  "enriched": true,
+  "li_note": "no linkedin.com/in result tied to person",
+  "li_backfill": true
 }

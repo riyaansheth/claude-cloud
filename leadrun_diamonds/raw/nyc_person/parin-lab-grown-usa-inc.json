@@ -4,7 +4,7 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
+  "linkedin_url": "https://www.linkedin.com/in/jignesh-patel-b411bb1a9/",
   "linkedin_source": "",
   "contact_person": "Jignesh Patel",
   "role": "Manager",
@@ -30,5 +30,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Lab-grown diamond wholesale office on 47th Street, managed by Jignesh Patel (search result).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no linkedin.com/in result tied to person",
+  "li_backfill": true
 }

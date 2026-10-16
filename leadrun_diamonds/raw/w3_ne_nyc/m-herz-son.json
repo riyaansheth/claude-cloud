@@ -35,5 +35,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: 'diamond manufacturing and trading company', in-house cutters, three generations, sells loose diamonds to jewelers worldwide. Owner name from Manta/Yelp via search. Addresses vary (YP 580 5th Ave; MapQuest 50 W 47th Ste 1010).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no linkedin.com/in result tied to person",
+  "li_backfill": true
 }

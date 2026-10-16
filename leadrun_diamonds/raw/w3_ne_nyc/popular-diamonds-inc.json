@@ -37,5 +37,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "YP: Diamonds-Wholesale; own site sells GIA-certified loose diamonds, fancy colors and lab-grown at wholesale (online-heavy). No tel/mailto links on site; phone (866) 867-1184 shown in text.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no owner name found",
+  "li_backfill": true
 }

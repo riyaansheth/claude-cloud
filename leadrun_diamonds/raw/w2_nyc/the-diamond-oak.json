@@ -4,7 +4,7 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
+  "linkedin_url": "https://www.linkedin.com/in/alon-mor-3006726/",
   "linkedin_source": "",
   "contact_person": "Alon Mor",
   "role": "Owner",
@@ -33,5 +33,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "47th St diamond & estate dealer run by Alon Mor (family of Abe Mor Diamond Cutters, in trade since 1951); engagement rings, estate & branded pre-owned pieces - borderline estate/retail.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no linkedin.com/in result tied to person",
+  "li_backfill": true
 }

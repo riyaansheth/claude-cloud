@@ -30,5 +30,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Self-described GIA loose diamonds wholesale dealer in New York and Los Angeles; Manhattan showroom.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no owner name found",
+  "li_backfill": true
 }
