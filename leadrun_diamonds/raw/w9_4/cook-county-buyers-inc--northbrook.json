@@ -1,0 +1,40 @@
+{
+ "business": "Cook County Buyers Inc",
+ "category_as_listed": "",
+ "phone": "(773) 490-9828",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "https://cook-county-diamond-buyer.com/ (owner named only as 'Mike J.')",
+ "website": "https://cook-county-diamond-buyer.com",
+ "address": "1340 Shermer Rd Ste 260",
+ "city": "Northbrook",
+ "state": "IL",
+ "market": "Highland Park, IL",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://cook-county-diamond-buyer.com/",
+ "tel_numbers": [
+  "(773) 490-9828"
+ ],
+ "tel_source": "https://cook-county-gold-buyer.com/contactus.html",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "estate-diamond-buyer",
+  "since-2011",
+  "large-stones",
+  "by-appointment"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Borderline: appointment-only estate diamond buyer ('we sell to collectors and jewelers'; buys one-carat and larger diamonds) per Northbrook Chamber listing.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

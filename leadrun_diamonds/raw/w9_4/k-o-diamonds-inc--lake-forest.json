@@ -17,7 +17,7 @@
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
- "contact_source": "",
+ "contact_source": "https://opencorporates.com/companies/us_il/CORP_62058811",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -25,7 +25,8 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Closed: OpenCorporates KO DIAMONDS, INC. (IL CORP_62058811) status Dissolved, last annual report 2005.",
+ "verified": true
 }

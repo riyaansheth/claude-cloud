@@ -14,18 +14,21 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Karen Capestrain\" LinkedIn (none found)",
+ "contact_person": "Karen Capestrain",
+ "role": "Owner",
+ "contact_source": "https://www.pinterest.com/karencapestrain/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1956",
+  "family-business"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds, Diamonds-Wholesale"
+ "scope_reason": "unverified/borderline: Yahoo Local says 'buying and selling of gold and diamond pieces at wholesale prices since 1956' — likely a retail buyer/seller; no own site."
 }
