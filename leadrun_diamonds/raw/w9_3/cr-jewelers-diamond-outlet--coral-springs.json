@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Jewelers"
+ "scope_reason": "unverified: site unreachable (crjewelers.com returns only a JS shell titled 'CR Jewelers Diamond Importers: Your Trusted Source for Diamond & Gemstone Jewelry in Boca Raton'; no readable content to confirm trade vs retail).",
+ "verified": false,
+ "enriched": true
 }

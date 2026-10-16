@@ -11,21 +11,36 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/schneider-gems-459028878",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "js@schneidergems.com",
+ "email_source": "http://www.schneidergems.com/",
+ "linkedin_url": "https://www.linkedin.com/in/jonathan-schneider-99329331/",
+ "linkedin_source": "WebSearch extended: \"Jonathan Schneider\" Schneider Gems Boca Raton LinkedIn (result title \"Jonathan Schneider - Vice President at Schneider Gems Inc\")",
+ "contact_person": "Jonathan Schneider",
+ "role": "Vice President",
+ "contact_source": "http://www.schneidergems.com/about",
+ "tel_numbers": [
+  "561.391.3580"
+ ],
+ "tel_source": "http://www.schneidergems.com/",
+ "socials": [
+  "https://m.facebook.com/Schneider-Gems-145393518895770/",
+  "https://www.instagram.com/schneidergems/"
+ ],
  "building": "",
  "suite": "Ste 217",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "3rd-generation",
+  "cutter-heritage",
+  "estate-buying",
+  "gia-certified",
+  "loose-diamonds",
+  "wholesale"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Designers"
+ "scope_reason": "Own site About: \"Schneider Gems' wholesale diamond & estate jewelry business has flourished in Boca Raton\" - founded by a Johannesburg diamond cutter, now third-generation wholesale diamond dealer with loose diamonds.",
+ "verified": true,
+ "note_w9": "Father David Schneider also active (site: 'Jonathan and David Schneider').",
+ "enriched": true
 }

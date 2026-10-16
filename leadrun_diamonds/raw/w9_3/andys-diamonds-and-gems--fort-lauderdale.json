@@ -2,7 +2,7 @@
  "business": "Andys Diamonds and Gems",
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(954) 533-0871",
- "website": "",
+ "website": "https://robinsonsjewelers.com",
  "address": "2821 E Oakland Park Blvd",
  "city": "Fort Lauderdale",
  "state": "FL",
@@ -11,21 +11,36 @@
  "reviews": "9",
  "source_url": "https://www.yellowpages.com/fort-lauderdale-fl/mip/andys-diamonds-and-gems-541072963",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@robinsonsjewelers.com",
+ "email_source": "https://robinsonsjewelers.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Andrew Robinson",
+ "role": "President",
+ "contact_source": "https://florida.intercreditreport.com/company/andys-diamonds-gems-inc-p13000004066",
+ "tel_numbers": [
+  "1-954-258-2246"
+ ],
+ "tel_source": "https://robinsonsjewelers.com/",
+ "socials": [
+  "https://www.facebook.com/robinsonsjewelers",
+  "https://www.instagram.com/robinsonsjewelers",
+  "https://twitter.com/robinsonsjewels",
+  "https://www.tiktok.com/@robinsonsjewelers",
+  "https://www.youtube.com/@robinsonsjewelers7154"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "hooks": [
+  "gia-gg",
+  "since-2005",
+  "lab-grown",
+  "estate-buyer"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Florida filing (P13000004066, dba Clear Stone Diamonds) names Andrew Robinson president; registry snippet (bisprofiles) gives its address as 820 E Las Olas Blvd with sister entity Robinson's Jewelers, Inc. (same officer), whose own site describes a family-owned retail showroom (luxury/lab diamond jewelry, repairs, estate buying) owned by GIA GG Andrew Robinson - retail, not trade.",
+ "verified": true,
+ "enriched": true
 }

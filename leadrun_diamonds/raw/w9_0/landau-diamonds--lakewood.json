@@ -14,18 +14,26 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "WebSearch extended: \"Aaron Landau\" Landau Diamonds Lakewood LinkedIn \u2014 profile aaron-landau-4aa41415 shows Landau & Co., Lakewood; not tied to Landau Diamonds, not recorded",
+ "contact_person": "Aaron Landau",
+ "role": "Owner",
+ "contact_source": "https://www.zoominfo.com/c/landau-diamonds/410119254 (via WebSearch snippet)",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/p/Landau-Diamonds-100072343661981/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "broker",
+  "47th-street-office"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds"
+ "scope_reason": "Yelp/Yahoo Local: \"Diamonds manufacturers and Brokers\"; ZoomInfo: manufacturing, 1-10 employees; Facebook lists 50 W 47th St; home-office Lakewood listing with 212 number. Site 403.",
+ "verified": true,
+ "enriched": true
 }

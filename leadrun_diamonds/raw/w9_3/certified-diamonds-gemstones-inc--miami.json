@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "unverified: site unreachable (domain registration expired - Namecheap parked page)",
+ "verified": false,
+ "enriched": true
 }

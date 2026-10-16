@@ -3,7 +3,7 @@
  "category_as_listed": "Diamonds-Wholesale, Jewelry Designers, Jewelers",
  "phone": "(646) 619-7279",
  "website": "http://ariadiamonds.com",
- "address": "",
+ "address": "36 NE 1st St #902",
  "city": "Miami",
  "state": "FL",
  "market": "Sunny Isles Beach, FL",
@@ -11,21 +11,33 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/aria-diamonds-jewelry-engagement-rings-3244892",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "ariadiamondsus@gmail.com",
+ "email_source": "https://ariajerusalem.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Tomer Baruch",
+ "role": "President",
+ "contact_source": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=ARIADIAMONDS+P190000206790&aggregateId=domp-p19000020679-f4482547-3d3a-4c81-aaa8-9e7dede3d9cd&searchTerm=ARIA+CU3+&+CU4+LLC=&listNameOrder=ARIACU3CU4+M240000141150",
+ "tel_numbers": [
+  "02-500-44-50"
+ ],
+ "tel_source": "https://ariajerusalem.com/",
+ "socials": [
+  "https://www.facebook.com/ariadiamonds1/",
+  "https://www.instagram.com/ariajewelry_diamonds/"
+ ],
  "building": "",
- "suite": "",
+ "suite": "#902",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "custom-design",
+  "israel-diamond-exchange",
+  "manufacturer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Designers, Jewelers"
+ "scope_reason": "Own site (ariadiamonds.com -> ariajerusalem.com, Hebrew) says Aria was founded in 2015 by diamantaire Tomer Baruch, \"a diamond manufacturer from the Israeli Diamond Exchange in Ramat Gan\", designing and manufacturing diamond jewelry, with a Miami office at 36 NE 1st St #902.",
+ "verified": true,
+ "note_w9": "Sunbiz: Aria Diamonds, Inc. P19000020679, President BARUCH, TOMER (via search summary). 02-500-44-50 is the Jerusalem number. No personal LinkedIn found in 2 queries.",
+ "enriched": true
 }

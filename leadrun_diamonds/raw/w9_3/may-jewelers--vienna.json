@@ -11,21 +11,28 @@
  "reviews": "26",
  "source_url": "https://www.yellowpages.com/vienna-va/mip/may-jewelers-18284165",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@mayjewelers.com",
+ "email_source": "https://mayjewelers.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(703) 448-0866"
+ ],
+ "tel_source": "https://mayjewelers.com/",
+ "socials": [
+  "https://www.facebook.com/MayJewelers/",
+  "https://www.instagram.com/mayjewelers/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Repairing"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site (mayjewelers.com): \"May Jewelers is a family-owned business, which has been serving customers in the Washington, D.C. Metropolitan Area for forty five years\" from a Tysons showroom - retail jeweler.",
+ "verified": true,
+ "enriched": true
 }

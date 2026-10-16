@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Akshie Jhaveri",
+ "role": "Founder",
+ "contact_source": "https://www.fortune.com/2025/11/07/lab-grown-diamonds-versus-natural-diamonds-no-difference-jewelry-ceo-says",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: site unreachable (403 Cloudflare challenge); press (Retail Brew/Fortune via search) describes Grown Brilliance as a direct-to-consumer lab-grown jewelry brand, similar to kill-list e-tailers.",
+ "verified": false,
+ "enriched": true
 }

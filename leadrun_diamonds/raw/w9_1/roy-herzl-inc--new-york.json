@@ -14,18 +14,26 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "WebSearch extended: \"Roy Herzl\" diamonds New York LinkedIn -> no /in/ profile",
+ "contact_person": "Roy Herzl",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/ny/new-york/profile/diamond-buyers/roy-herzl-inc-0121-130158",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/RoyHerzlInc/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1855",
+  "6th-generation",
+  "estate-buyer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers"
+ "scope_reason": "unverified: site unreachable (royherzl.com proxy 502); search snippets of own site: \"diamond buyer in NYC\", focus on \"acquisition of fine diamonds and period jewelry\", family in business since 1855 \u2014 estate diamond buyer",
+ "enriched": true,
+ "verified": false
 }

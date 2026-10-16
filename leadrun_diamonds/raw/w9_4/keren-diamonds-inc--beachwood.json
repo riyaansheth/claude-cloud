@@ -1,0 +1,40 @@
+{
+ "business": "Keren Diamonds, Inc.",
+ "category_as_listed": "",
+ "phone": "(216) 595-0000",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "\"Haim Keren\" Keren Diamonds LinkedIn (no matching profile)",
+ "contact_person": "Haim Keren",
+ "role": "Owner",
+ "contact_source": "https://us-jeweler.com/company-keren-diamonds-in-cleveland-oh-5547",
+ "website": "http://kerendiamonds.com",
+ "address": "27040 Cedar Rd #215R",
+ "city": "Beachwood",
+ "state": "OH",
+ "market": "Beachwood, OH",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://opencorporates.com/companies/us_oh/1160526",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.facebook.com/Kerendiamonds/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "loose-diamonds",
+  "matched-pairs",
+  "fancy-color",
+  "large-stones"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site (kerendiamonds.dreamhosters.com) is 'KDI RealTime Loose Diamond Inventory' with trade login, matched pairs and fancy color search; OH corp active since 2000 (agent Haim Keren).",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

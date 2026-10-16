@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds, Diamonds-Wholesale"
+ "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds, Diamonds-Wholesale | unverified: no web presence found (searched: \"Raisa Diamond\" Miami Biscayne; \"Raisa Diamond Inc\" OR \"Raisa Diamonds\" Florida); Sunbiz/BBB/OpenCorporates/Bizapedia blocked (403/captcha) from shell.",
+ "verified": false,
+ "enriched": true
 }

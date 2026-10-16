@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Luis Iza",
+ "role": "Owner",
+ "contact_source": "https://www.manta.com/c/mm23fh4/iza-sons",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: site unreachable - listed website iza.org belongs to an unrelated labor-economics institute (IZA@LISER); directories (Yelp/D&B) describe Iza & Sons as a GIA-certified wholesale diamond dealer at 36 NE 1st St Ste 401",
+ "verified": false,
+ "note_w9": "Family LinkedIn profiles seen: Jorge Iza 'Iza and Sons Miami' https://www.linkedin.com/in/jorge-iza-94486a173/ ; Nurys Iza 'Iza & Sons' https://www.linkedin.com/in/nurys-iza-27616517/ (query: \"Luis Iza\" Iza & Sons Miami diamonds LinkedIn). D&B contact Luis Iza Jr.",
+ "enriched": true
 }

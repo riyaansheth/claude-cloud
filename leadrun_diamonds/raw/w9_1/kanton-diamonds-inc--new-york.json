@@ -13,19 +13,23 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/avi-simkhai-005004158/",
+ "linkedin_source": "WebSearch extended: \"Kanton Diamonds\" New York owner president LinkedIn -> \"Avi Simkhai - Co-Owner of Kanton\" (Co-Owner Kanton Diamonds Jan 1991 - Present); D&B lists Benjamin Simkhai as President",
+ "contact_person": "Avi Simkhai",
+ "role": "Owner",
+ "contact_source": "https://www.linkedin.com/in/avi-simkhai-005004158/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
+ "building": "580 Fifth Ave",
+ "suite": "#1102",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1991"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "unverified: site unreachable (kantononline.com connection error); D&B/HKTDC supplier listing: Kanton Diamonds Inc., 580 5th Ave #1102",
+ "enriched": true,
+ "verified": false
 }

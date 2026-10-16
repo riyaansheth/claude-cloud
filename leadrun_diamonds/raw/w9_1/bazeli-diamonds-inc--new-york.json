@@ -13,19 +13,24 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/bency-bazeli-b5888427/",
+ "linkedin_source": "WebSearch extended: \"Bazeli Diamonds\" New York owner LinkedIn -> \"Bency bazeli - Owner at Bazeli Diamonds Inc.\" (GIA New York education)",
+ "contact_person": "Bency Bazeli",
+ "role": "Owner",
+ "contact_source": "https://www.linkedin.com/in/bency-bazeli-b5888427/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "gia",
+  "since-2006"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: site unreachable (bazelidiamonds.com connection error); in scope on Jewelers Book \"Diamonds Vendor\" listing, 47 W 47th St",
+ "enriched": true,
+ "verified": false
 }

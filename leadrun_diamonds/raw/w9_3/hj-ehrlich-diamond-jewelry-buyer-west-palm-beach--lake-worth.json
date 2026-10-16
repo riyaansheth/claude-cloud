@@ -13,19 +13,26 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/harvey-ehrlich-a214a3a1/",
+ "linkedin_source": "WebSearch extended: \"Harvey Ehrlich\" HJ Ehrlich diamond buyer LinkedIn (result title \"Harvey Ehrlich - HJ Ehrlich Buying Group\", Boca Raton)",
+ "contact_person": "Harvey Ehrlich",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/fl/greenacres/profile/jewelry-buyers/h-j-ehrlich-buying-group-0633-90108516",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/Ehrlich.Diamond.and.Jewelry.Buyers/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "estate-buyer",
+  "since-2010"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Jewelry Buyers"
+ "scope_reason": "BBB profile 'H J Ehrlich Buying Group' (category Jewelry Buyers, 6081 Lake Worth Rd, Greenacres, started 4/20/2010, not accredited) names Harvey Ehrlich owner; it is an estate diamond & jewelry buyer (YP also lists gold/silver buying, house calls per reviews) - kept as estate-diamond buyer, borderline cash-for-gold.",
+ "verified": true,
+ "enriched": true
 }

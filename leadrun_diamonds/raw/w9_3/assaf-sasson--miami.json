@@ -21,11 +21,13 @@
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
+ "building": "Seybold Building",
+ "suite": "Ste 912",
  "trade_memberships": [],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "unverified: no web presence found beyond directory listings (YP/MapQuest list 'Assaf Sasson' diamonds wholesale at 36 NE 1st St Ste 912, Seybold Building; person/owner role not confirmed by any source; Sunbiz shows an inactive 'Assaf Diamonds LLC' not tied to this listing)",
+ "verified": false,
+ "enriched": true
 }

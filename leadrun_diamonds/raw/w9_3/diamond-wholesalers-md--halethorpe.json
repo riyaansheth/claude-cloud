@@ -22,10 +22,14 @@
  "tel_source": "",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Ste B",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1979"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds-Industrial"
+ "scope_reason": "unverified: only directories found - YP lists Diamonds-Industrial/Diamonds-Wholesale at 5305 East Dr #B, MapQuest describes 'wholesale distribution of diamonds and fine jewelry', Manta says est. 1979 (owner name shown garbled as 'Jonh R Little', not recorded); no own site or filing found",
+ "verified": false,
+ "enriched": true
 }

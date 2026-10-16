@@ -14,18 +14,23 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "WebSearch extended: \"Aslanian\" \"Diamond Services\" New York LinkedIn -> no /in/ profile",
+ "contact_person": "Raz Aslanian",
+ "role": "Owner",
+ "contact_source": "https://www.diamondservices.nyc/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
+ "building": "580 Fifth Ave (World Diamond Tower)",
+ "suite": "Ste 2510",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "gia-gg",
+  "since-1988"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: site unreachable (diamondservices.nyc TLS error); search snippet of own site: New York diamond jewelry company in the Diamond Tower (580 Fifth), engagement/bridal; Yelp: \"retail and wholesale diamonds\"",
+ "enriched": true,
+ "verified": false
 }

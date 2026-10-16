@@ -25,7 +25,8 @@
  "suite": "Ste 50",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Closed: OpenCorporates IDEAL DIAMOND SOURCE, INC. (OH CP7673) status Dead, dissolution filed 15 Mar 2013.",
+ "verified": true
 }

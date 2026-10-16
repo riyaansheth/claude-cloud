@@ -11,21 +11,25 @@
  "reviews": "3",
  "source_url": "https://www.yellowpages.com/gaithersburg-md/mip/daviko-gems-7140003",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@KentlandsJewelers.com",
+ "email_source": "https://kentlandsjewelers.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "301.975.0705"
+ ],
+ "tel_source": "https://kentlandsjewelers.com/",
  "socials": [],
  "building": "",
  "suite": "Ste B",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Watches"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Listed site kentlandsjewelers.com is a local retail jeweler: \"We are licensed to buy gold, diamonds, fine jewelry, watches, and flatware... We hope to see you in our jewelry store soon\" - retail/buy-back, no trade wholesale.",
+ "verified": true,
+ "enriched": true
 }

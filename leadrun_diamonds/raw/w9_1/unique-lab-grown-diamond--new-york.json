@@ -20,12 +20,18 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/uniquelabgrowndiamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "lab-grown"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds-Wholesale, Diamond Setters"
+ "scope_reason": "unverified: site unreachable (labgrowndiamondex.com / uniquelabgrowndiamond.com refused); Facebook page: \"Jewelry Wholesaler\", 62 W 47th St Ste 1621",
+ "enriched": true,
+ "verified": false
 }

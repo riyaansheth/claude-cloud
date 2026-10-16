@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers | unverified: no web presence found (searched: \"Tobak Diamond\" Boca Raton; Tobak diamonds Boca Raton owner); Sunbiz/BBB/OpenCorporates/Bizapedia blocked (403/captcha) from shell.",
+ "verified": false,
+ "enriched": true
 }

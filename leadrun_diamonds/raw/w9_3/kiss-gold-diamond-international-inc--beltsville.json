@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Gold, Silver & Platinum Buyers & Dealers, Importers"
+ "scope_reason": "YellowPages categories: Diamonds-Wholesale, Gold, Silver & Platinum Buyers & Dealers, Importers | unverified: no web presence found (searched: \"Kiss Gold & Diamond International\" Beltsville OR Lanham; \"Kiss Gold\" Beltsville Maryland gold diamond buyer importer); Sunbiz/BBB/OpenCorporates/Bizapedia blocked (403/captcha) from shell.",
+ "verified": false,
+ "enriched": true
 }

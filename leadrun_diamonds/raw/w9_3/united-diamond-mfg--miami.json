@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "YellowPages categories: Diamonds-Wholesale | unverified: no web presence found (searched: \"United Diamond\" Miami Seybold 36 NE 1st St 306); Sunbiz/BBB/OpenCorporates/Bizapedia blocked (403/captcha) from shell.",
+ "verified": false,
+ "enriched": true
 }

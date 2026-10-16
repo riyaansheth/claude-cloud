@@ -1,7 +1,7 @@
 {
  "category_as_listed": "Diamond Buyers",
- "email": "",
- "email_source": "",
+ "email": "Info@adsdiamonds.com",
+ "email_source": "https://adsdiamonds.com/about-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "Chaim Tubero",
@@ -9,13 +9,25 @@
  "contact_source": "https://adsdiamonds.com/about-us",
  "rating": "",
  "reviews": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(561) 278-6155"
+ ],
+ "tel_source": "https://adsdiamonds.com/about-us",
+ "socials": [
+  "https://www.facebook.com/adsjewelry/",
+  "https://www.instagram.com/a.d.s.jewelry_inc/"
+ ],
  "building": "",
  "suite": "Suite 205B",
- "trade_memberships": [],
+ "trade_memberships": [
+  "BBB",
+  "GIA",
+  "NAJA"
+ ],
  "hooks": [
+  "estate-buyer",
+  "gia-graduates",
+  "in-trade-since-1979",
   "since-2000"
  ],
  "drop_reason": "",
@@ -29,6 +41,8 @@
  "lead_origin": "Web Search",
  "source_url": "https://www.bbb.org/us/fl/delray-beach/profile/diamond-buyers/ads-jewelry-inc-0633-90074372",
  "is_diamond_trade": true,
- "scope_reason": "Web search summary: specializes in buying, selling and appraising diamonds; BBB category Diamond Buyers (site blocked our fetch; not verified on-site)",
- "note": "Sunbiz/BBB list David A. Tubero as president"
+ "scope_reason": "Own site About: \"WE SPECIALIZE IN BUYING, SELLING AND APPRAISING DIAMONDS, ENGAGEMENT RINGS OF ALL SIZES\" with immediate payment by check/wire - estate-diamond buyer/dealer run by GIA graduates.",
+ "note": "Sunbiz/BBB list David A. Tubero as president; search snippet (people-search) lists Chaim E. Tubero as President; Yelp lists Chaim Tubero as Business Owner. No LinkedIn found (2 queries).",
+ "verified": true,
+ "enriched": true
 }

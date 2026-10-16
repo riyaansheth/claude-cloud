@@ -18,14 +18,28 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "305-479-5899"
+ ],
+ "tel_source": "http://www.buydiamonddirect.com/pages/contact-us.asp",
+ "socials": [
+  "https://twitter.com/buydiamonddirec/",
+  "https://www.facebook.com/BuyDiamondDirect",
+  "https://www.pinterest.com/buydiamonddirec/"
+ ],
  "building": "",
  "suite": "Ste 821",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1968",
+  "cutter",
+  "importer",
+  "loose-diamonds",
+  "certified-gia-igi-ags"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds, Jewelers"
+ "scope_reason": "Own About page: 'The Founders of the Company started the Diamond business in 1968 as Diamond Cutters and Importers of Fine cut Diamonds ... In 1988 we moved our operation To Miami' and sells certified (GIA/EGL/IGI/AGS) loose diamonds below retail.",
+ "verified": true,
+ "enriched": true
 }

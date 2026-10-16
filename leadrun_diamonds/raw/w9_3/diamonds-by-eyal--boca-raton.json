@@ -11,21 +11,39 @@
  "reviews": "12",
  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/diamonds-by-eyal-482631905",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "eyal@diamondsbyeyal.com",
+ "email_source": "https://www.diamondsbyeyal.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Eyal Cohen",
+ "role": "Owner",
+ "contact_source": "https://bocaratonobserver.com/profiles/the-diamondlab/",
+ "tel_numbers": [
+  "561-999-8878",
+  "(404) 229-7785"
+ ],
+ "tel_source": "https://www.diamondsbyeyal.com/",
+ "socials": [
+  "https://www.facebook.com/diamondsbyeyal/",
+  "https://www.instagram.com/diamondsbyeyal/",
+  "https://www.tiktok.com/@diamondsbyeyal",
+  "https://www.youtube.com/@DiamondsByEyal"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "5th-generation",
+  "appointment-only",
+  "ex-wholesaler",
+  "gia-certified",
+  "loose-diamonds",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Gold, Silver & Platinum Buyers & Dealers"
+ "scope_reason": "Own site About: \"In 1997, Eyal started a diamond wholesale business in the United States\" and now runs an appointment-only showroom offering \"certified natural diamonds\" from five generations of Moussaieff family diamond trade - bridal specialist sourcing own stones.",
+ "verified": true,
+ "note_w9": "Surname Cohen from Boca Raton Observer profile (search summary); LinkedIn company page lists 'President at Diamonds By Eyal' but no personal /in/ URL tied to him surfaced (only unrelated IGS Security Eyal Cohens).",
+ "enriched": true
 }

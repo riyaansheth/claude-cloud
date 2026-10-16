@@ -18,14 +18,18 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "4103291801"
+ ],
+ "tel_source": "https://www.diamondexchangeusa.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Jewelers, Jewelry Buyers"
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "The Cockeysville number 410.329.1801 is a location of Diamond Exchange USA (diamondexchangeusa.com; own listed domain diamondexchangebaltimore.com is dead), whose site is titled 'We Buy Gold & Watches' and offers Sell Gold, Coins & Bullion and Collateral Loans - gold-buying/retail.",
+ "verified": true,
+ "enriched": true
 }

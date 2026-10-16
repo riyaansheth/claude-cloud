@@ -14,18 +14,31 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"John Sabet\" Charleston Alexander LinkedIn; \"John Sabet\" jeweler Falls Church Virginia LinkedIn (no /in/ found)",
+ "contact_person": "John Sabet",
+ "role": "Owner",
+ "contact_source": "https://bethesdamagazine.com/2014/01/13/charleston-alexander-closes-bethesda-store/",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/WhereTheDiamondsAre",
+  "https://www.instagram.com/charlestonalexanderdiamond/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer",
+  "bridal",
+  "lab-grown",
+  "natural",
+  "custom-manufacturing",
+  "family-owned",
+  "2nd-generation"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds"
+ "scope_reason": "Own site 'Charleston Alexander Diamond Importers': custom diamond engagement jewelry 'Handcrafted in Falls Church Virginia ... magnificent values direct from the source', sells IGI lab and natural loose-stone rings (bridal specialist / importer; also a multi-brand retail store with gold buying).",
+ "verified": true,
+ "enriched": true
 }
