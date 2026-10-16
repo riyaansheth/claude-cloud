@@ -11,21 +11,32 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/glare-diamonds-471224604",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "service@glarediamonds.com",
+ "email_source": "https://www.glarediamonds.com/contact_us.php",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(866) 473-7793"
+ ],
+ "tel_source": "https://www.glarediamonds.com/contact_us.php",
+ "socials": [
+  "http://www.facebook.com/GlareDiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "GIA-graded loose diamonds",
+  "direct from manufacturers",
+  "BBB accredited (per site)"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds"
+ "scope_reason": "About page: 'Glare Diamonds is a diamond company ... committed to selling diamonds to businesses and customers at the lowest price possible', GIA diamonds sold 'directly from partner manufacturers' (online loose-diamond dealer; Yelp shows Miami storefront closed).",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Fetched /, contact_us, about_us: email in text, toll-free only (fax (239) 204-2212 not a phone); 2 searches for owner/Sunbiz found no named officer (ZoomInfo 'Dan Glare' unverified, not recorded)."
 }

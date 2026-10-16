@@ -11,21 +11,34 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/fort-lauderdale-fl/mip/ofer-mizrahi-diamonds-inc-579821082",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "roi@om-diamonds.com",
+ "email_source": "https://www.om-diamonds.com/omd-usa",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "linkedin_source": "\"Ofer Mizrahi\" Ofer Mizrahi Diamonds Fort Lauderdale LinkedIn; \"Ofer Mizrahi\" Ofer Mizrahi Diamonds LinkedIn (only staff profiles, no founder profile)",
+ "contact_person": "Ofer Mizrahi",
+ "role": "Founder",
+ "contact_source": "https://www.om-diamonds.com/ (schema.org founder)",
+ "tel_numbers": [
+  "312-558-9060",
+  "+1 646-558-2553",
+  "+1 617-899-3419"
+ ],
+ "tel_source": "https://www.om-diamonds.com/omd-usa",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "American Gem Society (partner listing)"
+ ],
+ "hooks": [
+  "natural + lab-grown inventory",
+  "offices NY 47th St, Boston, Dallas, LA, Las Vegas",
+  "Fort Lauderdale HQ"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "OMD USA page titled 'Diamond Wholesaler USA: New York, Boston, Dallas | OMD' listing 'Fort Lauderdale Headquarters 200 E Broward Boulevard'; home page offers Natural Diamonds, Lab-Grown Diamonds and 'We Buy Diamonds' to partners.",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Fetched /, omd-usa, contact-us: roi@ listed under Fort Lauderdale HQ (also info@; brett@ Boston, guym@ LA); 646/617 are NY/Boston office lines; 2 LinkedIn searches found no founder profile. AGS membership seen only in search result."
 }

@@ -11,21 +11,34 @@
  "reviews": "19",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/falber-diamonds-451076085",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "Max@dvgdiamonds.com",
+ "email_source": "https://www.dvgdiamonds.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/maximo-quinones-33686b17/",
+ "linkedin_source": "\"Maximo Quinones\" DVG Diamonds Miami LinkedIn (result title 'Maximo Quinones - DVG Diamonds', Miami)",
+ "contact_person": "Maximo Quinones",
+ "role": "Founder",
+ "contact_source": "https://www.dvgdiamonds.com/our-company",
+ "tel_numbers": [
+  "(305) 502-8782"
+ ],
+ "tel_source": "https://www.dvgdiamonds.com/contact",
+ "socials": [
+  "http://www.facebook.com/dvgdiamonds",
+  "https://instagram.com/dvgdiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "35+ years",
+  "supplies loose diamonds to retail partners",
+  "in-house jewelry fabrication",
+  "co-founder Roy Campbell"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Listed site is DVG Diamonds: 'Your Trusted Source of Wholesale Diamonds'; Our Company: 'We strive to supply loose diamonds and jewelry fabrication services of exceptional value to our retail partners' (listing name Falber not on site).",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Fetched /, our-company, contact: mailto Max@, phone (305) 502-8782 differs from listed (305) 379-0033 (direct candidate); LinkedIn found in 1 extended search. Note: search also showed Thomas Falkenstein LinkedIn with @falberdiamonds - possible separate Falber business, not recorded."
 }

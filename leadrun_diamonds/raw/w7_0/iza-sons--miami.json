@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: site unreachable (listed iza.org is the unrelated IZA@LISER labour-economics network; izaandsons.com and izadiamonds.com redirect to a parked /lander page)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "Search snippets (Yelp/Facebook 'Iza & Sons Diamond Wholesale and Fine Jewelry Design', 36 NE 1st St Miami) suggest diamond wholesale; a Snyder Media-built wix page (snydermedia.wixsite.com/my-site-9) shows 'IZA Diamonds ... since 1933', hello@izadiamonds.com, 305-374-2569, 212-391-2419, but it is an agency site not the business's own domain - nothing recorded. No owner found."
 }
