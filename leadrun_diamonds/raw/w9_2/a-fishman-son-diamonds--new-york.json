@@ -11,21 +11,39 @@
  "reviews": "84",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/a-fishman-son-diamonds-452302980",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "josh@afishman.com",
+ "email_source": "https://www.afishman.com/",
+ "linkedin_url": "https://www.linkedin.com/in/joshua-fishman-30961210/",
+ "linkedin_source": "linkedin.com/in link on own homepage https://www.afishman.com/ (site of A. Fishman & Son; contact page directs to Josh)",
+ "contact_person": "Joshua Fishman",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/ny/new-york/profile/wholesale-jewelry/a-fishman-son-jewelry-0121-90716 ; https://www.afishman.com/chairmans-message",
+ "tel_numbers": [
+  "212-869-0085"
+ ],
+ "tel_source": "https://www.afishman.com/contactus",
+ "socials": [
+  "http://www.facebook.com/AFishmanSonDiamonds",
+  "https://twitter.com/AFishmanSon",
+  "https://www.instagram.com/afishmanson/"
+ ],
  "building": "",
  "suite": "Ste 419",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "DDC",
+  "GIA"
+ ],
+ "hooks": [
+  "since-1947",
+  "3rd-generation",
+  "importer",
+  "manufacturer",
+  "natural",
+  "loose-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Diamonds"
+ "scope_reason": "Own site: \"Your Best Wholesale Natural Loose Diamond Source\"; history page: three generations of diamantaires, cutting/selling on DDC floor since 1947; search results describe it as direct importer, cutter and manufacturer of loose natural diamonds",
+ "verified": true,
+ "enriched": true
 }

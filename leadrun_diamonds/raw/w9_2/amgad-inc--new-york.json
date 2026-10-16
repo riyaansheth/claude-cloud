@@ -11,21 +11,38 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/amgad-inc-469427843",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "Sales@amgad.com",
+ "email_source": "https://www.amgad.com/contact-us.html",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
- "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "contact_person": "Amnon Gad",
+ "role": "Founder",
+ "contact_source": "http://atgandco.com/about",
+ "tel_numbers": [
+  "1-212-719-4111",
+  "1-954-271-1533"
+ ],
+ "tel_source": "https://www.amgad.com/",
+ "socials": [
+  "https://twitter.com/amgadinc",
+  "https://www.facebook.com/Amgad-Inc-Natural-Color-Diamonds-196489730381179/",
+  "https://www.instagram.com/amgadinc/"
+ ],
+ "building": "580 Fifth Avenue",
+ "suite": "Suite 2504",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "since-1965",
+  "natural",
+  "fancy-color",
+  "manufacturer",
+  "wholesale"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Own site: \"Wholesaler of GIA Certified Natural, Fancy Colored Diamonds\"; about page: \"since we manufacture and wholesale these gems\", founded 56+ years ago. Owner/founder name from son's company site (A.T.G. & Co.); only a company-style LinkedIn (/in/amgad-natural-color-diamonds) found, not recorded.",
+ "verified": true,
+ "enriched": true
 }

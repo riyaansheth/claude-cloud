@@ -3,7 +3,7 @@
  "category_as_listed": "Diamonds-Wholesale, Diamonds, Jewelers",
  "phone": "(212) 997-0013",
  "website": "http://www.firenzejewels.com",
- "address": "15 W 47th St Ste 405",
+ "address": "15 W 47th St",
  "city": "New York",
  "state": "NY",
  "market": "Manhasset, NY",
@@ -15,17 +15,23 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Adriana Levin",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ny/new-york/profile/jewelry-stores/firenze-jewels-0121-1226",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
- "suite": "Ste 405",
+ "suite": "#1301",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1937",
+  "3rd-generation",
+  "family-owned"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "unverified: site unreachable (503). Search results: family-owned Diamond District jeweler since 1937, engagement rings; BBB lists Adriana Levin as owner (older PRWeb names Jeffrey Levin owner). YP: Diamonds-Wholesale.",
+ "verified": false,
+ "enriched": true
 }

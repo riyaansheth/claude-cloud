@@ -2,8 +2,8 @@
  "business": "Barbi Diam",
  "category_as_listed": "Diamonds-Wholesale, Jewelers, Jewelry Buyers",
  "phone": "(212) 319-4500",
- "website": "",
- "address": "589 5th Ave",
+ "website": "https://www.barbidiam.com",
+ "address": "2 E 48th St, Rm 1132",
  "city": "New York",
  "state": "NY",
  "market": "Manhasset, NY",
@@ -11,21 +11,35 @@
  "reviews": "36",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/barbi-diam-503054605",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "email": "raanan@barbidiam.com",
+ "email_source": "https://www.barbidiam.com/ (Cloudflare-protected mailto decoded from page)",
+ "linkedin_url": "https://www.linkedin.com/in/shimon-barbi-84b360120/",
+ "linkedin_source": "WebSearch extended: \"Eli Barbi\" OR \"Shimon Barbi\" diamonds LinkedIn (title \"Shimon Barbi - S.E Barbidiam\")",
+ "contact_person": "Shimon Barbi",
+ "role": "Founder",
+ "contact_source": "https://www.barbidiam.com/",
+ "tel_numbers": [
+  "+972-3-613-1020"
+ ],
+ "tel_source": "https://www.barbidiam.com/",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "RJC",
+  "Israel Diamond Exchange"
+ ],
+ "hooks": [
+  "since-1980",
+  "rough",
+  "manufacturer",
+  "cutter",
+  "importer",
+  "family-owned"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Buyers"
+ "scope_reason": "Own site: S.E. Barbi Diamonds, family-owned rough & polished diamond house (Israel/Dubai HQ) with a USA New York office; cuts, polishes, certifies; RJC member. NY listing via YP. Note: founder LinkedIn location Israel.",
+ "verified": true,
+ "enriched": true
 }

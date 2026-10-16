@@ -11,21 +11,32 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/allure-diamond-inc-1256829",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@allurediamonds.com",
+ "email_source": "https://www.allurediamonds.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Alik Mavashev",
+ "role": "President",
+ "contact_source": "https://www.manta.com/c/mm5kd6m/allure-diamond-inc",
+ "tel_numbers": [
+  "(212) 575-1885"
+ ],
+ "tel_source": "https://www.allurediamonds.com/",
+ "socials": [
+  "https://instagram.com/allurediamonds/",
+  "https://www.facebook.com/allurediamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "family-owned",
+  "loose-diamonds",
+  "custom"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Own site sells loose diamonds incl. fancy color (\"Start with a Diamond\", LOOSE DIAMONDS) and custom engagement settings; FAQ: family owned jewelers 40+ years in the Diamond District; YP: Diamonds-Wholesale. Bridal specialist sourcing own loose stones. No personal LinkedIn found (searched).",
+ "verified": true,
+ "enriched": true
 }
