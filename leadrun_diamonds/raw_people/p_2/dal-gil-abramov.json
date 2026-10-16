@@ -1,0 +1,22 @@
+{
+ "person": "Gil Abramov",
+ "title": "Ben-Gil",
+ "company": "Ben-Gil Co., Inc. (House of Brilliance)",
+ "company_website": "https://houseofbrilliance.com",
+ "city": "Dallas",
+ "state": "TX",
+ "market": "Dallas, TX",
+ "linkedin_url": "https://www.linkedin.com/in/gil-abramov-8417134",
+ "linkedin_source": "\"Ben-Gil\" OR \"House of Brilliance\" Dallas diamonds LinkedIn",
+ "company_email": "",
+ "company_phone": "972-392-7088",
+ "seniority": "owner",
+ "signals": [
+  "importer",
+  "wholesale",
+  "manufacturer",
+  "since-1978"
+ ],
+ "source_url": "https://www.linkedin.com/in/gil-abramov-8417134",
+ "is_diamond_trade": true
+}

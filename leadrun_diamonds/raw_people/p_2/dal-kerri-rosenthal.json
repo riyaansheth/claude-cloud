@@ -1,0 +1,20 @@
+{
+ "person": "Kerri Rosenthal",
+ "title": "Diamond Factory Dallas",
+ "company": "The Diamond Factory (Southwest Diamond Cutters)",
+ "company_website": "https://diamondfactorydallas.com",
+ "city": "Dallas",
+ "state": "TX",
+ "market": "Dallas, TX",
+ "linkedin_url": "https://www.linkedin.com/in/kerri-rosenthal",
+ "linkedin_source": "\"Barry Adler\" OR \"Ashley Van Creveld\" Diamond Factory Dallas LinkedIn",
+ "company_email": "",
+ "company_phone": "(972) 980-8700",
+ "seniority": "other",
+ "signals": [
+  "diamond-cutter",
+  "manufacturer"
+ ],
+ "source_url": "https://www.linkedin.com/in/kerri-rosenthal",
+ "is_diamond_trade": true
+}

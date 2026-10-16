@@ -1,0 +1,22 @@
+{
+ "person": "Roderick Watterson",
+ "title": "Diamond cutter, Diamond Exchange Dallas (owner)",
+ "company": "Diamond Exchange Dallas",
+ "company_website": "https://diamondexchangedallas.com",
+ "city": "Dallas",
+ "state": "TX",
+ "market": "Dallas, TX",
+ "linkedin_url": "https://www.linkedin.com/in/roderick-watterson-1ba43756",
+ "linkedin_source": "\"diamond manufacturer\" OR \"diamond cutter\" Dallas Texas LinkedIn",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "owner",
+ "signals": [
+  "diamond-cutter",
+  "importer",
+  "wholesale",
+  "south-africa"
+ ],
+ "source_url": "https://www.linkedin.com/in/roderick-watterson-1ba43756",
+ "is_diamond_trade": true
+}
