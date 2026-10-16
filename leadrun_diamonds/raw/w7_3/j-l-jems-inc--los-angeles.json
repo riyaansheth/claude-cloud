@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "unverified: listed site ckdiamonds.com unreachable (proxy 502); only directory listings (Superpages/Yelp/MapQuest, 550 S Hill St) found, nothing describing the business.",
+ "verified": false
 }

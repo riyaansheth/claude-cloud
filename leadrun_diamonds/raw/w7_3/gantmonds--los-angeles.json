@@ -11,21 +11,28 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/gantmonds-460484848",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "gantmonds@aol.com",
+ "email_source": "https://n1a.goexposoftware.com/events/lva16/goExpo/exhibitor/viewExhibitorProfile.php?__id=113 (business's own exhibitor profile; Cloudflare-protected email decoded)",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Sergey Gantman\" Gantmonds Los Angeles LinkedIn; \"Sergey Gantman\" Gantmonds LinkedIn (none found)",
+ "contact_person": "Sergey Gantman",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/gantmonds-company (CA SOS: CEO/CFO/Secretary/Director); exhibitor profile names him Main Contact",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "suite": "1430",
+ "trade_memberships": [
+  "Diamond Club West Coast"
+ ],
+ "hooks": [
+  "exhibitor, Las Vegas Antique Jewelry & Watch Show (booth 1123)",
+  "in business since 2008/2009"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds-Wholesale"
+ "scope_reason": "gantmonds.hub.biz returns 403; Diamond Club West Coast directory lists 'Gantmonds — Wholesale — Speciality: Diamonds — Suite 1430'; Buzzfile: 'Diamonds (Gems) ... Wholesale Trade'; exhibitor at Las Vegas Antique Jewelry & Watch Show.",
+ "verified": true,
+ "enriched": true
 }

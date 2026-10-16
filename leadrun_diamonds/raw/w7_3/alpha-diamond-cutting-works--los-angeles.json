@@ -14,18 +14,22 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Ben Filossof\" Alpha Diamond Cutting Works LinkedIn (no /in/ profile found)",
+ "contact_person": "Ben Filossof",
+ "role": "Owner",
+ "contact_source": "https://www.manta.com/c/mtxbnn3/alpha-diamond-cutting-works (Manta aggregator, via search snippet: 'Owner Ben Filossof')",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
+ "trade_memberships": [
+  "Diamond Club West Coast"
+ ],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "Listed site is example.com placeholder; Diamond Club West Coast member directory lists 'Alpha Diamond Cutting Works — Wholesale & Retail — Diamond cutting services for the trade; Secondary: Diamonds, Estate Jewelry'; YP category Diamond Cutters.",
+ "verified": true,
+ "enriched": true
 }

@@ -14,18 +14,24 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Elie Benaron\" Lex Diamond Los Angeles LinkedIn (none found)",
+ "contact_person": "Elie Benaron",
+ "role": "Owner",
+ "contact_source": "https://opengovus.com/los-angeles-business/0000898209-0001-5 (LA city business registry, via search result title 'Lex Diamond Company · Elie Benaron · 550 S Hill Street, Unit 1363'; start 1992)",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "suite": "1363",
+ "trade_memberships": [
+  "Diamond Club West Coast"
+ ],
+ "hooks": [
+  "LA business license since 1992"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Listed site moroccanlemon.com is unrelated; Diamond Club West Coast member directory lists 'Lex Diamond Co. — Wholesale — Speciality: Diamonds — (213) 627-0001 — 550 South Hill Street, Suite 1363'.",
+ "verified": true,
+ "enriched": true
 }

@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: listed site bluediamond.com is an unrelated company; no web presence for Blue Diamond Co at 607 S Hill St found (search + OpenCorporates + Diamond Club West Coast directory).",
+ "verified": false
 }

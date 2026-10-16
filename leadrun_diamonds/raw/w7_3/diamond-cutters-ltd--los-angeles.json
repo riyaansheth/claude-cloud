@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "unverified: listed site diamondcenterinc.com returns 503 and belongs to a different firm (Diamond Center Inc., 607 S Hill St Ste 300, per Diamond Club West Coast directory); no record of Diamond Cutters Ltd at 617 S Olive St found.",
+ "verified": false
 }

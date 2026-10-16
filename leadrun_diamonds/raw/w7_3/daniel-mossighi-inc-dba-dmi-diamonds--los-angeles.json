@@ -14,10 +14,10 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Daniel Mossighi\" DMI Diamonds Los Angeles LinkedIn; \"Daniel Mossighi\" LinkedIn diamonds (only a People-also-viewed mention \"President at DMI Diamonds\", no /in/ URL)",
+ "contact_person": "Daniel Mossighi",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/daniel-mossighi-inc (CA SOS extract: CEO Daniel Mossighi; agent Daniel P Mossighi); also https://www.buzzfile.com/business/Dmi-Diamonds-213-212-4200",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "dmidiamonds.com resets connection; Buzzfile profile says Daniel Mossighi Inc dba DMI Diamonds operates in 'Jewelry and Precious Stones ... Wholesale Trade - Durable Goods', 'Engaged In: Manufacturing Importing Exporting'; YP category Diamonds-Wholesale.",
+ "verified": true,
+ "enriched": true
 }

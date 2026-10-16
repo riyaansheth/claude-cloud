@@ -2,7 +2,7 @@
  "business": "Diagem Imports",
  "category_as_listed": "Diamonds-Wholesale, Jewelry Buyers, Jewelers",
  "phone": "(213) 622-0333",
- "website": "http://www.ejewelrysource.com",
+ "website": "https://diagemimports.com/",
  "address": "550 S Hill St Ste 1065",
  "city": "Los Angeles",
  "state": "CA",
@@ -13,19 +13,27 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/virendra-kothari-09821868/",
+ "linkedin_source": "\"Virendra Kothari\" Diagem Imports Los Angeles LinkedIn (result title \"Virendra Kothari - Diagem imports inc\")",
+ "contact_person": "Virendra Kothari",
+ "role": "Founder",
+ "contact_source": "https://diagemimports.com/pages/about-us-1",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.instagram.com/diagemimports/"
+ ],
  "building": "",
  "suite": "Ste 1065",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "est. 1984 as loose diamond dealer",
+  "manufacturer supplying retailers nationwide",
+  "daughters Roshni & Reshma are GIA graduates"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Buyers, Jewelers"
+ "scope_reason": "Own site diagemimports.com (YP's ejewelrysource.com unreachable): 'Virendra Kothari established Diagem in 1984 as a loose diamond dealer ... jewelry manufacturing powerhouse ... consistent trusted supplier to retailers across the country.'",
+ "verified": true,
+ "enriched": true
 }

@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: listed 'site' is an OpenCorporates record showing GEMS & GIFTS, INC. status 'Suspended Ftb/Sos' (Aug/Oct 2020 suspensions); no own site found — likely defunct.",
+ "verified": false
 }

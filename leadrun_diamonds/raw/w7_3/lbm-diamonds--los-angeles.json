@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Buyers, Diamond Buyers"
+ "scope_reason": "unverified: listed site bluediamond.com is unrelated; no web presence for LBM Diamonds at 606 S Hill St found (search, OpenCorporates, Diamond Club West Coast directory).",
+ "verified": false
 }

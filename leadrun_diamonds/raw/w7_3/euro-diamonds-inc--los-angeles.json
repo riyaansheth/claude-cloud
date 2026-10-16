@@ -14,7 +14,7 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
+ "linkedin_source": "no owner name found (search + OpenCorporates had no record)",
  "contact_person": "",
  "role": "",
  "contact_source": "",
@@ -22,10 +22,14 @@
  "tel_source": "",
  "socials": [],
  "building": "",
- "suite": "",
- "trade_memberships": [],
+ "suite": "987",
+ "trade_memberships": [
+  "Diamond Club West Coast"
+ ],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "eurodiamonds.net (self-signed cert) belongs to a Mumbai firm; but Diamond Club West Coast member directory lists 'Euro Diamonds Inc. — Wholesale — Speciality: Diamonds — (213) 627-4070 — 550 South Hill Street, Suite 987'.",
+ "verified": true,
+ "enriched": true
 }

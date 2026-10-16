@@ -25,7 +25,8 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "diamotec.com has an expired TLS cert (unreadable); GlobalSpec lists Diamotec, Inc. (Torrance) as a 'manufacturer' in its Grinding Wheels Suppliers directory — an industrial diamond-tool maker, not a gem-diamond trade business.",
+ "verified": true
 }

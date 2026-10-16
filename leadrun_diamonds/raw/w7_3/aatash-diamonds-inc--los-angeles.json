@@ -14,10 +14,10 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Vispi\" Aatash Diamonds LinkedIn (no /in/ profile found)",
+ "contact_person": "Vispi B Umranwala",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/aatash-diamonds-inc (CA SOS extract; surname also spelled Umeranwala/Umernwala)",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Listed site zaitano.com does not resolve (Cloudflare 409); D&B snippet says Aatash Diamonds 'since 2003 ... providing Wholesale - Diamonds (gems) from Los Angeles' and YP category is Diamonds-Wholesale; CA SOS (via bizprofile) shows corporation active at 606 S Hill St Ste 706.",
+ "verified": true,
+ "enriched": true
 }
