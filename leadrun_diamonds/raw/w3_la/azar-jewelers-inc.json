@@ -6,9 +6,9 @@
  "email_source": "https://www.azardesigns.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Joseph Azar",
+ "role": "Principal",
+ "contact_source": "https://www.dnb.com/business-directory/company-profiles.azar_jewelers_inc.563f9af557444196b7e67d0462a0e384.html",
  "website": "https://www.azardesigns.com",
  "address": "550 South Hill Street, Suite 600, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -39,5 +39,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Diamond wholesalers); secondary: Jewelry Manufacturers/ Estate Jewelry",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_backfill": true,
+ "li_note": "no linkedin found; BBB also lists Joseph Azar as principal/business manager"
 }

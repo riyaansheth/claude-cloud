@@ -4,11 +4,11 @@
  "phone": "(704) 341-4242",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/yuhan-tekin-3326ba92/",
+ "linkedin_source": "\"Yuhan Tekin\" Ballantyne Jewelers LinkedIn",
+ "contact_person": "Yuhan Tekin",
+ "role": "President",
+ "contact_source": "https://inside.charlotte.edu/featured-stories/shine-bright-like-a-diamond/",
  "website": "https://www.ballantynejewelers.com",
  "address": "12335 North Community House Rd., Charlotte, NC",
  "city": "Charlotte",
@@ -31,5 +31,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "Family-owned, says it imports diamonds directly from overseas sources.",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_backfill": true
 }

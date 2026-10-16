@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Cindy Lange",
+ "role": "Owner",
+ "contact_source": "https://digital-release.wdtn.com/?p=2350767",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Buyers, Bowling"
+ "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Buyers, Bowling",
+ "li_backfill": true
 }

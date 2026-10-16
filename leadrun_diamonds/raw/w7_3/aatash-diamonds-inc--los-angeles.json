@@ -29,5 +29,7 @@
  "drop_reason": "",
  "scope_reason": "Listed site zaitano.com does not resolve (Cloudflare 409); D&B snippet says Aatash Diamonds 'since 2003 ... providing Wholesale - Diamonds (gems) from Los Angeles' and YP category is Diamonds-Wholesale; CA SOS (via bizprofile) shows corporation active at 606 S Hill St Ste 706.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found; bizprofile lists CEO, diamond wholesale, LA (606 S Hill St)",
+ "li_backfill": true
 }

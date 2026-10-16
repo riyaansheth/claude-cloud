@@ -29,5 +29,7 @@
  "drop_reason": "",
  "scope_reason": "unverified: domain parked/unrelated (diamondpro.com is a baseball infield-conditioner company)",
  "verified": false,
- "enriched": true
+ "enriched": true,
+ "li_note": "no owner name found (Superpages: Bellevue NE wholesale diamond buyer); no linkedin",
+ "li_backfill": true
 }
