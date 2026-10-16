@@ -30,5 +30,7 @@
  "scope_reason": "unverified: site unreachable (elandiamondimporters.com: connection fails, proxy 502 on http and https)",
  "verified": false,
  "enriched": true,
- "enrich_note": "enrich r2: no web presence found (site DNS fails; search returns only Mervis Diamond Importers)."
+ "enrich_note": "enrich r2: no web presence found (site DNS fails; search returns only Mervis Diamond Importers).",
+ "li_note": "no individual name found; listings say Bhatia family owns it; no linkedin",
+ "li_backfill": true
 }

@@ -44,5 +44,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: 'leading diamond wholesaler in New England' since 1996; in-house GIA/EGL certified stock 0.30-10ct+, natural, fancy color and lab-grown. President name from BBB per search summary (BBB page itself returned 403).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no linkedin.com/in result tied to person; BBB lists Doron Shaar President of IDS Trading and Principal of Forever Diamond Boston (D&B key principal).",
+  "li_backfill": true
 }

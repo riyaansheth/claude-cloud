@@ -1,0 +1,22 @@
+{
+ "person": "Rich Goldberg",
+ "title": "Owner / CEO",
+ "company": "Safian & Rudolph Jewelers",
+ "company_website": "https://www.safianrudolph.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/rich-goldberg-13037215/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Philadelphia diamonds Jewelers Row owner",
+ "company_email": "",
+ "company_phone": "215-627-1834",
+ "seniority": "owner",
+ "signals": [
+  "jewelers-row",
+  "since-1952",
+  "third-generation",
+  "bridal"
+ ],
+ "source_url": "https://www.linkedin.com/in/rich-goldberg-13037215/",
+ "is_diamond_trade": true
+}

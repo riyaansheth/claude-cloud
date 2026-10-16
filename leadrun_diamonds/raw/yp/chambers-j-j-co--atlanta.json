@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (403 Forbidden on every page)",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found; jjchambers.com returned 503; no web results for J J Chambers & Co Atlanta",
+ "li_backfill": true
 }

@@ -1,0 +1,19 @@
+{
+ "person": "Alex Mellen",
+ "title": "Featured On About Page",
+ "company": "Mellen Inc. (Ben Mellen & Son)",
+ "company_website": "https://mellendiamonds.com",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "linkedin_url": "https://www.linkedin.com/in/alexmellen",
+ "linkedin_source": "WebSearch extended: Mellen Inc International Gem Tower diamonds Mellen president LinkedIn",
+ "company_email": "info@mellenco.com",
+ "company_phone": "(212) 371-1836",
+ "seniority": "other",
+ "signals": [
+  "seed-from-diamonds_all"
+ ],
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/ben-mellen-son-inc-504977561",
+ "is_diamond_trade": true
+}

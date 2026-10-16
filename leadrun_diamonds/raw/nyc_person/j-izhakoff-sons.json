@@ -4,8 +4,8 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/eli-izhakoff-353b5917/",
+  "linkedin_source": "\"Eli Izhakoff\" Izhakoff diamonds LinkedIn",
   "contact_person": "Eli Izhakoff",
   "role": "Partner",
   "contact_source": "https://en.wikipedia.org/wiki/Eli_Izhakoff",
@@ -32,5 +32,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Eli Izhakoff, partner at J. Izhakoff & Sons, longtime DDC board member/chairman (Wikipedia).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "LinkedIn headline: Eli Izhakoff - WDC, WFDB, CIBJO, DDC; Wikipedia ties him to J. Izhakoff & Sons",
+  "li_backfill": true
 }

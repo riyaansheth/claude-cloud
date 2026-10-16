@@ -32,5 +32,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Yelp: direct diamond importer since 1982; own site: area's leading (lab grown) diamond importer. Entity Nazar's Fine Jewelry, Inc. LinkedIn search for owner returned no match.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no linkedin.com/in result tied to Nazaret Kalajian",
+  "li_backfill": true
 }

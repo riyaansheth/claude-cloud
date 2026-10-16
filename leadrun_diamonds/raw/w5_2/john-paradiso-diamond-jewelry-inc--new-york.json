@@ -37,5 +37,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "By-appointment \"Diamond Engagement Ring Specialist\" where \"every piece is designed and handcrafted specifically for each client\" (custom bridal maker; site does not detail loose-stone sourcing).",
- "verified": true
+ "verified": true,
+ "li_note": "pass2: no owner name confirmed; business namesake John Paradiso described as personally inspecting pieces (giftly) but not stated as owner; site lists 74 Bowery NYC, not Edison NJ",
+ "li_backfill": true
 }

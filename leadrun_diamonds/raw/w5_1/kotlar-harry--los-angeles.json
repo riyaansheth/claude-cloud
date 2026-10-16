@@ -39,5 +39,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Legacy page: 'Harry supplies diamonds to manufacturers and dealers' and later 'stones up to 8 carats to large jewelry manufacturers and diamond dealers'; site sells loose stones (Kotlar Cushion) and has a retailer login.",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

@@ -30,5 +30,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Precision White Diamonds from sizes 0.65mm 5.00mm, all clarities, single cut and round brilliant cut.); secondary: Jewelry, Watches",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "pass2: no owner name found; site returned 503, no web results for Zayn Jewels LA",
+ "li_backfill": true
 }

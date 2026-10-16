@@ -1,0 +1,20 @@
+{
+ "person": "Javid Tehrani",
+ "title": "CEO",
+ "company": "Jay Diamond, Inc.",
+ "company_website": "https://jaydiamondinc.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/javid-tehrani-58919b20/",
+ "linkedin_source": "\"Jay Diamond Inc\" OR \"J & J Diamond World\" OR \"Inter Diamond Inc\" Los Angeles LinkedIn -> Javid Tehrani - jay diamond inc",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "owner",
+ "signals": [
+  "bourse",
+  "550 S Hill St"
+ ],
+ "source_url": "https://www.linkedin.com/in/javid-tehrani-58919b20/",
+ "is_diamond_trade": true
+}

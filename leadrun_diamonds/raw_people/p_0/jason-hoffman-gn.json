@@ -1,0 +1,22 @@
+{
+ "person": "Jason Hoffman",
+ "title": "Senior Account Executive",
+ "company": "GN Diamond",
+ "company_website": "https://www.gndiamond.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/jason-hoffman1990/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): GN Diamond Philadelphia diamonds",
+ "company_email": "sales@gndiamond.com",
+ "company_phone": "800-724-8810",
+ "seniority": "sales",
+ "signals": [
+  "cutter",
+  "manufacturer",
+  "wholesaler",
+  "since-1978"
+ ],
+ "source_url": "https://www.linkedin.com/in/jason-hoffman1990/",
+ "is_diamond_trade": true
+}

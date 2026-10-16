@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (diamond-connection.com is a parked STRATO 'Domain reserved' page)",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found; diamond-connection.com returned 503; no Atlanta Diamond Connection listing found",
+ "li_backfill": true
 }

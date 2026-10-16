@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Buyers"
+ "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Buyers",
+ "li_note": "pass2: no owner name found; Ohio Loan Co Inc is a loan/pawn-type shop at 3028 Salem Ave Dayton (Yellow Pages lists diamonds, gold jewelry, electronics) - marginal diamond-trade fit; site returned empty",
+ "li_backfill": true
 }

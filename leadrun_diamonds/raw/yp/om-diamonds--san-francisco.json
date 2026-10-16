@@ -37,5 +37,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: YP-linked diamondsonweb.com redirects to a different-named business (Yadav Diamonds and Jewelry, 888 Brannan St); Om->Yadav link not confirmed on site",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found (diamondsonweb.com returned 401; no indexed results for Om Diamonds SF)",
+ "li_backfill": true
 }

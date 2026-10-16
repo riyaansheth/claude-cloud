@@ -34,5 +34,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Linked site diamondcutters.com ('Diamond Cutters Inc', NYC 212.869.0476) sells 'the finest quality certified diamonds' loose with build-your-own rings; site does not name Katzoff, so the tie to this listing is thin.",
- "verified": true
+ "verified": true,
+ "li_note": "pass2: no owner name found; listed diamondcutters.com is Diamond Cutters Inc (NYC phone), no Katzoff/Iselin mention, no names",
+ "li_backfill": true
 }

@@ -1,0 +1,19 @@
+{
+ "person": "Dave Padgett",
+ "title": "Owner (co-founder)",
+ "company": "D&R House of Diamonds",
+ "company_website": "https://dandrhouseofdiamonds.com",
+ "city": "Las Vegas",
+ "state": "NV",
+ "market": "Las Vegas, NV",
+ "linkedin_url": "https://www.linkedin.com/in/david-padgett-9b29a65",
+ "linkedin_source": "diamonds_all.csv (prior verified run): WebSearch extended: \"Dave Padgett\" \"D&R House of Diamonds\" LinkedIn (result title: David Padgett - D&R House Of Diamonds)",
+ "company_email": "",
+ "company_phone": "(702) 758-3421",
+ "seniority": "owner",
+ "signals": [
+  "since-2013"
+ ],
+ "source_url": "https://summerlin.com/location/dr-house-of-diamonds/",
+ "is_diamond_trade": true
+}

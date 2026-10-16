@@ -1,0 +1,21 @@
+{
+ "person": "Martin Rapaport",
+ "title": "Chairman",
+ "company": "Rapaport Group (RapNet / Rapaport Trade)",
+ "company_website": "https://www.rapaport.com",
+ "city": "Las Vegas",
+ "state": "NV",
+ "market": "Las Vegas, NV",
+ "linkedin_url": "https://www.linkedin.com/in/martin-rapaport/",
+ "linkedin_source": "query: \"Rapaport\" \"Las Vegas\" LinkedIn diamond trading account manager OR director \"RapNet\" | result title: Martin Rapaport - Rapaport Group",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "owner",
+ "signals": [
+  "Chairman of Rapaport Group; LinkedIn snippet shows Las Vegas base",
+  "RapNet/Rapaport Trade (B2B diamond trading network) HQ Las Vegas, NV",
+  "Rapaport Las Vegas office: 133 East Warm Springs Road, Suite 100"
+ ],
+ "source_url": "https://www.linkedin.com/in/martin-rapaport/",
+ "is_diamond_trade": true
+}

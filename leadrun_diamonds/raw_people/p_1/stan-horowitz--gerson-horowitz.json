@@ -1,0 +1,23 @@
+{
+ "person": "Stan Horowitz",
+ "title": "Owner",
+ "company": "Gerson & Horowitz",
+ "company_website": "https://www.gersonandhorowitz.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/stan-horowitz-8b526115/",
+ "linkedin_source": "\"Gerson & Horowitz\" OR \"Gerson and Horowitz\" diamonds LinkedIn -> Stan Horowitz - Owner at Gerson & Horowitz",
+ "company_email": "",
+ "company_phone": "(213) 620-0767",
+ "seniority": "owner",
+ "signals": [
+  "bourse",
+  "importer",
+  "loose diamonds",
+  "607 S Hill St",
+  "since 1982"
+ ],
+ "source_url": "https://www.linkedin.com/in/stan-horowitz-8b526115/",
+ "is_diamond_trade": true
+}

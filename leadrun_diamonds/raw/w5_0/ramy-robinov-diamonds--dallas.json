@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (dallasdiamonds.com returns Cloudflare challenge 403)",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found; no web results for Ramy Robinov; listed site dallasdiamonds.com is Dallas Diamonds Inc (Dallas, founded by Dallas & Doreen Wottlin per Google listing) - likely a different business",
+ "li_backfill": true
 }

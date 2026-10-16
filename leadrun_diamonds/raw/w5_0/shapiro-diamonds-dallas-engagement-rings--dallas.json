@@ -43,5 +43,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site: 'a premier wholesale diamond dealer in Dallas ... sources directly from diamond cutters and manufacturers' in Belgium, Israel and India; founder Lance managed diamond manufacturing facilities in the Dallas Diamond District.",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found for Lance; company page only",
+ "li_backfill": true
 }

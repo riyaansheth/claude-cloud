@@ -35,5 +35,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Self-described manufacturer, retail and wholesale provider of certified diamonds on Jewelers Row (also listed at 5 S Wabash Ste 717 per mylocalservices).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

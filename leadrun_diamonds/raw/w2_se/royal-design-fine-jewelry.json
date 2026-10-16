@@ -31,5 +31,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "Site presents 'Loose Diamonds Wholesale' collections of GIA/EGL/HRD certified loose diamonds.",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "no owner name found; no linkedin found",
+ "li_backfill": true
 }

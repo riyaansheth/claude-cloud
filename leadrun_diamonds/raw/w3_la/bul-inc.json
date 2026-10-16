@@ -35,5 +35,7 @@
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds (Real Diamond, Jewelry, Lab Grown Manufacturer Importer and Exporters). Caveat: bulinc.com (unreachable, Cloudflare 525) is titled \"Bul MarketPlace\" — an online store for electronics, appliances and jewelry — and the CA filing classifies it as retail; borderline.",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

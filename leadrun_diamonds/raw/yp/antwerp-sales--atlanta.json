@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable as own site (naibg.com is NAI Brannen Goddard, a commercial real estate firm)",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found; listed website naibg.com is NAI Brannen Goddard (commercial real estate, unrelated); Antwerp Sales International Inc trademarks (ASI, Diamonds by the Tray) name no officers",
+ "li_backfill": true
 }

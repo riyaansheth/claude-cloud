@@ -27,5 +27,7 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "Crunchbase lists Brian Natanov as Founder and CEO of Brichelle Diamonds (surfaced on NY diamond manufacturer founder query); trade status not verified.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no linkedin.com/in result tied to person (company page lists him but URL not shown)",
+  "li_backfill": true
 }

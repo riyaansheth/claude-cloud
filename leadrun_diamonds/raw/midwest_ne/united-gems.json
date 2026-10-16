@@ -6,9 +6,9 @@
   "email_source": "",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Richard Goynshor",
+  "role": "Owner",
+  "contact_source": "https://www.unitedgem.com/about-us/",
   "website": "",
   "address": "29 E Madison St",
   "city": "Chicago",
@@ -29,5 +29,6 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "Listed under Diamonds-Wholesale at 29 E Madison.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

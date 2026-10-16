@@ -5,7 +5,7 @@
   "email": "",
   "email_source": "",
   "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_source": "\"Spartacus Soares\" Miami diamonds LinkedIn",
   "contact_person": "Spartacus R Soares da Silva",
   "role": "",
   "contact_source": "https://opencorporates.com/companies/us_fl/P26000017421",
@@ -32,5 +32,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Directory name; FL corp SP DIAMONDS INTL TRADE CORP at 36 NE 1st Suite 310 (OpenCorporates P26000017421, filed 2026; registered agent Spartacus R Soares da Silva, officer alongside a Sao Paulo entity per bizprofile). No website.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

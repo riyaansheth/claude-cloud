@@ -1,0 +1,22 @@
+{
+ "person": "Michael Diefenbach",
+ "title": "Diamond Consultant",
+ "company": "Golden Nugget Jewelers",
+ "company_website": "https://www.goldennuggetjewelry.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/michael-diefenbach-8708abb1/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Golden Nugget Jewelers Philadelphia loose diamonds",
+ "company_email": "info@goldennuggetjewelry.com",
+ "company_phone": "215-925-2777",
+ "seniority": "sales",
+ "signals": [
+  "jewelers-row",
+  "loose-diamonds",
+  "bridal",
+  "since-1987"
+ ],
+ "source_url": "https://www.linkedin.com/in/michael-diefenbach-8708abb1/",
+ "is_diamond_trade": true
+}

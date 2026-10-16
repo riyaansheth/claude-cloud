@@ -5,10 +5,10 @@
   "email": "",
   "email_source": "",
   "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_source": "\"Edmond Elghanian\" San Diego LinkedIn",
+  "contact_person": "Edmond Elghanian",
+  "role": "President",
+  "contact_source": "https://davidandsonsjewelers.com/about",
   "website": "https://davidandsonsjewelers.com",
   "address": "4485 La Jolla Village Drive",
   "city": "San Diego",
@@ -32,5 +32,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Site: 'Loose Diamonds San Diego - Unbeatable Wholesale Prices'; claims most extensive loose diamond inventory in California; wholesale provider of certified loose diamonds. Entity David & Sons Jewelry, Inc.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

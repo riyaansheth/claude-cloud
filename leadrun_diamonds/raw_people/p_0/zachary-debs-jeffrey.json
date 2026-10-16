@@ -1,0 +1,20 @@
+{
+ "person": "Zachary Debs",
+ "title": "",
+ "company": "Jeffrey Debs Jeweler Gemologist",
+ "company_website": "https://www.debsfordiamonds.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/zachary-debs-10176b1b8/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Debs Jewelers Gemologists Philadelphia diamonds",
+ "company_email": "",
+ "company_phone": "(215) 627-7821",
+ "seniority": "other",
+ "signals": [
+  "jewelers-row",
+  "family-business"
+ ],
+ "source_url": "https://www.linkedin.com/in/zachary-debs-10176b1b8/",
+ "is_diamond_trade": true
+}

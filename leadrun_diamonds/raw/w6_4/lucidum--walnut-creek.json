@@ -1,44 +1,46 @@
 {
- "category_as_listed": "Import/Export, Jewelers / Jewelry",
- "phone": "(619) 850-7174",
- "email": "tristan@lucidum.store",
- "email_source": "https://www.lucidum.store/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Tristan Griffey-Jones",
- "role": "Primary Contact",
- "contact_source": "https://business.walnut-creek.com/list/Details/lucidum-4519931",
- "website": "https://www.lucidum.store",
- "address": "",
- "city": "Walnut Creek",
- "state": "CA",
- "market": "Walnut Creek, CA",
- "lead_origin": "Web Search",
- "rating": "",
- "reviews": "",
- "source_url": "https://business.walnut-creek.com/list/Details/lucidum-4519931",
- "tel_numbers": [
-  "+1 619-850-7174"
- ],
- "tel_source": "https://www.lucidum.store/",
- "socials": [
-  "https://www.instagram.com/lucidum.store"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [
-  "GIA"
- ],
- "hooks": [
-  "natural",
-  "melee",
-  "wholesale",
-  "trade-access"
- ],
- "is_diamond_trade": true,
- "scope_reason": "Chamber listing: 'Walnut Creek-based loose gemstone and diamond supplier serving local jewelers... transparent wholesale pricing'; site: 'Wholesale Loose Gemstones & Natural Diamonds', 'Request Trade Access'.",
- "drop_reason": "",
- "business": "Lucidum",
- "verified": true,
- "enriched": true
+  "category_as_listed": "Import/Export, Jewelers / Jewelry",
+  "phone": "(619) 850-7174",
+  "email": "tristan@lucidum.store",
+  "email_source": "https://www.lucidum.store/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Tristan Griffey-Jones",
+  "role": "Primary Contact",
+  "contact_source": "https://business.walnut-creek.com/list/Details/lucidum-4519931",
+  "website": "https://www.lucidum.store",
+  "address": "",
+  "city": "Walnut Creek",
+  "state": "CA",
+  "market": "Walnut Creek, CA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://business.walnut-creek.com/list/Details/lucidum-4519931",
+  "tel_numbers": [
+    "+1 619-850-7174"
+  ],
+  "tel_source": "https://www.lucidum.store/",
+  "socials": [
+    "https://www.instagram.com/lucidum.store"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "natural",
+    "melee",
+    "wholesale",
+    "trade-access"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Chamber listing: 'Walnut Creek-based loose gemstone and diamond supplier serving local jewelers... transparent wholesale pricing'; site: 'Wholesale Loose Gemstones & Natural Diamonds', 'Request Trade Access'.",
+  "drop_reason": "",
+  "business": "Lucidum",
+  "verified": true,
+  "enriched": true,
+  "li_note": "no linkedin.com/in result tied to person",
+  "li_backfill": true
 }

@@ -1,0 +1,45 @@
+{
+ "business": "Derco Fine Jewelers",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
+ "phone": "(415) 626-7442",
+ "website": "https://www.dercodiamonds.com",
+ "address": "888 Brannan St Ste 137",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "Oakland, CA",
+ "rating": "5",
+ "reviews": "2",
+ "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/derco-fine-jewelers-12523347",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "WebSearch extended: \"Jack Der Abrahamian\" OR \"Ohan Der Abrahamian\" Derco LinkedIn + 2 variants (no /in/ profile found)",
+ "contact_person": "Ohan Der Abrahamian",
+ "role": "Owner",
+ "contact_source": "https://www.dercodiamonds.com/about-us (brothers Jack and Ohan Der Abrahamian run the family company)",
+ "tel_numbers": [
+  "(415) 626-7442"
+ ],
+ "tel_source": "https://www.dercodiamonds.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/DercoFineJewelers",
+  "https://www.instagram.com/dercodiamonds/"
+ ],
+ "building": "",
+ "suite": "Suite 137",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1939",
+  "manufacturer",
+  "importer",
+  "2nd-generation",
+  "lab-grown",
+  "natural"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "dercodiamonds.com/about-us: 'Established in 1939... Diamonds have been our business for generations', diamonds sourced worldwide via 'international agents', products 'made in house at our manufacturing department'.",
+ "verified": true,
+ "enriched": true
+}

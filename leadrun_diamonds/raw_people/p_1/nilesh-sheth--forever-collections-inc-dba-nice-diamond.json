@@ -1,0 +1,30 @@
+{
+ "person": "Nilesh Sheth",
+ "title": "President",
+ "company": "Forever Collections, Inc. dba Nice Diamonds",
+ "company_website": "https://www.nicediamond.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/nilesh-sheth-a5942b19",
+ "linkedin_source": "diamonds_all.csv (prior verified run): WebSearch: \"Nilesh Sheth\" Nice Diamonds LinkedIn",
+ "company_email": "ny@nicediamond.com",
+ "company_phone": "(213) 689-9291",
+ "seniority": "owner",
+ "signals": [
+  "Bourse",
+  "RJC",
+  "DDC",
+  "JBT",
+  "direct-line",
+  "since-1979",
+  "3rd-generation",
+  "family-owned",
+  "natural",
+  "bourse",
+  "ddc",
+  "jbt"
+ ],
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "is_diamond_trade": true
+}

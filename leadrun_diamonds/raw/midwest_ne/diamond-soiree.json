@@ -30,5 +30,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Jewelers Row showroom with one of Chicago's largest lab-grown collections; says many diamonds are produced in house. No address/phone found.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

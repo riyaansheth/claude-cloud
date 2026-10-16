@@ -6,9 +6,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Krina Shah",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/horizon-diamond-inc",
  "website": "https://www.horizondiamondsonline.net",
  "address": "550 South Hill Street, Suite 690, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -32,5 +32,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (All things diamonds! Rounds, fancy shapes, white, fancy colors, matched pairs.)",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_backfill": true,
+ "li_note": "pass2: no linkedin found tying Krina Shah to Horizon Diamonds (only unrelated same-name profiles)"
 }

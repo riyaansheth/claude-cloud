@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Linda Nichols",
+ "role": "Owner",
+ "contact_source": "https://www.themountainpress.com/news/a-golden-opportunity-for-heirloom-jewelry-enthusiasts-at-golden-carat/article_ae192bd4-1346-5235-8a4c-d8769b92a50e.html",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -29,5 +29,6 @@
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
  "verified": false,
- "enriched": true
+ "enriched": true,
+ "li_backfill": true
 }

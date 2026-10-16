@@ -5,10 +5,10 @@
   "email": "",
   "email_source": "",
   "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_source": "\"Chad Elliott\" Oceanside Jewelers Oceanside CA LinkedIn",
+  "contact_person": "Chad Elliott",
+  "role": "Owner",
+  "contact_source": "https://oceanside-jewelers.com/about",
   "website": "https://oceanside-jewelers.com",
   "address": "",
   "city": "Oceanside",
@@ -30,5 +30,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Site page 'Wholesale Diamonds / diamond brokers': 25+ years buying and selling diamonds; notes merger with Gems of La Costa - verify status.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

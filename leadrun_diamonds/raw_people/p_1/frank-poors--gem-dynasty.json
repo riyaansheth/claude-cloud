@@ -1,0 +1,24 @@
+{
+ "person": "Frank Poors",
+ "title": "Member",
+ "company": "Gem Dynasty",
+ "company_website": "https://www.losangelesdiamondseller.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/frank-poors-8298a518",
+ "linkedin_source": "diamonds_all.csv (prior verified run): WebSearch: \"Farshad Poorsalimi\" Gem Dynasty LinkedIn",
+ "company_email": "",
+ "company_phone": "(213) 623-9494",
+ "seniority": "other",
+ "signals": [
+  "Bourse",
+  "GIA",
+  "gia",
+  "manufacturer",
+  "importer",
+  "bourse"
+ ],
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "is_diamond_trade": true
+}

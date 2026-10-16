@@ -1,42 +1,43 @@
 {
- "business": "King Diamond Co",
- "category_as_listed": "Diamonds-Wholesale",
- "phone": "(213) 489-0042",
- "website": "http://ladiamond.com",
- "address": "625 S Hill St Ste 105",
- "city": "Los Angeles",
- "state": "CA",
- "market": "Pasadena, CA",
- "rating": "",
- "reviews": "",
- "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/king-diamond-co-478573518",
- "lead_origin": "YellowPages",
- "email": "info@ladiamond.com",
- "email_source": "https://www.ladiamond.com/pages/contact-us",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [
-  "(213) 998-0000"
- ],
- "tel_source": "https://www.ladiamond.com/pages/contact-us",
- "socials": [
-  "https://facebook.com/ladiamondcompany",
-  "https://instagram.com/la.diamond.goharbin",
-  "https://youtube.com/channel/UCIjhlMDHthbA7jzduke0nVQ"
- ],
- "building": "",
- "suite": "Ste 105",
- "trade_memberships": [],
- "hooks": [
-  "site trades as LA Diamond, 629 S Hill St #1100 (name King Diamond Co not on site)",
-  "three generations of craftsmanship",
-  "natural and lab-grown loose diamonds"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Listed site is LA Diamond ('Three Generations of Master Craftsmanship'), a bridal/custom jeweler selling loose natural and lab-grown diamonds ('Start with a Natural Diamond', 'From our exceptional diamond sourcing...'); site does not name King Diamond Co.",
- "verified": true
+  "business": "King Diamond Co",
+  "category_as_listed": "Diamonds-Wholesale",
+  "phone": "(213) 489-0042",
+  "website": "http://ladiamond.com",
+  "address": "625 S Hill St Ste 105",
+  "city": "Los Angeles",
+  "state": "CA",
+  "market": "Pasadena, CA",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/king-diamond-co-478573518",
+  "lead_origin": "YellowPages",
+  "email": "info@ladiamond.com",
+  "email_source": "https://www.ladiamond.com/pages/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "tel_numbers": [
+    "(213) 998-0000"
+  ],
+  "tel_source": "https://www.ladiamond.com/pages/contact-us",
+  "socials": [
+    "https://facebook.com/ladiamondcompany",
+    "https://instagram.com/la.diamond.goharbin",
+    "https://youtube.com/channel/UCIjhlMDHthbA7jzduke0nVQ"
+  ],
+  "building": "",
+  "suite": "Ste 105",
+  "trade_memberships": [],
+  "hooks": [
+    "site trades as LA Diamond, 629 S Hill St #1100 (name King Diamond Co not on site)",
+    "three generations of craftsmanship",
+    "natural and lab-grown loose diamonds"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Listed site is LA Diamond ('Three Generations of Master Craftsmanship'), a bridal/custom jeweler selling loose natural and lab-grown diamonds ('Start with a Natural Diamond', 'From our exceptional diamond sourcing...'); site does not name King Diamond Co.",
+  "verified": true,
+  "li_backfill": true
 }

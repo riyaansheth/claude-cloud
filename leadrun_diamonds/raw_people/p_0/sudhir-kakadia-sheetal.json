@@ -1,0 +1,24 @@
+{
+ "person": "Sudhir Kakadia",
+ "title": "President",
+ "company": "Sheetal Group USA Inc",
+ "company_website": "https://www.sheetal.co",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "linkedin_url": "https://www.linkedin.com/in/sudhir-kakadia-9a4a2b3b/",
+ "linkedin_source": "Sheetal Group USA New York diamonds LinkedIn",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "owner",
+ "signals": [
+  "manufacturer",
+  "de-beers-sightholder",
+  "rio-tinto-select-diamantaire",
+  "47th-street",
+  "melee",
+  "certified-diamonds"
+ ],
+ "source_url": "https://www.linkedin.com/in/sudhir-kakadia-9a4a2b3b/",
+ "is_diamond_trade": true
+}

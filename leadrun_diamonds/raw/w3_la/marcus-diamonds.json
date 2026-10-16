@@ -6,9 +6,9 @@
  "email_source": "https://www.sammandlerjewelry.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "David Marcus",
+ "role": "Owner",
+ "contact_source": "https://www.manta.com/c/mtxb0r6/marcus-diamonds",
  "website": "https://www.sammandlerjewelry.com",
  "address": "550 South Hill Street, Suite 1640, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -35,5 +35,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Jewelry (Jewelry); secondary: Diamonds, Manufacturer",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_backfill": true,
+ "li_note": "no linkedin confirmed for David Marcus at Marcus Diamonds"
 }

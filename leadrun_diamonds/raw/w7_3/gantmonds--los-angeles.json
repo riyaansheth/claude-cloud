@@ -34,5 +34,7 @@
  "drop_reason": "",
  "scope_reason": "gantmonds.hub.biz returns 403; Diamond Club West Coast directory lists 'Gantmonds — Wholesale — Speciality: Diamonds — Suite 1430'; Buzzfile: 'Diamonds (Gems) ... Wholesale Trade'; exhibitor at Las Vegas Antique Jewelry & Watch Show.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found; directories list Sergey Gantman as CEO, Gantmonds Co, 550 S Hill St LA",
+ "li_backfill": true
 }

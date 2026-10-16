@@ -1,45 +1,47 @@
 {
-  "business": "Safian & Rudolph Jewelers",
-  "category_as_listed": "",
-  "phone": "215-627-1834",
-  "email": "",
-  "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Rich Goldberg",
-  "role": "CEO",
-  "contact_source": "https://philadelphia.today/2024/11/safian-rudolph-jewelers/",
-  "website": "https://www.safianrudolph.com",
-  "address": "701 Sansom St, Philadelphia, PA 19106",
-  "city": "Philadelphia",
-  "state": "PA",
-  "market": "Philadelphia, PA",
-  "lead_origin": "Trade Directory",
-  "rating": "",
-  "reviews": "",
-  "source_url": "https://jrow.org/safian-rudolph/",
-  "tel_numbers": [
-    "(215) 627-1834",
-    "(215) 995-3090"
-  ],
-  "tel_source": "https://www.safianrudolph.com/service/about/",
-  "socials": [
-    "https://www.facebook.com/SafianRudolph",
-    "https://www.instagram.com/safianrudolph/",
-    "https://twitter.com/SafianRudolph"
-  ],
-  "building": "Jewelers Row",
-  "suite": "",
-  "trade_memberships": [
-    "Jewelers Row District"
-  ],
-  "hooks": [
-    "3rd-generation",
-    "since-1952",
-    "natural",
-    "bridal"
-  ],
-  "is_diamond_trade": true,
-  "scope_reason": "jrow.org/own site: 'Philadelphia's leader in diamonds' for ~70 years, 3-generation family firm with a vast selection of fine quality diamonds; diamond-led bridal specialist. CEO Rich Goldberg (3rd gen, took over from father Hy) per Philadelphia Business Journal via philadelphia.today.",
-  "drop_reason": ""
+ "business": "Safian & Rudolph Jewelers",
+ "category_as_listed": "",
+ "phone": "215-627-1834",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/rich-goldberg-13037215/",
+ "linkedin_source": "\"Rich Goldberg\" Safian & Rudolph Jewelers LinkedIn",
+ "contact_person": "Rich Goldberg",
+ "role": "CEO",
+ "contact_source": "https://philadelphia.today/2024/11/safian-rudolph-jewelers/",
+ "website": "https://www.safianrudolph.com",
+ "address": "701 Sansom St, Philadelphia, PA 19106",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://jrow.org/safian-rudolph/",
+ "tel_numbers": [
+  "(215) 627-1834",
+  "(215) 995-3090"
+ ],
+ "tel_source": "https://www.safianrudolph.com/service/about/",
+ "socials": [
+  "https://www.facebook.com/SafianRudolph",
+  "https://www.instagram.com/safianrudolph/",
+  "https://twitter.com/SafianRudolph"
+ ],
+ "building": "Jewelers Row",
+ "suite": "",
+ "trade_memberships": [
+  "Jewelers Row District"
+ ],
+ "hooks": [
+  "3rd-generation",
+  "since-1952",
+  "natural",
+  "bridal"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "jrow.org/own site: 'Philadelphia's leader in diamonds' for ~70 years, 3-generation family firm with a vast selection of fine quality diamonds; diamond-led bridal specialist. CEO Rich Goldberg (3rd gen, took over from father Hy) per Philadelphia Business Journal via philadelphia.today.",
+ "drop_reason": "",
+ "li_note": "profile headline Philadelphia Jewelers Row District; listed on Safian & Rudolph company page",
+ "li_backfill": true
 }

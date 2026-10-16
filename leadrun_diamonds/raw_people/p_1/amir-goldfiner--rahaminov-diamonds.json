@@ -1,0 +1,24 @@
+{
+ "person": "Amir Goldfiner",
+ "title": "President",
+ "company": "Rahaminov Diamonds",
+ "company_website": "https://www.rahaminov.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/amir-goldfiner-2b8922126",
+ "linkedin_source": "diamonds_all.csv (prior verified run): WebSearch: \"Amir Goldfiner\" Rahaminov Diamonds LinkedIn",
+ "company_email": "info@rahaminov.com",
+ "company_phone": "(213) 622-9866",
+ "seniority": "owner",
+ "signals": [
+  "Bourse",
+  "role-email",
+  "3rd-generation",
+  "natural",
+  "manufacturer",
+  "bourse"
+ ],
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "is_diamond_trade": true
+}

@@ -1,0 +1,21 @@
+{
+ "person": "Joseph Weinstein",
+ "title": "Production Manager",
+ "company": "Tower of Jewels",
+ "company_website": "https://towerofjewels.com",
+ "city": "Las Vegas",
+ "state": "NV",
+ "market": "Las Vegas, NV",
+ "linkedin_url": "https://www.linkedin.com/in/joseph-weinstein-b1898a40/",
+ "linkedin_source": "query: \"Tower of Jewels\" Las Vegas LinkedIn | result title: Joseph Weinstein - Production mgnr - Tower of jewels",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "manager",
+ "signals": [
+  "Production manager at Tower of Jewels, Las Vegas",
+  "Company site: Nevada largest manufacturing jeweler, diamond importer, and gem cutter, since 1964 (founder Jack Weinstein)",
+  "Shares surname with founder - likely family business"
+ ],
+ "source_url": "https://towerofjewels.com/",
+ "is_diamond_trade": true
+}

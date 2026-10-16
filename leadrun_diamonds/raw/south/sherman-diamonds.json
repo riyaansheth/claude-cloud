@@ -30,5 +30,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Wholesale diamonds page says it works with retailers, private dealers, designers and estate professionals (bulk/trade). Phone from magicpin listing.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no owner name found",
+  "li_backfill": true
 }

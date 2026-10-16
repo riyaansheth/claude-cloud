@@ -4,11 +4,11 @@
  "phone": "(475) 279-8658",
  "email": "info@krainzcreations.com",
  "email_source": "https://www.krainzcreations.com/contact-us",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/roland-krainz-b0a36359/",
+ "linkedin_source": "\"Roland Krainz\" Krainz Creations LinkedIn",
+ "contact_person": "Roland Krainz",
+ "role": "President",
+ "contact_source": "https://agta.org/?p=19933",
  "website": "https://www.krainzcreations.com",
  "address": "580 5th Ave, Suite 1400, New York, New York, United States, 10036",
  "city": "New York",
@@ -37,5 +37,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Manufacturer (Manufacturer of luxury goods); secondary: Jewelry, Diamonds",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "company appears NYC-based (580 5th Ave/47th St), not LA",
+ "li_backfill": true
 }

@@ -32,5 +32,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Listed by Manta under Wholesale Diamonds and as a diamond tenant in the Seybold directory.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

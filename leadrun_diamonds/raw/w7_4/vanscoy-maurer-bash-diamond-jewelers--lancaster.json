@@ -4,8 +4,8 @@
  "phone": "(717) 299-4283",
  "email": "info@vmbjewelers.com",
  "email_source": "https://vmbjewelers.com/pages/location-contact",
- "linkedin_url": "",
- "linkedin_source": "WebSearch extended: \"Mark Maurer\" Vanscoy Maurer Bash Diamond Jewelers Lancaster LinkedIn — only /company/ page found",
+ "linkedin_url": "https://www.linkedin.com/in/mark-maurer-5577418/",
+ "linkedin_source": "\"Mark Maurer\" Vanscoy Maurer Bash LinkedIn",
  "contact_person": "Mark Maurer",
  "role": "CEO",
  "contact_source": "https://vmbjewelers.com/pages/our-team",
@@ -43,5 +43,7 @@
  ],
  "is_diamond_trade": true,
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "result title: Mark Maurer - Owner - Vanscoy, Maurer & Bash Diamond Jewelers; also Mark A. Maurer II (EVP) at linkedin.com/in/mark-a-maurer-ii-8732a138/",
+ "li_backfill": true
 }

@@ -4,9 +4,9 @@
   "phone": "(617) 523-1060",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
+  "linkedin_url": "https://www.linkedin.com/in/nicole-vellucci-237b0299/",
+  "linkedin_source": "\"Nicole Vellucci\" Forever Diamond Boston LinkedIn",
+  "contact_person": "Nicole Vellucci",
   "role": "",
   "contact_source": "",
   "website": "https://www.foreverdiamondboston.com",
@@ -29,5 +29,7 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "Diamond business in the Jewelers Building; trade status unverified.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "Site: 'Nicole Vellucci leads Forever Diamond'; LinkedIn profile (Boston, Suffolk Univ.) description mentions Forever Diamond. BBB/D&B list Doron Shaar as principal.",
+  "li_backfill": true
 }

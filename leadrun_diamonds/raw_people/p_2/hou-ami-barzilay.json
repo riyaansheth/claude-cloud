@@ -1,0 +1,23 @@
+{
+ "person": "Ami Barzilay",
+ "title": "Owner (headline: diamonds wholsale)",
+ "company": "Ami Diamonds",
+ "company_website": "",
+ "city": "Houston",
+ "state": "TX",
+ "market": "Houston, TX",
+ "linkedin_url": "https://www.linkedin.com/in/ami-barzilay-300a4066",
+ "linkedin_source": "\"Davidoff Diamonds\" OR \"Diamonds and Time\" Houston Ami LinkedIn",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "owner",
+ "signals": [
+  "wholesale",
+  "6222-richmond",
+  "since-1995",
+  "new-firm-not-in-input",
+  "yelp-marks-ami-diamonds-closed-2025-verify"
+ ],
+ "source_url": "https://www.linkedin.com/in/ami-barzilay-300a4066",
+ "is_diamond_trade": true
+}

@@ -1,0 +1,24 @@
+{
+ "person": "Dave Hall",
+ "title": "Owner & President, Master Gemologist",
+ "company": "Seattle Diamonds",
+ "company_website": "https://seattlediamonds.com",
+ "city": "Seattle",
+ "state": "WA",
+ "market": "Seattle, WA",
+ "linkedin_url": "https://www.linkedin.com/in/dave-hall-6b65a414/",
+ "linkedin_source": "\"Dave Hall\" Seattle Diamonds LinkedIn",
+ "company_email": "sales@seattlediamonds.com",
+ "company_phone": "(206) 625-0105",
+ "seniority": "owner",
+ "signals": [
+  "since-1985",
+  "gia-trained",
+  "master-gemologist",
+  "loose-diamonds",
+  "lab-grown",
+  "canadian-diamonds"
+ ],
+ "source_url": "https://seattlediamonds.com/",
+ "is_diamond_trade": true
+}

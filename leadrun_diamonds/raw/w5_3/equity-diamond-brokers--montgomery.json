@@ -1,50 +1,52 @@
 {
- "business": "Equity Diamond Brokers",
- "category_as_listed": "Jewelers, Diamonds, Jewelers-Wholesale & Manufacturers",
- "phone": "(513) 793-4760",
- "website": "https://www.equitydiamondbrokers.com",
- "address": "9563 Montgomery Rd",
- "city": "Montgomery",
- "state": "OH",
- "market": "Cincinnati, OH",
- "rating": "",
- "reviews": "57",
- "source_url": "https://www.yellowpages.com/montgomery-oh/mip/equity-diamond-brokers-5829785",
- "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Chris Higgins",
- "role": "President",
- "contact_source": "https://www.jckonline.com/editorial-article/equity-diamond-brokers-aneri/",
- "tel_numbers": [
-  "(800) 367-9213"
- ],
- "tel_source": "https://www.equitydiamondbrokers.com/",
- "socials": [
-  "https://www.facebook.com/edbdiamondbrokers",
-  "https://www.instagram.com/equitydiamondbrokers/"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [
-  "CBG",
-  "IGO",
-  "RJO"
- ],
- "hooks": [
-  "since-1972",
-  "wholesale-to-independent-jewelers",
-  "loose-diamonds",
-  "manufacturer",
-  "lab-grown",
-  "jck-exhibitor",
-  "rebranded-irena-jewels"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "About page: 'Founded in 1972 as Equity Diamond Brokers' (now Irena Jewels), a diamond jewelry wholesaler serving independent jewelers with 'a robust loose diamond inventory' via Laxmi Diamond (De Beers Sightholder) and Aneri Jewels.",
- "verified": true,
- "enriched": true
+  "business": "Equity Diamond Brokers",
+  "category_as_listed": "Jewelers, Diamonds, Jewelers-Wholesale & Manufacturers",
+  "phone": "(513) 793-4760",
+  "website": "https://www.equitydiamondbrokers.com",
+  "address": "9563 Montgomery Rd",
+  "city": "Montgomery",
+  "state": "OH",
+  "market": "Cincinnati, OH",
+  "rating": "",
+  "reviews": "57",
+  "source_url": "https://www.yellowpages.com/montgomery-oh/mip/equity-diamond-brokers-5829785",
+  "lead_origin": "YellowPages",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Chris Higgins",
+  "role": "President",
+  "contact_source": "https://www.jckonline.com/editorial-article/equity-diamond-brokers-aneri/",
+  "tel_numbers": [
+    "(800) 367-9213"
+  ],
+  "tel_source": "https://www.equitydiamondbrokers.com/",
+  "socials": [
+    "https://www.facebook.com/edbdiamondbrokers",
+    "https://www.instagram.com/equitydiamondbrokers/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "CBG",
+    "IGO",
+    "RJO"
+  ],
+  "hooks": [
+    "since-1972",
+    "wholesale-to-independent-jewelers",
+    "loose-diamonds",
+    "manufacturer",
+    "lab-grown",
+    "jck-exhibitor",
+    "rebranded-irena-jewels"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "About page: 'Founded in 1972 as Equity Diamond Brokers' (now Irena Jewels), a diamond jewelry wholesaler serving independent jewelers with 'a robust loose diamond inventory' via Laxmi Diamond (De Beers Sightholder) and Aneri Jewels.",
+  "verified": true,
+  "enriched": true,
+  "li_note": "only a linkedin.com/posts/ URL by \"Chris Higgins, President at Equity Diamond Brokers\" seen; no /in/ URL shown, not constructed",
+  "li_backfill": true
 }

@@ -34,5 +34,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Founded 1975 by Eli Haas (DMIA VP, past DDC president), specializing in high-quality fancy-shaped diamonds. No contact details or LinkedIn found.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no linkedin.com/in result tied to person",
+  "li_backfill": true
 }

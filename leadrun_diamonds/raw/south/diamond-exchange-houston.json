@@ -32,5 +32,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Wholesale loose diamond dealer (natural GIA and lab-grown), open to public.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no owner on site; USPTO trademark owner 'Hoover, Nic' (unconfirmed as owner, not set)",
+  "li_backfill": true
 }

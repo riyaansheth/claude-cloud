@@ -2,13 +2,13 @@
   "business": "Diamantra Inc",
   "category_as_listed": "Diamonds-Wholesale",
   "phone": "(312) 854-3999",
-  "email": "",
-  "email_source": "",
+  "email": "chicago@diamantra.com",
+  "email_source": "https://diamantra.com/Home/ContactUs",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Nirav Mehta",
+  "role": "President",
+  "contact_source": "https://www.dnb.com/business-directory/company-profiles.diamantra_inc.918b828f6eaa5c4d8419231c2dbc211d.html",
   "website": "",
   "address": "5 S Wabash Ave",
   "city": "Chicago",
@@ -29,5 +29,6 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "Listed in Diamonds-Wholesale results at 5 S Wabash.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

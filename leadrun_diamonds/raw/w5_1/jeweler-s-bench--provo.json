@@ -1,40 +1,41 @@
 {
- "business": "Jeweler's Bench",
- "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers",
- "phone": "(801) 377-6929",
- "website": "http://www.thejewelersbenchprovo.com",
- "address": "275 N University Ave",
- "city": "Provo",
- "state": "UT",
- "market": "Salt Lake City, UT",
- "rating": "5",
- "reviews": "2",
- "source_url": "https://www.yellowpages.com/provo-ut/mip/jewelers-bench-15543133",
- "lead_origin": "YellowPages",
- "email": "team@thejewelersbenchprovo.com",
- "email_source": "https://nextdoor.com/pages/the-jewelers-bench-provo-ut-1/ (per WebSearch result, which attributes it to the own-site Contact Us; own sites thejewelersbenchprovo.com / provodiamonds.com reset the sandbox connection)",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Daniel H. Broadbent",
- "role": "Owner",
- "contact_source": "https://www.findglocal.com/US/Provo/25860555133/The-Jeweler's-Bench",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [
-  "https://www.facebook.com/TheJewelersBenchUT/"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [
-  "GIA"
- ],
- "hooks": [
-  "since-2001",
-  "manufacturer"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "unverified: site unreachable (read timeout)",
- "verified": false,
- "enriched": true
+  "business": "Jeweler's Bench",
+  "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers",
+  "phone": "(801) 377-6929",
+  "website": "http://www.thejewelersbenchprovo.com",
+  "address": "275 N University Ave",
+  "city": "Provo",
+  "state": "UT",
+  "market": "Salt Lake City, UT",
+  "rating": "5",
+  "reviews": "2",
+  "source_url": "https://www.yellowpages.com/provo-ut/mip/jewelers-bench-15543133",
+  "lead_origin": "YellowPages",
+  "email": "team@thejewelersbenchprovo.com",
+  "email_source": "https://nextdoor.com/pages/the-jewelers-bench-provo-ut-1/ (per WebSearch result, which attributes it to the own-site Contact Us; own sites thejewelersbenchprovo.com / provodiamonds.com reset the sandbox connection)",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Daniel H. Broadbent",
+  "role": "Owner",
+  "contact_source": "https://www.findglocal.com/US/Provo/25860555133/The-Jeweler's-Bench",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/TheJewelersBenchUT/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "since-2001",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "unverified: site unreachable (read timeout)",
+  "verified": false,
+  "enriched": true,
+  "li_backfill": true
 }

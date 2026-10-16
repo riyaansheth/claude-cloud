@@ -39,5 +39,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "sfdiamondexchange.com: 'Importers and Manufacturers of Diamonds & Fine Jewelry Since 1972', sells GIA-certified diamonds; 'established in 1972 by Jesse James. His daughter, Jessica, is now the second generation owner'.",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found for Jessica James",
+ "li_backfill": true
 }

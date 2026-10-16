@@ -31,5 +31,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "CEO Elliot Krischer is president of the Diamond Dealers Club of New York; found via LinkedIn profile of Shmuel Krischer (Esskay Gems Inc). Elliot's own LinkedIn not found.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no linkedin.com/in for Elliot Krischer (CEO; DDC president per Rapaport/JCK); Shmuel Krischer has https://www.linkedin.com/in/shmuel-krischer-6b61572b/ (Esskay Gems Inc)",
+  "li_backfill": true
 }

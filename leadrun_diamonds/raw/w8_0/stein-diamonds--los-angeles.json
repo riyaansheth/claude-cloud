@@ -1,0 +1,37 @@
+{
+ "business": "Stein Diamonds",
+ "category_as_listed": "Diamond Buyers, Jewelry Buyers, Diamonds",
+ "phone": "(213) 489-1767",
+ "website": "http://www.diamondtradingcenter.com",
+ "address": "606 S Los Angeles St",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Riverside, CA",
+ "rating": "3.5",
+ "reviews": "2",
+ "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/stein-diamonds-502576433",
+ "lead_origin": "YellowPages",
+ "email": "sales@steindiamonds.com",
+ "email_source": "https://www.steindiamonds.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "213.595.9821"
+ ],
+ "tel_source": "https://www.steindiamonds.com/",
+ "socials": [
+  "https://www.instagram.com/steindiamonds/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Listed site diamondtradingcenter.com does not resolve; the business's own site steindiamonds.com (606 S Olive St Ste 2110) is a consumer shop of finished jewelry, lab-grown, watches and designer bags.",
+ "verified": true,
+ "enriched": true
+}

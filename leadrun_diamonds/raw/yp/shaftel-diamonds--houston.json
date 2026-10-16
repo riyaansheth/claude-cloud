@@ -1,44 +1,46 @@
 {
- "business": "Shaftel Diamonds",
- "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers",
- "phone": "(713) 781-5300",
- "website": "https://www.shafteldiamonds.com",
- "address": "5706 San Felipe St",
- "city": "Houston",
- "state": "TX",
- "market": "Houston, TX",
- "rating": "",
- "reviews": "48",
- "source_url": "https://www.yellowpages.com/houston-tx/mip/shaftel-diamonds-557722533",
- "lead_origin": "YellowPages",
- "email": "info@shafteldiamonds.com",
- "email_source": "https://www.shafteldiamonds.com/contact-us/",
- "linkedin_url": "",
- "linkedin_source": "\"Danny Shaftel\" Shaftel Diamonds LinkedIn",
- "contact_person": "Danny Shaftel",
- "role": "CEO & Co-Owner",
- "contact_source": "https://www.shafteldiamonds.com/about-shaftel-diamonds/",
- "tel_numbers": [
-  "713-781-5300"
- ],
- "tel_source": "https://www.shafteldiamonds.com/",
- "socials": [
-  "https://www.facebook.com/ShaftelDiamonds",
-  "https://www.instagram.com/shafteldiamonds"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [
-  "GIA GG"
- ],
- "hooks": [
-  "since 1978",
-  "second generation (Keith retired 2025; Danny & Gaby lead)",
-  "began as wholesale loose-diamond supplier",
-  "custom manufacturing"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "'Shaftel Diamonds started in 1978 as a wholesale supplier of loose diamonds and precious colored gemstones, as well as a manufacturer of custom engagement rings'; still sells loose diamonds working 'directly with diamond cutters'.",
- "verified": true
+  "business": "Shaftel Diamonds",
+  "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Jewelry Buyers",
+  "phone": "(713) 781-5300",
+  "website": "https://www.shafteldiamonds.com",
+  "address": "5706 San Felipe St",
+  "city": "Houston",
+  "state": "TX",
+  "market": "Houston, TX",
+  "rating": "",
+  "reviews": "48",
+  "source_url": "https://www.yellowpages.com/houston-tx/mip/shaftel-diamonds-557722533",
+  "lead_origin": "YellowPages",
+  "email": "info@shafteldiamonds.com",
+  "email_source": "https://www.shafteldiamonds.com/contact-us/",
+  "linkedin_url": "",
+  "linkedin_source": "\"Danny Shaftel\" Shaftel Diamonds LinkedIn",
+  "contact_person": "Danny Shaftel",
+  "role": "CEO & Co-Owner",
+  "contact_source": "https://www.shafteldiamonds.com/about-shaftel-diamonds/",
+  "tel_numbers": [
+    "713-781-5300"
+  ],
+  "tel_source": "https://www.shafteldiamonds.com/",
+  "socials": [
+    "https://www.facebook.com/ShaftelDiamonds",
+    "https://www.instagram.com/shafteldiamonds"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA GG"
+  ],
+  "hooks": [
+    "since 1978",
+    "second generation (Keith retired 2025; Danny & Gaby lead)",
+    "began as wholesale loose-diamond supplier",
+    "custom manufacturing"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "'Shaftel Diamonds started in 1978 as a wholesale supplier of loose diamonds and precious colored gemstones, as well as a manufacturer of custom engagement rings'; still sells loose diamonds working 'directly with diamond cutters'.",
+  "verified": true,
+  "li_note": "candidate /in/shafteldiamond titled 'Danny Shaftel - Shaftel Diamond Co.' not recorded: slug is business name",
+  "li_backfill": true
 }

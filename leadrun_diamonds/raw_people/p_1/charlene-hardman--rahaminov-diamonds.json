@@ -1,0 +1,20 @@
+{
+ "person": "Charlene Hardman",
+ "title": "Global Sales Director",
+ "company": "Rahaminov Diamonds",
+ "company_website": "https://www.rahaminov.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/charlene-hardman-4181026a/",
+ "linkedin_source": "WebSearch extended: site:linkedin.com/in \"Rahaminov\" OR \"Lazar Diamonds\" OR \"Nadis Diamonds\" OR \"Kothari & Company\" (result title: Charlene Hardman - Global Sales Director - Rahaminov Diamonds)",
+ "company_email": "info@rahaminov.com",
+ "company_phone": "(213) 622-9866",
+ "seniority": "sales",
+ "signals": [
+  "bourse",
+  "manufacturer"
+ ],
+ "source_url": "https://www.linkedin.com/in/charlene-hardman-4181026a/",
+ "is_diamond_trade": true
+}

@@ -33,5 +33,7 @@
  "drop_reason": "",
  "scope_reason": "Listed site moroccanlemon.com is unrelated; Diamond Club West Coast member directory lists 'Lex Diamond Co. — Wholesale — Speciality: Diamonds — (213) 627-0001 — 550 South Hill Street, Suite 1363'.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found; LA business registry: Elie Benaron dba Lex Diamond Company, 550 S Hill St LA",
+ "li_backfill": true
 }

@@ -1,40 +1,42 @@
 {
-  "business": "Katz Imports, Inc.",
-  "category_as_listed": "",
-  "phone": "215-238-0197",
-  "email": "",
-  "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Todd Katz",
-  "role": "President",
-  "contact_source": "https://www.dnb.com/business-directory/company-profiles.katz_imports_inc.e3928a760b8ebc4974eabff62ad056e5.html",
-  "website": "https://www.penndiamondexchange.com",
-  "address": "723 Sansom St, Floor 1, Philadelphia, PA 19106",
-  "city": "Philadelphia",
-  "state": "PA",
-  "market": "Philadelphia, PA",
-  "lead_origin": "Trade Directory",
-  "rating": "",
-  "reviews": "",
-  "source_url": "https://jrow.org/katz-imports/",
-  "tel_numbers": [
-    "215-238-0197"
-  ],
-  "tel_source": "https://jrow.org/katz-imports/",
-  "socials": [
-    "https://www.facebook.com/people/Katz-Imports/100057210169908/"
-  ],
-  "building": "Jewelers Row",
-  "suite": "",
-  "trade_memberships": [],
-  "hooks": [
-    "importer",
-    "since-1979",
-    "family-business",
-    "wholesaler"
-  ],
-  "is_diamond_trade": true,
-  "scope_reason": "Self-described diamond importer and wholesaler on Jewelers Row; retail arm is Pennsylvania Diamond Exchange. No LinkedIn for Todd Katz found; a Zachary Katz profile (linkedin.com/in/zachary-katz-1444aa6b) lists Katz Imports as employer, role unconfirmed.",
-  "drop_reason": ""
+ "business": "Katz Imports, Inc.",
+ "category_as_listed": "",
+ "phone": "215-238-0197",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Todd Katz",
+ "role": "President",
+ "contact_source": "https://www.dnb.com/business-directory/company-profiles.katz_imports_inc.e3928a760b8ebc4974eabff62ad056e5.html",
+ "website": "https://www.penndiamondexchange.com",
+ "address": "723 Sansom St, Floor 1, Philadelphia, PA 19106",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://jrow.org/katz-imports/",
+ "tel_numbers": [
+  "215-238-0197"
+ ],
+ "tel_source": "https://jrow.org/katz-imports/",
+ "socials": [
+  "https://www.facebook.com/people/Katz-Imports/100057210169908/"
+ ],
+ "building": "Jewelers Row",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "importer",
+  "since-1979",
+  "family-business",
+  "wholesaler"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Self-described diamond importer and wholesaler on Jewelers Row; retail arm is Pennsylvania Diamond Exchange. No LinkedIn for Todd Katz found; a Zachary Katz profile (linkedin.com/in/zachary-katz-1444aa6b) lists Katz Imports as employer, role unconfirmed.",
+ "drop_reason": "",
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

@@ -1,0 +1,22 @@
+{
+ "person": "Fred Cuellar",
+ "title": "CEO & Founder (The Diamond Guy)",
+ "company": "Diamond Cutters International",
+ "company_website": "https://diamondcuttersintl.com",
+ "city": "Houston",
+ "state": "TX",
+ "market": "Houston, TX",
+ "linkedin_url": "https://www.linkedin.com/in/fredcuellar",
+ "linkedin_source": "\"Fred Cuellar\" \"Diamond Cutters International\" LinkedIn",
+ "company_email": "",
+ "company_phone": "(713) 222-2728",
+ "seniority": "owner",
+ "signals": [
+  "diamond-cutter",
+  "manufacturer",
+  "url-via-contactout-aggregator",
+  "also-in-input-list"
+ ],
+ "source_url": "https://contactout.com/Fred-Cuellar-20565199",
+ "is_diamond_trade": true
+}

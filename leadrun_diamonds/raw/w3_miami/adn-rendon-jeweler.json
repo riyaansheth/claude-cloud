@@ -38,5 +38,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: custom fine-jewelry maker (custom rings 'shop by stone', diamonds category) at Suite 807; small bench-maker, weak diamond-trade fit. Contact is the FL registered agent of ADN RENDON JEWELER, CORP (OpenCorporates).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

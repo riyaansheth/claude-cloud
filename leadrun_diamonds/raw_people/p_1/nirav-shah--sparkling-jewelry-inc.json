@@ -1,0 +1,23 @@
+{
+ "person": "Nirav Shah",
+ "title": "President",
+ "company": "Sparkling Jewelry, Inc.",
+ "company_website": "https://sparklingjewelry.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/nirav-shah-78626359/",
+ "linkedin_source": "\"Sparkling Jewelry Inc\" OR \"Simply Diamonds Inc\" OR \"Top Diamonds Inc\" Los Angeles LinkedIn -> Nirav Shah - Sparkling Jewelry, Inc.",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "owner",
+ "signals": [
+  "bourse",
+  "lab-grown",
+  "manufacturer",
+  "550 S Hill St",
+  "since 2007"
+ ],
+ "source_url": "https://www.linkedin.com/in/nirav-shah-78626359/",
+ "is_diamond_trade": true
+}

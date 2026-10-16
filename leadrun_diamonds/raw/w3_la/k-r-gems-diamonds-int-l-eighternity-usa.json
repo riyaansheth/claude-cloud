@@ -4,11 +4,11 @@
  "phone": "(213) 627-2888",
  "email": "krgems@krgems.com",
  "email_source": "https://eighternity.com/contact-eighternity",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/kalpeshjhaveri/",
+ "linkedin_source": "KR Gems & Diamonds Inc Los Angeles CEO Eighternity LinkedIn",
+ "contact_person": "Kalpesh Jhaveri",
+ "role": "CEO",
+ "contact_source": "https://wfdb.com/blog/interview-with-kalpesh-jhaveri-president-of-diamond-club-west-coast/",
  "website": "https://eighternity.com",
  "address": "550 South Hill Street, Suite 1490, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -36,5 +36,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Anything Diamonds, Your Search Stops here); secondary: Other: Owners of the Eighternity Brand Diamond/ Jewelry",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_backfill": true
 }

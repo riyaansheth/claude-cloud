@@ -1,0 +1,21 @@
+{
+ "person": "Ami Raz",
+ "title": "Owner",
+ "company": "SFD Trading Inc.",
+ "company_website": "https://sfdiamonds.com",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "linkedin_url": "https://www.linkedin.com/in/ami-raz-02840563/",
+ "linkedin_source": "query: \"SFD Trading\" San Francisco diamonds LinkedIn Ami Raz | result title: Ami Raz - SFD Trading Inc.",
+ "company_email": "sales@sfdiamonds.com",
+ "company_phone": "800-875-1733",
+ "seniority": "owner",
+ "signals": [
+  "Loose diamond wholesaler to dealers, jewelers and manufacturers since 1985",
+  "BBB lists Ami Raz as Owner",
+  "868 Brannan St, San Francisco"
+ ],
+ "source_url": "https://sfdiamonds.com/",
+ "is_diamond_trade": true
+}

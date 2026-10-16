@@ -4,9 +4,9 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
+  "linkedin_url": "https://www.linkedin.com/in/tyler-descenza-366b814a/",
   "linkedin_source": "",
-  "contact_person": "",
+  "contact_person": "Tyler DeScenza",
   "role": "",
   "contact_source": "",
   "website": "https://www.descenza.com",
@@ -30,5 +30,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Upper-floor showroom since 1915 with loose GIA-certified diamonds; multi-store retailer - borderline bridal loose-stone specialist.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "A. Tyler DeScenza named president (National Jeweler); BBB also lists Tyler DeScenza, President",
+  "li_backfill": true
 }

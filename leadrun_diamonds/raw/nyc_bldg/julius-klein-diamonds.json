@@ -4,8 +4,8 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/mark-j-klein-03a014210/",
+  "linkedin_source": "\"Mark Klein\" \"Julius Klein\" diamonds LinkedIn",
   "contact_person": "Mark Klein",
   "role": "",
   "contact_source": "https://katerinaperez.com/articles/julius-klein-modern-diamond-legacy",
@@ -31,5 +31,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Diamond manufacturing dynasty led by Mark Klein; Dec-2025 article places its office in the World Diamond Tower in the diamond district. Exact address/suite not seen (2023 release says it moved out of 580 Fifth Ave Suite 500).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "LinkedIn title: Mark J. Klein - Julius Klein Diamonds",
+  "li_backfill": true
 }

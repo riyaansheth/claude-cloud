@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable as own site (sandsbrothers.com is S&S Brothers, a differently named business at 888 Brannan; no tie to Meric Brothers found)",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found; listed website sandsbrothers.com unrelated; no Meric Brothers SF found",
+ "li_backfill": true
 }

@@ -38,5 +38,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site: 'a Diamond Cutting company based in Dallas, TX, that offers contract cutting services for Natural and Lab Grown Diamonds to manufacturers, Diamond Dealers and Jewelers around the world'.",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

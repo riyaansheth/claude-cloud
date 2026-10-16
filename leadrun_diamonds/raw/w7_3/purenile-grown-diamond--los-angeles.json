@@ -14,7 +14,7 @@
  "email": "verma@purenile.com",
  "email_source": "https://www.purenile.com/contact-us.html",
  "linkedin_url": "",
- "linkedin_source": "\"Vijay Verma\" PureNile OR Javda Los Angeles LinkedIn",
+ "linkedin_source": "",
  "contact_person": "Vijay Verma",
  "role": "Owner",
  "contact_source": "https://www.purenile.com/about.html",
@@ -42,5 +42,7 @@
  "drop_reason": "",
  "scope_reason": "purenile.com sells IGI-certified loose lab-grown diamonds and custom bridal rings from 608 S Hill St; About page: 'Pure Diamond was founded & Owned by Mr.Vijay Verma in 2016 ... DBA of Javda Inc.' - small family bridal/loose-stone house (not a chain, not a grower).",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_backfill": true,
+ "li_note": "possible (not recorded, slug is company name Javda): https://www.linkedin.com/in/javda/"
 }

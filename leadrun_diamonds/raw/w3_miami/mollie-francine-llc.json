@@ -35,5 +35,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site sells loose diamonds and diamond pairs by cut (Asscher, cushion, old mine, French, rose...), GIA certified diamonds, gemstones and antique jewelry. Contact is FL registered agent of MOLLIE FRANCINE LLC (OpenCorporates).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

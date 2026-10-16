@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (503 upstream timeout / connection reset; listing marked CLOSED)",
- "verified": false
+ "verified": false,
+ "li_note": "business marked CLOSED; no owner name found; no linkedin found",
+ "li_backfill": true
 }

@@ -1,0 +1,43 @@
+{
+ "business": "Rish Diamond",
+ "category_as_listed": "Diamonds-Wholesale",
+ "phone": "(213) 623-3294",
+ "website": "http://generaldiamonds.com",
+ "address": "550 S. Hill St Suite #860",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Long Beach, CA",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/rish-diamond-542806138",
+ "lead_origin": "YellowPages",
+ "email": "info@generaldiamonds.com",
+ "email_source": "https://generaldiamonds.com/pages/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Farid El-Khoury",
+ "role": "Owner",
+ "contact_source": "https://generaldiamonds.com/pages/about (\"Farid and Aida (owners)\"); surname from LinkedIn search result \"Farid El-Khoury - General Diamonds\"",
+ "tel_numbers": [
+  "213-624-7298",
+  "1-800-996-4367"
+ ],
+ "tel_source": "https://generaldiamonds.com/pages/contact",
+ "socials": [],
+ "building": "International Jewelry Center",
+ "suite": "Ste 860",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1985",
+  "importer",
+  "gia",
+  "loose-diamonds",
+  "manufacturer",
+  "family-business"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Listed site generaldiamonds.com/pages/about: \"Established international diamond importer in Los Angeles since 1985 ... We specialize in loose wholesale diamonds of all sizes and shapes\" and manufacture in 14K/18K/platinum. (Note: site brand is General Diamonds, not Rish.)",
+ "verified": true,
+ "enriched": true
+}

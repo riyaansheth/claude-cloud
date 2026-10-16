@@ -1,0 +1,23 @@
+{
+ "person": "Ahron Lazar",
+ "title": "Member",
+ "company": "Lazar Diamonds",
+ "company_website": "https://www.lazardiamonds.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/ahron-lazar-a40ba12b",
+ "linkedin_source": "diamonds_all.csv (prior verified run): WebSearch: Lazar Diamonds Los Angeles 550 Hill owner president LinkedIn",
+ "company_email": "hello@lazardiamonds.com",
+ "company_phone": "(213) 629-9036",
+ "seniority": "other",
+ "signals": [
+  "Bourse",
+  "role-email",
+  "direct-line",
+  "large-stones",
+  "bourse"
+ ],
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "is_diamond_trade": true
+}

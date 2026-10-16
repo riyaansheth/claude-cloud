@@ -4,8 +4,8 @@
  "phone": "(213) 489-1234",
  "email": "sales@prijems.com",
  "email_source": "https://www.prijems.com/",
- "linkedin_url": "",
- "linkedin_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/harsheelshah/",
+ "linkedin_source": "\"Harsheel Shah\" Prime Oak Capital Los Angeles LinkedIn",
  "contact_person": "Harsheel Shah",
  "role": "President",
  "contact_source": "https://www.prijems.com/pages/about-1",
@@ -39,5 +39,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Fancy color, rose cut, old cut, one of a kind); secondary: Manufacturer",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "profile headline is Prime Oak Capital (LA); Prijems LinkedIn company page lists Harsheel Shah as Founding Principal - Prime Oak Capital, and primeoakcapital.com/team says he began career at Prijems; Prijems site: President since 2010",
+ "li_backfill": true
 }

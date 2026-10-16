@@ -39,5 +39,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site About: 'Spiro Jacob Diamonds is a 3rd Generation Diamond Manufacturing Company and a member of the Israel Diamond Exchange for over 75 years', with a Dallas office.",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

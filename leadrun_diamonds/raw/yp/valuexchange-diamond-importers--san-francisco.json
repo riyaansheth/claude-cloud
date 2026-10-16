@@ -32,5 +32,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site: 'Harold Apfelbaum Founder and President of ValuExchange Diamond Importers' - 'GIA diamonds, engagement rings, and custom jewelry design specialists in the San Francisco Bay Area'.",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

@@ -41,5 +41,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Custom engagement-ring specialist offering natural and lab-grown loose diamonds; owner letter: 'I'll guide you honestly through every decision, from your center stone to your metal to your final design'.",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

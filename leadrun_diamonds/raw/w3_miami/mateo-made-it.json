@@ -33,5 +33,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: Miami custom maker of hip-hop style gold and diamond jewelry (Suite 363). Weak fit: small custom maker.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

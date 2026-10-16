@@ -13,11 +13,11 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/joshgaynor/",
+ "linkedin_source": "\"Josh Gaynor\" Lugano Diamonds LinkedIn",
+ "contact_person": "Josh Gaynor",
+ "role": "CEO",
+ "contact_source": "https://luganodiamonds.com/team",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers",
+ "li_backfill": true
 }

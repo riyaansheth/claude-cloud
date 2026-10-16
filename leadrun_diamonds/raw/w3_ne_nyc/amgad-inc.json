@@ -6,9 +6,9 @@
   "email_source": "https://www.amgad.com/contact-us.html",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Amnon Gad",
+  "role": "Founder",
+  "contact_source": "http://atgandco.com/about",
   "website": "https://www.amgad.com",
   "address": "580 Fifth Avenue Suite 2504, New York, NY 10036",
   "city": "New York",
@@ -43,5 +43,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: 'Wholesaler of GIA Certified Natural, Fancy Colored Diamonds'; 'we manufacture and wholesale these gems'. Other site emails: adrian@amgad.com, sarith@amgad.com.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "Owner and Founder per A.T.G. & Co. about page (seen in search result; page not fetchable); Jordan Fine is VP marketing & sales per Rapaport. No linkedin.com/in for Amnon Gad",
+  "li_backfill": true
 }

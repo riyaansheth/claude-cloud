@@ -4,8 +4,8 @@
   "phone": "877-566-5524",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/mark-hadley-49a130124/",
+  "linkedin_source": "\"Mark Hadley\" jeweler Denver diamonds linkedin",
   "contact_person": "Mark Hadley",
   "role": "Owner",
   "contact_source": "https://cherrycreeknorth.com/post/marks-diamonds/",
@@ -32,5 +32,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Represents one of the largest diamond wholesalers in the world to offer loose diamonds; owner in diamond business since 1980; has storefront (part retail)",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

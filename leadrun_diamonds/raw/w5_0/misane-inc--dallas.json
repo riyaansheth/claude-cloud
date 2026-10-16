@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (misanejewelry.com does not resolve / proxy 502)",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found (misanejewelry.com does not resolve; no indexed record of Misane Inc Fort Worth)",
+ "li_backfill": true
 }

@@ -4,11 +4,11 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/bert-levi-5961108/",
+  "linkedin_source": "\"Bert Levi\" Levi Family Jewelers LinkedIn",
+  "contact_person": "Bert Levi",
+  "role": "Owner",
+  "contact_source": "https://www.levifamilyjewelers.com/about",
   "website": "https://www.levifamilyjewelers.com",
   "address": "",
   "city": "San Diego",
@@ -30,5 +30,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site post titled 'San Diego Diamond Merchant'; Hillcrest jeweler and jewelry buyer - borderline.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

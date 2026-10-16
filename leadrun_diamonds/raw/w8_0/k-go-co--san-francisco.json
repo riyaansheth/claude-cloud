@@ -1,0 +1,41 @@
+{
+ "business": "K Go & Co",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
+ "phone": "(415) 982-5125",
+ "website": "http://kgoandco.com",
+ "address": "760 Market Street Suite 1008",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "Oakland, CA",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/k-go-co-347340",
+ "lead_origin": "YellowPages",
+ "email": "eric@kgoandco.com",
+ "email_source": "http://kgoandco.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Keigo Kitagawa",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ca/san-francisco/profile/jewelry-manufacturers/k-go-co-1116-171345 (BBB: Mr. Keigo Kitagawa, Owner)",
+ "tel_numbers": [
+  "415.982.4664"
+ ],
+ "tel_source": "http://kgoandco.com/",
+ "socials": [],
+ "building": "",
+ "suite": "Ste 1008",
+ "trade_memberships": [],
+ "hooks": [
+  "importer",
+  "exporter",
+  "wholesale",
+  "manufacturer",
+  "yp-number-is-fax"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "kgoandco.com: \"K\" GO & CO. \"Import - Export Wholesale Jewelry Manufacturing Diamonds & Precious Stones\".",
+ "verified": true,
+ "enriched": true
+}

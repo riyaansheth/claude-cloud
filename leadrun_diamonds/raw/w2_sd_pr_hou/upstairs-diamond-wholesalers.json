@@ -4,11 +4,11 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/steve-ritz-a7aba439/",
+  "linkedin_source": "\"Upstairs Diamond Wholesalers\" Houston owner",
+  "contact_person": "Steve Ritz",
+  "role": "Owner",
+  "contact_source": "https://willyou.net/jewelers/upstairs-diamond-wholesalers-houston-tx",
   "website": "",
   "address": "",
   "city": "Houston",
@@ -32,5 +32,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Listing: Houston jewelry manufacturer and distributor that buys and sells loose diamonds, at location since 1984.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "LinkedIn title: Steve Ritz - Owner at Upstairs Diamond Wholesalers. Record website is the building site; own site upstairsdiamond-wholesalers.com",
+  "li_backfill": true
 }

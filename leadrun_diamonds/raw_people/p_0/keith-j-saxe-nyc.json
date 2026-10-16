@@ -1,0 +1,19 @@
+{
+ "person": "Keith J. Saxe",
+ "title": "President",
+ "company": "NYC Wholesale Diamonds Inc.",
+ "company_website": "https://www.nycwholesalediamonds.com",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "linkedin_url": "https://www.linkedin.com/in/keithsaxe",
+ "linkedin_source": "WebSearch: Keith Saxe NYC Wholesale Diamonds LinkedIn",
+ "company_email": "",
+ "company_phone": "(212) 719-2214",
+ "seniority": "owner",
+ "signals": [
+  "seed-from-diamonds_all"
+ ],
+ "source_url": "https://www.linkedin.com/in/keithsaxe/",
+ "is_diamond_trade": true
+}

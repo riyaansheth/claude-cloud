@@ -35,5 +35,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: diamond jewelry 'crafted by White Carat' (custom diamond pendants, chains), Miami Suite 117 + Toronto; Saveen Lalani is FL registered agent of WHITE CARAT CO. (OpenCorporates P22000055429) and WHITE CARAT trademark owner.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

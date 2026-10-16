@@ -1,0 +1,21 @@
+{
+ "person": "Matthew Sulby",
+ "title": "President",
+ "company": "Unclaimed Diamonds",
+ "company_website": "https://www.unclaimeddiamonds.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/matthew-sulby-77431b18/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Unclaimed Diamonds Philadelphia 8th Street",
+ "company_email": "",
+ "company_phone": "(215) 923-3210",
+ "seniority": "owner",
+ "signals": [
+  "jewelers-row",
+  "since-1988",
+  "fourth-generation"
+ ],
+ "source_url": "https://www.linkedin.com/in/matthew-sulby-77431b18/",
+ "is_diamond_trade": true
+}

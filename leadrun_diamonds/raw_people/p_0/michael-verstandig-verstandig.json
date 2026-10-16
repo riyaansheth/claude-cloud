@@ -1,0 +1,19 @@
+{
+ "person": "Michael Verstandig",
+ "title": "Manager",
+ "company": "Verstandig & Sons, Inc.",
+ "company_website": "",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "linkedin_url": "https://www.linkedin.com/in/michael-verstandig-6606619",
+ "linkedin_source": "WebSearch extended: \"Michael Verstandig\" diamonds LinkedIn (title \"Michael Verstandig - Sales Manager at Verstandig & Sons, Inc.\")",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "manager",
+ "signals": [
+  "seed-from-diamonds_all"
+ ],
+ "source_url": "https://rapaport.com/?p=26954",
+ "is_diamond_trade": true
+}

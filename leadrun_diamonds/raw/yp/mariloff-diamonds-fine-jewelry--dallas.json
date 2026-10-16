@@ -1,44 +1,45 @@
 {
- "business": "Mariloff Diamonds & Fine Jewelry",
- "category_as_listed": "Diamonds-Wholesale, Jewelers, Diamonds",
- "phone": "(214) 744-2490",
- "website": "https://www.mariloff.com",
- "address": "5151 Belt Line Rd Ste 100",
- "city": "Dallas",
- "state": "TX",
- "market": "Dallas, TX",
- "rating": "",
- "reviews": "78",
- "source_url": "https://www.yellowpages.com/dallas-tx/mip/mariloff-diamonds-fine-jewelry-462053385",
- "lead_origin": "YellowPages",
- "email": "info@mariloff.com",
- "email_source": "https://www.mariloff.com/contact-us/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Rafi",
- "role": "",
- "contact_source": "https://www.mariloff.com/our-story/ ('Moshe's son-in-law, Rafi, at the helm'; surname not given)",
- "tel_numbers": [
-  "+1-214-744-2490"
- ],
- "tel_source": "https://www.mariloff.com/contact-us/",
- "socials": [
-  "https://www.facebook.com/mariloff",
-  "https://www.instagram.com/mariloff_diamonds",
-  "https://www.tiktok.com/@mariloff_diamonds"
- ],
- "building": "",
- "suite": "Ste 100",
- "trade_memberships": [],
- "hooks": [
-  "since 1948",
-  "third-generation family-owned",
-  "natural & lab-grown",
-  "founder was diamond wholesaler in Israel",
-  "official fine jewelry of the Dallas Stars"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Site bills itself 'Dallas' Leader in Wholesale Natural & Lab Diamonds, Custom Engagement Rings'; founder Arye Fozailoff was a diamond wholesaler in Israel and the family hand-selects diamonds (also a retail showroom carrying Gabriel & Co.) - borderline bridal specialist.",
- "verified": true
+  "business": "Mariloff Diamonds & Fine Jewelry",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers, Diamonds",
+  "phone": "(214) 744-2490",
+  "website": "https://www.mariloff.com",
+  "address": "5151 Belt Line Rd Ste 100",
+  "city": "Dallas",
+  "state": "TX",
+  "market": "Dallas, TX",
+  "rating": "",
+  "reviews": "78",
+  "source_url": "https://www.yellowpages.com/dallas-tx/mip/mariloff-diamonds-fine-jewelry-462053385",
+  "lead_origin": "YellowPages",
+  "email": "info@mariloff.com",
+  "email_source": "https://www.mariloff.com/contact-us/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Rafi",
+  "role": "",
+  "contact_source": "https://www.mariloff.com/our-story/ ('Moshe's son-in-law, Rafi, at the helm'; surname not given)",
+  "tel_numbers": [
+    "+1-214-744-2490"
+  ],
+  "tel_source": "https://www.mariloff.com/contact-us/",
+  "socials": [
+    "https://www.facebook.com/mariloff",
+    "https://www.instagram.com/mariloff_diamonds",
+    "https://www.tiktok.com/@mariloff_diamonds"
+  ],
+  "building": "",
+  "suite": "Ste 100",
+  "trade_memberships": [],
+  "hooks": [
+    "since 1948",
+    "third-generation family-owned",
+    "natural & lab-grown",
+    "founder was diamond wholesaler in Israel",
+    "official fine jewelry of the Dallas Stars"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Site bills itself 'Dallas' Leader in Wholesale Natural & Lab Diamonds, Custom Engagement Rings'; founder Arye Fozailoff was a diamond wholesaler in Israel and the family hand-selects diamonds (also a retail showroom carrying Gabriel & Co.) - borderline bridal specialist.",
+  "verified": true,
+  "li_backfill": true
 }

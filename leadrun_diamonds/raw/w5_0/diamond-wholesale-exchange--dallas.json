@@ -31,6 +31,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "Own blog (dwedallas.wordpress.com, last posts 2014): 'Diamond Wholesale Exchange \u2014 Providing our Customers with all of their Wholesale Diamond needs!'; content is old, business activity unconfirmed.",
- "verified": true
+ "scope_reason": "Own blog (dwedallas.wordpress.com, last posts 2014): 'Diamond Wholesale Exchange — Providing our Customers with all of their Wholesale Diamond needs!'; content is old, business activity unconfirmed.",
+ "verified": true,
+ "li_note": "pass2: no owner name found; dwedallas.wordpress.com names no people; no web listing found for Diamond Wholesale Exchange in Fort Worth/Dallas",
+ "li_backfill": true
 }

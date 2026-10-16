@@ -1,0 +1,21 @@
+{
+ "person": "Rohan Tak",
+ "title": "President",
+ "company": "Golden Stone USA Inc.",
+ "company_website": "",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/rohan-tak-a3b92a93/",
+ "linkedin_source": "\"Shoham\" OR \"Javda\" OR \"Golden Stone USA\" diamonds Los Angeles LinkedIn -> Rohan Tak - President at Golden Stone USA, Inc",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "owner",
+ "signals": [
+  "bourse",
+  "640 S Hill St",
+  "diamond jewelry"
+ ],
+ "source_url": "https://www.linkedin.com/in/rohan-tak-a3b92a93/",
+ "is_diamond_trade": true
+}

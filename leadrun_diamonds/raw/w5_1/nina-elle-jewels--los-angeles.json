@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Nina Elle",
+ "role": "Owner",
+ "contact_source": "https://www.ninaellejewels.com/pages/about-us",
  "tel_numbers": [
   "310-709-0282"
  ],
@@ -40,5 +40,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "About page: 'an extension of a successful family business with over 20 years experience in the diamond industry ... We manufacture high quality diamond engagement rings ... at remarkable wholesale prices' with 'a large selection of GIA EGL USA & non certified diamonds' (bridal maker; also sells moissanite - borderline).",
- "verified": true
+ "verified": true,
+ "li_note": "pass2: owner named Nina Elle on own About page (may be trade name; Meet page says Nina E); LA jewelry district not Beverly Hills; search summary says this profile identifies holder as president of Nina Elle Jewels LA - verify | possible (not recorded: result title shows no business tie): https://www.linkedin.com/in/nina-elle-733a99156/",
+ "li_backfill": true
 }

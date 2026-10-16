@@ -1,0 +1,21 @@
+{
+ "person": "Jahan Yadegar",
+ "title": "Owner",
+ "company": "Jahan Diamond Imports",
+ "company_website": "https://jahandiamondimports.com",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "linkedin_url": "https://www.linkedin.com/in/jahan-yadegar-2146543b/",
+ "linkedin_source": "query: \"Jahan Diamond Imports\" San Francisco LinkedIn | result title: Jahan Yadegar - Owner, Jahan Diamond Imports",
+ "company_email": "",
+ "company_phone": "(415) 956-6391",
+ "seniority": "owner",
+ "signals": [
+  "Family-owned diamond importer since 1985",
+  "275 Post St, San Francisco (also Walnut Creek)",
+  "Owner role 1985-present per LinkedIn"
+ ],
+ "source_url": "https://jahandiamondimports.com/pages/about-us",
+ "is_diamond_trade": true
+}

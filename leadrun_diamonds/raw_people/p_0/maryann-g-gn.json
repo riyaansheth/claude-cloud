@@ -1,0 +1,21 @@
+{
+ "person": "Maryann G.",
+ "title": "National Senior Sales Director",
+ "company": "GN Diamond",
+ "company_website": "https://www.gndiamond.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/maryann-g-a49a23147/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): GN Diamond Philadelphia diamonds",
+ "company_email": "sales@gndiamond.com",
+ "company_phone": "800-724-8810",
+ "seniority": "executive",
+ "signals": [
+  "cutter",
+  "manufacturer",
+  "wholesaler"
+ ],
+ "source_url": "https://www.linkedin.com/in/maryann-g-a49a23147/",
+ "is_diamond_trade": true
+}

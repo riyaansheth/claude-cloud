@@ -1,43 +1,44 @@
 {
- "business": "Rivchun Chas S & Sons",
- "category_as_listed": "Jewelers, Diamonds, Diamonds-Wholesale",
- "phone": "(216) 781-0999",
- "website": "https://rivchunjewelers.com",
- "address": "850 Euclid Ave",
- "city": "Cleveland",
- "state": "OH",
- "market": "Cleveland, OH",
- "rating": "",
- "reviews": "109",
- "source_url": "https://www.yellowpages.com/cleveland-oh/mip/rivchun-chas-s-sons-461835804",
- "lead_origin": "YellowPages",
- "email": "info@rivchunjewelers.com",
- "email_source": "https://rivchunjewelers.com/contact-us/",
- "linkedin_url": "",
- "linkedin_source": "\"Joe Soukenik\" Rivchun Jewelers LinkedIn",
- "contact_person": "Joe Soukenik, Jr.",
- "role": "Owner",
- "contact_source": "https://rivchunjewelers.com/about-rivchun-jewelers-cleveland-ohio/",
- "tel_numbers": [
-  "+1 216-781-0999"
- ],
- "tel_source": "https://rivchunjewelers.com/about-rivchun-jewelers-cleveland-ohio/",
- "socials": [
-  "https://www.facebook.com/rivchunjewelerscleveland",
-  "https://www.instagram.com/rivchun_jewelers",
-  "https://www.pinterest.com/rivchunjewelers"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [
-  "since-1917",
-  "wholesale-retail",
-  "sources-from-cutters",
-  "bridal"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Site: \"owned and operated as a wholesale/retail establishment\"; \"acquires the majority of their diamonds from ethical sources and cutting sites in Russia and Israel\" and \"Diamond cutters and gem collectors visit Rivchun Jewelers\".",
- "verified": true
+  "business": "Rivchun Chas S & Sons",
+  "category_as_listed": "Jewelers, Diamonds, Diamonds-Wholesale",
+  "phone": "(216) 781-0999",
+  "website": "https://rivchunjewelers.com",
+  "address": "850 Euclid Ave",
+  "city": "Cleveland",
+  "state": "OH",
+  "market": "Cleveland, OH",
+  "rating": "",
+  "reviews": "109",
+  "source_url": "https://www.yellowpages.com/cleveland-oh/mip/rivchun-chas-s-sons-461835804",
+  "lead_origin": "YellowPages",
+  "email": "info@rivchunjewelers.com",
+  "email_source": "https://rivchunjewelers.com/contact-us/",
+  "linkedin_url": "",
+  "linkedin_source": "\"Joe Soukenik\" Rivchun Jewelers LinkedIn",
+  "contact_person": "Joe Soukenik, Jr.",
+  "role": "Owner",
+  "contact_source": "https://rivchunjewelers.com/about-rivchun-jewelers-cleveland-ohio/",
+  "tel_numbers": [
+    "+1 216-781-0999"
+  ],
+  "tel_source": "https://rivchunjewelers.com/about-rivchun-jewelers-cleveland-ohio/",
+  "socials": [
+    "https://www.facebook.com/rivchunjewelerscleveland",
+    "https://www.instagram.com/rivchun_jewelers",
+    "https://www.pinterest.com/rivchunjewelers"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1917",
+    "wholesale-retail",
+    "sources-from-cutters",
+    "bridal"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Site: \"owned and operated as a wholesale/retail establishment\"; \"acquires the majority of their diamonds from ethical sources and cutting sites in Russia and Israel\" and \"Diamond cutters and gem collectors visit Rivchun Jewelers\".",
+  "verified": true,
+  "li_backfill": true
 }

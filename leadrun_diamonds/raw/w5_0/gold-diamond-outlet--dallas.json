@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: no own website (listing points to a Facebook page)",
- "verified": false
+ "verified": false,
+ "li_note": "no owner name found; no linkedin found",
+ "li_backfill": true
 }

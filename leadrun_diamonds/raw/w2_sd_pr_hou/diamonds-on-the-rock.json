@@ -5,10 +5,10 @@
   "email": "",
   "email_source": "",
   "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_source": "\"Debra Levine\" Diamonds on the Rock La Jolla LinkedIn",
+  "contact_person": "Debra Levine",
+  "role": "Owner",
+  "contact_source": "https://diamondsontherock.com/",
   "website": "https://diamondsontherock.com",
   "address": "",
   "city": "San Diego",
@@ -32,5 +32,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Site: diamond wholesalers for over 25 years in San Diego, now selling wholesale diamonds to the public; Knot lists La Jolla/San Diego.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

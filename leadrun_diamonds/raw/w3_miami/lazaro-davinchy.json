@@ -40,5 +40,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: buys/sells gold, diamonds & watches; diamonds natural and lab-grown, VS+, GIA certified options, loose or set; custom bench at Suite 130. Mixed diamond/watch dealer.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

@@ -1,0 +1,21 @@
+{
+ "person": "Moshe Klein",
+ "title": "President",
+ "company": "Grandview Klein Diamonds",
+ "company_website": "https://www.gkdg.com",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "linkedin_url": "https://www.linkedin.com/in/moshe-klein-18a52112/",
+ "linkedin_source": "WebSearch extended: \"Grandview Klein\" diamonds LinkedIn",
+ "company_email": "marketing@gkdg.com",
+ "company_phone": "212.719.4800",
+ "seniority": "owner",
+ "signals": [
+  "manufacturer",
+  "debeers-sightholder",
+  "since-1948"
+ ],
+ "source_url": "https://www.linkedin.com/in/moshe-klein-18a52112/",
+ "is_diamond_trade": true
+}

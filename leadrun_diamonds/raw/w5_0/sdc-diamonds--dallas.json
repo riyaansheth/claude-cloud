@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: no own website (listing URL is a directory/third-party/placeholder page) (dallasmarketcenter.com exhibitor directory)",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: listed as exclusive wholesaler in Dallas Market Center Diamond District (dallasmarketcenter.com/diamond); no owner name found",
+ "li_backfill": true
 }

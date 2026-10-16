@@ -40,5 +40,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site (now Good Diamond Co.) says it was 'one of the first diamond stores in the Dallas Fort Worth Metroplex to sell diamond engagement rings and loose diamonds to the public at broker-direct wholesale prices' and also buys diamonds ('Sell a Diamond').",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found; business now Good Diamond Co. per gooddiamond.co/about",
+ "li_backfill": true
 }

@@ -1,0 +1,24 @@
+{
+ "person": "Uri Ariel",
+ "title": "President",
+ "company": "HRA Group (Hrausa LTD, US office Seattle)",
+ "company_website": "https://www.hragroup.com",
+ "city": "Seattle",
+ "state": "WA",
+ "market": "Seattle, WA",
+ "linkedin_url": "https://www.linkedin.com/in/uri-ariel-68ab79160/",
+ "linkedin_source": "\"Uri Ariel\" HRA Group diamonds LinkedIn",
+ "company_email": "info@hragroup.com",
+ "company_phone": "(206) 903-0533",
+ "seniority": "executive",
+ "signals": [
+  "manufacturer",
+  "canadian-diamonds",
+  "crossworks-manufacturing",
+  "hq-vancouver",
+  "us-sales-office-seattle",
+  "profile-location-vancouver"
+ ],
+ "source_url": "https://www.linkedin.com/in/uri-ariel-68ab79160/",
+ "is_diamond_trade": true
+}

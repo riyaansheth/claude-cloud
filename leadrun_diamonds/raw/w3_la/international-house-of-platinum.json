@@ -6,9 +6,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Behrouz Ahdout",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/international-house-of-platinum",
  "website": "https://www.intlhouseofplatinum.com",
  "address": "550 South Hill Street, Suite 903, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -30,5 +30,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds; secondary: Diamonds",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "pass2: Behrouz Ahdout listed as CEO in CA filing (bizprofile); other directories name Benjamin/Ben Ahdout as President; no linkedin.com/in/ URL found; business trades as Sebastian Bernard",
+ "li_backfill": true
 }

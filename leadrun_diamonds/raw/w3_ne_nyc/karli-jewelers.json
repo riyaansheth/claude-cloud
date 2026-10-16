@@ -35,5 +35,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "YP: Jewelers-Wholesale & Manufacturers; founded 2006 by 'Kevork' (40+ years in industry). Diamond line not explicitly confirmed.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "site says 'Kevork founded Karli Jewelers in 2006' - first name only, surname not found",
+  "li_backfill": true
 }

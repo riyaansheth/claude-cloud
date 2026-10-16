@@ -29,5 +29,7 @@
  "drop_reason": "",
  "scope_reason": "Own site luzdiamonds.com returns 401; BBB profile categorises Luz Diamonds, Inc. under Diamond and directories describe it as a diamond wholesaler (inc. 2002), consistent with YP 'Diamonds-Wholesale'.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin tied to Luz Diamonds (linkedin.com/in/danluzon is DTL Advisors, unconfirmed)",
+ "li_backfill": true
 }

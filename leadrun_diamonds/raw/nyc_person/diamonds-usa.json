@@ -30,5 +30,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "LinkedIn page, New York NY, specialty natural color diamonds; David Braverman listed as President/Owner. Slug is business vanity so not recorded as person LinkedIn.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "only /in/diamondsusa (business-name slug) found; not recorded",
+  "li_backfill": true
 }

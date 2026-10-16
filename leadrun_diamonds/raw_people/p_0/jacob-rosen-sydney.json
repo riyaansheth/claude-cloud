@@ -1,0 +1,20 @@
+{
+ "person": "Jacob Rosen",
+ "title": "Jeweler",
+ "company": "Sydney Rosen Company",
+ "company_website": "https://www.sydneyrosen.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/jacob-rosen-1820b46b/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Sydney Rosen Company Philadelphia jewelry manufacturer",
+ "company_email": "sales@sydneyrosen.com",
+ "company_phone": "215-922-3500",
+ "seniority": "other",
+ "signals": [
+  "jewelers-row",
+  "family-business"
+ ],
+ "source_url": "https://www.linkedin.com/in/jacob-rosen-1820b46b/",
+ "is_diamond_trade": true
+}

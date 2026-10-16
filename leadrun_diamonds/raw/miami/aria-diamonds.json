@@ -35,5 +35,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Manta Wholesale Diamonds category; owner Tomer Baruch described as gemologist; sister ARIA diamonds Jerusalem (ariajerusalem.com) lists NE 1st St #902 Miami.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

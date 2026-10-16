@@ -5,7 +5,7 @@
   "email": "",
   "email_source": "",
   "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_source": "\"Zulfiya Seidova\" Miami LinkedIn",
   "contact_person": "Zulfiya Seidova",
   "role": "President",
   "contact_source": "https://www.dnb.com/business-directory/company-profiles.eli_melee_diamonds_inc.3143bbca19035e2773e7aa1163cc4c91.html",
@@ -30,5 +30,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Directory name; FL corp ELI MELEE DIAMONDS, INC (OpenCorporates P13000063733, agent Zulfiya Seidova) at 36 NE 1st St Ste 701; D&B lists Seidova as president. Melee diamond dealer by name; no website.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

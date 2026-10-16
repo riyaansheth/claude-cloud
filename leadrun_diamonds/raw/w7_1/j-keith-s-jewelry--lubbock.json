@@ -1,43 +1,44 @@
 {
- "business": "J. Keith's Jewelry",
- "category_as_listed": "",
- "phone": "(806) 791-0092",
- "website": "https://jkeithjewelry.com",
- "address": "8001 Quaker Ave, Suite H",
- "city": "Lubbock",
- "state": "TX",
- "market": "Lubbock, TX",
- "rating": "",
- "reviews": "",
- "source_url": "https://jkeithjewelry.com/pages/about-us",
- "lead_origin": "Web Search",
- "email": "sales@jkeithjewelry.com",
- "email_source": "https://jkeithjewelry.com/",
- "linkedin_url": "",
- "linkedin_source": "WebSearch extended: \"Keith Smith\" J. Keith's Jewelry Lubbock LinkedIn - no personal profile",
- "contact_person": "Keith Smith",
- "role": "Owner",
- "contact_source": "https://www.bbb.org/us/tx/lubbock/profile/jewelry-stores/j-keiths-jewelry-inc-0875-11942",
- "tel_numbers": [
-  "8067910092"
- ],
- "tel_source": "https://jkeithjewelry.com/",
- "socials": [
-  "https://www.facebook.com/JKeithsJewelry",
-  "https://www.instagram.com/jkeithsjewelry"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [
-  "since-1990",
-  "certified-gemologist",
-  "custom",
-  "casting"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Borderline bridal specialist: own site says owner J.Keith is a certified gemologist, store opened 1990, custom design from CAD/wax 'to the final casting'; directory describes it as West Texas's 'leading bridal source' with a large selection of loose diamonds.",
- "verified": true,
- "enriched": true
+  "business": "J. Keith's Jewelry",
+  "category_as_listed": "",
+  "phone": "(806) 791-0092",
+  "website": "https://jkeithjewelry.com",
+  "address": "8001 Quaker Ave, Suite H",
+  "city": "Lubbock",
+  "state": "TX",
+  "market": "Lubbock, TX",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://jkeithjewelry.com/pages/about-us",
+  "lead_origin": "Web Search",
+  "email": "sales@jkeithjewelry.com",
+  "email_source": "https://jkeithjewelry.com/",
+  "linkedin_url": "",
+  "linkedin_source": "WebSearch extended: \"Keith Smith\" J. Keith's Jewelry Lubbock LinkedIn - no personal profile",
+  "contact_person": "Keith Smith",
+  "role": "Owner",
+  "contact_source": "https://www.bbb.org/us/tx/lubbock/profile/jewelry-stores/j-keiths-jewelry-inc-0875-11942",
+  "tel_numbers": [
+    "8067910092"
+  ],
+  "tel_source": "https://jkeithjewelry.com/",
+  "socials": [
+    "https://www.facebook.com/JKeithsJewelry",
+    "https://www.instagram.com/jkeithsjewelry"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1990",
+    "certified-gemologist",
+    "custom",
+    "casting"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Borderline bridal specialist: own site says owner J.Keith is a certified gemologist, store opened 1990, custom design from CAD/wax 'to the final casting'; directory describes it as West Texas's 'leading bridal source' with a large selection of loose diamonds.",
+  "verified": true,
+  "enriched": true,
+  "li_backfill": true
 }

@@ -1,0 +1,20 @@
+{
+ "person": "Kendrick Long Jr",
+ "title": "",
+ "company": "Golden Nugget Jewelers",
+ "company_website": "https://www.goldennuggetjewelry.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/kendrick-long-jr-3b5696194/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Golden Nugget Jewelers Philadelphia loose diamonds",
+ "company_email": "info@goldennuggetjewelry.com",
+ "company_phone": "215-925-2777",
+ "seniority": "other",
+ "signals": [
+  "jewelers-row",
+  "loose-diamonds"
+ ],
+ "source_url": "https://www.linkedin.com/in/kendrick-long-jr-3b5696194/",
+ "is_diamond_trade": true
+}

@@ -1,0 +1,21 @@
+{
+ "person": "Dror Argaman",
+ "title": "Founder & Diamond Expert",
+ "company": "Argaman Diamonds",
+ "company_website": "https://argamandiamonds.com",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "linkedin_url": "https://www.linkedin.com/in/dror-argaman-88838321/",
+ "linkedin_source": "query: \"Argaman Diamonds\" San Francisco LinkedIn owner | result title: Dror Argaman - Argaman Diamonds",
+ "company_email": "",
+ "company_phone": "(800) 449-7089",
+ "seniority": "owner",
+ "signals": [
+  "Founder/president of Argaman Diamonds, 49 Geary St Ste 234, San Francisco",
+  "Previously 15 years as president of SFD Trading Inc. (SF diamond wholesaler) per company About page",
+  "ZoomInfo/SignalHire list him as founder & diamond specialist"
+ ],
+ "source_url": "https://argamandiamonds.com/",
+ "is_diamond_trade": true
+}

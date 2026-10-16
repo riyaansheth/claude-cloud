@@ -13,11 +13,11 @@
  "lead_origin": "YellowPages",
  "email": "service@swisswatch.net",
  "email_source": "https://swisswatch.net/pages/contact-us",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/joseph-harrell-6544952b/",
+ "linkedin_source": "\"Swiss Watch & Diamond Exchange\" Harrell president OR owner Dallas",
+ "contact_person": "Joseph Harrell",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/tx/dallas/profile/watch-repair/swiss-watch-diamond-exchange-0875-34000519",
  "tel_numbers": [
   "(214) 361-4367"
  ],
@@ -38,5 +38,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site About: 'Since 1971, we have specialized in our expert location services of all shapes and sizes of loose diamonds ... proud members of the Diamond Dealers Club of New York and Polygon'; also offers diamond recutting (primarily a pre-owned watch dealer).",
- "verified": true
+ "verified": true,
+ "li_note": "pass2: BBB lists Mr. Joseph Harrell, President; LinkedIn title Joseph Harrell - Owner - Swiss Watch & Diamond Exchange; store is in Dallas (not Fort Worth)",
+ "li_backfill": true
 }

@@ -1,42 +1,43 @@
 {
- "business": "Belgium Diamond Inc",
- "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
- "phone": "(212) 937-8715",
- "website": "https://www.belgiumny.com",
- "address": "15 W 47th St",
- "city": "New York",
- "state": "NY",
- "market": "Hackensack, NJ",
- "rating": "",
- "reviews": "34",
- "source_url": "https://www.yellowpages.com/new-york-ny/mip/belgium-diamond-inc-472432182",
- "lead_origin": "YellowPages",
- "email": "info@belgiumgroup.net",
- "email_source": "https://www.belgiumny.com/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [
-  "+1 (212) 937-8715",
-  "+1 (347) 701-0415"
- ],
- "tel_source": "https://www.belgiumny.com/",
- "socials": [],
- "building": "20 W 47th St",
- "suite": "Suite 500",
- "trade_memberships": [
-  "RapNet"
- ],
- "hooks": [
-  "wholesale",
-  "certified",
-  "fancy-color",
-  "natural"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Listed belgiumdiamond.net is a parked ad page; belgiumny.com (Belgium NY, 20 W 47th St Suite 500, same +1 (212) 937-8715) is a wholesale loose-diamond trading portal ('Wholesale Diamonds', 'Certified Diamonds', 'Fancy Diamonds') listing RapNet member ID 61666.",
- "verified": true
+  "business": "Belgium Diamond Inc",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
+  "phone": "(212) 937-8715",
+  "website": "https://www.belgiumny.com",
+  "address": "15 W 47th St",
+  "city": "New York",
+  "state": "NY",
+  "market": "Hackensack, NJ",
+  "rating": "",
+  "reviews": "34",
+  "source_url": "https://www.yellowpages.com/new-york-ny/mip/belgium-diamond-inc-472432182",
+  "lead_origin": "YellowPages",
+  "email": "info@belgiumgroup.net",
+  "email_source": "https://www.belgiumny.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "tel_numbers": [
+    "+1 (212) 937-8715",
+    "+1 (347) 701-0415"
+  ],
+  "tel_source": "https://www.belgiumny.com/",
+  "socials": [],
+  "building": "20 W 47th St",
+  "suite": "Suite 500",
+  "trade_memberships": [
+    "RapNet"
+  ],
+  "hooks": [
+    "wholesale",
+    "certified",
+    "fancy-color",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Listed belgiumdiamond.net is a parked ad page; belgiumny.com (Belgium NY, 20 W 47th St Suite 500, same +1 (212) 937-8715) is a wholesale loose-diamond trading portal ('Wholesale Diamonds', 'Certified Diamonds', 'Fancy Diamonds') listing RapNet member ID 61666.",
+  "verified": true,
+  "li_backfill": true
 }

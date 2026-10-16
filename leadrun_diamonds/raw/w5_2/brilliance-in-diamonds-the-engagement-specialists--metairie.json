@@ -1,47 +1,48 @@
 {
- "business": "Brilliance In Diamonds - The Engagement Specialists",
- "category_as_listed": "Jewelers, Jewelers-Wholesale & Manufacturers, Diamonds",
- "phone": "(504) 383-8669",
- "website": "http://www.brillianceindiamonds.com",
- "address": "3000 Kingman St Ste 215",
- "city": "Metairie",
- "state": "LA",
- "market": "New Orleans, LA",
- "rating": "5",
- "reviews": "1",
- "source_url": "https://www.yellowpages.com/metairie-la/mip/brilliance-in-diamonds-the-engagement-specialists-479872499",
- "lead_origin": "YellowPages",
- "email": "info@brillianceindiamonds.com",
- "email_source": "https://brillianceindiamonds.com/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Kevin",
- "role": "Founder",
- "contact_source": "https://brillianceindiamonds.com/pages/about",
- "tel_numbers": [
-  "(504) 532-7474",
-  "(504) 655-9224"
- ],
- "tel_source": "https://brillianceindiamonds.com/",
- "socials": [
-  "https://www.facebook.com/BrillianceInDiamonds",
-  "https://www.instagram.com/brillianceindiamonds/",
-  "https://www.pinterest.com/brillianceindiamonds/",
-  "https://www.tiktok.com/@brillianceindiamonds"
- ],
- "building": "",
- "suite": "Ste 215",
- "trade_memberships": [
-  "GIA (Graduate Diamonds)"
- ],
- "hooks": [
-  "since 2012",
-  "husband-and-wife owned (Kevin founder/owner, Liz owner/creative director; last names not given)",
-  "natural and lab-grown",
-  "custom engagement showroom"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Bridal specialist: 'husband-and-wife-owned custom jewelry showroom' founded by Kevin, a GIA Graduate Diamonds professional who worked 'on both the wholesale and retail sides of the industry', offering custom engagement rings and 'speak with a diamond specialist'.",
- "verified": true
+  "business": "Brilliance In Diamonds - The Engagement Specialists",
+  "category_as_listed": "Jewelers, Jewelers-Wholesale & Manufacturers, Diamonds",
+  "phone": "(504) 383-8669",
+  "website": "http://www.brillianceindiamonds.com",
+  "address": "3000 Kingman St Ste 215",
+  "city": "Metairie",
+  "state": "LA",
+  "market": "New Orleans, LA",
+  "rating": "5",
+  "reviews": "1",
+  "source_url": "https://www.yellowpages.com/metairie-la/mip/brilliance-in-diamonds-the-engagement-specialists-479872499",
+  "lead_origin": "YellowPages",
+  "email": "info@brillianceindiamonds.com",
+  "email_source": "https://brillianceindiamonds.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Kevin Brown",
+  "role": "Founder",
+  "contact_source": "https://www.linkedin.com/in/the-engagement-specialist/",
+  "tel_numbers": [
+    "(504) 532-7474",
+    "(504) 655-9224"
+  ],
+  "tel_source": "https://brillianceindiamonds.com/",
+  "socials": [
+    "https://www.facebook.com/BrillianceInDiamonds",
+    "https://www.instagram.com/brillianceindiamonds/",
+    "https://www.pinterest.com/brillianceindiamonds/",
+    "https://www.tiktok.com/@brillianceindiamonds"
+  ],
+  "building": "",
+  "suite": "Ste 215",
+  "trade_memberships": [
+    "GIA (Graduate Diamonds)"
+  ],
+  "hooks": [
+    "since 2012",
+    "husband-and-wife owned (Kevin founder/owner, Liz owner/creative director; last names not given)",
+    "natural and lab-grown",
+    "custom engagement showroom"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Bridal specialist: 'husband-and-wife-owned custom jewelry showroom' founded by Kevin, a GIA Graduate Diamonds professional who worked 'on both the wholesale and retail sides of the industry', offering custom engagement rings and 'speak with a diamond specialist'.",
+  "verified": true,
+  "li_backfill": true
 }

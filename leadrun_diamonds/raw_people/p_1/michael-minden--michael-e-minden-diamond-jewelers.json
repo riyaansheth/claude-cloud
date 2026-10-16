@@ -1,0 +1,21 @@
+{
+ "person": "Michael Minden",
+ "title": "President",
+ "company": "Michael E. Minden Diamond Jewelers",
+ "company_website": "https://lovemyjeweler.com",
+ "city": "Las Vegas",
+ "state": "NV",
+ "market": "Las Vegas, NV",
+ "linkedin_url": "https://www.linkedin.com/in/michael-minden-4b44b825/",
+ "linkedin_source": "query: \"Michael E. Minden\" Diamond Jewelers Las Vegas LinkedIn | result title: Michael Minden - Michael E. Minden Diamond Jewelers",
+ "company_email": "",
+ "company_phone": "(702) 253-5588",
+ "seniority": "owner",
+ "signals": [
+  "President per BBB listing; family business founded 1988 in Las Vegas",
+  "Claims largest certified loose diamond inventory in greater Las Vegas area (company site)",
+  "Independent bridal/loose-diamond specialist, Fashion Show Mall (retail-leaning)"
+ ],
+ "source_url": "https://www.bbb.org/us/nv/las-vegas/profile/jewelry-stores/michael-e-minden-diamond-jewelers-1086-59694",
+ "is_diamond_trade": true
+}

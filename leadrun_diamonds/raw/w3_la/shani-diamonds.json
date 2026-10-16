@@ -35,5 +35,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Calibrated Rounds and Fancy Shapes); secondary: Jewelry, Watches",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "pass2: no owner name found; shanidiamonds.com (Shani Diamonds Corp, loose diamond wholesaler) names no individuals",
+ "li_backfill": true
 }

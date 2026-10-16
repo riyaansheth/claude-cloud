@@ -1,0 +1,20 @@
+{
+ "person": "Bob Watt",
+ "title": "Gemologist (BBB lists as Owner)",
+ "company": "Exact Gems International LLC",
+ "company_website": "",
+ "city": "Seattle",
+ "state": "WA",
+ "market": "Seattle, WA",
+ "linkedin_url": "https://www.linkedin.com/in/bob-watt-6985a234/",
+ "linkedin_source": "\"Exact Gems\" Seattle OR \"Hugo and Sons\" Tacoma diamonds owner",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "owner",
+ "signals": [
+  "wholesale",
+  "gemologist"
+ ],
+ "source_url": "https://www.bbb.org/us/wa/seattle/profile/jewelry-stores/exact-gems-international-1296-7050863",
+ "is_diamond_trade": true
+}

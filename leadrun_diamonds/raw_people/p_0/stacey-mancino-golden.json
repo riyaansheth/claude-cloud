@@ -1,0 +1,22 @@
+{
+ "person": "Stacey Mancino",
+ "title": "Sales Administration Manager",
+ "company": "Golden Nugget Jewelers",
+ "company_website": "https://www.goldennuggetjewelry.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/stacey-mancino-23585b99/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Golden Nugget Jewelers Philadelphia loose diamonds",
+ "company_email": "info@goldennuggetjewelry.com",
+ "company_phone": "215-925-2777",
+ "seniority": "manager",
+ "signals": [
+  "jewelers-row",
+  "loose-diamonds",
+  "bridal",
+  "since-1987"
+ ],
+ "source_url": "https://www.linkedin.com/in/stacey-mancino-23585b99/",
+ "is_diamond_trade": true
+}

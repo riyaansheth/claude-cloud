@@ -1,45 +1,47 @@
 {
- "business": "Marla's Gem Creations",
- "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
- "phone": "(713) 977-9884",
- "website": "http://www.marlasgemcreations.com",
- "address": "6222 Richmond Ave",
- "city": "Houston",
- "state": "TX",
- "market": "Houston, TX",
- "rating": "",
- "reviews": "12",
- "source_url": "https://www.yellowpages.com/houston-tx/mip/marlas-gem-creations-549312724?lid=1000574422273",
- "lead_origin": "YellowPages",
- "email": "marla@marlasgemcreations.com",
- "email_source": "https://www.marlasgemcreations.com/about-marlas-gem-creation",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Marla",
- "role": "Founder",
- "contact_source": "https://www.marlasgemcreations.com/about-marlas-gem-creation (surname not given; daughter Miranda also in business)",
- "tel_numbers": [
-  "+1-713-977-9884",
-  "+1-713-977-9380"
- ],
- "tel_source": "https://www.marlasgemcreations.com/about-marlas-gem-creation",
- "socials": [
-  "https://www.facebook.com/marlasgemcreations"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [
-  "GIA AJP (Miranda)"
- ],
- "hooks": [
-  "in jewelry since 1980",
-  "mother-daughter",
-  "loose diamonds bought in bulk",
-  "6222 Richmond Ste 360",
-  "Etsy/eBay shops"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Wholesale page: 'Our store sells diamonds and jewelry at wholesale pricing because we buy loose stones in bulk and have them as part of our inventory', custom-making rings around its own loose diamonds - bridal/custom specialist with own loose stock.",
- "verified": true
+  "business": "Marla's Gem Creations",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
+  "phone": "(713) 977-9884",
+  "website": "http://www.marlasgemcreations.com",
+  "address": "6222 Richmond Ave",
+  "city": "Houston",
+  "state": "TX",
+  "market": "Houston, TX",
+  "rating": "",
+  "reviews": "12",
+  "source_url": "https://www.yellowpages.com/houston-tx/mip/marlas-gem-creations-549312724?lid=1000574422273",
+  "lead_origin": "YellowPages",
+  "email": "marla@marlasgemcreations.com",
+  "email_source": "https://www.marlasgemcreations.com/about-marlas-gem-creation",
+  "linkedin_url": "https://www.linkedin.com/in/marla-omer-4a59725/",
+  "linkedin_source": "\"Marla Omer\" jewelry Houston",
+  "contact_person": "Marla Omer",
+  "role": "Owner",
+  "contact_source": "https://www.linkedin.com/in/marla-omer-4a59725/",
+  "tel_numbers": [
+    "+1-713-977-9884",
+    "+1-713-977-9380"
+  ],
+  "tel_source": "https://www.marlasgemcreations.com/about-marlas-gem-creation",
+  "socials": [
+    "https://www.facebook.com/marlasgemcreations"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA AJP (Miranda)"
+  ],
+  "hooks": [
+    "in jewelry since 1980",
+    "mother-daughter",
+    "loose diamonds bought in bulk",
+    "6222 Richmond Ste 360",
+    "Etsy/eBay shops"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Wholesale page: 'Our store sells diamonds and jewelry at wholesale pricing because we buy loose stones in bulk and have them as part of our inventory', custom-making rings around its own loose diamonds - bridal/custom specialist with own loose stock.",
+  "verified": true,
+  "li_note": "result title: marla omer - Owner, marla's gem creations; surname not on own site (about page: mother-daughter duo Marla and Miranda); a second profile marla-omer-9813b8141 also titled Business Owner at Marla's Gem Creations",
+  "li_backfill": true
 }

@@ -6,7 +6,7 @@
   "email_source": "",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
+  "contact_person": "Zeki Ozcan",
   "role": "",
   "contact_source": "",
   "website": "https://www.bostondiamondstudio.com",
@@ -32,5 +32,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Sells loose natural and lab-grown diamonds from Jewelers Building studio; bridal/loose-stone specialist, retail-facing.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "BBB: owned by husband and wife Zeki and Arvik Ozcan. LinkedIn profile 'Zeki Ozcan - Boston Diamond Studio' exists at /in/bostondiamondstudio/ but slug is business name, so not recorded per rules.",
+  "li_backfill": true
 }

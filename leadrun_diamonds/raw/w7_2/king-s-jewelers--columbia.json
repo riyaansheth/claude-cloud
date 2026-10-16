@@ -38,5 +38,7 @@
  "scope_reason": "Borderline: \"Columbia's Home for Diamonds Since 1946\"; merchant profile says member of the Association of Direct Diamond Importers with \"internationally imported\" GIA-certified diamonds; otherwise a downtown retail jeweler. Own site blocked after 2 pages (connection resets) — no email found.",
  "drop_reason": "",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no personal linkedin url in results; King's Jewelers company page lists Ian Picow as President",
+ "li_backfill": true
 }

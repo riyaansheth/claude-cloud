@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Margarita Pereda",
+ "role": "Owner",
+ "contact_source": "https://news.centurionjewelry.com/articles/detail/video-rancho-cucamonga-jeweler-pistol-whipped-during-robbery",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Watches, Jewelers",
- "enriched": true
+ "enriched": true,
+ "li_backfill": true
 }

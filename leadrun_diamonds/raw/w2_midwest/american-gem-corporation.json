@@ -29,5 +29,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "YellowPages lists under Diamonds-Wholesale, 35 years in business, at 23077 Greenfield Rd (Advance Building jewelry offices)",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (maysjewelers.com now serves an unrelated Shanghai branding agency, not this jeweler)",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no Layne's Jewelers found in San Francisco (only a Layne's Jewelry in Gonzales, LA via jewelers.org); listed website is a different jeweler; no owner name found",
+ "li_backfill": true
 }

@@ -1,0 +1,21 @@
+{
+ "person": "Steve Berger",
+ "title": "Sales Associate",
+ "company": "Grandview Klein Diamond Group",
+ "company_website": "https://www.gkdg.com",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "linkedin_url": "https://www.linkedin.com/in/steve-berger-648930238/",
+ "linkedin_source": "WebSearch extended: \"Grandview Klein\" diamonds LinkedIn",
+ "company_email": "marketing@gkdg.com",
+ "company_phone": "212.719.4800",
+ "seniority": "sales",
+ "signals": [
+  "manufacturer",
+  "debeers-sightholder",
+  "since-1948"
+ ],
+ "source_url": "https://www.linkedin.com/in/steve-berger-648930238/",
+ "is_diamond_trade": true
+}

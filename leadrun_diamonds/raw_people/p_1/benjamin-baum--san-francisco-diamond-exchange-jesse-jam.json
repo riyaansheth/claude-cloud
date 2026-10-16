@@ -1,0 +1,21 @@
+{
+ "person": "Benjamin Baum",
+ "title": "Gemologist (MBA, GIA GG, GP)",
+ "company": "San Francisco Diamond Exchange (Jesse James Enterprises)",
+ "company_website": "https://www.sfdiamondexchange.com",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "linkedin_url": "https://www.linkedin.com/in/benbaum/",
+ "linkedin_source": "query: \"San Francisco Diamond Exchange\" Jessica James LinkedIn | result title: Benjamin Baum MBA, GIA GG, GP - San Francisco Diamond Exchange",
+ "company_email": "sfdiamondexchange@yahoo.com",
+ "company_phone": "(415) 255-0999",
+ "seniority": "sales",
+ "signals": [
+  "GIA Graduate Gemologist",
+  "LinkedIn lists San Francisco Diamond Exchange as employer",
+  "Firm located at 868 Brannan St (Diamond District)"
+ ],
+ "source_url": "https://www.linkedin.com/in/benbaum/",
+ "is_diamond_trade": true
+}

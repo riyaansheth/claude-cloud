@@ -34,5 +34,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site (redirects to selldiamondsnyc.com) is a Diamond District diamond buyer: \"We Buy All Diamond Types ... large and rare diamonds and loose diamonds\", \"certified diamond buyers in NYC\" with \"20 years\" in diamond buying and selling - estate-diamond buyer, consumer-facing (also buys gold, coins, watches).",
- "verified": true
+ "verified": true,
+ "li_note": "pass2: site redirects to selldiamondsnyc.com (55 W 47th St Ste 203D, New York); no owner name found on site or search",
+ "li_backfill": true
 }

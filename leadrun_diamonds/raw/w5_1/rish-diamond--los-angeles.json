@@ -38,5 +38,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Listed site General Diamonds: \"Established international diamond importer in Los Angeles since 1985, Farid and Aida (owners)\"; \"Farid travels to the world's diamond centers and carefully selects stones from the diamond cutters\".",
- "verified": true
+ "verified": true,
+ "li_note": "no surname found; Farid and Aida are owners of General Diamonds (generaldiamonds.com, 550 S Hill St LA), not clearly Rish Diamonds; Yelp shows Farid E.; no linkedin",
+ "li_backfill": true
 }

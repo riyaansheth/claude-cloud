@@ -1,0 +1,21 @@
+{
+ "person": "Kfir Ram",
+ "title": "Shira Diamonds (owner per directories)",
+ "company": "Shira Diamonds",
+ "company_website": "https://shira-diamonds.com",
+ "city": "Dallas",
+ "state": "TX",
+ "market": "Dallas, TX",
+ "linkedin_url": "https://www.linkedin.com/in/kfir-ram-46632a8b",
+ "linkedin_source": "\"Kfir Ram\" OR \"Richard Ribacoff\" Shira Diamonds LinkedIn",
+ "company_email": "",
+ "company_phone": "214-466-1776",
+ "seniority": "owner",
+ "signals": [
+  "wholesale",
+  "importer",
+  "manufacturer"
+ ],
+ "source_url": "https://www.linkedin.com/in/kfir-ram-46632a8b",
+ "is_diamond_trade": true
+}

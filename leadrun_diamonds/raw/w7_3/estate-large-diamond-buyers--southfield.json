@@ -41,5 +41,6 @@
  "scope_reason": "Estate diamond buyer: About page says it \"specializes\" in buying large diamonds, \"With over 20 years in the diamond buying industry\", with buyers across the nation (LA/Chicago/Michigan numbers); also buys watches and scrap gold.",
  "verified": true,
  "enriched": true,
- "dup_of": "raw/yp/estate-large-diamond-buyers--southfield.json"
+ "dup_of": "raw/yp/estate-large-diamond-buyers--southfield.json",
+ "li_backfill": true
 }

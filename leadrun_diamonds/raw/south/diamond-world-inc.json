@@ -31,5 +31,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Site: direct importer and wholesaler of loose diamonds of all shapes, 30+ years.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no owner name found on site (/about) or web search",
+  "li_backfill": true
 }

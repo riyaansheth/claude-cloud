@@ -13,11 +13,11 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/rudolf-haug-557726102/",
+ "linkedin_source": "\"Rudi Haug\" Goldsmith by Rudi LinkedIn",
+ "contact_person": "Rudi Haug",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/nc/hendersonville/profile/jewelry-stores/the-goldsmith-by-rudi-ltd-0473-2162",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -29,5 +29,6 @@
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
  "verified": false,
- "enriched": true
+ "enriched": true,
+ "li_backfill": true
 }

@@ -1,0 +1,40 @@
+{
+ "business": "Finer Diamonds",
+ "category_as_listed": "Diamond Buyers, Jewelry Buyers",
+ "phone": "(513) 671-2554",
+ "website": "http://finerdiamonds.com",
+ "address": "7340 A Kenwood Rd",
+ "city": "Cincinnati",
+ "state": "OH",
+ "market": "Dayton, OH",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/cincinnati-oh/mip/finer-diamonds-551156225",
+ "lead_origin": "YellowPages",
+ "email": "finerdcinci@gmail.com",
+ "email_source": "https://www.yellowpages.com/cincinnati-oh/mip/finer-diamonds-551156225",
+ "linkedin_url": "",
+ "linkedin_source": "WebSearch extended: \"Allen Finer\" Finer Diamonds Cincinnati LinkedIn (no profile found)",
+ "contact_person": "Allen Finer",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/oh/cincinnati/profile/jewelry-stores/finer-diamonds-0292-7000363",
+ "tel_numbers": [
+  "+1 513-671-2554"
+ ],
+ "tel_source": "https://finerdiamonds.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/finerdiamonds/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "loose-diamonds",
+  "estate-diamond-buyer"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Thin: own site (rendered) has a 'Loose Diamonds' line and 'We Buy Diamonds and Gold' / estate jewelry buying alongside retail jewelry ('Over 5,000 Items in Stock'). Borderline retail. YP spillover into Dayton market.",
+ "verified": true,
+ "enriched": true
+}

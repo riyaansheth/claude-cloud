@@ -1,0 +1,21 @@
+{
+ "person": "Bob Wiener",
+ "title": "",
+ "company": "Worldwide Diamond",
+ "company_website": "",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/bob-wiener-b0759012/",
+ "linkedin_source": "\"Unique Diamond International\" OR \"Worldwide Diamond\" Los Angeles Hill Street LinkedIn -> Bob Wiener - worldwide diamond",
+ "company_email": "",
+ "company_phone": "(213) 622-2191",
+ "seniority": "other",
+ "signals": [
+  "bourse",
+  "607 S Hill St",
+  "California Jewelry Mart"
+ ],
+ "source_url": "https://www.linkedin.com/in/bob-wiener-b0759012/",
+ "is_diamond_trade": true
+}

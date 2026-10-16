@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found; possibly not diamond trade: only directory hit for Diamotec (spyur.am) is a Torrance CA machine-tool manufacturer; site 503",
+ "li_backfill": true
 }

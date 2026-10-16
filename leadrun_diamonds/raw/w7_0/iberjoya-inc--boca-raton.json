@@ -1,51 +1,52 @@
 {
- "business": "Iberjoya Inc",
- "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
- "phone": "(561) 544-6076",
- "website": "https://iberjoyausa.com/",
- "address": "751 Park of Commerce Dr",
- "city": "Boca Raton",
- "state": "FL",
- "market": "Aventura, FL",
- "rating": "",
- "reviews": "21",
- "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/iberjoya-inc-454860133",
- "lead_origin": "YellowPages",
- "email": "info@iberjoyausa.com",
- "email_source": "https://iberjoyausa.com/pages/contact",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Angel Manrique III",
- "role": "Featured On About Page",
- "contact_source": "https://iberjoyausa.com/pages/history-heritage",
- "tel_numbers": [
-  "5615446076",
-  "(877) 423-7569"
- ],
- "tel_source": "https://iberjoyausa.com/pages/contact https://iberjoyausa.com/pages/appointment",
- "socials": [
-  "https://www.facebook.com/IberjoyaDiamonds",
-  "https://www.instagram.com/iberjoya/?hl=en",
-  "https://www.pinterest.com/IberJoyaDiamonds/"
- ],
- "building": "",
- "suite": "Suite 134",
- "trade_memberships": [
-  "GIA"
- ],
- "hooks": [
-  "since-1949",
-  "4th-generation",
-  "manufacturer",
-  "natural",
-  "loose-diamonds",
-  "wholesale",
-  "gia-gg"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "History page: IberJoya 'sought to integrate sourcing and manufacturing while concentrating its business largely in diamonds' and 'Jewelry manufacturing, wholesale business, and retail partnerships are all under one house'; homepage sells Certified Loose and Mounted Diamonds, est. 1949.",
- "verified": true,
- "enriched": true,
- "enrich_notes": "w7_0 sub2: fetched /, /pages/contact, /pages/about-iberjoya, /pages/history-heritage, /pages/appointment; history names Angel Manrique III (also quoted in Boca Raton Tribune 2026-07 article) and Anthony Manrique (GIA gemologist); Sunbiz 403 (Cloudflare); 2 extended LinkedIn searches for Angel Manrique + IberJoya found no tied /in/ URL; only toll-free 877 extra number."
+  "business": "Iberjoya Inc",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
+  "phone": "(561) 544-6076",
+  "website": "https://iberjoyausa.com/",
+  "address": "751 Park of Commerce Dr",
+  "city": "Boca Raton",
+  "state": "FL",
+  "market": "Aventura, FL",
+  "rating": "",
+  "reviews": "21",
+  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/iberjoya-inc-454860133",
+  "lead_origin": "YellowPages",
+  "email": "info@iberjoyausa.com",
+  "email_source": "https://iberjoyausa.com/pages/contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Angel Manrique III",
+  "role": "Featured On About Page",
+  "contact_source": "https://iberjoyausa.com/pages/history-heritage",
+  "tel_numbers": [
+    "5615446076",
+    "(877) 423-7569"
+  ],
+  "tel_source": "https://iberjoyausa.com/pages/contact https://iberjoyausa.com/pages/appointment",
+  "socials": [
+    "https://www.facebook.com/IberjoyaDiamonds",
+    "https://www.instagram.com/iberjoya/?hl=en",
+    "https://www.pinterest.com/IberJoyaDiamonds/"
+  ],
+  "building": "",
+  "suite": "Suite 134",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "since-1949",
+    "4th-generation",
+    "manufacturer",
+    "natural",
+    "loose-diamonds",
+    "wholesale",
+    "gia-gg"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "History page: IberJoya 'sought to integrate sourcing and manufacturing while concentrating its business largely in diamonds' and 'Jewelry manufacturing, wholesale business, and retail partnerships are all under one house'; homepage sells Certified Loose and Mounted Diamonds, est. 1949.",
+  "verified": true,
+  "enriched": true,
+  "enrich_notes": "w7_0 sub2: fetched /, /pages/contact, /pages/about-iberjoya, /pages/history-heritage, /pages/appointment; history names Angel Manrique III (also quoted in Boca Raton Tribune 2026-07 article) and Anthony Manrique (GIA gemologist); Sunbiz 403 (Cloudflare); 2 extended LinkedIn searches for Angel Manrique + IberJoya found no tied /in/ URL; only toll-free 877 extra number.",
+  "li_backfill": true
 }

@@ -14,10 +14,10 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Guy Blumenthal\" La Mesa LinkedIn",
+ "contact_person": "Guy Blumenthal",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ca/la-mesa/profile/jewelry-stores/blumenthal-jewelers-1126-10000048",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -29,5 +29,6 @@
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
  "verified": false,
- "enriched": true
+ "enriched": true,
+ "li_backfill": true
 }

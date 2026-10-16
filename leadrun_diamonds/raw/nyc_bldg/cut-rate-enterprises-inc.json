@@ -30,5 +30,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Cut Rate Diamonds: described as one of the largest online suppliers of loose diamonds and also buys diamonds; HQ 580 5th Ave (Ampliz). Suite not seen.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "site unreachable via proxy; no owner name found",
+  "li_backfill": true
 }

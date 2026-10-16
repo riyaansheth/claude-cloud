@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (www.zilloninternational.com returns 503 / connection reset)",
- "verified": false
+ "verified": false,
+ "li_backfill": true
 }

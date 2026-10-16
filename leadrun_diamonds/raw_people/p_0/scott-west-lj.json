@@ -1,0 +1,22 @@
+{
+ "person": "Scott West",
+ "title": "Vice President",
+ "company": "L.J. West Diamonds",
+ "company_website": "http://www.ljwestdiamonds.com",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "linkedin_url": "https://www.linkedin.com/in/scott-west-217a7646/",
+ "linkedin_source": "L.J. West Diamonds New York LinkedIn",
+ "company_email": "info@ljwestdiamonds.com",
+ "company_phone": "(212) 997-0940",
+ "seniority": "executive",
+ "signals": [
+  "natural-color-diamonds",
+  "wholesaler",
+  "dmia-member",
+  "2nd-generation"
+ ],
+ "source_url": "https://www.linkedin.com/in/scott-west-217a7646/",
+ "is_diamond_trade": true
+}

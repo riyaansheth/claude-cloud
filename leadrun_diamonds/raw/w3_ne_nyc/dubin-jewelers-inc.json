@@ -31,5 +31,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "YP: Jewelers/Jewelry Buyers/Diamonds; small by-appointment office in the Jewelers Building. Diamond focus only from YP category.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no owner name found (site: third generation family owned)",
+  "li_backfill": true
 }

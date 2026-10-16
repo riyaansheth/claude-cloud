@@ -32,5 +32,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "no owner name found for flawlessjewelry.com (550 S Hill St Ste 1228); no linkedin",
+ "li_backfill": true
 }

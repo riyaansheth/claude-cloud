@@ -34,5 +34,7 @@
  "is_diamond_trade": true,
  "scope_reason": "Established 1971; stocks GIA-certified diamonds and special-orders stones. Retail/wholesale split not confirmed.",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

@@ -29,5 +29,7 @@
  "drop_reason": "",
  "scope_reason": "Listed site wiedershifman.com is an unrelated Thai gambling page; LA city business registry (via search) classes Sahnil Diamonds Inc (550 S Hill St Unit 804, inc. 2012) as jewelry/precious stone wholesale - wholesale diamond dealer per listing.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found (many unrelated Tejas Doshi profiles); filings list Tejas Doshi as agent/President of Sahnil Diamonds Inc",
+ "li_backfill": true
 }

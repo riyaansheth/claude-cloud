@@ -1,46 +1,48 @@
 {
-  "business": "Golden Nugget Jewelers",
-  "category_as_listed": "",
-  "phone": "215-925-2777",
-  "email": "info@goldennuggetjewelry.com",
-  "email_source": "https://www.goldennuggetjewelry.com/contact-us",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Gil Hershovitz",
-  "role": "Manager",
-  "contact_source": "https://memberbenefits.njea.org/?p=35142",
-  "website": "https://www.goldennuggetjewelry.com",
-  "address": "800 Chestnut St, Philadelphia, PA 19107",
-  "city": "Philadelphia",
-  "state": "PA",
-  "market": "Philadelphia, PA",
-  "lead_origin": "Trade Directory",
-  "rating": "",
-  "reviews": "",
-  "source_url": "https://jrow.org/golden-nugget-jewelers/",
-  "tel_numbers": [
-    "215-925-2777"
-  ],
-  "tel_source": "https://www.goldennuggetjewelry.com/contact-us",
-  "socials": [
-    "https://www.facebook.com/phillyjewelers",
-    "http://instagram.com/goldennuggetjewelry",
-    "https://twitter.com/gnuggetjewelers"
-  ],
-  "building": "Jewelers Row",
-  "suite": "",
-  "trade_memberships": [
-    "Jewelers Row District"
-  ],
-  "hooks": [
-    "cutter",
-    "polisher",
-    "loose-diamonds",
-    "since-1987",
-    "family-owned",
-    "natural"
-  ],
-  "is_diamond_trade": true,
-  "scope_reason": "Own site: 'Being a direct cutter and polisher' with 'one of the largest loose diamond and engagement ring inventories in the tri-state area'. Manager name from an NJEA member-benefits listing (may be dated). YP also lists 'Diamond Tree' at 800 Chestnut (gndiamond.com) - likely same firm.",
-  "drop_reason": ""
+ "business": "Golden Nugget Jewelers",
+ "category_as_listed": "",
+ "phone": "215-925-2777",
+ "email": "info@goldennuggetjewelry.com",
+ "email_source": "https://www.goldennuggetjewelry.com/contact-us",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Gil Hershovitz",
+ "role": "Manager",
+ "contact_source": "https://memberbenefits.njea.org/?p=35142",
+ "website": "https://www.goldennuggetjewelry.com",
+ "address": "800 Chestnut St, Philadelphia, PA 19107",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://jrow.org/golden-nugget-jewelers/",
+ "tel_numbers": [
+  "215-925-2777"
+ ],
+ "tel_source": "https://www.goldennuggetjewelry.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/phillyjewelers",
+  "http://instagram.com/goldennuggetjewelry",
+  "https://twitter.com/gnuggetjewelers"
+ ],
+ "building": "Jewelers Row",
+ "suite": "",
+ "trade_memberships": [
+  "Jewelers Row District"
+ ],
+ "hooks": [
+  "cutter",
+  "polisher",
+  "loose-diamonds",
+  "since-1987",
+  "family-owned",
+  "natural"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: 'Being a direct cutter and polisher' with 'one of the largest loose diamond and engagement ring inventories in the tri-state area'. Manager name from an NJEA member-benefits listing (may be dated). YP also lists 'Diamond Tree' at 800 Chestnut (gndiamond.com) - likely same firm.",
+ "drop_reason": "",
+ "li_note": "no linkedin found; name appears spelled Gil Herskovitz in press (GM/owner)",
+ "li_backfill": true
 }

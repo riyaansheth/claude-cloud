@@ -6,9 +6,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Shay Belhassen",
+ "role": "Founder",
+ "contact_source": "https://instoremag.com/15th-annual-gem-awards-gala-set-for-jan-13/amp/",
  "website": "https://www.dbsdiam.com",
  "address": "550 South Hill Street, Suite 1562, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -32,5 +32,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (White and colored diamonds); secondary: Jewelry/ Design Jewelry/ Watches",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "pass2: founder Shay Belhassen per GEM Awards press item; no linkedin found",
+ "li_backfill": true
 }

@@ -42,5 +42,7 @@
  "drop_reason": "",
  "business": "Jewelry Design Center",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

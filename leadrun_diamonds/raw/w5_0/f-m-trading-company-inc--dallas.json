@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (listed site movietradingcompany.com is Vintage Stock, a video game/movie retailer, not this business's own site; no own site found)",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found; listed website (movietradingcompany.com) unrelated; only an FM Trading in Dallas (Datanyze) surfaced, not confirmed same as Fort Worth entity",
+ "li_backfill": true
 }

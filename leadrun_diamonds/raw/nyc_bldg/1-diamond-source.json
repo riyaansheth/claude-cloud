@@ -30,5 +30,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Directory listing: sells loose diamonds at wholesale prices, HQ 36 W 47th St. Suite not seen.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "Datanyze lists 'Ron Dt' as President; no full name found",
+  "li_backfill": true
 }

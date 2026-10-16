@@ -36,7 +36,9 @@
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "Own site: 'MK Diamonds NYC LLC ... SHOWROOM BY APPOINTMENT ONLY', Showroom 36 W 47th St Suite 1607; sells loose earth-mined, lab-grown and fancy-color diamonds (create-your-own-ring) \u2014 47th St loose-diamond/bridal dealer.",
+ "scope_reason": "Own site: 'MK Diamonds NYC LLC ... SHOWROOM BY APPOINTMENT ONLY', Showroom 36 W 47th St Suite 1607; sells loose earth-mined, lab-grown and fancy-color diamonds (create-your-own-ring) — 47th St loose-diamond/bridal dealer.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no owner name found; no linkedin found",
+ "li_backfill": true
 }

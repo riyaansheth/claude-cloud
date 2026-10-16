@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: domain parked/unrelated - bluediamond.com is Blue Diamond Growers (almonds)",
- "verified": false
+ "verified": false,
+ "li_note": "no owner name found; no linkedin found",
+ "li_backfill": true
 }

@@ -37,5 +37,7 @@
  "drop_reason": "",
  "scope_reason": "Listed domain diamond-me.com is a parked GoDaddy for-sale page; kobelli.com (HQ 801 S Flower St, same address) says owner/founder Kobi Katz was 'previously manufacturing for major US brick-and-mortar retailers under the name Baguette World' and still manufactures in-house in downtown LA, with a dedicated contact for 'inquiries relating to loose diamonds' - manufacturer, now largely direct-to-consumer.",
  "verified": true,
- "dup_of": "raw/w5_3/kobi-katz-inc--los-angeles.json"
+ "dup_of": "raw/w5_3/kobi-katz-inc--los-angeles.json",
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

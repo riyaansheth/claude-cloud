@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable - listed website diamondvaultoftroy.com belongs to a different store (Diamond Vault of Troy, '801 W Big Beaver Rd Suite 103', (248) 244-0600) than this listing (755 W Big Beaver Ste 113, (248) 362-0202); no own site for Kimberley Jewelers found via search.",
- "verified": false
+ "verified": false,
+ "li_backfill": true
 }

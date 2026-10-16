@@ -1,0 +1,22 @@
+{
+ "person": "Mark Zubkovskis",
+ "title": "CEO",
+ "company": "Karat Jewelry Group Inc",
+ "company_website": "https://karatjewelrygroup.com",
+ "city": "Chicago",
+ "state": "IL",
+ "linkedin_url": "https://www.linkedin.com/in/mark-zubkovskis-b0b24b44/",
+ "linkedin_source": "\"Mark Zubkovskis\" Karat Jewelry Group LinkedIn",
+ "company_email": "karatmail@gmail.com",
+ "company_phone": "(312) 854-3056",
+ "seniority": "executive",
+ "signals": [
+  "co-founder",
+  "since-2004",
+  "family-owned",
+  "manufacturer"
+ ],
+ "source_url": "https://www.linkedin.com/in/mark-zubkovskis-b0b24b44/",
+ "market": "Chicago, IL",
+ "is_diamond_trade": true
+}

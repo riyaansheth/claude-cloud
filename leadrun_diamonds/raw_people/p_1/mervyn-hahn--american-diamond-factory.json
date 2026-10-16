@@ -1,0 +1,25 @@
+{
+ "person": "Mervyn Hahn",
+ "title": "Founder",
+ "company": "American Diamond Factory",
+ "company_website": "https://www.ladiamondfactory.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/mervyn-hahn-33302312",
+ "linkedin_source": "diamonds_all.csv (prior verified run): \"Mervyn Hahn\" Los Angeles Diamond Factory LinkedIn",
+ "company_email": "info@ladiamondfactory.com",
+ "company_phone": "(213) 623-3484",
+ "seniority": "owner",
+ "signals": [
+  "role-email",
+  "direct-line",
+  "since-1981",
+  "lab-grown",
+  "natural",
+  "manufacturer",
+  "cutter"
+ ],
+ "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/american-diamond-factory-453927234",
+ "is_diamond_trade": true
+}

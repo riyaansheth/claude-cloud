@@ -1,0 +1,20 @@
+{
+ "person": "Jeff Buchwald",
+ "title": "Buchwald Jewelers",
+ "company": "Buchwald Jewelers",
+ "company_website": "https://www.buchwaldjewelers.com",
+ "city": "Miami",
+ "state": "FL",
+ "market": "Miami, FL",
+ "linkedin_url": "https://www.linkedin.com/in/jeff-buchwald-a58567a",
+ "linkedin_source": "\"18K Miami\" OR \"Nemaro Jewelers\" OR \"Buchwald Jewelers\" Miami LinkedIn",
+ "company_email": "contact@buchwaldjewelers.com",
+ "company_phone": "(305) 373-5683",
+ "seniority": "other",
+ "signals": [
+  "seybold-building",
+  "family-business"
+ ],
+ "source_url": "https://www.linkedin.com/in/jeff-buchwald-a58567a",
+ "is_diamond_trade": true
+}

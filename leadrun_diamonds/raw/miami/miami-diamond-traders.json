@@ -33,5 +33,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Yelp: diamond wholesalers in Downtown Miami specializing in buying and selling loose diamonds; by appointment only.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

@@ -5,7 +5,7 @@
   "email": "",
   "email_source": "",
   "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_source": "\"Don Faulhaber\" San Diego LinkedIn",
   "contact_person": "Don Faulhaber",
   "role": "Founder",
   "contact_source": "https://trustanalytica.org/us/ca/san-diego/reviews/faulhaber-diamond-cutting-jewelry-works",
@@ -30,5 +30,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Directory: diamond cutting shop opened 1979 by Don Faulhaber; claims only diamond cutting business in San Diego.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

@@ -4,11 +4,11 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/uri-ariel-68ab79160/",
+  "linkedin_source": "\"Uri Ariel\" HRA Group LinkedIn",
+  "contact_person": "Uri Ariel",
+  "role": "President",
+  "contact_source": "https://www.biv.com/news/archives/canada-poised-to-become-worlds-second-largest-diam-8230849",
   "website": "",
   "address": "2121 4th Ave",
   "city": "Seattle",
@@ -27,5 +27,6 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "Appears in Yellow Pages Seattle 'Diamonds Wholesale' listing; not otherwise verified",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

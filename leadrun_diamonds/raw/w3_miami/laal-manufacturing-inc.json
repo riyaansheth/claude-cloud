@@ -5,7 +5,7 @@
   "email": "",
   "email_source": "",
   "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_source": "\"Javier Otero Garcia\" Miami jewelry LinkedIn",
   "contact_person": "Javier A Otero Garcia",
   "role": "",
   "contact_source": "https://opencorporates.com/companies/us_fl/P13000088326",
@@ -30,5 +30,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Directory name: jewelry manufacturer; FL corp LAAL MANUFACTURING INC head office 36 NE 1st St Ste 814-816 (OpenCorporates P13000088326, agent Javier A Otero Garcia). No website; diamond line unverified.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

@@ -1,0 +1,25 @@
+{
+ "person": "Ohan Der Abrahamian",
+ "title": "Owner",
+ "company": "Derco Fine Jewelers",
+ "company_website": "https://dercodiamonds.com",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "linkedin_url": "https://www.linkedin.com/in/ohan-derabrahamian-5666b745",
+ "linkedin_source": "diamonds_all.csv (prior verified run): \"Jack Der Abrahamian\" OR \"Ohan Der Abrahamian\" Derco LinkedIn",
+ "company_email": "info@dercodiamonds.com",
+ "company_phone": "(415) 626-7442",
+ "seniority": "owner",
+ "signals": [
+  "GIA",
+  "role-email",
+  "gia",
+  "since-1939",
+  "family-owned",
+  "lab-grown",
+  "manufacturer"
+ ],
+ "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/derco-fine-jewelers-12523347",
+ "is_diamond_trade": true
+}

@@ -14,7 +14,7 @@
  "email": "info@normansilverman.com",
  "email_source": "https://normansilverman.com/pages/contact-us",
  "linkedin_url": "https://www.linkedin.com/in/norman-silverman-5611a7274/",
- "linkedin_source": "\"Norman Silverman\" Norman Silverman Co diamonds LinkedIn",
+ "linkedin_source": "\"Norman Silverman\" Norman Silverman Co diamond dealer LinkedIn",
  "contact_person": "Norman Silverman",
  "role": "Founder / President",
  "contact_source": "https://www.24-7pressrelease.com/press-release/504579/clarkes-jewelers-presents-norman-silverman",
@@ -40,5 +40,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Contact page: 'Founded in 1982 as a diamond business, Norman Silverman built its foundation selecting exceptional natural diamonds for jewelers' - family-owned diamond house selling through retailers.",
- "verified": true
+ "verified": true,
+ "li_backfill": true
 }

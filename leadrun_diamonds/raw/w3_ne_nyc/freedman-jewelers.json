@@ -6,9 +6,9 @@
   "email_source": "https://freedmandiamonds.com/",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Steven Freedman",
+  "role": "President",
+  "contact_source": "https://freedmandiamonds.com/pages/about",
   "website": "https://freedmandiamonds.com",
   "address": "333 Washington St Suite 408, Boston, MA 02108",
   "city": "Boston",
@@ -35,5 +35,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "YP: Jewelers/Jewelry Buyers/Diamonds; own site: 3rd-generation firm founded 1945 by David Freedman, sells lab-grown and natural diamonds and custom rings. Diamond-led bridal/buyer, borderline retail.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "site: \"Steven is the owner and president of Freedman Jewelers\"; no linkedin.com/in result tied to him (Josh Freedman, VP, has https://www.linkedin.com/in/jafreedman/)",
+  "li_backfill": true
 }

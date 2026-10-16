@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found; listed website is a jeans brand (ignored); no Diamante jeweler in Beverly Hills found",
+ "li_backfill": true
 }

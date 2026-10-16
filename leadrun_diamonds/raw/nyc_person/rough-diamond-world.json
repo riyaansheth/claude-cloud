@@ -6,9 +6,9 @@
   "email_source": "",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Andrew Slesinger",
+  "role": "Owner",
+  "contact_source": "https://roughdiamondworld.nyc/about-us/",
   "website": "https://roughdiamondworld.nyc",
   "address": "",
   "city": "New York",
@@ -31,5 +31,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "NYC dealer handling rough and polished stones, sends rough to its fair-trade facility for polishing.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no linkedin.com/in result tied to Andrew Slesinger",
+  "li_backfill": true
 }

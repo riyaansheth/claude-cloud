@@ -4,8 +4,8 @@
   "phone": "(305) 371-9535",
   "email": "sales@efrai.com",
   "email_source": "https://seyboldjewelry.com/e-frai-co/",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/eran-frai-11b69675/",
+  "linkedin_source": "\"Eran Frai\" E. Frai & Co LinkedIn",
   "contact_person": "Eran Frai",
   "role": "Owner",
   "contact_source": "https://www.startus.cc/company/e-frai-diamonds-jewelry",
@@ -43,5 +43,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Seybold listing: 'Wholesalers and distributors of the finest diamonds and fancy colored diamonds'; own site: established 1973, GIA natural fancy yellow diamonds. Eran Frai is FL registered agent (OpenCorporates P95000064597) and named as owner in search results.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

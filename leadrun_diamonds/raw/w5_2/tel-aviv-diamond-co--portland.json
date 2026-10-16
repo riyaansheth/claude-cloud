@@ -38,5 +38,7 @@
  "drop_reason": "",
  "scope_reason": "Site: 'Tel Aviv Diamond Company is a wholesale diamond office based in the heart of Portland, Oregon's diamond wholesale jewelry district. Since opening its doors in 1980...'; owner began as a diamond cutter in Israel.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

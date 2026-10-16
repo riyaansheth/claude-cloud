@@ -1,0 +1,22 @@
+{
+ "person": "Richard Ribacoff",
+ "title": "Managing Partner at Shira Diamonds",
+ "company": "Shira Diamonds",
+ "company_website": "https://shira-diamonds.com",
+ "city": "Dallas",
+ "state": "TX",
+ "market": "Dallas, TX",
+ "linkedin_url": "https://www.linkedin.com/in/richard-ribacoff-654834b7",
+ "linkedin_source": "\"Kfir Ram\" OR \"Richard Ribacoff\" Shira Diamonds LinkedIn",
+ "company_email": "",
+ "company_phone": "214-466-1776",
+ "seniority": "executive",
+ "signals": [
+  "gia",
+  "wholesale",
+  "importer",
+  "manufacturer"
+ ],
+ "source_url": "https://www.linkedin.com/in/richard-ribacoff-654834b7",
+ "is_diamond_trade": true
+}

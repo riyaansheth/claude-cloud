@@ -5,7 +5,7 @@
   "email": "",
   "email_source": "",
   "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_source": "\"Avinash Thakor\" Miami LinkedIn",
   "contact_person": "Avinash K Thakor",
   "role": "",
   "contact_source": "https://opencorporates.com/companies/us_fl/P92000007649",
@@ -29,5 +29,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Directory name (Suite 515); FL corp at 36 NE 1st St #515 with registered agent Avinash K Thakor (OpenCorporates P92000007649). No website found; diamond trade inferred from name/location only.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

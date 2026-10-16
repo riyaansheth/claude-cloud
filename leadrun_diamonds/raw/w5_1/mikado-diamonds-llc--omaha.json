@@ -13,8 +13,8 @@
  "lead_origin": "YellowPages",
  "email": "mike@mikadodiamonds.com",
  "email_source": "https://mikadodiamonds.com/pages/contact",
- "linkedin_url": "",
- "linkedin_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/mike-mueller-6b163920/",
+ "linkedin_source": "\"Michael Mueller\" Mikado Diamonds LinkedIn",
  "contact_person": "Michael A. Mueller",
  "role": "Owner",
  "contact_source": "https://www.bbb.org/us/ne/omaha/profile/jewelry-stores/mikado-diamonds-0714-300075914",
@@ -41,5 +41,6 @@
  "drop_reason": "",
  "scope_reason": "mikadodiamonds.com/pages/about: 'family owned and operated company based in Omaha, NE that works with diamond cutters and jewelry manufacturers around the world'; member of the Jewelers Board of Trade (JBT); sells GIA natural and lab-grown loose diamonds online by consultation.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_backfill": true
 }

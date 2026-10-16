@@ -1,0 +1,24 @@
+{
+ "person": "Patti Tapper",
+ "title": "",
+ "company": "Tapper's Diamonds & Fine Jewelry",
+ "company_website": "https://tappers.com",
+ "city": "West Bloomfield",
+ "state": "MI",
+ "market": "Southfield, MI",
+ "linkedin_url": "https://www.linkedin.com/in/patti-tapper-904005a2/",
+ "linkedin_source": "\"Mark Tapper\" OR \"Steven Tapper\" Tapper's Diamonds LinkedIn",
+ "company_email": "",
+ "company_phone": "(248) 932-7700",
+ "seniority": "other",
+ "signals": [
+  "direct-diamond-importer",
+  "since-1977",
+  "family-owned",
+  "gia-certified",
+  "lab-grown",
+  "founding-family"
+ ],
+ "source_url": "https://www.linkedin.com/in/patti-tapper-904005a2/",
+ "is_diamond_trade": true
+}
