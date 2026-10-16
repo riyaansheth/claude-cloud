@@ -1,6 +1,6 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-16T16:51:01+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-16T16:54:35+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
@@ -154,7 +154,7 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 | chain | 5412 | 0 | 0 | 5412 |
 | coin-currency | 492 | 10 | 0 | 502 |
 | costume-fashion | 720 | 260 | 65 | 1045 |
-| diamond-trade | 183 | 40 | 9 | 232 |
+| diamond-trade | 184 | 40 | 9 | 233 |
 | gold-buyer | 372 | 79 | 25 | 476 |
 | kiosk-battery | 22 | 0 | 0 | 22 |
 | no-segment | 0 | 0 | 2175 | 2175 |
@@ -164,14 +164,14 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 | thrift-consignment | 178 | 0 | 0 | 178 |
 | trade-association | 4 | 0 | 0 | 4 |
 | wholesale-manufacturer | 121 | 11 | 1 | 133 |
-| **all** | | | | **14131** |
+| **all** | | | | **14132** |
 
 ## What blocked the run
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 4529 | bbb:1fc7a0b0fac80fee: appraiser-lab-insurer |
-| bbb | blocked | 272 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
+| builder | final-kill | 4599 | bbb:1fc7a0b0fac80fee: appraiser-lab-insurer |
+| bbb | blocked | 274 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
 | osm | error | 76 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
 | osm | http-504 | 24 | https://maps.mail.ru/osm/tools/overpass/api/interpreter |
