@@ -1,0 +1,42 @@
+{
+ "business": "Sid Potts Inc",
+ "category_as_listed": "Diamond Buyers, Diamonds, Diamonds-Wholesale",
+ "phone": "(318) 797-2929",
+ "website": "http://www.sidpotts.com",
+ "address": "8535 Business Park Dr",
+ "city": "Shreveport",
+ "state": "LA",
+ "market": "Shreveport, LA",
+ "rating": "5",
+ "reviews": "1",
+ "source_url": "https://www.yellowpages.com/shreveport-la/mip/sid-potts-inc-13085885",
+ "lead_origin": "YellowPages",
+ "email": "sid@sidpotts.com",
+ "email_source": "https://sidpotts.com/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/sid-potts-5a791ab/",
+ "linkedin_source": "WebSearch extended: \"Sid Potts\" jeweler Shreveport LinkedIn owner -> \"Sid Potts - President - Sid Potts, Inc.\"",
+ "contact_person": "Sid Potts",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/la/shreveport/profile/jewelry-stores/sid-potts-llc-1015-4001927",
+ "tel_numbers": [
+  "318.797.2929"
+ ],
+ "tel_source": "https://sidpotts.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/sidpottsinc",
+  "https://www.instagram.com/sidpottsinc"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "diamond-broker",
+  "estate",
+  "since-1997"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "BBB profile describes Sid Potts as 'a private jeweler and diamond broker' operating since 1997; YP lists Diamond Buyers / Diamonds-Wholesale; own site shows a showroom with 'rare stones, estate pieces, and designer jewelry' (borderline: retail showroom side).",
+ "verified": true,
+ "enriched": true
+}
