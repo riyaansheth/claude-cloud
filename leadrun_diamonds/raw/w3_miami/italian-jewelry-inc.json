@@ -31,5 +31,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Seybold listing: family-owned since 1979, 'direct importer of jewelry and diamonds'; own site did not resolve.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

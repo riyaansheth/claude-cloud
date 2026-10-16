@@ -31,5 +31,6 @@
  "drop_reason": "",
  "scope_reason": "Own site: 'beloved family-owned jewelry store in St. Petersburg' since 1977, three generations, custom designs plus 'designer pieces'; offers shop-by-diamond-shape. Borderline retail.",
  "verified": false,
- "enriched": true
+ "enriched": true,
+ "li_backfill": true
 }

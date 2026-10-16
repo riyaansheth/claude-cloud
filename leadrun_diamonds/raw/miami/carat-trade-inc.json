@@ -36,5 +36,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Site: wholesale suppliers & private client jewelers; supplies natural diamonds .001-25ct, partnered with three major stockholders; also buys diamond/estate jewelry.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

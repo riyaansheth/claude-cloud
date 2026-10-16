@@ -39,5 +39,6 @@
  "is_diamond_trade": true,
  "scope_reason": "Site title 'Michigan Wholesale Diamond Broker - Buy & Sell Diamonds MI'; sells loose GIA-certified mined and certified lab-grown diamonds at wholesale prices; Manta says est. 1998",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "li_backfill": true
 }

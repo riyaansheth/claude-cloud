@@ -42,5 +42,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: family business since 1970; 'Our loose diamonds are backed up by laboratory grading reports issued by GIA and EGL'; bridal/engagement focus.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

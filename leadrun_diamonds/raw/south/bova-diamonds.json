@@ -31,5 +31,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Dallas Market Center Diamond District wholesaler; sells loose diamonds to retailers across the US (per DMC listing and own blog). Phone from vymaps third-party listing only.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

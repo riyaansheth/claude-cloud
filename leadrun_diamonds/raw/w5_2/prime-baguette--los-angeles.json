@@ -34,5 +34,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site (About) says 'Prime Baguette Inc. is an award-winning jewelry design company' that since the 1990s designs and manufactures diamond jewelry for businesses; contact page: 'For wholesale/retail inquiries'.",
- "verified": true
+ "verified": true,
+ "li_backfill": true
 }
