@@ -1,0 +1,20 @@
+{
+ "person": "Jonny Ritz",
+ "title": "Owner",
+ "company": "Jonny Ritz & Company",
+ "company_website": "https://www.jonnyritz.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/jonny-ritz-48206b1",
+ "linkedin_source": "diamonds_all.csv (prior verified run): WebSearch: Jonny Ritz & Company Los Angeles jeweler LinkedIn",
+ "company_email": "jonny@jonnyritz.com",
+ "company_phone": "(213) 489-5111",
+ "seniority": "owner",
+ "signals": [
+  "Bourse",
+  "bourse"
+ ],
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "is_diamond_trade": true
+}

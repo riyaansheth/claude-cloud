@@ -1,0 +1,22 @@
+{
+ "person": "Rayah Levy",
+ "title": "President",
+ "company": "Forever Capital/ FCD Invest",
+ "company_website": "https://www.fcdinvest.diamonds",
+ "city": "Mill Valley",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/rayahlevy",
+ "linkedin_source": "diamonds_all.csv (prior verified run): https://www.fcdinvest.diamonds/ (linked from own site)",
+ "company_email": "info@fcdinvest.diamonds",
+ "company_phone": "(415) 388-4101",
+ "seniority": "owner",
+ "signals": [
+  "Bourse",
+  "role-email",
+  "natural",
+  "bourse"
+ ],
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "is_diamond_trade": true
+}

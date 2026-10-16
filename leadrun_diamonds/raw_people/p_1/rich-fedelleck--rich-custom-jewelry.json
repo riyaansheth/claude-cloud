@@ -1,0 +1,22 @@
+{
+ "person": "Rich Fedelleck",
+ "title": "Founder",
+ "company": "Rich Custom Jewelry",
+ "company_website": "https://www.richcustomjewelry.com",
+ "city": "Las Vegas",
+ "state": "NV",
+ "market": "Las Vegas, NV",
+ "linkedin_url": "https://www.linkedin.com/in/rich-fedelleck-025962139",
+ "linkedin_source": "diamonds_all.csv (prior verified run): WebSearch extended: \"Rich Fedelleck\" Rich Custom Jewelry Las Vegas LinkedIn (result title: Rich Fedelleck - Rich Custom Jewelry)",
+ "company_email": "",
+ "company_phone": "(702) 870-8899",
+ "seniority": "owner",
+ "signals": [
+  "GIA",
+  "gia",
+  "since-1984",
+  "manufacturer"
+ ],
+ "source_url": "https://www.richcustomjewelry.com/pages/our-diamonds",
+ "is_diamond_trade": true
+}

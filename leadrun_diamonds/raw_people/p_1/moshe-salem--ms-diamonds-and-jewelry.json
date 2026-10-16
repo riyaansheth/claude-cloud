@@ -1,0 +1,21 @@
+{
+ "person": "Moshe Salem",
+ "title": "Founder",
+ "company": "MS Diamonds and Jewelry",
+ "company_website": "https://msdiamonds.la",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/moshe-salem-a692bba",
+ "linkedin_source": "diamonds_all.csv (prior verified run): WebSearch: \"Moshe Salem\" MS Diamonds Los Angeles LinkedIn",
+ "company_email": "info@msdiamonds.la",
+ "company_phone": "(213) 627-5188",
+ "seniority": "owner",
+ "signals": [
+  "Bourse",
+  "role-email",
+  "bourse"
+ ],
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "is_diamond_trade": true
+}

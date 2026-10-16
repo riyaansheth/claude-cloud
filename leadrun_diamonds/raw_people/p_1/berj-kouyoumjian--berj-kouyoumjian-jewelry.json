@@ -1,0 +1,23 @@
+{
+ "person": "Berj Kouyoumjian",
+ "title": "Owner",
+ "company": "Berj Kouyoumjian Jewelry",
+ "company_website": "https://berjk.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/berj-kouyoumjian-a84a3973",
+ "linkedin_source": "diamonds_all.csv (prior verified run): WebSearch: \"Berj Kouyoumjian\" jewelry Los Angeles LinkedIn (URL in Clever Wholesale listing structured data)",
+ "company_email": "berj@berjk.com",
+ "company_phone": "(213) 623-2092",
+ "seniority": "owner",
+ "signals": [
+  "Bourse",
+  "direct-line",
+  "since-1973",
+  "manufacturer",
+  "bourse"
+ ],
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "is_diamond_trade": true
+}

@@ -1,0 +1,25 @@
+{
+ "person": "Johnny Kalo",
+ "title": "Owner",
+ "company": "Gold Empire Jewelry Inc.",
+ "company_website": "https://goldempirejewelry.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/johnny-kalo-0ba38747",
+ "linkedin_source": "diamonds_all.csv (prior verified run): WebSearch: \"Edmund Kalo\" Gold Empire Jewelry LinkedIn",
+ "company_email": "info@goldempirejewelry.com",
+ "company_phone": "(213) 626-6012",
+ "seniority": "owner",
+ "signals": [
+  "Bourse",
+  "GIA",
+  "role-email",
+  "gia",
+  "since-1978",
+  "2nd-generation",
+  "bourse"
+ ],
+ "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
+ "is_diamond_trade": true
+}
