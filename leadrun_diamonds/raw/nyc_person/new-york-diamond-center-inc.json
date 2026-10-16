@@ -29,5 +29,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Lower Manhattan diamond wholesaler, founder Eran Goldshmit (search summary); unverified on-site due to fetch outage.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no linkedin.com/in result tied to person",
+  "li_backfill": true
 }

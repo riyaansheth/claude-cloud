@@ -30,5 +30,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "New York wholesale loose diamond business per search results.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no owner name found on site (/about-us: ADAMCO TRADING, since 1990) or search",
+  "li_backfill": true
 }

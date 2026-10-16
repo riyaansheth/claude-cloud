@@ -4,11 +4,11 @@
   "phone": "(617) 523-2934",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/hagop-matossian-aa6120b7/",
+  "linkedin_source": "\"Hagop Matossian\" Bostonian Jewelers LinkedIn",
+  "contact_person": "Hagop Matossian",
+  "role": "CEO",
+  "contact_source": "https://bostonianjewelers.com/",
   "website": "https://bostonianjewelers.com",
   "address": "333 Washington St, Ste 711-713, Boston, MA 02108",
   "city": "Boston",
@@ -35,5 +35,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Family-owned jewelry manufacturer with on-site production, diamond setting, CAD/CAM (JA member, founded 1969/1980 per sources).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "site: \"Hagop Matossian CEO | Restoration & Gemstone Specialist\"; LI title: Hagop Matossian - Bostonian Jewelers and Manufacturers, Inc.",
+  "li_backfill": true
 }
