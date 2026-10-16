@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Dan Abraham",
+ "role": "Principal",
+ "contact_source": "https://www.buzzfile.com/business/Dan-Abraham-Diamonds-213-622-2766",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "YP person listing (Diamonds-Wholesale, Jewelers); Buzzfile: \"Dan Abraham Diamonds\", 607 S Hill St, contact Dan Abraham, Principal, industry Diamonds (Gems), founded 1997. No website or LinkedIn found.",
+ "enriched": true
 }

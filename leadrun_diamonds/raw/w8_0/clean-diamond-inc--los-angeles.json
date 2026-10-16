@@ -2,7 +2,7 @@
  "business": "Clean Diamond Inc",
  "category_as_listed": "Diamond Cutters, Diamond Buyers, Jewelers-Wholesale & Manufacturers",
  "phone": "(213) 489-5696",
- "website": "",
+ "website": "https://www.cleandiamond.com",
  "address": "606 S Olive St Ste 1920",
  "city": "Los Angeles",
  "state": "CA",
@@ -11,21 +11,28 @@
  "reviews": "46",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/clean-diamond-inc-467504567",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "email": "ron@cleandiamond.com",
+ "email_source": "https://www.yellowpages.com/los-angeles-ca/mip/clean-diamond-inc-467504567",
+ "linkedin_url": "https://www.linkedin.com/in/ron-cohen-06241460/",
+ "linkedin_source": "WebSearch (extended): \"Ron Cohen\" diamonds Beverly Hills LinkedIn Clean Diamond -> result \"RON COHEN - ATP freelance pilot ... Founder and CEO at CLEAN DIAMOND INC\"",
+ "contact_person": "Ron Cohen",
+ "role": "CEO",
+ "contact_source": "https://www.globenewswire.com/news-release/2014/05/29/640227/10083679/en/Ron-Cohen-CEO-at-Clean-Diamond-Inc-Creator-of-16-1-Million-Chloe-Diamond-Develops-Spectacular-New-Cushion-Brilliant-Cut-Diamond-Named-Mazarin.html",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "Ste 1920",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "JBT"
+ ],
+ "hooks": [
+  "importer",
+  "large-stones"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamond Buyers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "unverified: site unreachable (cleandiamond.com resets connection). YP listing: Diamond Cutters/Diamond Buyers, \"CERTIFIED GIA AND EGL LOOSE DIAMONDS\", \"MEMBER OF JBT\", \"LICENSED DIRECT IMPORTER FROM AFRICA\"; 2014 press release calls it a \"diamond cutting and distribution company\", Ron Cohen Founder & CEO (SOS: Ronen Cohen, Clean Diamonds Inc). Buzzfile now places it at 140 S Beverly Dr, Beverly Hills (same phone); MapQuest marks the 606 S Olive St site closed.",
+ "verified": false,
+ "enriched": true
 }

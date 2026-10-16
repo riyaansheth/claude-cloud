@@ -15,17 +15,20 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Tarun Jogani",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/syndicate-gems-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
+ "building": "International Jewelry Center",
+ "suite": "Ste 1053",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1982"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Buzzfile: Syndicate Gems, Inc., Diamonds (Gems), President Tarun Jogani; CA SOS active since 1982 at 550 S Hill St Ste 1053, CEO Tarun F Jogani. No website or LinkedIn found.",
+ "enriched": true
 }

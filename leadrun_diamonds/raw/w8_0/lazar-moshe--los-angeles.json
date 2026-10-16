@@ -2,7 +2,7 @@
  "business": "Lazar Moshe",
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(213) 629-9036",
- "website": "",
+ "website": "https://www.lazardiamonds.com",
  "address": "550 S Hill St Ste 1317",
  "city": "Los Angeles",
  "state": "CA",
@@ -11,21 +11,42 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/lazar-moshe-541044873",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "hello@lazardiamonds.com",
+ "email_source": "https://www.lazardiamonds.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
- "building": "",
- "suite": "Ste 1317",
- "trade_memberships": [],
- "hooks": [],
+ "contact_person": "Moshe Lazar",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/lazar-diamonds-inc",
+ "tel_numbers": [
+  "800-553-5133",
+  "213-629-9036"
+ ],
+ "tel_source": "https://www.lazardiamonds.com/",
+ "socials": [
+  "https://www.instagram.com/lazar_diamonds/"
+ ],
+ "building": "International Jewelry Center",
+ "suite": "Ste 1175",
+ "trade_memberships": [
+  "DCWC"
+ ],
+ "hooks": [
+  "large-stones"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site: \"Lazar Diamonds, specializing in large, rare white and fancy-colored diamonds and colored stones ... our vast clientele of retailers and select consumers\", 550 S Hill St Suite 1175; DCWC: Wholesale, \"Larger, White and Fancy Colors of All Shapes\". CA SOS: Moshe Lazar CEO (Buzzfile: President). No LinkedIn for Moshe; Ahron Lazar (Lazar Diamonds LTD., LA) has one - see alt_contacts.",
+ "verified": true,
+ "alt_contacts": [
+  {
+   "name": "Ahron Lazar",
+   "role": "",
+   "company": "Lazar Diamonds LTD. (BBB alt name of Lazar Diamonds, Inc.)",
+   "linkedin_url": "https://www.linkedin.com/in/ahron-lazar-a40ba12b/",
+   "linkedin_source": "WebSearch (extended): \"Moshe Lazar\" Lazar Diamonds LinkedIn -> result \"Ahron Lazar - Lazar Diamonds LTD.\"",
+   "link_reason": "profile lists Lazar Diamonds LTD., Los Angeles"
+  }
+ ],
+ "enriched": true
 }

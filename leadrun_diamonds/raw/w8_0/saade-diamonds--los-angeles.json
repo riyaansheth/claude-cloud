@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Marc Saade",
+ "role": "Principal",
+ "contact_source": "https://www.buzzfile.com/business/Saade-Diamonds-213-488-9956",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Buzzfile: Saade Diamonds, 607 S Hill St, contact \"Marc Michel Joseph Saade\", Principal (since 2005); Yelp category Wholesale Stores. No website or LinkedIn found.",
+ "enriched": true
 }

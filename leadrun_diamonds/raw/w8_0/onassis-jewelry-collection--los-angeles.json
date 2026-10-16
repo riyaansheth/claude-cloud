@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Sabah Onassis",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/onassis-jewelry-collection-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "CA SOS: Onassis Jewelry Collection, Inc. (2014), CEO Sabah Onassis, principal address now 333 S Palm Dr Beverly Hills; directories describe a manufacturer/importer \"specializing in loose diamonds and engagement rings\" at 625 S Hill St Ste 114, but Yelp marks the store CLOSED (Dec 2025). No LinkedIn found.",
+ "enriched": true
 }

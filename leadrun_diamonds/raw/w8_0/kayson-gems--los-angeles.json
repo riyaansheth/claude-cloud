@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Suhas Parikh",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/rowland-heights/kayson-gems-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,17 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "CA SOS: Kayson Gems, Inc. active since 1984 (Rowland Heights mailing address), CEO Suhas Parikh. YP listing also shows AKA \"Jay\" and phone (213) 622-2716 belonging to Jay Diamond, Inc. (DCWC: Wholesale, Diamonds, 550 S Hill St Ste 1357; Buzzfile President Javid Tehrani; jaydiamondinc.com shows \"ACCOUNT DISABLED\"). No LinkedIn for Suhas Parikh.",
+ "alt_contacts": [
+  {
+   "name": "Javid Tehrani",
+   "role": "President",
+   "company": "Jay Diamond, Inc.",
+   "source": "https://www.buzzfile.com/business/Jay-Diamond,-Inc.-213-622-2716",
+   "linkedin_url": "https://www.linkedin.com/in/javid-tehrani-58919b20/",
+   "linkedin_source": "WebSearch (extended): \"Javid Tehrani\" Jay Diamond LinkedIn -> result \"Javid Tehrani - jay diamond inc\"",
+   "link_reason": "YP Kayson Gems listing has AKA \"Jay\" and extra phone (213) 622-2716 = Jay Diamond, Inc. (DCWC Ste 1357)"
+  }
+ ],
+ "enriched": true
 }

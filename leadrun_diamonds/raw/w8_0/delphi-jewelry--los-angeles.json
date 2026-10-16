@@ -2,7 +2,7 @@
  "business": "Delphi Jewelry",
  "category_as_listed": "Diamonds-Wholesale, Jewelers",
  "phone": "(213) 622-2094",
- "website": "",
+ "website": "https://parthdiamonds.com",
  "address": "550 S Hill St",
  "city": "Los Angeles",
  "state": "CA",
@@ -11,21 +11,33 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/delphi-jewelry-467177275",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "contact@parthdiamonds.com",
+ "email_source": "https://parthdiamonds.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Bharat Ahir",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/parth-diamonds",
+ "tel_numbers": [
+  "(213) 622-2094"
+ ],
+ "tel_source": "https://parthdiamonds.com/",
+ "socials": [
+  "https://www.instagram.com/parthdiamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "lab-grown",
+  "natural",
+  "melee",
+  "manufacturer",
+  "since-1996"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Listed phone (213) 622-2094 is shown on parthdiamonds.com and Buzzfile maps it to Parth Diamonds (550 S Hill St): site says \"NATIONAL LEADING WHOLESALER & MANUFACTURER OF LABORATORY GROWN (CVD & HPHT) DIAMONDS ... we source our own laboratory-grown diamonds\", \"melee and larger stones\", in the LA jewelry district since 1996. YP name \"Delphi Jewelry\" appears to be an old name on that line. No LinkedIn found for Bharat Ahir.",
+ "verified": true,
+ "enriched": true
 }

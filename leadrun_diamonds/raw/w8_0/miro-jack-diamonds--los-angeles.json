@@ -13,19 +13,22 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/miro-hussenjian-062b6635/",
+ "linkedin_source": "WebSearch (extended): \"Miro Hussenjian\" diamond LinkedIn -> result \"Miro Hussenjian - Mirojack diamonds\"",
+ "contact_person": "Miro Hussenjian",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/miro-jack-diamond-corp",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
- "trade_memberships": [],
+ "building": "International Jewelry Center",
+ "suite": "Ste 1050",
+ "trade_memberships": [
+  "DCWC"
+ ],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "DCWC: \"Radiam Inc. / Miro & Jack Diamonds | Wholesale & Retail | Estate Jewelry | Secondary: Diamonds\", 550 S Hill St Ste 1050; CA SOS: Miro Jack Diamond Corp. (2005), CEO Miro Hussenjian. YP email concierge@mizrahidiamonds.com is on an unrelated domain - not recorded.",
+ "enriched": true
 }

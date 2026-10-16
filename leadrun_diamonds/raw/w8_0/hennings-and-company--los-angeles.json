@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "YP Diamonds-Wholesale, 629 S Hill St; nothing found online (no registry, website, owner).",
+ "enriched": true
 }

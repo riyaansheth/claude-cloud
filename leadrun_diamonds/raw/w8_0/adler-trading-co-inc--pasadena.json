@@ -13,19 +13,22 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/doron-auslander-89b4b748/",
+ "linkedin_source": "WebSearch (extended): \"Doron Auslander\" diamonds LinkedIn -> result \"Doron Auslander - Adler Trading Co. Inc.\"",
+ "contact_person": "Doron Auslander",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/adler-trading-company-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
- "trade_memberships": [],
+ "building": "International Jewelry Center",
+ "suite": "Ste 1384",
+ "trade_memberships": [
+  "DCWC"
+ ],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Diamond Club West Coast directory: \"Adler Trading Co. Inc. | Wholesale | Speciality: Diamonds\", 550 S Hill St Ste 1384, same phone (213) 624-7032 (YP Pasadena \"55 S Hill Ave\" address looks like a YP error). CA SOS (bizprofile): Doron Auslander CEO/CFO/Director; Buzzfile spells him \"Dorian Auslander, President\". He also appears on DCWC board lists.",
+ "enriched": true
 }

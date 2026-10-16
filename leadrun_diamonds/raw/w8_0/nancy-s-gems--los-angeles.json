@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Say Tang",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/nancy-s-gems-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "CA SOS: Nancy's Gems, Inc. active since 2004 (639 S Hill St Booth B-5), CEO Say E. Tang (a registry site calls her \"(Nancy) Say E. Tang\"); YP lists Diamonds-Wholesale at 625 S Hill St. YP email gems@mushaninternational.com is on an unexplained domain (site down) - not recorded. Likely a small jewelry-mart booth; no LinkedIn found.",
+ "enriched": true
 }

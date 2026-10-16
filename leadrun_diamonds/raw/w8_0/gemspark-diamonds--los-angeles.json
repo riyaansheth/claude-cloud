@@ -2,7 +2,7 @@
  "business": "GemSpark Diamonds",
  "category_as_listed": "Diamonds-Wholesale, Gemologists, Diamonds",
  "phone": "(424) 312-9332",
- "website": "",
+ "website": "https://www.gemsparkdiamond.com",
  "address": "550 S Hill St",
  "city": "Los Angeles",
  "state": "CA",
@@ -11,8 +11,8 @@
  "reviews": "27",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/gemspark-diamonds-478595216",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@gemsparkdiamonds.com",
+ "email_source": "https://www.yellowpages.com/los-angeles-ca/mip/gemspark-diamonds-478595216",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -23,9 +23,18 @@
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "IDCA",
+  "DCWC",
+  "JBT"
+ ],
+ "hooks": [
+  "natural",
+  "melee"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Gemologists, Diamonds"
+ "scope_reason": "unverified: site unreachable (proxy refused gemsparkdiamond.com). YP listing: \"100% natural loose diamond wholesaling and supplying company\", \"natural loose diamonds of tiniest sizes from 1.00mm till 4.1mm ... calibrated\", Associations \"IDCA & DCWC, JBT member\". Founder not named anywhere found.",
+ "verified": false,
+ "enriched": true
 }

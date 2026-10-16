@@ -13,19 +13,23 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/rafael-sabag-27967432/",
+ "linkedin_source": "WebSearch (extended): \"Rafael Sabag\" diamonds -> result \"rafael sabag - Owner - rafael sabag diamond importer\"",
+ "contact_person": "Rafael Sabag",
+ "role": "Owner",
+ "contact_source": "https://www.buzzfile.com/business/Sabag-Diamonds-213-627-7841",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
+ "building": "California Jewelry Mart",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer",
+  "since-1977"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Buzzfile: \"Rafael Sabag Diamonds\", 607 S Hill St, Owner Rafael Sabag, Diamonds (Gems), founded 1977; LinkedIn: Owner, \"rafael sabag diamond importer\", Los Angeles, since 1977. No website found.",
+ "enriched": true
 }

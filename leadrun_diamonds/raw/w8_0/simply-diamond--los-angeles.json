@@ -15,17 +15,20 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Chetan Vakharia",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/simply-diamonds-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
- "trade_memberships": [],
+ "building": "International Jewelry Center",
+ "suite": "Ste 1213",
+ "trade_memberships": [
+  "DCWC"
+ ],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "DCWC: \"Simply Diamonds Inc. | Wholesale | Diamonds\", 550 S Hill St Ste 1213; CA SOS: CEO Chetan Vakharia (Buzzfile spells \"Vekharia\"); Rapaport quotes him as \"president of wholesaler Simply Diamonds\", fancy shapes 5 pts-0.50 ct. LinkedIn profiles for that name are all India-based/unrelated.",
+ "enriched": true
 }
