@@ -5,10 +5,10 @@
   "email": "sales@richardsjewelry.com",
   "email_source": "https://richardsjewelry.com/contact-us/",
   "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_source": "\"Arie Paz\" Richard's Gems Jewelry Miami LinkedIn",
+  "contact_person": "Arie Paz",
+  "role": "Owner",
+  "contact_source": "https://www.miaminewtimes.com/best-of-miami/2012/shopping-and-services/best-jewelry-store-6403357",
   "website": "https://www.richardsjewelry.com",
   "address": "36 NE 1st St",
   "city": "Miami",
@@ -41,5 +41,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: engagement rings by diamond shape, fancy colored/black/blue/yellow diamonds; Seybold listing: family-owned since 1984. Bridal-focused jeweler; moderate fit.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

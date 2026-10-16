@@ -42,5 +42,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: trade-only 18K wholesale jewelry manufacturer (own manufacturing, private label) for verified retailers, offers natural or lab-grown diamonds; showroom Suite 223 Seybold Building.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }
