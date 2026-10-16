@@ -1,0 +1,21 @@
+{
+ "person": "Jesse James",
+ "title": "Owner",
+ "company": "San Francisco Diamond Exchange (Jesse James Enterprises)",
+ "company_website": "https://www.sfdiamondexchange.com",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "linkedin_url": "https://www.linkedin.com/in/jesse-james-04a24840/",
+ "linkedin_source": "query: \"San Francisco Diamond Exchange\" Jessica James LinkedIn | result title: Jesse James - owner - san francisco diamond exchange",
+ "company_email": "sfdiamondexchange@yahoo.com",
+ "company_phone": "(415) 255-0999",
+ "seniority": "owner",
+ "signals": [
+  "Diamond wholesale/trade business started as Jesse James Enterprises in 1970",
+  "868 Brannan St Ste 309 (SF Gift & Jewelry Center / Diamond District)",
+  "Second LinkedIn profile also exists (jesse-james-a7628685) for same name/company; used the one titled owner"
+ ],
+ "source_url": "https://www.sfdiamondexchange.com",
+ "is_diamond_trade": true
+}

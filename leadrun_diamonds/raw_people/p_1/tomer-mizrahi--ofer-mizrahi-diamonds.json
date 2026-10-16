@@ -1,0 +1,21 @@
+{
+ "person": "Tomer Mizrahi",
+ "title": "San Francisco Regional Manager",
+ "company": "Ofer Mizrahi Diamonds",
+ "company_website": "https://www.om-diamonds.com",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "linkedin_url": "https://www.linkedin.com/in/tomer-mizrahi-06924863/",
+ "linkedin_source": "query: \"Om Diamonds\" OR \"Salles Zevika\" OR \"Tal Ron Diamonds\" San Francisco LinkedIn | result title: Tomer Mizrahi - San Francisco Regional Manager At Ofer ...",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "manager",
+ "signals": [
+  "Ofer Mizrahi Diamonds has diamond-cutting facilities and offices incl. San Francisco",
+  "LinkedIn location San Francisco",
+  "AGS partner listing"
+ ],
+ "source_url": "https://www.linkedin.com/company/ofer-mizrahi-diamonds",
+ "is_diamond_trade": true
+}

@@ -1,0 +1,21 @@
+{
+ "person": "Rich Shaw",
+ "title": "Co-Founder",
+ "company": "D&R House of Diamonds",
+ "company_website": "https://dandrhouseofdiamonds.com",
+ "city": "Las Vegas",
+ "state": "NV",
+ "market": "Las Vegas, NV",
+ "linkedin_url": "https://www.linkedin.com/in/rich-shaw-2117703/",
+ "linkedin_source": "query: \"Rich Shaw\" \"D&R House of Diamonds\" LinkedIn | result title: Rich Shaw - D&R House Of Diamonds",
+ "company_email": "",
+ "company_phone": "(702) 758-3421",
+ "seniority": "owner",
+ "signals": [
+  "Co-founder of D&R House of Diamonds with Dave Padgett (company site), est. 2013",
+  "Sources loose natural and lab-grown diamonds through large diamond wholesalers; private-office diamond seller",
+  "LinkedIn location North Las Vegas"
+ ],
+ "source_url": "https://dandrhouseofdiamonds.com/",
+ "is_diamond_trade": true
+}
