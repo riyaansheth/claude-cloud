@@ -1,44 +1,46 @@
 {
- "business": "Jewelry Depot Houston Engagement Rings Store",
- "category_as_listed": "Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers",
- "phone": "(713) 789-7977",
- "website": "http://jewelrydepothouston.com",
- "address": "6222 Richmond Ave Ste 100",
- "city": "Houston",
- "state": "TX",
- "market": "Houston, TX",
- "rating": "5",
- "reviews": "106",
- "source_url": "https://www.yellowpages.com/houston-tx/mip/jewelry-depot-houston-engagement-rings-store-796462",
- "lead_origin": "YellowPages",
- "email": "jd.houtexas@gmail.com",
- "email_source": "https://www.jewelrydepothouston.com/pages/about-us",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [
-  "+1-713-789-7977"
- ],
- "tel_source": "https://www.jewelrydepothouston.com/pages/about-us",
- "socials": [
-  "https://www.facebook.com/jewelrydepothouston",
-  "https://www.instagram.com/jewelry_depot_houston",
-  "https://www.pinterest.com/jewelrydepothouston",
-  "https://www.youtube.com/channel/UCqAHNAZVzh7uHtPr5yrQVPA"
- ],
- "building": "",
- "suite": "Ste 100",
- "trade_memberships": [],
- "hooks": [
-  "manufacturer since 1973",
-  "diamond-cutting family heritage",
-  "lab-grown & natural loose diamonds",
-  "6222 Richmond Ave Ste 100"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "About page: 'Since 1973, Jewelry Depot Houston has been manufacturing exquisite, unique diamond jewelry for retail stores around the world' and 'began as a manufacturing facility and wholesale entity that supported retailers', founders rooted in diamond cutting; now also sells wholesale to public.",
- "verified": true
+  "business": "Jewelry Depot Houston Engagement Rings Store",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers",
+  "phone": "(713) 789-7977",
+  "website": "http://jewelrydepothouston.com",
+  "address": "6222 Richmond Ave Ste 100",
+  "city": "Houston",
+  "state": "TX",
+  "market": "Houston, TX",
+  "rating": "5",
+  "reviews": "106",
+  "source_url": "https://www.yellowpages.com/houston-tx/mip/jewelry-depot-houston-engagement-rings-store-796462",
+  "lead_origin": "YellowPages",
+  "email": "jd.houtexas@gmail.com",
+  "email_source": "https://www.jewelrydepothouston.com/pages/about-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Boryana Farkas",
+  "role": "",
+  "contact_source": "",
+  "tel_numbers": [
+    "+1-713-789-7977"
+  ],
+  "tel_source": "https://www.jewelrydepothouston.com/pages/about-us",
+  "socials": [
+    "https://www.facebook.com/jewelrydepothouston",
+    "https://www.instagram.com/jewelry_depot_houston",
+    "https://www.pinterest.com/jewelrydepothouston",
+    "https://www.youtube.com/channel/UCqAHNAZVzh7uHtPr5yrQVPA"
+  ],
+  "building": "",
+  "suite": "Ste 100",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer since 1973",
+    "diamond-cutting family heritage",
+    "lab-grown & natural loose diamonds",
+    "6222 Richmond Ave Ste 100"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "About page: 'Since 1973, Jewelry Depot Houston has been manufacturing exquisite, unique diamond jewelry for retail stores around the world' and 'began as a manufacturing facility and wholesale entity that supported retailers', founders rooted in diamond cutting; now also sells wholesale to public.",
+  "verified": true,
+  "li_note": "Manta names Boryana Farkas owner (6222 Richmond Ave Ste 100); Yelp reviews mention Shimon and Boryana Farkas. No linkedin.com/in result tied to person.",
+  "li_backfill": true
 }

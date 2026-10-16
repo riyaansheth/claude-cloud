@@ -4,8 +4,8 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/pankaj-patel58/",
+  "linkedin_source": "\"Pankaj Patel\" Lab Grown Diamonds USA LinkedIn",
   "contact_person": "Pankaj Patel",
   "role": "Founder",
   "contact_source": "https://lgdusallc.com/about-us (search snippet)",
@@ -33,5 +33,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "LinkedIn 'Co-Owner at Lab Grown Diamonds USA LLC': rounds .08mm-6mm loose and 1-6ct GIA/IGI certified lab-grown; wholesale office on 47th St. LinkedIn slug is a business-name vanity, so not recorded as person URL.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "Profile title 'Pankaj Patel - Lab Grown Diamond Inc'; search summary ties a Pankaj Patel profile to Founder, Lab Grown Diamond USA LLC, New York. Business-name slug /in/lab-grown-diamonds-new-york-83b525176 (Co-Owner) excluded.",
+  "li_backfill": true
 }

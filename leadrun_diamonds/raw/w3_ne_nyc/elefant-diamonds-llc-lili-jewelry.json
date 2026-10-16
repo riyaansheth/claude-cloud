@@ -36,5 +36,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "YP lists Elefant Diamonds LLC (Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers) with website lilijewelry.com; Lili Jewelry NY office at 580 Fifth Ave Ste 2500, a brand of Lili Diamonds (Siman-Tov family manufacturer, per search).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no owner name found; Lili Diamonds founded by Siman-Tov brothers (Wikipedia), no NY principal identified",
+  "li_backfill": true
 }

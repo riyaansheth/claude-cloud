@@ -4,9 +4,9 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
+  "linkedin_url": "https://www.linkedin.com/in/shashvat-sadhani-7793752a/",
+  "linkedin_source": "\"Shashvat Sadhani\" Classic Grown Diamonds LinkedIn",
+  "contact_person": "Shashvat Sadhani",
   "role": "",
   "contact_source": "",
   "website": "https://www.classicgrowndiamonds.com",
@@ -30,5 +30,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "New York lab-grown diamond company at 22 W 48th St, established 2014 (search result).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "Title: Global Operations Director (JewelleryNet; LinkedIn company page). Not confirmed as owner/president.",
+  "li_backfill": true
 }

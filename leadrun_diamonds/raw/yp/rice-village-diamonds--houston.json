@@ -1,46 +1,48 @@
 {
- "business": "Rice Village Diamonds",
- "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
- "phone": "(713) 526-1510",
- "website": "http://www.ricevillagediamonds.com",
- "address": "2376 Rice Blvd",
- "city": "Houston",
- "state": "TX",
- "market": "Houston, TX",
- "rating": "",
- "reviews": "18",
- "source_url": "https://www.yellowpages.com/houston-tx/mip/rice-village-diamonds-22359019",
- "lead_origin": "YellowPages",
- "email": "info@ricevillagediamonds.com",
- "email_source": "https://www.ricevillagediamonds.com/contact-us/",
- "linkedin_url": "",
- "linkedin_source": "\"Ron Maor\" Rice Village Diamonds Houston LinkedIn",
- "contact_person": "Ron Maor",
- "role": "Owner",
- "contact_source": "https://www.easternlighting.com/single-post/2018/05/24/client-profile-rice-village-diamonds",
- "tel_numbers": [
-  "(713) 526-1510"
- ],
- "tel_source": "https://www.ricevillagediamonds.com/contact-us/",
- "socials": [
-  "https://instagram.com/ricevillagediamonds",
-  "https://twitter.com/rvdiamonds",
-  "https://www.facebook.com/ricevillagediamonds"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [
-  "De Beers Forevermark authorized retailer"
- ],
- "hooks": [
-  "second-generation diamond cutters",
-  "700+ loose diamonds",
-  "in-house manufacturing",
-  "canary/fancy color",
-  "same address as Activ Gem (2376 Rice Blvd)"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "About page: 'As second-generation diamond cutters, we began our journey as a wholesale diamond operation'; 'With over 700 loose diamonds in stock' and 'The majority of our jewelry is manufactured in house'.",
- "verified": true
+  "business": "Rice Village Diamonds",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
+  "phone": "(713) 526-1510",
+  "website": "http://www.ricevillagediamonds.com",
+  "address": "2376 Rice Blvd",
+  "city": "Houston",
+  "state": "TX",
+  "market": "Houston, TX",
+  "rating": "",
+  "reviews": "18",
+  "source_url": "https://www.yellowpages.com/houston-tx/mip/rice-village-diamonds-22359019",
+  "lead_origin": "YellowPages",
+  "email": "info@ricevillagediamonds.com",
+  "email_source": "https://www.ricevillagediamonds.com/contact-us/",
+  "linkedin_url": "",
+  "linkedin_source": "\"Ron Maor\" Rice Village Diamonds Houston LinkedIn",
+  "contact_person": "Ron Maor",
+  "role": "Owner",
+  "contact_source": "https://www.easternlighting.com/single-post/2018/05/24/client-profile-rice-village-diamonds",
+  "tel_numbers": [
+    "(713) 526-1510"
+  ],
+  "tel_source": "https://www.ricevillagediamonds.com/contact-us/",
+  "socials": [
+    "https://instagram.com/ricevillagediamonds",
+    "https://twitter.com/rvdiamonds",
+    "https://www.facebook.com/ricevillagediamonds"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "De Beers Forevermark authorized retailer"
+  ],
+  "hooks": [
+    "second-generation diamond cutters",
+    "700+ loose diamonds",
+    "in-house manufacturing",
+    "canary/fancy color",
+    "same address as Activ Gem (2376 Rice Blvd)"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "About page: 'As second-generation diamond cutters, we began our journey as a wholesale diamond operation'; 'With over 700 loose diamonds in stock' and 'The majority of our jewelry is manufactured in house'.",
+  "verified": true,
+  "li_note": "no linkedin.com/in result tied to person; OpenCorporates lists Ron Maor member/agent of ACTIV-GEM Inc (OnDiamonds), 6222 Richmond Ave Houston; ZoomInfo lists Rashel Maor as owner.",
+  "li_backfill": true
 }
