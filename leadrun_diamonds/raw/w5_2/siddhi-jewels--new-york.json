@@ -36,5 +36,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site terms state \"Siddhi Jewels operates as a B2B diamond jewellery supplier, catering to retailers and businesses\"; the catalogue site lists a Mumbai, India address (no New York office shown).",
- "verified": true
+ "verified": true,
+ "li_note": "owner not found; linkedin search not run (web search budget exhausted)",
+ "li_backfill": true
 }

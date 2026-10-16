@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (misanejewelry.com does not resolve / proxy 502)",
- "verified": false
+ "verified": false,
+ "li_note": "owner not found; linkedin search not run (web search budget exhausted)",
+ "li_backfill": true
 }

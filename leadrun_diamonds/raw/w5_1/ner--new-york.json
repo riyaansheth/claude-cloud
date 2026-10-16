@@ -34,5 +34,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site nerdiamond.com is titled 'Premium Certified Diamonds & Jewelry Supplier | NER Diamond', says 'GIA Certified' and points to a lab-grown diamond collection; thin text, no about content.",
- "verified": true
+ "verified": true,
+ "li_note": "owner not found; linkedin search not run (web search budget exhausted)",
+ "li_backfill": true
 }

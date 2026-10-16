@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (maysjewelers.com now serves an unrelated Shanghai branding agency, not this jeweler)",
- "verified": false
+ "verified": false,
+ "li_note": "listed website is a different jeweler (ignored); owner not found; linkedin search not run (web search budget exhausted)",
+ "li_backfill": true
 }

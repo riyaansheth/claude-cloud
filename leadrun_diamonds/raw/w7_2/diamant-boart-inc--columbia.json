@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (diamant-boart.com returns an empty page); YP category Diamond Cutters — name suggests industrial diamond tooling, not gem trade; not confirmed.",
- "verified": false
+ "verified": false,
+ "li_note": "likely industrial diamond-tool maker, not diamond trade; owner not found; linkedin search not run (web search budget exhausted)",
+ "li_backfill": true
 }

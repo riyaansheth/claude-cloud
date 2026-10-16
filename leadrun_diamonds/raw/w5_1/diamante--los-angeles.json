@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable",
- "verified": false
+ "verified": false,
+ "li_note": "listed website is a jeans brand (ignored); owner not found; linkedin search not run (web search budget exhausted)",
+ "li_backfill": true
 }
