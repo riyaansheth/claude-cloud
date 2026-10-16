@@ -11,21 +11,38 @@
  "reviews": "18",
  "source_url": "https://www.yellowpages.com/port-charlotte-fl/mip/dunkins-diamonds-457822011",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "hello@dunkinsdiamonds.com",
+ "email_source": "https://dunkinsdiamonds.com/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/stuartdunkin/",
+ "linkedin_source": "WebSearch extended: \"Stuart Dunkin\" Dunkin's Diamonds LinkedIn",
+ "contact_person": "Stuart Dunkin",
+ "role": "Founder",
+ "contact_source": "https://dunkinsdiamonds.com/pages/about-us ; LinkedIn search result 'Stuart Dunkin - Dunkin's Diamonds' (CEO & Founder)",
+ "tel_numbers": [
+  "941-255-1999",
+  "877-343-4883"
+ ],
+ "tel_source": "https://dunkinsdiamonds.com/pages/port-charlotte-fl-jewelry-store",
+ "socials": [
+  "https://www.facebook.com/dunkinsdiamonds/",
+  "https://www.instagram.com/dunkinsdiamonds/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "3rd-generation",
+  "gia-loose-diamonds",
+  "natural",
+  "lab-grown",
+  "buys-direct"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers"
+ "scope_reason": "Own About page: 'huge selection of GIA loose diamonds... Since we buy diamonds direct from the world's top resources and work with expert cutters' — bridal/loose-diamond specialist sourcing its own stones (multi-store FL/OH, borderline retail).",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Owner from About page sign-off + LinkedIn result; site shows only store line + toll-free (other numbers on /pages/locations are other branches' main lines, not recorded)."
 }

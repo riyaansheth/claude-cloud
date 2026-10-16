@@ -2,7 +2,7 @@
  "business": "Unique Stones Inc",
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(561) 487-7577",
- "website": "http://ddiamondjewelry.com",
+ "website": "https://ddiamondjewelry.com/",
  "address": "8221 Glades Rd",
  "city": "Boca Raton",
  "state": "FL",
@@ -11,21 +11,37 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/unique-stones-inc-466586944",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "cs@ddiamondjewelry.com",
+ "email_source": "https://ddiamondjewelry.com/contact/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(800) 635-9002"
+ ],
+ "tel_source": "https://ddiamondjewelry.com/contact/",
+ "socials": [
+  "https://www.facebook.com/profile.php?id=100063661534425",
+  "https://www.instagram.com/ddiamondjewelry/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer",
+  "manufacturer",
+  "loose-diamonds",
+  "30-years-in-trade",
+  "israel-diamond-exchange",
+  "fancy-color",
+  "large-stones"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Listed site ddiamondjewelry.com (D Diamond Jewelry, 8221 Glades Rd Suit 208 — same street address) About: 'Our company is a direct diamond importer ... buy merchandise directly from the cutter' and 'also a manufacturer of fine jewelry'; site never names 'Unique Stones Inc'.",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "w7_0/sub3: fetched /, /contact, /about, /consumer-service, page-sitemap; email is Cloudflare-protected on the contact page (data-cfemail decoded from that page = cs@ddiamondjewelry.com); only phone is toll-free 800 (not a direct line); owner not found (2 WebSearches, Sunbiz 403); no LinkedIn search possible without a name."
 }

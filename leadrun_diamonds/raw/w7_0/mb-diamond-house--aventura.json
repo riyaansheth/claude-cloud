@@ -1,0 +1,39 @@
+{
+ "business": "MB Diamond House",
+ "category_as_listed": "",
+ "phone": "(800) 669-4367",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Michael Bitton",
+ "role": "Founder",
+ "contact_source": "https://mbdiamondhouse.com/ (as shown in WebSearch result; site now serves a hijacked spam page)",
+ "website": "",
+ "address": "19275 Biscayne Blvd, Booth #20 (The Jewelers Exchange)",
+ "city": "Aventura",
+ "state": "FL",
+ "market": "Aventura, FL",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.facebook.com/mbdiamondhouse/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.facebook.com/mbdiamondhouse/"
+ ],
+ "building": "The Jewelers Exchange",
+ "suite": "Booth #20",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1982",
+  "wholesale"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Facebook/site (search snippets): 'Michael Bitton Diamond House - The Premiere Diamond & Jewelry Wholesaler in Aventura, FL'; 'diamond wholesaler for over 30 years since 1982'.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "mbdiamondhouse.com now returns an unrelated Chinese spam page over http (https resets) — website left blank, its email ignored. Co-founder Katy Bitton. Extended LinkedIn search for Michael Bitton found no profile."
+}

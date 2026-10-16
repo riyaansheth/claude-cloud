@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds"
+ "scope_reason": "unverified: site unreachable (listed prestigetechservices.net returns 503 and is not the business's own domain)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0/sub3: fetched prestigetechservices.net -> 503; 1 WebSearch on name+address found nothing; Sunbiz blocked (403)."
 }

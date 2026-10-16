@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers"
+ "scope_reason": "unverified: site unreachable (pollackjewelers.com returns Shopify HTTP 402 store-unavailable)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0/sub3: fetched pollackjewelers.com -> 402 closed Shopify store; no other own pages; prior w5_0 hint (BBB 'Pollack Jewelers of Manhattan' Sawgrass Mills outlet) not re-confirmed this session."
 }

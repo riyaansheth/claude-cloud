@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers"
+ "scope_reason": "unverified: site unreachable (naplesdiamond.com redirects to polgari.jewelershowcase.com, an unrelated jeweler with a (631) number)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0/sub3: fetched naplesdiamond.com -> polgari.jewelershowcase.com (unrelated); 1 WebSearch found no mention of the business."
 }

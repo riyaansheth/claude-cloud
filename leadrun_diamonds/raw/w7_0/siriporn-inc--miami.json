@@ -21,11 +21,14 @@
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
+ "building": "Seybold Building",
+ "suite": "2nd Floor / 225",
  "trade_memberships": [],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Jewelers"
+ "scope_reason": "unverified: site unreachable (listed site is the Seybold Building's own site; its directory https://seyboldjewelry.com/full-directory/ shows only 'SIRIPORN INC 2nd Floor / 225 (305) 373-7470', tenant page /siriporn-inc is 404)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0/sub3: Seybold full + 2nd-floor directories list Siriporn Inc Ste 225 with the listed phone; tenant page 404; 1 WebSearch found no own site/owner."
 }

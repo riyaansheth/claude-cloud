@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Gemologists"
+ "scope_reason": "unverified: site unreachable (listed tradesy.com closet now redirects to vestiairecollective.com, 403; no own site)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0/sub3: fetched listed URL (redirect to Vestiaire, 403); 1 WebSearch found only an eBay seller 'Pelagrino' (Miami) offering a certified diamond pendant — no own site, no owner, no email."
 }
