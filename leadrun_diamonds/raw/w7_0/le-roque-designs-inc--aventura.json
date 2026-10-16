@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds-Wholesale, Jewelry Buyers"
+ "scope_reason": "unverified: site unreachable (leroquedesigns.com and www. do not resolve / proxy 502)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0 sub2: own domain DNS failure; OpenCorporates us_fl search found only inactive LE ROQUE DESIGNS BY MICHELLE M INC. (P15000002097), not confirmed as this listing; no owner/email/direct line; no WebSearch spent."
 }

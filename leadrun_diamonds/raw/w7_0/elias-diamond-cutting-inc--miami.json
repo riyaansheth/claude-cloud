@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "unverified: site unreachable (eliasdiamond.com and www. reset every connection, http and https)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0 sub2: own site connection reset (requests+curl); OpenCorporates us_fl/253713 ELIAS DIAMOND CUTTING, INC. active, head office 3470 N 31 Ave Hollywood FL, agent William Wigutow, officers hidden (not tied to the 36 NE 1st St listing, so no contact recorded); 2 WebSearches found nothing on the business; no email/direct line."
 }

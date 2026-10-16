@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "unverified: site unreachable (miamidiamond.com is a parked domain redirecting to /lander)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0 sub2: miamidiamond.com and www. -> parked /lander; OpenCorporates us_fl 'diamond setter' returned only unrelated setter entities; no owner/email/direct line found; no WebSearch spent."
 }

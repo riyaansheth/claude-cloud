@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Jasid Kazieva",
+ "role": "President",
+ "contact_source": "https://www.bizprofile.net/fl/miami/kozi-diamonds-group-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: site unreachable (listing website is a Yelp page for a different business, H and Y Diamonds; no own website found - kozidiamonds.com does not connect; search snippets of a 1stDibs seller page describe Kozi Diamonds Group Inc. as 'third generation diamond dealers & estate buyers', not confirmed on an own site)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0 sub2: no own site (Yelp URL is for H and Y Diamonds; kozidiamonds.com/kozidiamondsgroup.com no connection); OpenCorporates us_fl/P02000053706 KOZI DIAMONDS GROUP, INC. active, agent Jasid Kazieva, officers hidden; bizprofile.net (Sunbiz copy) lists PDT Kazieva, Jasid and SVD Kazieva, Albert at 14 NE 1st Ave 1106 Miami; 2 extended LinkedIn searches found no /in/ URL; no email/direct line."
 }

@@ -15,17 +15,24 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Veronica Waldman",
+ "role": "President",
+ "contact_source": "https://www.pr.com/press-release/23899",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
+ "trade_memberships": [
+  "Jewelers of America",
+  "Florida Jewelers Association",
+  "Jewelers Vigilance Committee"
+ ],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "unverified: site unreachable (certifieddiamonddealers.com now serves a parked-domain lander); a 2006 PR.com release describes the firm as 'a leader in suppling conflict-free certified colorless diamonds, certified natural colored fancy diamonds' - not confirmed on a live own site",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0 sub2: own domain parked (parity.domains lander); PR.com 2006 release lists 'Veronica Waldman, President & CEO', (305)935-2526, (800)656-2573, Info@CertifiedDiamondDealers.com (email not recorded: domain is no longer the business's live site, page is third-party); BBB profile 403; OpenCorporates search no hit; 2 extended LinkedIn searches no /in/ URL for her."
 }

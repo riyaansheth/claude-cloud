@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: site unreachable (listed site johnolive.com is the portfolio of John Olive, a Miami photographer/director - unrelated to John Verdellis Inc; bare domain 503)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0 sub2: www.johnolive.com is an unrelated photographer site (its john@johnolive.com / 305.753.8724 NOT recorded); johnverdellis.com no connection; OpenCorporates us_fl/P96000101531 JOHN VERDELLIS, INC. active, head office 3730 N Ocean Dr Riviera Beach, agent Thomas F Morante (Holland & Knight), officers hidden; 1 WebSearch found nothing; no owner/email/direct line."
 }

@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Avivit Ohayon",
+ "role": "President",
+ "contact_source": "https://www.bizprofile.net/fl/aventura/mesika-diamonds-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: site unreachable (mesikadiamonds.com and www. reset every connection, http and https)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0 sub2: own site connection reset (requests+curl, http/https/www); OpenCorporates us_fl/P05000111602 MESIKA DIAMONDS, INC. active, agent Avivit Ohayon at 19275 Biscayne Blvd Aventura; bizprofile.net (Sunbiz copy) lists President Ohayon, Avivit, 19275 Biscayne Blvd #24; 2 extended LinkedIn searches ('\"Avivit Ohayon\" Mesika Diamonds', '\"Avivit Ohayon\" Aventura LinkedIn') found no /in/ URL; no email/direct line."
 }

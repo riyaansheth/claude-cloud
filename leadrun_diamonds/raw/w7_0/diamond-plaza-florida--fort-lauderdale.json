@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Repairing, Jewelry Appraisers"
+ "scope_reason": "unverified: site unreachable (https www.diamondplazaflorida.com returns Cloudflare 526; http bare domain shows an InMotion Hosting placeholder; /contact 404)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "w7_0 sub2: own site 526/placeholder; OpenCorporates us_fl search 'diamond plaza florida' no hit; 1 WebSearch found only a The Knot vendor listing (no owner); no owner/email/direct line."
 }
