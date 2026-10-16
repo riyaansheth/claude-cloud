@@ -1,0 +1,22 @@
+{
+ "person": "Noam Drori",
+ "title": "Owner",
+ "company": "NDC Diamonds LLC (DBA Redmond Diamond Center)",
+ "company_website": "",
+ "city": "Redmond",
+ "state": "WA",
+ "market": "Seattle, WA",
+ "linkedin_url": "https://www.linkedin.com/in/noam-drori-b6520a40/",
+ "linkedin_source": "\"Ndc Diamonds\" OR \"Redmond Diamond Center\" owner LinkedIn",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "owner",
+ "signals": [
+  "importer",
+  "wholesale",
+  "since-2011",
+  "profile-location-carlsbad-ca"
+ ],
+ "source_url": "https://www.bbb.org/us/wa/redmond/profile/wholesale-jewelry/ndc-diamonds-llc-1296-90003119",
+ "is_diamond_trade": true
+}

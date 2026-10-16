@@ -1,0 +1,23 @@
+{
+ "person": "David E. Stone",
+ "title": "President / Owner, Gemologist",
+ "company": "Pacific Gem Inc",
+ "company_website": "https://www.pacificgeminc.com",
+ "city": "Seattle",
+ "state": "WA",
+ "market": "Seattle, WA",
+ "linkedin_url": "https://www.linkedin.com/in/dave-stone-09652b7/",
+ "linkedin_source": "\"David Stone\" OR \"Dave Stone\" \"Pacific Gem\" Seattle LinkedIn",
+ "company_email": "",
+ "company_phone": "(206) 448-7700",
+ "seniority": "owner",
+ "signals": [
+  "importer",
+  "wholesale",
+  "since-1979",
+  "gia-postgraduate",
+  "former-diamond-buyer"
+ ],
+ "source_url": "https://www.pacificgeminc.com/custom-jewelry-store",
+ "is_diamond_trade": true
+}
