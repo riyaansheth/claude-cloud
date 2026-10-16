@@ -22,10 +22,18 @@
  "tel_source": "",
  "socials": [],
  "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "suite": "Ste 407",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "cutter",
+  "large-stones",
+  "70-years"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "No own website reachable; MapQuest listing: GIA certified diamonds 1-15ct IF-SI \"cut in their factory\", 70+ years; D&B lists it under NY diamond cutting and polishing. Owner not found.",
+ "enriched": true,
+ "verified": false
 }
