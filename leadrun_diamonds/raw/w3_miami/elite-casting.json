@@ -5,7 +5,7 @@
   "email": "",
   "email_source": "",
   "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_source": "\"Juan Valladares\" Elite Casting Miami jewelry LinkedIn",
   "contact_person": "Juan M Valladares",
   "role": "",
   "contact_source": "https://opencorporates.com/companies/us_fl/P06000036118",
@@ -31,5 +31,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Directory name: jewelry casting house (Suite 1005); FL corp ELITE CASTING, INC. (OpenCorporates P06000036118, agent Juan M Valladares). No website.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

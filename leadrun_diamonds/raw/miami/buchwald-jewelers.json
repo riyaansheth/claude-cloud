@@ -4,11 +4,11 @@
   "phone": "(305) 373-LOVE",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/jeff-buchwald-a58567a/",
+  "linkedin_source": "\"Jeff Buchwald\" Buchwald Jewelers LinkedIn",
+  "contact_person": "Jeff Buchwald",
+  "role": "Owner",
+  "contact_source": "https://en.everybodywiki.com/Buchwald_Jewelers",
   "website": "https://www.buchwaldjewelers.com",
   "address": "36 NE 1st St, Suite 123",
   "city": "Miami",
@@ -32,5 +32,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Claims largest selection of GIA certified diamonds at wholesale pricing; in Seybold since 1960. Borderline: retail-facing bridal sourcing own GIA loose stones.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

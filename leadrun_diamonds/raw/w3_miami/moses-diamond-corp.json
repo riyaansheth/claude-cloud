@@ -5,7 +5,7 @@
   "email": "",
   "email_source": "",
   "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_source": "\"Stalin Pellissery\" Miami LinkedIn",
   "contact_person": "Stalin Pellissery",
   "role": "CEO",
   "contact_source": "https://www.dandb.com/businessdirectory/mosesdiamondcorporation-miami-fl-16840377.html",
@@ -30,5 +30,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Directory name; FL corp MOSES DIAMOND CORPORATION head office 36 NE 1st St #324 (OpenCorporates P03000001099, agent Stalin Pellissery); MisterWhat categorizes it 'Wholesale Diamonds'. No website found.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

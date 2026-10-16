@@ -30,5 +30,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Listed as wholesale diamond dealer offering custom cutting of diamonds to client spec (Craft.co); poyst listing gives Suite 520.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

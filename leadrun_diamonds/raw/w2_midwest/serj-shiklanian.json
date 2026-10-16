@@ -4,8 +4,8 @@
   "phone": "248-200-0285",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/serj-shiklanian-0974b867/",
+  "linkedin_source": "\"Serj Shiklanian\" Serj's Wholesale Diamond LinkedIn",
   "contact_person": "Serj Shiklanian",
   "role": "",
   "contact_source": "https://www.yellowpages.com/southfield-mi/serjs-wholesale-diamond",
@@ -27,5 +27,6 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "YellowPages lists 'Serjs Wholesale Diamond' under Diamonds-Wholesale at the 23077 Greenfield jewelry office building; role inferred from business being a personal name",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }
