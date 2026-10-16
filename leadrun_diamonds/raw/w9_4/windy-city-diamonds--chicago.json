@@ -11,21 +11,33 @@
  "reviews": "26",
  "source_url": "https://www.yellowpages.com/chicago-il/mip/windy-city-diamonds-3458935",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "director@windycitydiamonds.com",
+ "email_source": "https://www.windycitydiamonds.com/company/about-us/",
+ "linkedin_url": "https://www.linkedin.com/in/garry-zimmerman-037823a/",
+ "linkedin_source": "\"Garry Zimmerman\" Windy City Diamonds LinkedIn",
+ "contact_person": "Garry Zimmerman",
+ "role": "Owner",
+ "contact_source": "https://www.windycitydiamonds.com/company/our-team/",
+ "tel_numbers": [
+  "(312) 327-9463"
+ ],
+ "tel_source": "https://www.windycitydiamonds.com/company/about-us/",
+ "socials": [
+  "https://www.facebook.com/windycitydiamonds",
+  "https://www.instagram.com/windycitydiamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "4th-generation",
+  "gia",
+  "bridal",
+  "manufacturer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Jewelry Designers, Jewelers"
+ "scope_reason": "Borderline: retail custom engagement-ring store, but owner says he 'started out my career in the wholesale diamond trade'; site claims 'one of the largest selections of GIA certified diamonds in the Chicago area', in-house manufacturing (voyagechicago.com interview).",
+ "verified": true,
+ "enriched": true
 }

@@ -2,7 +2,7 @@
  "business": "Star Brilliant",
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(312) 214-1900",
- "website": "http://brilliantfs.com",
+ "website": "",
  "address": "5 S Wabash Ave Ste 1520",
  "city": "Chicago",
  "state": "IL",
@@ -27,5 +27,5 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: listed website brilliantfs.com is an unrelated staffing firm; CMAC lists it as 'Diamond Retailers', est. 2007; MapQuest shows closed."
 }

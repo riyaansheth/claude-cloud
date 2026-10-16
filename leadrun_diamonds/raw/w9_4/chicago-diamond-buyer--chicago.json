@@ -2,8 +2,8 @@
  "business": "Chicago Diamond Buyer",
  "category_as_listed": "Diamond Buyers, Jewelry Buyers",
  "phone": "(312) 763-5585",
- "website": "https://www.midwestdiamondbuyers.com/sell-diamond",
- "address": "29 E Madison St",
+ "website": "https://midwestdiamondbuyers.com",
+ "address": "29 E Madison St Ste 1818 Chicago",
  "city": "Chicago",
  "state": "IL",
  "market": "Naperville, IL",
@@ -11,21 +11,30 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/chicago-il/mip/chicago-diamond-buyer-469301184",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@thediamondsourceinc.com",
+ "email_source": "https://thediamondsourceinc.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_source": "https://thediamondsourceinc.com/ (founder named only as 'Shlomi')",
+ "tel_numbers": [
+  "708 683 9833",
+  "+1 312 971 1616"
+ ],
+ "tel_source": "https://midwestdiamondbuyers.com/ ; https://thediamondsourceinc.com/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "natural",
+  "estate-diamond-buyer",
+  "by-appointment"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Jewelry Buyers"
+ "scope_reason": "Own site: 'We are not a traditional retail store, we are specialized buyers' of natural diamonds; sister site The Diamond Source (same Ste 1818) offers 'Wholesale Inventory Access' and loose diamonds.",
+ "verified": true,
+ "enriched": true
 }
