@@ -4,8 +4,8 @@
   "phone": "248-645-9200",
   "email": "ContactUs@ReaverDiamond.com",
   "email_source": "https://www.reaverdiamond.com/about-us/",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/steve-reaver-93bbb713",
+  "linkedin_source": "\"Steve Reaver\" Reaver Diamond Southfield LinkedIn",
   "contact_person": "Steve Reaver",
   "role": "Owner",
   "contact_source": "https://www.zoominfo.com/p/Steve-Reaver/1340698410",
@@ -33,5 +33,6 @@
   "is_diamond_trade": true,
   "scope_reason": "Diamond-named family firm (Reaver family in Detroit since 1959, current LLC 2004 per Crain's) listed under Superpages Jewelry Wholesale & Manufacturers; BBB categorises as jewelry store - borderline retail. Email belongs to manager Chris, not owner.",
   "drop_reason": "",
-  "enriched": true
+  "enriched": true,
+  "li_backfill": true
 }
