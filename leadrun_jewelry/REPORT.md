@@ -1,13 +1,13 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-16T23:53:53+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-17T00:14:34+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
 | Metric | Count |
 |---|---|
-| Listings in research pool (in scope after discovery) | 34239 |
-| Businesses researched (after dedupe) → `jewelry_all.csv` | 21169 |
+| Listings in research pool (in scope after discovery) | 34249 |
+| Businesses researched (after dedupe) → `jewelry_all.csv` | 21174 |
 | Qualified (2 of 3) → `jewelry_qualified.csv` | 549 |
 | Qualification rate | 2.6% |
 | Websites crawled OK / attempted | 17704 / 21321 |
@@ -18,9 +18,9 @@ Generated 2026-10-16T23:53:53+05:30 by `python3 run.py build`. Every number belo
 
 | # | Column | all.csv | qualified.csv |
 |---|---|---|---|
-| 1 | Business | 21169 (100.0%) | 549 (100.0%) |
-| 2 | Segment | 21169 (100.0%) | 549 (100.0%) |
-| 3 | Category (as listed) | 21124 (99.8%) | 548 (99.8%) |
+| 1 | Business | 21174 (100.0%) | 549 (100.0%) |
+| 2 | Segment | 21174 (100.0%) | 549 (100.0%) |
+| 3 | Category (as listed) | 21129 (99.8%) | 548 (99.8%) |
 | 4 | Phone | 19840 (93.7%) | 537 (97.8%) |
 | 5 | Email | 4841 (22.9%) | 538 (98.0%) |
 | 6 | LinkedIn Profile | 161 (0.8%) | 154 (28.1%) |
@@ -29,21 +29,21 @@ Generated 2026-10-16T23:53:53+05:30 by `python3 run.py build`. Every number belo
 | 9 | Website | 15958 (75.4%) | 549 (100.0%) |
 | 10 | Address | 20318 (96.0%) | 541 (98.5%) |
 | 11 | Real City | 16860 (79.6%) | 465 (84.7%) |
-| 12 | Real State | 16963 (80.1%) | 464 (84.5%) |
-| 13 | Market | 21169 (100.0%) | 549 (100.0%) |
-| 14 | Lead Origin | 21169 (100.0%) | 549 (100.0%) |
+| 12 | Real State | 16964 (80.1%) | 464 (84.5%) |
+| 13 | Market | 21174 (100.0%) | 549 (100.0%) |
+| 14 | Lead Origin | 21174 (100.0%) | 549 (100.0%) |
 | 15 | Rating | 7372 (34.8%) | 317 (57.7%) |
 | 16 | Reviews | 7372 (34.8%) | 317 (57.7%) |
-| 17 | Source | 21169 (100.0%) | 549 (100.0%) |
-| 18 | Signals | 21169 (100.0%) | 549 (100.0%) |
-| 19 | Match Type | 21169 (100.0%) | 549 (100.0%) |
+| 17 | Source | 21174 (100.0%) | 549 (100.0%) |
+| 18 | Signals | 21174 (100.0%) | 549 (100.0%) |
+| 19 | Match Type | 21174 (100.0%) | 549 (100.0%) |
 | 20 | Email Source | 4841 (22.9%) | 538 (98.0%) |
 | 21 | LinkedIn Source | 166 (0.8%) | 154 (28.1%) |
-| 22 | Found At | 21169 (100.0%) | 549 (100.0%) |
-| 23 | Also Listed As | 2792 (13.2%) | 155 (28.2%) |
+| 22 | Found At | 21174 (100.0%) | 549 (100.0%) |
+| 23 | Also Listed As | 2794 (13.2%) | 155 (28.2%) |
 | 24 | Other Markets | 603 (2.8%) | 61 (11.1%) |
 | 25 | Merged Listings | 5144 (24.3%) | 257 (46.8%) |
-| 26 | Flags | 2858 (13.5%) | 118 (21.5%) |
+| 26 | Flags | 2864 (13.5%) | 118 (21.5%) |
 | 27 | Mobile Candidates | 591 (2.8%) | 407 (74.1%) |
 | 28 | Socials | 4721 (22.3%) | 483 (88.0%) |
 
@@ -147,7 +147,7 @@ Generated 2026-10-16T23:53:53+05:30 by `python3 run.py build`. Every number belo
 | Chattanooga, TN | 188 | 104 | 17 | 5 | 0 | 0 |
 | Greenville, SC | 156 | 96 | 34 | 6 | 0 | 0 |
 | Columbia, SC | 211 | 111 | 21 | 8 | 1 | 2 |
-| Savannah, GA | 167 | 76 | 19 | 4 | 0 | 0 |
+| Savannah, GA | 177 | 81 | 19 | 4 | 0 | 0 |
 | Little Rock, AR | 176 | 91 | 14 | 5 | 0 | 0 |
 | Baton Rouge, LA | 186 | 74 | 14 | 4 | 0 | 0 |
 | Anchorage, AK | 150 | 56 | 10 | 2 | 0 | 1 |
@@ -159,9 +159,9 @@ Generated 2026-10-16T23:53:53+05:30 by `python3 run.py build`. Every number belo
 | Google Maps | 9058 | 4676 | 191 |
 | YellowPages | 18486 | 13178 | 199 |
 | BBB | 4439 | 2190 | 139 |
-| OpenStreetMap | 2256 | 1125 | 20 |
+| OpenStreetMap | 2266 | 1130 | 20 |
 
-Discovery tasks completed: bbb=1501, gmaps=425, osm=84, yp=987
+Discovery tasks completed: bbb=1501, gmaps=425, osm=85, yp=987
 
 ## dropped_out_of_scope
 
@@ -171,7 +171,7 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 |---|---|---|---|---|
 | appraiser-lab-insurer | 179 | 0 | 35 | 214 |
 | beads-craft | 1097 | 79 | 12 | 1188 |
-| chain | 5916 | 0 | 0 | 5916 |
+| chain | 5919 | 0 | 0 | 5919 |
 | coin-currency | 598 | 11 | 0 | 609 |
 | costume-fashion | 810 | 293 | 80 | 1183 |
 | diamond-trade | 193 | 41 | 10 | 244 |
@@ -184,16 +184,16 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 | thrift-consignment | 297 | 0 | 0 | 297 |
 | trade-association | 4 | 0 | 0 | 4 |
 | wholesale-manufacturer | 131 | 11 | 1 | 143 |
-| **all** | | | | **16471** |
+| **all** | | | | **16474** |
 
 ## What blocked the run
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 5197 | bbb:041e21befdeeed50: appraiser-lab-insurer |
+| builder | final-kill | 5278 | bbb:041e21befdeeed50: appraiser-lab-insurer |
 | bbb | blocked | 293 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
-| osm | error | 100 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
+| osm | error | 101 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
 | osm | http-500 | 59 | https://overpass.kumi.systems/api/interpreter |
 | osm | http-504 | 29 | https://maps.mail.ru/osm/tools/overpass/api/interpreter |
 | linkedin | blocked | 24 | http-200 or challenge page at https://www.google.com/search?q=%22Rachel+Clinnick-Barbagelata%22+San+Francisco+linkedin&hl=en&num=10 |
