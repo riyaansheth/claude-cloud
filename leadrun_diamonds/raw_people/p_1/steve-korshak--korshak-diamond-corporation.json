@@ -1,0 +1,21 @@
+{
+ "person": "Steve Korshak",
+ "title": "",
+ "company": "Korshak Diamond Corporation",
+ "company_website": "",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/steve-korshak-8563422a/",
+ "linkedin_source": "\"Korshak Diamond\" OR \"Levy Diamond Corp\" Los Angeles LinkedIn -> Steve Korshak - Korshak Diamond Corporation",
+ "company_email": "",
+ "company_phone": "(213) 628-3123",
+ "seniority": "other",
+ "signals": [
+  "bourse",
+  "607 S Hill St",
+  "family firm ~70 years"
+ ],
+ "source_url": "https://www.linkedin.com/in/steve-korshak-8563422a/",
+ "is_diamond_trade": true
+}
