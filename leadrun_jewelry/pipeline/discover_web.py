@@ -15,6 +15,10 @@ from bs4 import BeautifulSoup
 
 from . import config, db, scope
 from .http import Blocked
+
+# Seconds between BBB profile fetches; BBB 403s bursts, so a slower pace means fewer cooldowns.
+import os as _os
+BBB_GAP = float(_os.environ.get("BBB_GAP", "3"))
 from .util import (domain_of, fmt_phone, parse_city_state, phone_digits, root_url, sha,
                    state_from_zip, plausible_name)
 
@@ -285,7 +289,7 @@ def run_bbb(br, markets, log=print, max_pages=15):
                             "SELECT 1 FROM listings WHERE bkey=?", (bkey,)).fetchone():
                         continue
                     try:
-                        rec = parse_bbb_profile(br.get_html(href, min_gap=3), href, market)
+                        rec = parse_bbb_profile(br.get_html(href, min_gap=BBB_GAP), href, market)
                         strikes = 0
                     except Blocked as e:
                         # BBB rate-limits bursts with 403s: back off, give up after 3 in a row.
