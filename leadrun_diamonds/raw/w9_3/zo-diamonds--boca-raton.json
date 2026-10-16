@@ -15,17 +15,23 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Michael Feder",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/fl/boca-raton/profile/jewelry-stores/zo-diamonds-inc-0633-4008182",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/zodiamonds/",
+  "https://x.com/zo_diamonds"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Ste 101-D",
  "trade_memberships": [],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Watch Repair, Gold, Silver & Platinum Buyers & Dealers"
+ "scope_reason": "unverified: site unreachable",
+ "verified": false,
+ "verify_note": "zodiamonds.com returns HTTP 403 to every request. BBB \"Business Management\": Michael Feder, President; Max Machat, Vice President.",
+ "enriched": true
 }

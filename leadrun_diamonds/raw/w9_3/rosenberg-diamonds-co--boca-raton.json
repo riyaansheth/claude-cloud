@@ -11,21 +11,37 @@
  "reviews": "26",
  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/rosenberg-diamonds-co-2941036",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@rosenbergdiamonds.com",
+ "email_source": "https://rosenbergdiamonds.com/contact-us/",
+ "linkedin_url": "https://www.linkedin.com/in/david-rosenberg-3036b010/",
+ "linkedin_source": "WebSearch extended: \"David Rosenberg\" diamantaire Rosenberg Diamonds & Co LinkedIn (result title \"David Rosenberg - Rosenberg Diamonds & Co.\")",
+ "contact_person": "David Rosenberg",
+ "role": "Founder",
+ "contact_source": "https://rosenbergdiamonds.com/david-rosenberg/",
+ "tel_numbers": [
+  "+15614775444",
+  "+1.561.663.5004"
+ ],
+ "tel_source": "https://rosenbergdiamonds.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/RosenbergDiamondsCo",
+  "https://www.instagram.com/rosenbergdiamonds/",
+  "https://x.com/dR_RosenbergDia"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "natural",
+  "large-stones",
+  "fancy-color",
+  "diamantaire",
+  "founder-ceo",
+  "ddc-southeast-past-president"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Jewelers-Wholesale & Manufacturers, Jewelry Designers"
+ "scope_reason": "Own site: 'As proud diamantaires, we specialize in both significant large white diamonds and rare natural fancy color diamonds' - founded by diamantaire David Rosenberg.",
+ "verified": true,
+ "enriched": true
 }

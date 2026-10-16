@@ -11,21 +11,38 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/unique-stones-inc-466586944",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "cs@ddiamondjewelry.com",
+ "email_source": "http://ddiamondjewelry.com/about/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Amir Ozery",
+ "role": "President",
+ "contact_source": "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=UNIQUESTONESINTERNATIONAL+P970000431920&aggregateId=domp-p97000043192-fc43fa22-71a1-482e-89d7-6d307f24bcd2&searchTerm=UNIQUE+STEPPERS,+INC.&listNameOrder=UNIQUESTONECREATIONS+P080000539830",
+ "tel_numbers": [
+  "8006359002"
+ ],
+ "tel_source": "https://ddiamondjewelry.com/",
+ "socials": [
+  "https://www.facebook.com/profile.php?id=100063661534425",
+  "https://www.instagram.com/ddiamondjewelry/"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Ste 208",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer",
+  "manufacturer",
+  "loose-diamonds",
+  "certified",
+  "fancy-color",
+  "large-stones",
+  "30-years-in-trade",
+  "sources-israel-diamond-exchange",
+  "sunbiz-1997"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Own site (D Diamond Jewelry, 8221 Glades Rd Suite 208): 'After dealing in the trade for more than 30 years... Our company is a direct diamond importer... you are dealing with a diamond importer and also a manufacturer of fine jewelry' with loose diamond inventory.",
+ "verified": true,
+ "enriched": true
 }
