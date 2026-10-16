@@ -11,21 +11,36 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/madison-wi/mip/b-r-diamond-suite-3984140",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "brds@brdiamondsuite.com",
+ "email_source": "https://www.brdiamondsuite.com/contact/",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_source": "searched (extended): \"Jo Hoffman\" BR Diamond Suite Madison LinkedIn; \"Brian Reinholtz\" BR Diamond Suite LinkedIn - no personal profile found",
+ "contact_person": "Jo B. Hoffman",
+ "role": "President, Co-Owner",
+ "contact_source": "https://www.brdiamondsuite.com/about/",
+ "tel_numbers": [
+  "+16082744848",
+  "608-274-4848"
+ ],
+ "tel_source": "https://www.brdiamondsuite.com/contact/",
+ "socials": [
+  "https://www.facebook.com/BRDiamondSuiteInc",
+  "https://www.instagram.com/brdiamondsuite/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": false,
- "drop_reason": "beads-craft",
- "scope_reason": "YellowPages categories: Jewelers, Jewelers Supplies & Findings, Jewelers-Wholesale & Manufacturers"
+ "hooks": [
+  "since-1986",
+  "importer",
+  "loose-diamonds",
+  "custom-design",
+  "manufacturer",
+  "in-house-goldsmith"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Own site /history: 'Madison's largest supplier and seller of loose diamonds, specializing in custom designed engagement rings and wedding bands... laboratory certified diamonds direct from Belgium and Israel'; in-house designers/goldsmiths since 1986.",
+ "verified": true,
+ "enriched": true
 }
