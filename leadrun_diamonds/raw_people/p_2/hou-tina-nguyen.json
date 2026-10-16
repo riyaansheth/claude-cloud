@@ -1,0 +1,21 @@
+{
+ "person": "Tina Nguyen",
+ "title": "Sales",
+ "company": "Activ-Gem, Inc. (AGI Diamonds)",
+ "company_website": "https://www.agidiamonds.com",
+ "city": "Houston",
+ "state": "TX",
+ "market": "Houston, TX",
+ "linkedin_url": "https://www.linkedin.com/in/tina-nguyen-a85172174",
+ "linkedin_source": "\"Activ Gem\" OR \"AGI Diamonds\" Houston LinkedIn",
+ "company_email": "mail@agidiamonds.com",
+ "company_phone": "(713) 552-0014",
+ "seniority": "sales",
+ "signals": [
+  "wholesale",
+  "loose-diamonds",
+  "gia-ags-certified"
+ ],
+ "source_url": "https://www.linkedin.com/in/tina-nguyen-a85172174",
+ "is_diamond_trade": true
+}
