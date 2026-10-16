@@ -1,0 +1,19 @@
+{
+ "person": "Parag Shah",
+ "title": "President",
+ "company": "Gem International",
+ "company_website": "https://www.geminternationalllc.com",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "linkedin_url": "https://www.linkedin.com/in/parag-shah-54012b21",
+ "linkedin_source": "WebSearch extended: \"Parag Shah\" \"Gem International\" diamonds LinkedIn (result title \"Parag Shah - Gem International\")",
+ "company_email": "gemintl@msn.com",
+ "company_phone": "",
+ "seniority": "owner",
+ "signals": [
+  "seed-from-diamonds_all"
+ ],
+ "source_url": "https://dmia.diamonds/board-members/parag-shah/",
+ "is_diamond_trade": true
+}

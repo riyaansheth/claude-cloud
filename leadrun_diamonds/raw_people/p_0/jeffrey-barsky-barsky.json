@@ -1,0 +1,20 @@
+{
+ "person": "Jeffrey Barsky",
+ "title": "Owner",
+ "company": "Barsky Diamonds",
+ "company_website": "https://www.barskydiamonds.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/jeffrey-barsky-37443634",
+ "linkedin_source": "WebSearch extended: Frank Salese Fine Diamonds Philadelphia LinkedIn ('Jeffrey Barsky - Barsky Diamonds')",
+ "company_email": "",
+ "company_phone": "215-925-8639",
+ "seniority": "owner",
+ "signals": [
+  "seed-from-diamonds_all",
+  "jewelers-row"
+ ],
+ "source_url": "https://www.superpages.com/philadelphia-pa/diamonds-wholesale",
+ "is_diamond_trade": true
+}

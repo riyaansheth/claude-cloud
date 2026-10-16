@@ -1,0 +1,20 @@
+{
+ "person": "Larry Rosenberg",
+ "title": "Owner",
+ "company": "Rosenberg Diamond Co.",
+ "company_website": "https://www.rosenbergdiamondco.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/larry-rosenberg-b8345519",
+ "linkedin_source": "WebSearch extended: Rosenberg Diamond Company Philadelphia owner president LinkedIn ('Larry Rosenberg - Rosenberg Diamond Company')",
+ "company_email": "contact@rosenbergdiamondco.com",
+ "company_phone": "215-627-1317",
+ "seniority": "owner",
+ "signals": [
+  "seed-from-diamonds_all",
+  "jewelers-row"
+ ],
+ "source_url": "https://jrow.org/rosenberg-diamond-co/",
+ "is_diamond_trade": true
+}
