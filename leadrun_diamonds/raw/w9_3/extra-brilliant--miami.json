@@ -2,7 +2,7 @@
  "business": "Extra Brilliant",
  "category_as_listed": "Diamonds-Wholesale, Jewelry Designers, Diamond Buyers",
  "phone": "(877) 261-5167",
- "website": "",
+ "website": "https://extrabrilliant.com",
  "address": "169 E Flagler St",
  "city": "Miami",
  "state": "FL",
@@ -18,14 +18,31 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
- "building": "",
+ "tel_numbers": [
+  "1-877-261-5167",
+  "1-646-706-7656"
+ ],
+ "tel_source": "https://extrabrilliant.com/",
+ "socials": [
+  "https://www.facebook.com/ExtraBrilliant/",
+  "https://twitter.com/exbdiamonds",
+  "https://www.ebay.com/str/extrabrilliant"
+ ],
+ "building": "Alfred I. duPont Building",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer",
+  "cutter",
+  "manufacturer",
+  "natural",
+  "rough-buying",
+  "antwerp",
+  "3rd-generation"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Designers, Diamond Buyers"
+ "scope_reason": "Own site extrabrilliant.com says its diamonds come from Antwerp ('buying rough and polished diamonds'), Bucharest ('cutting and sorting diamonds facilities') and Miami ('setting & distributing finish jewelry'); eBay store describes a third-generation family-owned NYC manufacturer - diamond trade (importer/cutter/manufacturer).",
+ "verified": true,
+ "enriched": true
 }

@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "unverified: no web presence found beyond directory listings (YP lists 'Eitan Rabib' diamonds wholesale at 36 NE 1st Ave, ~16 yrs in business; a third-party listing calls it 'Eitan Rabib Diamonds & Other Precious Stones'; person/owner role and LinkedIn not found)",
+ "verified": false,
+ "enriched": true
 }

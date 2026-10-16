@@ -21,11 +21,13 @@
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
+ "building": "Seybold Building",
+ "suite": "Ste 515",
  "trade_memberships": [],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "unverified: only directories found - Yelp (unclaimed) and MapQuest list The Diamond Connection at 36 NE 1st St Ste 515 (Seybold), reviews mention engagement rings/custom work; its listed site diamondconnection.us is a for-sale parked domain, so trade scope not confirmed",
+ "verified": false,
+ "enriched": true
 }

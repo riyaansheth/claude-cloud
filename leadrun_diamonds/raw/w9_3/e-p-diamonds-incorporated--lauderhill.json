@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds"
+ "scope_reason": "unverified: no web presence found beyond directory listings (Superpages/YP list E.P. Diamonds Incorporated as Diamonds-Wholesale at 5213 NW 67th Ave, Mon-Fri 9-5; no site, BBB or filing found)",
+ "verified": false,
+ "enriched": true
 }

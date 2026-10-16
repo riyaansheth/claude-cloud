@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Jeffrey R Wasserman",
+ "role": "President",
+ "contact_source": "https://bizstanding.com/directory/FL/DI/81/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds-Wholesale"
+ "scope_reason": "unverified: only directories found - YP/Superpages list Diacom Corp under Diamond Buyers/Diamonds-Wholesale, but a Florida business directory (bizstanding) shows Diacom Corp (reg. 2011) INACTIVE with Jeffrey R Wasserman as former president/director, and LeadIQ calls it a plastics company; likely defunct, scope not confirmed",
+ "verified": false,
+ "enriched": true
 }

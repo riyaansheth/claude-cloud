@@ -21,11 +21,13 @@
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
+ "building": "Seybold Building",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Yelp (yelp.com/biz/deeurope-designs-miami) and MapQuest both mark De'Europe Designs at 36 NE 1st St as CLOSED; MapQuest describes it as a fine-jewelry (gold/silver) business - defunct.",
+ "verified": true,
+ "enriched": true
 }
