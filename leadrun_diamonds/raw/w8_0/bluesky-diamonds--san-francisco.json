@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Ami Rax",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ca/san-francisco/profile/diamond-buyers/blue-sky-buyers-1116-460411",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Jewelry Buyers, Jewelry Designers"
+ "scope_reason": "Diamond buyer at 868 Brannan Ste 310 (BBB lists Blue Sky Buyers with same suite/phone); MapQuest shows a Blue Sky at 868 Brannan as CLOSED; unverified",
+ "enriched": true
 }

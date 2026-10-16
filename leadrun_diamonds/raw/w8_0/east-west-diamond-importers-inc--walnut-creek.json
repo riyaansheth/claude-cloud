@@ -3,7 +3,7 @@
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(925) 947-0221",
  "website": "",
- "address": "PO Box 4773",
+ "address": "39 Quail Ct, Ste 206",
  "city": "Walnut Creek",
  "state": "CA",
  "market": "Oakland, CA",
@@ -15,17 +15,20 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "James F Welsh",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/walnut-creek/east-west-diamond-importers",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Directories: imports and sells diamonds and fine jewelry (corp formed 1983); no own site, unverified",
+ "enriched": true
 }

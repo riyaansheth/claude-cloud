@@ -9,7 +9,7 @@
  "market": "Palm Springs, CA",
  "rating": "",
  "reviews": "41",
- "source_url": "https://www.yellowpages.com/temecula-ca/mip/diamondtradersglobal-com-480276207",
+ "source_url": "https://sites.google.com/site/preciousgemstonebuyers",
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Jewelry Designers"
+ "scope_reason": "Own Google Sites page: Temecula buyer of gemstones, precious metals, gold & diamond jewelry (PostAnnex suite); no owner named; buyer of jewelry \u2014 borderline cash-for-gold; unverified",
+ "enriched": true
 }

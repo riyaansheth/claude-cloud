@@ -2,7 +2,7 @@
  "business": "Desert Wholesale Diamond",
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(760) 568-5722",
- "website": "",
+ "website": "https://www.desertwholesalediamond.com",
  "address": "73261 Highway 111",
  "city": "Palm Desert",
  "state": "CA",
@@ -13,19 +13,31 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_url": "https://www.linkedin.com/in/dave-kantor-815273366/",
+ "linkedin_source": "WebSearch extended: \"David Kantor\" Desert Wholesale Diamond LinkedIn (result title: Dave Kantor - Desert Wholesale Diamond)",
+ "contact_person": "Dave Kantor",
+ "role": "Owner",
+ "contact_source": "https://www.desertwholesalediamond.com/about",
+ "tel_numbers": [
+  "760-568-5722",
+  "480-397-2450"
+ ],
+ "tel_source": "https://www.desertwholesalediamond.com/",
+ "socials": [
+  "https://www.facebook.com/p/Desert-Wholesale-Diamond-100063570312593/",
+  "https://www.instagram.com/diamonddavekantor/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1990",
+  "4th-generation",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Own site: bridal/diamond specialist \u2014 \"Dave personally hand-selects every diamond that comes through our office\", custom ring builder \"we hand select the diamonds\", appointment-only offices since 1990",
+ "verified": true,
+ "enriched": true
 }

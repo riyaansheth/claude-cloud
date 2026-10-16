@@ -13,19 +13,22 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/boaz-chamdi-22017554/",
+ "linkedin_source": "WebSearch extended: \"Boaz Chamdi\" diamonds LinkedIn (boaz chamdi - CEO - Talron Diamonds, San Francisco; 2nd profile linkedin.com/in/boaz-chamdi-9038222a/ \"owner - talron diamonds\")",
+ "contact_person": "Boaz Chamdi",
+ "role": "CEO",
+ "contact_source": "https://www.bbb.org/us/ca/san-francisco/profile/jewelry-stores/tal-ron-diamonds-ltd-1116-281885",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds"
+ "scope_reason": "BBB: founded 2006, sells fine designer jewelry and loose diamonds; YP lists Diamonds-Wholesale; no own site, unverified",
+ "enriched": true
 }

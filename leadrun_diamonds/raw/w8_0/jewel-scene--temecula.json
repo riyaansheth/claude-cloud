@@ -1,7 +1,7 @@
 {
  "business": "Jewel Scene",
  "category_as_listed": "Jewelers-Wholesale & Manufacturers",
- "phone": "",
+ "phone": "(951) 296-1616",
  "website": "",
  "address": "41493 Margarita Rd, Ste G105B",
  "city": "Temecula",
@@ -15,17 +15,21 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Jesse L.",
+ "role": "Owner",
+ "contact_source": "https://www.yelp.com/biz/jewel-scene-temecula",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1970",
+  "gia-gg"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "Search: family-owned since 1970, works as diamond broker, in-house GIA graduate gemologists; listed as jewelers-wholesale & manufacturers"
+ "scope_reason": "Search snippets: family owned since 1970, acts as diamond broker, GIA graduate gemologist on staff; a MapQuest note says the owners may have retired \u2014 status unconfirmed; no site, unverified",
+ "enriched": true
 }

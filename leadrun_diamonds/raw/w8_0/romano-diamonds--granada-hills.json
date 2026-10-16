@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds-Industrial, Diamond Setters"
+ "scope_reason": "YP categories include Diamonds-Industrial and Diamond Setters; search found no record of this business at Chatsworth St; unverified",
+ "enriched": true
 }

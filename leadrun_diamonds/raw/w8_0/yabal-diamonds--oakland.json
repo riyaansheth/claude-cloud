@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds"
+ "scope_reason": "Only YP listing (Diamonds-Wholesale, 15 yrs) and an LLC registration at a residential Acton Pl address; no owner found; unverified",
+ "enriched": true
 }

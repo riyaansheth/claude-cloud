@@ -2,7 +2,7 @@
  "business": "Salles Zevika",
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(415) 433-5106",
- "website": "",
+ "website": "https://www.atlasdiamond.com",
  "address": "760 Market St",
  "city": "San Francisco",
  "state": "CA",
@@ -11,21 +11,32 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/salles-zevika-3554026",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
- "building": "",
- "suite": "",
+ "email": "atlasdiamond@earthlink.net",
+ "email_source": "https://www.atlasdiamond.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/zevika-salles-4ba8474/",
+ "linkedin_source": "WebSearch extended: \"Zevika Salles\" OR \"Salles Zevika\" diamonds San Francisco (Zevika Salles - Owner - Atlas Diamond Co,. Inc.)",
+ "contact_person": "Zevika Salles",
+ "role": "Founder",
+ "contact_source": "https://www.atlasdiamond.com/about",
+ "tel_numbers": [
+  "(415) 433-5123"
+ ],
+ "tel_source": "https://www.atlasdiamond.com/contact",
+ "socials": [
+  "http://www.facebook.com/atlasdiamondco"
+ ],
+ "building": "Shreve Building, 210 Post St",
+ "suite": "Ste 415",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1974",
+  "natural",
+  "lab-grown",
+  "gia"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Own site (Atlas Diamond Co.): founded 1974 by Zevika Salles, \"provides high-quality loose diamonds and jewelry to wholesalers, retailers in the jewelry industry\"; trained diamond cutter; GIA-certified stones",
+ "enriched": true,
+ "verified": true
 }

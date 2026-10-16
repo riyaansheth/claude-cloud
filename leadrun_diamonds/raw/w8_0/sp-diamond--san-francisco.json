@@ -15,17 +15,20 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Sammy Sheik",
+ "role": "Owner",
+ "contact_source": "https://www.buzzfile.com/business/S-P-Diamonds-415-956-7125",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Ste 642",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "Yelp: established diamond importer; Kompass classifies under Diamond Cutting; no own site, unverified",
+ "enriched": true
 }

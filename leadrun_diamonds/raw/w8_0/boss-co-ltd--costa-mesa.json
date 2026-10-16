@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Only YP listing (Diamonds-Wholesale, 14 yrs) found; no owner or site in search; unverified",
+ "enriched": true
 }
