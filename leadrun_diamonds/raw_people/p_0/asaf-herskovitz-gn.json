@@ -1,0 +1,22 @@
+{
+ "person": "Asaf Herskovitz",
+ "title": "CEO",
+ "company": "GN Diamond",
+ "company_website": "https://www.gndiamond.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/asaf-herskovitz-6b402079/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): GN Diamond Philadelphia diamonds",
+ "company_email": "sales@gndiamond.com",
+ "company_phone": "800-724-8810",
+ "seniority": "owner",
+ "signals": [
+  "cutter",
+  "manufacturer",
+  "wholesaler",
+  "since-1978"
+ ],
+ "source_url": "https://www.linkedin.com/in/asaf-herskovitz-6b402079/",
+ "is_diamond_trade": true
+}

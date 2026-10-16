@@ -1,0 +1,21 @@
+{
+ "person": "Raj L.",
+ "title": "Chief Sales Officer",
+ "company": "Kiran Gems USA Inc",
+ "company_website": "",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "linkedin_url": "https://www.linkedin.com/in/rajlakhanikirangems/",
+ "linkedin_source": "WebSearch extended: \"Kiran Gems\" OR \"Kiran USA\" New York diamonds LinkedIn",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "executive",
+ "signals": [
+  "manufacturer",
+  "importer",
+  "5th-ave"
+ ],
+ "source_url": "https://www.linkedin.com/in/rajlakhanikirangems/",
+ "is_diamond_trade": true
+}

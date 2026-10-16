@@ -1,0 +1,21 @@
+{
+ "person": "Hy Goldberg",
+ "title": "",
+ "company": "Safian & Rudolph Jewelers",
+ "company_website": "https://www.safianrudolph.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/hy-goldberg-353010104/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Safian & Rudolph Jewelers Philadelphia diamonds",
+ "company_email": "",
+ "company_phone": "215-627-1834",
+ "seniority": "executive",
+ "signals": [
+  "jewelers-row",
+  "since-1952",
+  "family-business"
+ ],
+ "source_url": "https://www.linkedin.com/in/hy-goldberg-353010104/",
+ "is_diamond_trade": true
+}

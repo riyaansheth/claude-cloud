@@ -1,0 +1,20 @@
+{
+ "person": "Rebecca Hatt",
+ "title": "Office Manager",
+ "company": "Katz Imports, Inc.",
+ "company_website": "https://www.penndiamondexchange.com",
+ "city": "Mt. Laurel",
+ "state": "NJ",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/rebecca-hatt-0129234a/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Katz Imports Pennsylvania Diamond Exchange Sansom",
+ "company_email": "penndiamondexchange@gmail.com",
+ "company_phone": "215-238-0197",
+ "seniority": "manager",
+ "signals": [
+  "importer",
+  "location-mt-laurel-nj-verify"
+ ],
+ "source_url": "https://www.linkedin.com/in/rebecca-hatt-0129234a/",
+ "is_diamond_trade": true
+}

@@ -1,0 +1,21 @@
+{
+ "person": "Kevin Messerle",
+ "title": "",
+ "company": "GN Diamond",
+ "company_website": "https://www.gndiamond.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/kevinmesserle/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): GN Diamond Philadelphia diamonds",
+ "company_email": "sales@gndiamond.com",
+ "company_phone": "800-724-8810",
+ "seniority": "other",
+ "signals": [
+  "cutter",
+  "manufacturer",
+  "wholesaler"
+ ],
+ "source_url": "https://www.linkedin.com/in/kevinmesserle/",
+ "is_diamond_trade": true
+}

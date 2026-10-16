@@ -1,0 +1,24 @@
+{
+ "person": "Rafi Cohen",
+ "title": "Vice President",
+ "company": "RC Trading Co",
+ "company_website": "https://rctradingco.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/rafi-cohen-a1804328/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): RC Trading Co diamonds Philadelphia Cohen importer",
+ "company_email": "info@rctradingco.com",
+ "company_phone": "215-627-8315",
+ "seniority": "executive",
+ "signals": [
+  "jewelers-row",
+  "importer",
+  "wholesaler",
+  "since-1978",
+  "gia-certified-stones",
+  "family-business"
+ ],
+ "source_url": "https://www.linkedin.com/in/rafi-cohen-a1804328/",
+ "is_diamond_trade": true
+}

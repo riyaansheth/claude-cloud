@@ -1,0 +1,20 @@
+{
+ "person": "Austin Shvarts",
+ "title": "CEO",
+ "company": "TNS Diamonds",
+ "company_website": "https://www.tnsdiamonds.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/austin-shvarts-62bb8647/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): TNS Diamonds Philadelphia 8th Street",
+ "company_email": "info@tnsdiamonds.com",
+ "company_phone": "215-922-1501",
+ "seniority": "owner",
+ "signals": [
+  "jewelers-row",
+  "diamond-specialist"
+ ],
+ "source_url": "https://www.linkedin.com/in/austin-shvarts-62bb8647/",
+ "is_diamond_trade": true
+}

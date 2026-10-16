@@ -1,0 +1,20 @@
+{
+ "person": "Alan Paul Feinstein",
+ "title": "Jewelry Designer & Diamond Broker",
+ "company": "Alan Paul Ltd",
+ "company_website": "https://www.alanpauldiamonds.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/alan-paul-feinstein-686a674a/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Alan Paul Ltd diamonds Philadelphia",
+ "company_email": "alanpaulltd@aol.com",
+ "company_phone": "(215) 829-4431",
+ "seniority": "owner",
+ "signals": [
+  "diamond-broker",
+  "designer"
+ ],
+ "source_url": "https://www.linkedin.com/in/alan-paul-feinstein-686a674a/",
+ "is_diamond_trade": true
+}

@@ -1,0 +1,19 @@
+{
+ "person": "Lisa Karp",
+ "title": "Sales / Manager",
+ "company": "National Watch & Diamond Exchange",
+ "company_website": "",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/lisa-karp-6a250883/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Katz Imports Pennsylvania Diamond Exchange Sansom",
+ "company_email": "",
+ "company_phone": "",
+ "seniority": "manager",
+ "signals": [
+  "jewelers-row"
+ ],
+ "source_url": "https://www.linkedin.com/in/lisa-karp-6a250883/",
+ "is_diamond_trade": true
+}

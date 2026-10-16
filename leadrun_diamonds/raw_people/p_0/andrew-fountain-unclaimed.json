@@ -1,0 +1,19 @@
+{
+ "person": "Andrew Fountain",
+ "title": "Sales",
+ "company": "Unclaimed Diamonds",
+ "company_website": "https://www.unclaimeddiamonds.com",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "linkedin_url": "https://www.linkedin.com/in/andrew-fountain-11884665/",
+ "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Unclaimed Diamonds Philadelphia 8th Street",
+ "company_email": "",
+ "company_phone": "(215) 923-3210",
+ "seniority": "sales",
+ "signals": [
+  "jewelers-row"
+ ],
+ "source_url": "https://www.linkedin.com/in/andrew-fountain-11884665/",
+ "is_diamond_trade": true
+}

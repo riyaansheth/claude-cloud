@@ -1,0 +1,23 @@
+{
+ "person": "Larry West",
+ "title": "Owner",
+ "company": "L.J. West Diamonds",
+ "company_website": "http://www.ljwestdiamonds.com",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "linkedin_url": "https://www.linkedin.com/in/larry-west-4a6b0a41/",
+ "linkedin_source": "L.J. West Diamonds New York LinkedIn",
+ "company_email": "info@ljwestdiamonds.com",
+ "company_phone": "(212) 997-0940",
+ "seniority": "owner",
+ "signals": [
+  "natural-color-diamonds",
+  "wholesaler",
+  "dmia-member",
+  "since-1979",
+  "fifth-avenue"
+ ],
+ "source_url": "https://www.linkedin.com/in/larry-west-4a6b0a41/",
+ "is_diamond_trade": true
+}
