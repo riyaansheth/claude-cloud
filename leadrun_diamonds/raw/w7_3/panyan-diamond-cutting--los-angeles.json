@@ -13,19 +13,25 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/avetik-panyan-63320921a/",
+ "linkedin_source": "\"Panyan Diamonds\" OR \"Panyan Diamond\" Los Angeles",
+ "contact_person": "Avetik Panyan",
+ "role": "Owner",
+ "contact_source": "https://www.linkedin.com/in/avetik-panyan-63320921a/",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "http://www.facebook.com/pages/Panyan-Diamonds-Cutting-Polishing/283278771709982"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Ste 324",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "cutter"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Diamonds"
+ "scope_reason": "Listed site is Facebook; Yelp/MapQuest list 'Panyan Diamonds: Polishing & Cutting' at 607 S Hill St Ste 324 working with loose diamonds, and owner Avetik Panyan's LinkedIn headline is 'Diamond Cutter' - a diamond cutter/polisher.",
+ "verified": true,
+ "enriched": true
 }
