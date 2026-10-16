@@ -39,5 +39,6 @@
   "is_diamond_trade": true,
   "scope_reason": "Old San Juan jeweler doing design and manufacture, offers natural and lab-grown diamonds; Christian Santiago named as expert jeweler. Borderline bridal/custom.",
   "drop_reason": "",
-  "enriched": true
+  "enriched": true,
+  "li_backfill": true
 }

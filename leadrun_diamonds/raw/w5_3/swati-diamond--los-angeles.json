@@ -1,43 +1,44 @@
 {
- "business": "Swati Diamond",
- "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers",
- "phone": "(213) 892-9976",
- "website": "http://wantmydiamond.com",
- "address": "608 S Hill St",
- "city": "Los Angeles",
- "state": "CA",
- "market": "Glendale, CA",
- "rating": "",
- "reviews": "32",
- "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/swati-diamond-462021499",
- "lead_origin": "YellowPages",
- "email": "wantmydiamondla@gmail.com",
- "email_source": "https://wantmydiamond.com/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Tony Tala",
- "role": "President",
- "contact_source": "https://wantmydiamond.com/",
- "tel_numbers": [
-  "213-924-3227"
- ],
- "tel_source": "https://wantmydiamond.com/",
- "socials": [
-  "https://www.facebook.com/WantMyDiamondLA/",
-  "https://www.instagram.com/wantmydiamond/",
-  "https://www.tiktok.com/@want_my_diamond?lang=en"
- ],
- "building": "",
- "suite": "Ste 906",
- "trade_memberships": [],
- "hooks": [
-  "since-1994",
-  "importer",
-  "gia-certified",
-  "manufacturer"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Want My Diamond: \"Diamond Importers Specializing in All Shapes, Sizes and Qualities of GIA Certified Diamonds. High End Jewelry Manufacturing in the Los Angeles Jewelry District Since 1994.\"",
- "verified": true
+  "business": "Swati Diamond",
+  "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers",
+  "phone": "(213) 892-9976",
+  "website": "http://wantmydiamond.com",
+  "address": "608 S Hill St",
+  "city": "Los Angeles",
+  "state": "CA",
+  "market": "Glendale, CA",
+  "rating": "",
+  "reviews": "32",
+  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/swati-diamond-462021499",
+  "lead_origin": "YellowPages",
+  "email": "wantmydiamondla@gmail.com",
+  "email_source": "https://wantmydiamond.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Tony Tala",
+  "role": "President",
+  "contact_source": "https://wantmydiamond.com/",
+  "tel_numbers": [
+    "213-924-3227"
+  ],
+  "tel_source": "https://wantmydiamond.com/",
+  "socials": [
+    "https://www.facebook.com/WantMyDiamondLA/",
+    "https://www.instagram.com/wantmydiamond/",
+    "https://www.tiktok.com/@want_my_diamond?lang=en"
+  ],
+  "building": "",
+  "suite": "Ste 906",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1994",
+    "importer",
+    "gia-certified",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Want My Diamond: \"Diamond Importers Specializing in All Shapes, Sizes and Qualities of GIA Certified Diamonds. High End Jewelry Manufacturing in the Los Angeles Jewelry District Since 1994.\"",
+  "verified": true,
+  "li_backfill": true
 }

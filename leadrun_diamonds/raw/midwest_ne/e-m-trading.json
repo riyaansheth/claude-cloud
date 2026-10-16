@@ -4,8 +4,8 @@
   "phone": "(312) 251-1252",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/ami-sarbagil-1283286",
+  "linkedin_source": "\"Ami Sarbagil\" diamonds Chicago linkedin",
   "contact_person": "Ami Sarbagil",
   "role": "",
   "contact_source": "https://jckonline.com/?p=44239",
@@ -34,5 +34,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Wholesale diamond manufacturer/exporter with Israel cutting base (LeadIQ); JCK quotes it as a Chicago diamond manufacturer doing memo wholesale.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }

@@ -34,5 +34,6 @@
   "is_diamond_trade": true,
   "scope_reason": "Own contact page: 'In business for more than 25 years in the wholesale end of the diamond business, we have recently expanded to provide retail sales'; BBB category wholesale jewelry, owner Praful N. Shah per BBB. (About page 'Leader Board' names Nimrod Barshad etc. are theme placeholder text - ignored.)",
   "drop_reason": "",
-  "enriched": true
+  "enriched": true,
+  "li_backfill": true
 }

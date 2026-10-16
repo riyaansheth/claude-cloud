@@ -1,46 +1,47 @@
 {
- "business": "Neetdiam",
- "category_as_listed": "Diamonds-Wholesale",
- "phone": "(213) 623-4483",
- "website": "http://www.neetdiam.com/ContactUs.aspx",
- "address": "606 S Hill St",
- "city": "Los Angeles",
- "state": "CA",
- "market": "Glendale, CA",
- "rating": "",
- "reviews": "36",
- "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/neetdiam-459666597",
- "lead_origin": "YellowPages",
- "email": "Disha@neetdiam.com",
- "email_source": "http://www.neetdiam.com/ContactUs.aspx",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [
-  "213-623-4483",
-  "818-667-2145",
-  "818-259-4004"
- ],
- "tel_source": "http://www.neetdiam.com/ContactUs.aspx",
- "socials": [
-  "https://www.facebook.com/NEETDIAM-1064067177016161/?fref=ts",
-  "https://www.instagram.com/neetdiam/"
- ],
- "building": "",
- "suite": "Suite 1109",
- "trade_memberships": [
-  "GIA"
- ],
- "hooks": [
-  "since-1984",
-  "family-owned",
-  "gia-certified",
-  "loose-diamonds"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "\"Established in 1984\" family-owned dealer at 608 S. Hill Street Suite 1109: \"we specialize in GIA certified stones while also offering several stones with EGL, HRD, and IGI certifications\" plus non-certified stones.",
- "verified": true
+  "business": "Neetdiam",
+  "category_as_listed": "Diamonds-Wholesale",
+  "phone": "(213) 623-4483",
+  "website": "http://www.neetdiam.com/ContactUs.aspx",
+  "address": "606 S Hill St",
+  "city": "Los Angeles",
+  "state": "CA",
+  "market": "Glendale, CA",
+  "rating": "",
+  "reviews": "36",
+  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/neetdiam-459666597",
+  "lead_origin": "YellowPages",
+  "email": "Disha@neetdiam.com",
+  "email_source": "http://www.neetdiam.com/ContactUs.aspx",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "tel_numbers": [
+    "213-623-4483",
+    "818-667-2145",
+    "818-259-4004"
+  ],
+  "tel_source": "http://www.neetdiam.com/ContactUs.aspx",
+  "socials": [
+    "https://www.facebook.com/NEETDIAM-1064067177016161/?fref=ts",
+    "https://www.instagram.com/neetdiam/"
+  ],
+  "building": "",
+  "suite": "Suite 1109",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "since-1984",
+    "family-owned",
+    "gia-certified",
+    "loose-diamonds"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "\"Established in 1984\" family-owned dealer at 608 S. Hill Street Suite 1109: \"we specialize in GIA certified stones while also offering several stones with EGL, HRD, and IGI certifications\" plus non-certified stones.",
+  "verified": true,
+  "li_backfill": true
 }

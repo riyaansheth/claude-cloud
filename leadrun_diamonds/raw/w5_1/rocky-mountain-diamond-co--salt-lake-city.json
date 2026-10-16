@@ -1,45 +1,46 @@
 {
- "business": "Rocky Mountain Diamond Co",
- "category_as_listed": "Jewelers, Diamonds, Jewelers-Wholesale & Manufacturers",
- "phone": "(801) 596-9335",
- "website": "http://www.rockymountaindiamond.com",
- "address": "230 W 200 S Ste 2107",
- "city": "Salt Lake City",
- "state": "UT",
- "market": "Salt Lake City, UT",
- "rating": "3",
- "reviews": "2",
- "source_url": "https://www.yellowpages.com/salt-lake-city-ut/mip/rocky-mountain-diamond-co-17728670",
- "lead_origin": "YellowPages",
- "email": "info@rockymountaindiamond.com",
- "email_source": "https://www.rockymountaindiamond.com/frequently-asked-questions/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Steve Hart",
- "role": "Owner",
- "contact_source": "https://www.bbb.org/us/ut/millcreek/profile/jewelry-stores/rocky-mountain-diamond-1166-2000287",
- "tel_numbers": [
-  "8003966948",
-  "(801) 272-6948"
- ],
- "tel_source": "https://www.rockymountaindiamond.com/support/",
- "socials": [
-  "https://www.facebook.com/rockymountaindiamondcompany",
-  "https://www.instagram.com/rockymountaindiamond"
- ],
- "building": "",
- "suite": "Ste 2107",
- "trade_memberships": [
-  "GIA"
- ],
- "hooks": [
-  "since-1985",
-  "loose-diamonds",
-  "bridal"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Site: 'Since 1985, we've been specializing in loose diamonds, engagement rings, and wedding bands' — GIA-certified loose-diamond bridal specialist.",
- "verified": true,
- "enriched": true
+  "business": "Rocky Mountain Diamond Co",
+  "category_as_listed": "Jewelers, Diamonds, Jewelers-Wholesale & Manufacturers",
+  "phone": "(801) 596-9335",
+  "website": "http://www.rockymountaindiamond.com",
+  "address": "230 W 200 S Ste 2107",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "market": "Salt Lake City, UT",
+  "rating": "3",
+  "reviews": "2",
+  "source_url": "https://www.yellowpages.com/salt-lake-city-ut/mip/rocky-mountain-diamond-co-17728670",
+  "lead_origin": "YellowPages",
+  "email": "info@rockymountaindiamond.com",
+  "email_source": "https://www.rockymountaindiamond.com/frequently-asked-questions/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Steve Hart",
+  "role": "Owner",
+  "contact_source": "https://www.bbb.org/us/ut/millcreek/profile/jewelry-stores/rocky-mountain-diamond-1166-2000287",
+  "tel_numbers": [
+    "8003966948",
+    "(801) 272-6948"
+  ],
+  "tel_source": "https://www.rockymountaindiamond.com/support/",
+  "socials": [
+    "https://www.facebook.com/rockymountaindiamondcompany",
+    "https://www.instagram.com/rockymountaindiamond"
+  ],
+  "building": "",
+  "suite": "Ste 2107",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "since-1985",
+    "loose-diamonds",
+    "bridal"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Site: 'Since 1985, we've been specializing in loose diamonds, engagement rings, and wedding bands' — GIA-certified loose-diamond bridal specialist.",
+  "verified": true,
+  "enriched": true,
+  "li_backfill": true
 }

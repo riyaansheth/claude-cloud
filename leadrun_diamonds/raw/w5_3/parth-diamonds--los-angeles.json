@@ -1,44 +1,45 @@
 {
- "business": "Parth Diamonds",
- "category_as_listed": "Diamonds-Wholesale, Diamonds, Jewelers",
- "phone": "(213) 622-2094",
- "website": "https://parthdiamonds.com",
- "address": "550 S Hill St",
- "city": "Los Angeles",
- "state": "CA",
- "market": "Glendale, CA",
- "rating": "",
- "reviews": "",
- "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/parth-diamonds-551308474",
- "lead_origin": "YellowPages",
- "email": "contact@parthdiamonds.com",
- "email_source": "https://parthdiamonds.com/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [
-  "(213) 622-2094"
- ],
- "tel_source": "https://parthdiamonds.com/",
- "socials": [
-  "https://www.instagram.com/parthdiamonds/"
- ],
- "building": "",
- "suite": "Suite 1314",
- "trade_memberships": [],
- "hooks": [
-  "lab-grown",
-  "cvd",
-  "hpht",
-  "wholesale",
-  "manufacturer",
-  "30-years",
-  "cutting-factory-india"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "\"National leading wholesaler & manufacturer of laboratory grown (CVD & HPHT) diamonds\" at 550 South Hill Street Suite 1314, serving \"manufacturers, other diamond dealers, retailers\"; began with a diamond cutting factory in Gujarat.",
- "verified": true
+  "business": "Parth Diamonds",
+  "category_as_listed": "Diamonds-Wholesale, Diamonds, Jewelers",
+  "phone": "(213) 622-2094",
+  "website": "https://parthdiamonds.com",
+  "address": "550 S Hill St",
+  "city": "Los Angeles",
+  "state": "CA",
+  "market": "Glendale, CA",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/parth-diamonds-551308474",
+  "lead_origin": "YellowPages",
+  "email": "contact@parthdiamonds.com",
+  "email_source": "https://parthdiamonds.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Bharat Ahir",
+  "role": "CEO",
+  "contact_source": "https://www.bizprofile.net/ca/los-angeles/parth-diamonds",
+  "tel_numbers": [
+    "(213) 622-2094"
+  ],
+  "tel_source": "https://parthdiamonds.com/",
+  "socials": [
+    "https://www.instagram.com/parthdiamonds/"
+  ],
+  "building": "",
+  "suite": "Suite 1314",
+  "trade_memberships": [],
+  "hooks": [
+    "lab-grown",
+    "cvd",
+    "hpht",
+    "wholesale",
+    "manufacturer",
+    "30-years",
+    "cutting-factory-india"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "\"National leading wholesaler & manufacturer of laboratory grown (CVD & HPHT) diamonds\" at 550 South Hill Street Suite 1314, serving \"manufacturers, other diamond dealers, retailers\"; began with a diamond cutting factory in Gujarat.",
+  "verified": true,
+  "li_backfill": true
 }

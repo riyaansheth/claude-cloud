@@ -1,45 +1,46 @@
 {
- "business": "Aria Diamonds - Jewelry | Engagement rings",
- "category_as_listed": "Diamonds-Wholesale, Jewelry Designers, Jewelers",
- "phone": "(646) 619-7279",
- "website": "http://ariadiamonds.com",
- "address": "",
- "city": "Miami",
- "state": "FL",
- "market": "Aventura, FL",
- "rating": "",
- "reviews": "",
- "source_url": "https://www.yellowpages.com/miami-fl/mip/aria-diamonds-jewelry-engagement-rings-3244892",
- "lead_origin": "YellowPages",
- "email": "Ariadiamondsus@gmail.com",
- "email_source": "https://ariajerusalem.com/he/293-2/",
- "linkedin_url": "",
- "linkedin_source": "\"Tomer Baruch\" Aria Diamonds Miami LinkedIn; \"Tomer Baruch\" Aria Diamonds LinkedIn (no personal profile found)",
- "contact_person": "Tomer Baruch",
- "role": "Founder",
- "contact_source": "https://ariajerusalem.com/he/293-2/",
- "tel_numbers": [
-  "02-500-44-50"
- ],
- "tel_source": "https://ariajerusalem.com/he/293-2/",
- "socials": [
-  "https://www.facebook.com/ariadiamonds1/",
-  "https://www.instagram.com/ariajewelry_diamonds/"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [
-  "Israel Diamond Exchange (Ramat Gan)"
- ],
- "hooks": [
-  "founded 2015",
-  "diamond jewelry manufacturer",
-  "founder is Israel Diamond Exchange dealer"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "ariadiamonds.com redirects to ariajerusalem.com: 'Design and manufacture of diamond jewelry'; 'ARIA diamonds and jewelry was built in 2015, by ... Tomer Baruch, who is a diamond dealer in the Israeli's Diamonds Exchange (in Ramat Gan)' (Miami branch not mentioned on site now).",
- "verified": true,
- "enriched": true,
- "enrich_notes": "Fetched ariadiamonds.com (-> ariajerusalem.com home/about): mailto gmail published by business, only Israeli tel 02-500-44-50 (no US direct line); 2 LinkedIn searches found no personal profile; search snippet cites Sunbiz president Baruch, Tomer (not recorded as source)."
+  "business": "Aria Diamonds - Jewelry | Engagement rings",
+  "category_as_listed": "Diamonds-Wholesale, Jewelry Designers, Jewelers",
+  "phone": "(646) 619-7279",
+  "website": "http://ariadiamonds.com",
+  "address": "",
+  "city": "Miami",
+  "state": "FL",
+  "market": "Aventura, FL",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/miami-fl/mip/aria-diamonds-jewelry-engagement-rings-3244892",
+  "lead_origin": "YellowPages",
+  "email": "Ariadiamondsus@gmail.com",
+  "email_source": "https://ariajerusalem.com/he/293-2/",
+  "linkedin_url": "",
+  "linkedin_source": "\"Tomer Baruch\" Aria Diamonds Miami LinkedIn; \"Tomer Baruch\" Aria Diamonds LinkedIn (no personal profile found)",
+  "contact_person": "Tomer Baruch",
+  "role": "Founder",
+  "contact_source": "https://ariajerusalem.com/he/293-2/",
+  "tel_numbers": [
+    "02-500-44-50"
+  ],
+  "tel_source": "https://ariajerusalem.com/he/293-2/",
+  "socials": [
+    "https://www.facebook.com/ariadiamonds1/",
+    "https://www.instagram.com/ariajewelry_diamonds/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Israel Diamond Exchange (Ramat Gan)"
+  ],
+  "hooks": [
+    "founded 2015",
+    "diamond jewelry manufacturer",
+    "founder is Israel Diamond Exchange dealer"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "ariadiamonds.com redirects to ariajerusalem.com: 'Design and manufacture of diamond jewelry'; 'ARIA diamonds and jewelry was built in 2015, by ... Tomer Baruch, who is a diamond dealer in the Israeli's Diamonds Exchange (in Ramat Gan)' (Miami branch not mentioned on site now).",
+  "verified": true,
+  "enriched": true,
+  "enrich_notes": "Fetched ariadiamonds.com (-> ariajerusalem.com home/about): mailto gmail published by business, only Israeli tel 02-500-44-50 (no US direct line); 2 LinkedIn searches found no personal profile; search snippet cites Sunbiz president Baruch, Tomer (not recorded as source).",
+  "li_backfill": true
 }

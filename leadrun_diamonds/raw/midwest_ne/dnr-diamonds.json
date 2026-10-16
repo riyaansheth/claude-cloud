@@ -4,11 +4,11 @@
   "phone": "312-357-2610",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/izzy-nochimowski-409b6740/",
+  "linkedin_source": "\"Izzy Nochimowski\" DNR Diamonds LinkedIn",
+  "contact_person": "Izzy Nochimowski",
+  "role": "Owner",
+  "contact_source": "https://crunchbase.com/organization/dnr-diamonds",
   "website": "https://dnrdiamonds.com",
   "address": "5 S Wabash Ave Suite #1920",
   "city": "Chicago",
@@ -29,5 +29,6 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "Self-described Chicago diamond dealer in the heart of the Chicago Diamond District.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_backfill": true
 }
