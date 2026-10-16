@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Thomas Denton",
+ "role": "Founder",
+ "contact_source": "https://thomasdentonco.net/main_page.htm",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Trophies, Plaques & Medals, Engraving"
+ "scope_reason": "YellowPages categories: Diamond Cutters, Trophies, Plaques & Medals, Engraving",
+ "li_backfill": true
 }

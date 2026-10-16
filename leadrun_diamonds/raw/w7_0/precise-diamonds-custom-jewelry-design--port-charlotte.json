@@ -30,5 +30,6 @@
  "scope_reason": "unverified: site unreachable (listed site is a Facebook page behind a login wall). Search snippets (Nextdoor/Yelp/Birdeye) describe a family-owned custom-design goldsmith with repair, watch batteries and gold/diamond/coin buying since 2004 — likely retail-only, not confirmed on own site.",
  "verified": false,
  "enriched": true,
- "enrich_notes": "w7_0/sub3: FB page login-walled, mbasic 400; 2 WebSearches: snippets name owner only as 'Charlie' (goldsmith, 40+ yrs) — no full name, so no LinkedIn search; no email/direct line found."
+ "enrich_notes": "w7_0/sub3: FB page login-walled, mbasic 400; 2 WebSearches: snippets name owner only as 'Charlie' (goldsmith, 40+ yrs) — no full name, so no LinkedIn search; no email/direct line found.",
+ "li_backfill": true
 }

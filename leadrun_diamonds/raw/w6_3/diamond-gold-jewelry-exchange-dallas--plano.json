@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "scope_reason": "unverified: site unreachable (diamondgoldjewelryexchangedallas.com proxy error); seamless.ai calls it a diamond cutter selling GIA/EGL loose diamonds.",
  "drop_reason": "",
- "verified": false
+ "verified": false,
+ "li_backfill": true
 }
