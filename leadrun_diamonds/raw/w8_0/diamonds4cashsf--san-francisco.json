@@ -3,7 +3,7 @@
  "category_as_listed": "Diamond Buyers, Jewelry Buyers",
  "phone": "(415) 956-0230",
  "website": "http://www.diamonds4cashsf.com",
- "address": "275 Post St Fl 600b",
+ "address": "275 Post Street #600B",
  "city": "San Francisco",
  "state": "CA",
  "market": "Oakland, CA",
@@ -11,21 +11,31 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/diamonds4cashsf-465191693",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "unionsquarediamondbuyers@gmail.com",
+ "email_source": "https://diamonds4cashsf.com/contact-union-square-diamond-buyers/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "1-415-956-0230",
+  "415-589-9543"
+ ],
+ "tel_source": "https://diamonds4cashsf.com/contact-union-square-diamond-buyers/",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Ste 600B",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "estate-buyer",
+  "gia-gg",
+  "35-years",
+  "whatsapp-415-589-9543"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Jewelry Buyers"
+ "scope_reason": "diamonds4cashsf.com (Union Square Diamond Buyers): \"established and successful diamond buyer with global trade connections in Antwerp, Tel Aviv, Mumbai, Hong Kong\" buying diamonds from the public - estate-diamond buyer (also buys gold/watches - borderline cash-for-gold).",
+ "verified": true,
+ "enriched": true
 }

@@ -11,21 +11,33 @@
  "reviews": "45",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/kobi-katz-inc-975112",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "avi@kobelli.com",
+ "email_source": "https://kobelli.com/pages/contact",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Kobi Katz",
+ "role": "Owner",
+ "contact_source": "https://kobelli.com/pages/about-us",
+ "tel_numbers": [
+  "(213) 689-0076",
+  "(800) 432-3222"
+ ],
+ "tel_source": "https://kobelli.com/pages/contact",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "DCWC"
+ ],
+ "hooks": [
+  "since-1980",
+  "importer",
+  "manufacturer",
+  "lab-grown"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Diamonds"
+ "scope_reason": "Listed diamond-me.com is a parked /lander page; owner's brand kobelli.com (HQ 801 S Flower St, same address; DCWC lists Kobelli Inc Wholesale & Retail, (213) 689-0076): 'importing diamonds and manufacturing fine jewelry... since 1980', 'Previously manufacturing for major US... retailers under the name Baguette World'.",
+ "verified": true,
+ "enriched": true
 }

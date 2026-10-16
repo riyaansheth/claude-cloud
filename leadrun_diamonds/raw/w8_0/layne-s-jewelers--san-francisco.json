@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds-Wholesale"
+ "scope_reason": "unverified: site unreachable - listed domain maysjewelers.com now serves an unrelated Shanghai branding agency (JoinSAI); no business content.",
+ "verified": false,
+ "enriched": true
 }

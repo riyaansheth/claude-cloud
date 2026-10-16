@@ -3,7 +3,7 @@
  "category_as_listed": "Diamond Buyers, Diamonds-Wholesale",
  "phone": "(415) 255-0789",
  "website": "http://www.sfdiamondexchange.com",
- "address": "868 Brannan St Ste 309",
+ "address": "868 Brannan Street #309",
  "city": "San Francisco",
  "state": "CA",
  "market": "Oakland, CA",
@@ -11,21 +11,37 @@
  "reviews": "1",
  "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/jesse-james-enterprises-5223928",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "sfdiamondexchange@yahoo.com",
+ "email_source": "https://www.sfdiamondexchange.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/jesse-james-04a24840/",
+ "linkedin_source": "WebSearch extended: \"Jessica James\" San Francisco Diamond Exchange LinkedIn (result: \"Jesse James - owner - san francisco diamond exchange\")",
+ "contact_person": "Jesse James",
+ "role": "Founder",
+ "contact_source": "https://www.sfdiamondexchange.com/about (\"established in 1972 by Jesse James\"; daughter Jessica James now owner)",
+ "tel_numbers": [
+  "(415) 255-0999"
+ ],
+ "tel_source": "https://www.sfdiamondexchange.com/contact",
+ "socials": [
+  "https://www.facebook.com/sfdiamondexchange/",
+  "https://www.instagram.com/sfdiamondexchange/",
+  "https://www.pinterest.com/sfdiamonds/pins"
+ ],
  "building": "",
  "suite": "Ste 309",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1972",
+  "2nd-generation",
+  "importer",
+  "manufacturer",
+  "gia",
+  "custom-bridal",
+  "staff: Ben Baum GIA GG"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds-Wholesale"
+ "scope_reason": "sfdiamondexchange.com: \"Importers and Manufacturers of Diamonds & Fine Jewelry Since 1972\"; family-owned atelier with GIA-certified diamonds and custom bridal (by appointment).",
+ "verified": true,
+ "enriched": true
 }

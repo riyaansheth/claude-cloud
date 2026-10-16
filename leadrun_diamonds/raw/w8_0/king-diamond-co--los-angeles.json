@@ -11,8 +11,8 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/king-diamond-co-478573518",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@ladiamond.com",
+ "email_source": "https://www.ladiamond.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -20,12 +20,17 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://facebook.com/ladiamondcompany",
+  "https://instagram.com/la.diamond.goharbin"
+ ],
  "building": "",
  "suite": "Ste 105",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Listed site ladiamond.com is a consumer e-commerce bridal/fine-jewelry store (\"Free shipping on orders over $500\", \"Design Your Own\" engagement rings); no wholesale/trade offering.",
+ "verified": true,
+ "enriched": true
 }

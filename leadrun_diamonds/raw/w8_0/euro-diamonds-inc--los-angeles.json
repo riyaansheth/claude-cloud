@@ -22,10 +22,14 @@
  "tel_source": "",
  "socials": [],
  "building": "",
- "suite": "",
- "trade_memberships": [],
+ "suite": "Ste 987",
+ "trade_memberships": [
+  "DCWC"
+ ],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "unverified: site unreachable (eurodiamonds.net TLS failure). Diamond Club West Coast directory lists 'Euro Diamonds Inc. Wholesale Speciality: Diamonds (213) 627-4070, 550 South Hill Street, Suite 987'.",
+ "verified": false,
+ "enriched": true
 }

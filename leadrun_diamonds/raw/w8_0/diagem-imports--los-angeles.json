@@ -13,19 +13,25 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/virendra-kothari-09821868/",
+ "linkedin_source": "WebSearch extended: \"Virendra Kothari\" Diagem LinkedIn (result: Virendra Kothari - Diagem imports inc)",
+ "contact_person": "Virendra Kothari",
+ "role": "Founder",
+ "contact_source": "https://diagemimports.com/pages/about-us-1",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "Ste 1065",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1984",
+  "loose-diamonds",
+  "manufacturer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelry Buyers, Jewelers"
+ "scope_reason": "Listed site ejewelrysource.com does not resolve; own site diagemimports.com: 'Virendra Kothari established Diagem in 1984 as a loose diamond dealer... turned Diagem into a reputable and trusted jewelry manufacturing powerhouse'.",
+ "verified": true,
+ "enriched": true
 }

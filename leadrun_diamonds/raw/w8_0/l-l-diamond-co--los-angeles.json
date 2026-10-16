@@ -11,21 +11,31 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/l-l-diamond-co-513835285",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "customercare@bonylevy.com",
+ "email_source": "https://bonylevy.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Bony Levy",
+ "role": "Founder",
+ "contact_source": "https://bonylevy.com/about-us/",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/BonyLevy/",
+  "https://www.instagram.com/bonylevy/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "designer-brand",
+  "natural",
+  "made-in-italy-line"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "bonylevy.com/about-us: designer brand of diamond & gold fine jewelry; \"Bony learned extensive diamond knowledge from his father ... After taking the diamond business to Los Angeles, Bony Levy fine jewelry was established\" - diamond jewelry manufacturer selling through retailers (trunk shows).",
+ "verified": true,
+ "enriched": true
 }

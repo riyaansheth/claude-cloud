@@ -13,19 +13,34 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "linkedin_url": "https://www.linkedin.com/in/aspen-demirdjian-072ab811/",
+ "linkedin_source": "WebSearch extended: Aspen Demirdjian owner Aspen Diamond Company Los Angeles linkedin.com/in (result: Aspen Demirdjian - owner at Aspen Diamond Company)",
+ "contact_person": "Aspen Demirdjian",
+ "role": "Owner",
+ "contact_source": "https://www.aspendiamond.com/aspen_demirdjian (\"With a background in diamond wholesaling\"); role per LinkedIn result title \"owner at Aspen Diamond Company\"",
+ "tel_numbers": [
+  "888-624.2088"
+ ],
+ "tel_source": "https://www.aspendiamond.com/",
+ "socials": [
+  "https://www.facebook.com/aspendiamond",
+  "https://instagram.com/aspendiamond/",
+  "https://twitter.com/AspenDiamond",
+  "https://www.pinterest.com/aspendiamond/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "DCWC"
+ ],
+ "hooks": [
+  "loose-diamonds",
+  "bridal",
+  "couture"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Buyers"
+ "scope_reason": "Own site: 'As a diamond professional, ASPEN has been the face and the name of one of the fastest growing companies in the diamond industry'; offers Loose Diamonds and Diamond Search (LA and Montreal); DCWC directory lists Aspen Diamond Co. as Wholesale & Retail, specialty Diamonds.",
+ "verified": true,
+ "enriched": true
 }

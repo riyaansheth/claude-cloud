@@ -3,7 +3,7 @@
  "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers",
  "phone": "(213) 892-9976",
  "website": "http://wantmydiamond.com",
- "address": "608 S Hill St",
+ "address": "608 S Hill St. Ste 906",
  "city": "Los Angeles",
  "state": "CA",
  "market": "Long Beach, CA",
@@ -11,21 +11,35 @@
  "reviews": "32",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/swati-diamond-462021499",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "wantmydiamondla@gmail.com",
+ "email_source": "https://wantmydiamond.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Tony Tala",
+ "role": "President",
+ "contact_source": "https://wantmydiamond.com/ (\"Tony Tala (President)\")",
+ "tel_numbers": [
+  "213-924-3227"
+ ],
+ "tel_source": "https://wantmydiamond.com/contact",
+ "socials": [
+  "https://www.facebook.com/WantMyDiamondLA/",
+  "https://www.instagram.com/wantmydiamond/",
+  "https://www.tiktok.com/@want_my_diamond"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Ste 906",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1994",
+  "importer",
+  "gia",
+  "manufacturer",
+  "custom-bridal"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Listed site wantmydiamond.com: \"Diamond Importers Specializing in All Shapes, Sizes and Qualities of GIA Certified Diamonds. High End Jewelry Manufacturing in the Los Angeles Jewelry District Since 1994.\"",
+ "verified": true,
+ "enriched": true
 }

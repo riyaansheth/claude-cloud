@@ -3,7 +3,7 @@
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(213) 689-8443",
  "website": "https://politradingco.com/pages/connect",
- "address": "550 S Hill St",
+ "address": "550 S. Hill St. #1649",
  "city": "Los Angeles",
  "state": "CA",
  "market": "Long Beach, CA",
@@ -11,21 +11,36 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/poli-trading-co-542085589",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@politradingco.com",
+ "email_source": "https://politradingco.com/pages/connect",
+ "linkedin_url": "https://www.linkedin.com/in/randy-poli-49b891a2/",
+ "linkedin_source": "WebSearch extended: \"Randy Poli\" Poli Trading LinkedIn",
+ "contact_person": "Randy Poli",
+ "role": "Founder",
+ "contact_source": "https://politradingco.com/pages/our-mission",
+ "tel_numbers": [
+  "213.689.8443"
+ ],
+ "tel_source": "https://politradingco.com/pages/connect",
+ "socials": [
+  "https://www.instagram.com/politradingco/"
+ ],
  "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "suite": "Ste 1649",
+ "trade_memberships": [
+  "AGTA GemFair exhibitor",
+  "Gem Geneve exhibitor"
+ ],
+ "hooks": [
+  "since-2005",
+  "antique-cuts",
+  "parcels",
+  "fancy-diamonds",
+  "trade-only-accounts"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "politradingco.com/pages/our-mission: \"In 2005, Poli Trading Company was founded in Los Angeles by Randy Poli. We began as a wholesale diamond firm providing value and service to the trade\"; inventory of white/fancy diamonds and parcels for jewelry designers.",
+ "verified": true,
+ "enriched": true
 }

@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Repairing"
+ "scope_reason": "unverified: listed site gerrythejeweler.com is an unrelated Canadian business ('Gerry The Jeweler, 1212 Lasalle Blvd Sudbury ON'); no own site for this San Clemente listing.",
+ "verified": false,
+ "enriched": true
 }

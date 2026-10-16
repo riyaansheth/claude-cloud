@@ -11,21 +11,36 @@
  "reviews": "43",
  "source_url": "https://www.yellowpages.com/newport-beach-ca/mip/j-b-diamonds-1505003",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "jbdiamonds11@gmail.com",
+ "email_source": "https://jbdiamonds.com/",
+ "linkedin_url": "https://www.linkedin.com/in/julesbarba/",
+ "linkedin_source": "WebSearch extended: \"Jules Barba\" JB Diamonds Newport Beach LinkedIn (result: Jules Barba - JB Diamonds & Fine Jewelry Inc.)",
+ "contact_person": "Jules Barba",
+ "role": "President",
+ "contact_source": "https://www.corporationwiki.com/California/Newport-Beach/jules-barba/44414222.aspx (President, JB Diamonds and Fine Jewelry, Inc.; via WebSearch); own site https://jbdiamonds.com/blogs/news/jules-barba-story-interview",
+ "tel_numbers": [
+  "(949) 644-7366"
+ ],
+ "tel_source": "https://jbdiamonds.com/",
+ "socials": [
+  "https://www.facebook.com/jbdiamondsnewportbeach/",
+  "https://www.instagram.com/jb_diamonds/",
+  "https://twitter.com/jbdiamonds1",
+  "https://www.pinterest.com/jbdiamonds/",
+  "https://www.youtube.com/channel/UCLL-lYEsMipdxPRQOEMsJ-w"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1983",
+  "manufacturer",
+  "wholesaler",
+  "family-owned"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Buyers"
+ "scope_reason": "Own site: 'a family-owned and operated fine jewelry manufacturer and wholesaler that's been serving the Newport Beach and Orange County area since 1983'; 'Our finest collections of diamonds are sourced in-house'.",
+ "verified": true,
+ "enriched": true
 }

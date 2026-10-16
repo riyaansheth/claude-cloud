@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: no own website — listing links to OpenCorporates, which shows GEMS & GIFTS, INC., 606 S Hill St Ste 1105, status 'Suspended Ftb/Sos' (2020).",
+ "verified": false,
+ "enriched": true
 }

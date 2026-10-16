@@ -15,17 +15,30 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Abraham Sengul",
+ "role": "President",
+ "contact_source": "https://www.manta.com/c/mm43q5n/house-of-baguettes (via WebSearch: President Abraham Sengul); trademark owner of HOUSE OF BAGUETTES per https://trademarks.justia.com/owners/sengul-abraham-1293876",
+ "tel_numbers": [
+  "213-627-2808",
+  "212-840-0042",
+  "800-462-3313"
+ ],
+ "tel_source": "https://www.houseofbaguettes.com/contact",
+ "socials": [
+  "https://www.instagram.com/houseofbaguettes"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Ste 920",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "semi-mounts",
+  "LA-and-NY",
+  "multi-generation"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Own site: 'For generations, the House of Baguettes family has been traversing the globe to source the finest diamonds'; LA/NY maker of finished designs and semi-mounts (607 S. Hill St Ste 920).",
+ "verified": true,
+ "enriched": true
 }

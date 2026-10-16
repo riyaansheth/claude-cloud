@@ -3,7 +3,7 @@
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(213) 623-4483",
  "website": "http://www.neetdiam.com/ContactUs.aspx",
- "address": "606 S Hill St",
+ "address": "608 S. Hill Street, Suite 1109",
  "city": "Los Angeles",
  "state": "CA",
  "market": "Long Beach, CA",
@@ -11,21 +11,36 @@
  "reviews": "36",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/neetdiam-459666597",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "Paresh@neetdiam.com",
+ "email_source": "http://www.neetdiam.com/ContactUs.aspx",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
+ "contact_person": "Paresh",
  "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_source": "http://www.neetdiam.com/ContactUs.aspx (first name/email only; surname not published)",
+ "tel_numbers": [
+  "213-623-4483",
+  "818-667-2145",
+  "818-259-4004"
+ ],
+ "tel_source": "http://www.neetdiam.com/ContactUs.aspx",
+ "socials": [
+  "https://www.facebook.com/NEETDIAM-1064067177016161/",
+  "https://www.instagram.com/neetdiam/"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Ste 1109",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1984",
+  "family-owned",
+  "gia",
+  "natural",
+  "mobile-numbers-on-site"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "neetdiam.com: \"Established in 1984 ... family owned\"; \"we specialize in GIA certified stones while also offering several stones with EGL, HRD, and IGI\"; team travels to India and Belgium to pick diamonds - loose-diamond dealer.",
+ "verified": true,
+ "enriched": true
 }
