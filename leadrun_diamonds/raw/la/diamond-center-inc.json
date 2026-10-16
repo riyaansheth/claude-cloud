@@ -31,5 +31,6 @@
  "is_diamond_trade": true,
  "scope_reason": "GoJewelryDistrict: jewelry manufacturer, distributor, importer listed under Loose Diamond.",
  "drop_reason": "",
- "li_backfill": true
+ "li_backfill": true,
+ "li_note": "no linkedin url confirmed"
 }

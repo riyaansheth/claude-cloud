@@ -6,9 +6,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Lon Stein",
+ "role": "President",
+ "contact_source": "https://www.corporationwiki.com/California/Los-Angeles/angeles-diamonds-international/41253456.aspx",
  "website": "https://adidiamonds.com",
  "address": "630 W. 6th Street, Suite 217, Los Angeles, California, United States, 90017",
  "city": "Los Angeles",
@@ -32,5 +32,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Manufacturer (Diamond cutting)",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "no linkedin found; A.D.I. = Angeles Diamonds International; corporationwiki also spells Len Stein",
+ "li_backfill": true
 }

@@ -6,9 +6,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Nagib Kattan",
+ "role": "CEO",
+ "contact_source": "https://www.dnb.com/business-directory/company-profiles.kattan_diamonds_and_jewelry_inc.b6c63fe274226255774ec3dce5bb7590.html",
  "website": "https://www.kattanjewelry.com",
  "address": "550 South Hill Street, Suite 1030, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -32,5 +32,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Manufacturer (Specialized in Bridal sets, Rustic , Yellow, White Diamonds); secondary: Jewelry/ Gemstones",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_backfill": true,
+ "li_note": "linkedin search not run: web search budget exhausted"
 }

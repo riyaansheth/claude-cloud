@@ -30,5 +30,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "no owner name or linkedin found; a San Diego \"The Diamond Source\" (founder Marco Levy, 1stdibs) exists but not confirmed same business",
+ "li_backfill": true
 }

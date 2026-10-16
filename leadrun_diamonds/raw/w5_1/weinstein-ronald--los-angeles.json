@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Ronald Weinstein",
+ "role": "Owner",
+ "contact_source": "https://www.yelp.com/biz/weinstein-ronald-los-angeles",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: domain parked/unrelated (loeb.com is the Loeb & Loeb LLP law firm)",
- "verified": false
+ "verified": false,
+ "li_note": "business listed under owner name (Yelp: Weinstein Ronald, jewelry, 607 S Hill St LA); no linkedin found",
+ "li_backfill": true
 }

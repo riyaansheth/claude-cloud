@@ -31,5 +31,7 @@
  "verified": false,
  "enriched": true,
  "research_note": "OpenCorporates: ANDYS DIAMONDS & GEMS, INC. (FL P13000004066) active; registered agent Andrew Robinson, 820 E Las Olas Blvd, Fort Lauderdale (agent role only; officers hidden). No own site found.",
- "contact_note": "Florida registered agent of same-named corporation (not confirmed as owner)"
+ "contact_note": "Florida registered agent of same-named corporation (not confirmed as owner)",
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }
