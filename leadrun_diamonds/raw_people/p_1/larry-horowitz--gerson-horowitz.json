@@ -1,0 +1,23 @@
+{
+ "person": "Larry Horowitz",
+ "title": "President",
+ "company": "Gerson & Horowitz",
+ "company_website": "https://www.gersonandhorowitz.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/larry-horowitz-988a7410/",
+ "linkedin_source": "\"Gerson & Horowitz\" OR \"Gerson and Horowitz\" diamonds LinkedIn -> Larry Horowitz - President at Gerson & Horowitz",
+ "company_email": "",
+ "company_phone": "(213) 620-0767",
+ "seniority": "owner",
+ "signals": [
+  "bourse",
+  "importer",
+  "third-generation diamantaire",
+  "607 S Hill St",
+  "since 1981"
+ ],
+ "source_url": "https://www.linkedin.com/in/larry-horowitz-988a7410/",
+ "is_diamond_trade": true
+}
