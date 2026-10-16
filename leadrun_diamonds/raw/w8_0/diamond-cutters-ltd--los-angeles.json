@@ -13,19 +13,24 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/ted-palmieri-207b11143/",
+ "linkedin_source": "WebSearch extended: \"Ted Palmieri\" \"Diamond Cutters\" Los Angeles (result: TED Palmieri - DIAMOND BROKER at Diamond cutters ltd, Los Angeles) - broker, not confirmed owner",
+ "contact_person": "Ted Palmieri",
+ "role": "Diamond Broker",
+ "contact_source": "https://www.linkedin.com/in/ted-palmieri-207b11143/ (search result title: 'TED Palmieri - DIAMOND BROKER at Diamond cutters ltd', Los Angeles)",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "cutter",
+  "broker"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "unverified: site unreachable (listed diamondcenterinc.com returns HTTP 503 and per the DCWC directory belongs to a different firm, Diamond Center Inc., 607 S Hill St Ste 300). YP lists it under Diamond Cutters; a LinkedIn result shows a Los Angeles diamond broker at 'Diamond cutters ltd'.",
+ "verified": false,
+ "enriched": true
 }

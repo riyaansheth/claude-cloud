@@ -13,19 +13,25 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/bill-doddridge-02467136/",
+ "linkedin_source": "WebSearch extended: Bill Doddridge goldenwest diamond corp linkedin.com/in (result title: Bill Doddridge - goldenwest diamond corp; Tustin, CA)",
+ "contact_person": "Bill Doddridge",
+ "role": "CEO & President",
+ "contact_source": "https://www.synchrony.com/contenthub/newsroom/synchrony-financial-and-the-jewelry-exchange-extend-decade-long.html",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "importer",
+  "manufacturer",
+  "since-1977"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters, Jewelers, Gold, Silver & Platinum Buyers & Dealers"
+ "scope_reason": "unverified: site unreachable (jewelryexchange.com returns Cloudflare 403 on every page). Synchrony press release / D&B: Goldenwest Diamond Corporation dba The Jewelry Exchange, founded 1977 by Bill Doddridge, is a diamond importer and jewelry manufacturer with ~15 stores.",
+ "verified": false,
+ "enriched": true
 }

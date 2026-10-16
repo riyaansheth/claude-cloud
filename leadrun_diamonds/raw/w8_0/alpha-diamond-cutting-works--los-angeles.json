@@ -14,18 +14,26 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Ben Filossof\" diamond; Filossof diamond cutter Los Angeles LinkedIn; \"Alpha Diamond Cutting\" Los Angeles LinkedIn owner OR president (no linkedin.com/in/ profile found)",
+ "contact_person": "Ben Filossof",
+ "role": "Owner",
+ "contact_source": "https://www.manta.com/c/mtxbnn3/alpha-diamond-cutting-works (via WebSearch snippet: 'Manta lists Owner Ben Filossof'; page itself is Cloudflare-blocked)",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "DCWC"
+ ],
+ "hooks": [
+  "cutter",
+  "trade-services",
+  "bourse-member"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "unverified: site unreachable (listed website is the example.com placeholder). Diamond Club West Coast directory (https://diamondclubwestcoast.com/company-directory-2/) lists 'Alpha Diamond Cutting Works - Wholesale & Retail - Speciality: Industry Services, Diamond cutting services for the trade; Secondary: Diamonds, Estate Jewelry'.",
+ "verified": false,
+ "enriched": true
 }

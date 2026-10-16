@@ -15,17 +15,22 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Moti Ferder",
+ "role": "Founder",
+ "contact_source": "https://luganodiamonds.com/our-story",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/luganodiamonds",
+  "https://www.instagram.com/luganodiamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "chain",
+ "scope_reason": "Own Our Story page: Lugano Diamonds is 'a premiere retail business for diamonds and jewelry' with boutiques in Aspen, Miami, Newport Beach and Ocala - multi-boutique luxury retailer.",
+ "verified": true,
+ "enriched": true
 }

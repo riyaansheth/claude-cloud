@@ -11,21 +11,27 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/stein-diamonds-502576433",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@steindiamonds.com",
+ "email_source": "https://www.steindiamonds.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "213.595.9821"
+ ],
+ "tel_source": "https://www.steindiamonds.com/",
+ "socials": [
+  "https://www.instagram.com/steindiamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Jewelry Buyers, Diamonds"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Listed site diamondtradingcenter.com does not resolve; the business's own site steindiamonds.com (606 S Olive St Ste 2110) is a consumer shop of finished jewelry, lab-grown, watches and designer bags.",
+ "verified": true,
+ "enriched": true
 }

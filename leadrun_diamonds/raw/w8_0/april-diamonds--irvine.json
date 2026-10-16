@@ -13,19 +13,23 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/ofir-ronen-b0054012/",
+ "linkedin_source": "WebSearch extended: \"Ofir Ronen\" April Diamonds LinkedIn (result title: Ofir Ronen - April Diamonds, Inc.; Irvine; websites AprilDiamonds.net)",
+ "contact_person": "Ofir Ronen",
+ "role": "Registered Agent",
+ "contact_source": "https://opencorporates.com/companies/us_ca/2754269 (APRIL DIAMONDS, INC., active, agent OFIR RONEN); LinkedIn profile lists him at April Diamonds, Inc., Irvine",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "unverified: site unreachable (aprildiamonds.net returns HTTP 503 on all pages). LinkedIn search results tie Ofir Ronen (April Diamonds, Inc., Irvine; sites AprilDiamonds.net, OCDiamondSource.com) and a manager describing 'the wholesale diamond dealer's business' - consistent with YP 'Diamonds-Wholesale'.",
+ "verified": false,
+ "enriched": true
 }

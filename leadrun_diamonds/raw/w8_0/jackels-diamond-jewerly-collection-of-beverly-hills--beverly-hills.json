@@ -18,14 +18,21 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "310-247-0848"
+ ],
+ "tel_source": "https://jackelscollection.com/contact-us-1/",
+ "socials": [
+  "https://www.facebook.com/jackelscollection",
+  "https://www.instagram.com/thejackelscollectionbh/"
+ ],
  "building": "",
  "suite": "Ste 805",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds, Gold, Silver & Platinum Buyers & Dealers"
+ "is_diamond_trade": false,
+ "drop_reason": "pawn",
+ "scope_reason": "Own contact page (jackelscollection.com/contact-us-1/): 'Licensed • Bonded • Insured Pawnbroker License #1910-0988'; home page pitches selling diamonds/gold/watches and loans - pawn/jewelry buyer.",
+ "verified": true,
+ "enriched": true
 }

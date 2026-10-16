@@ -13,19 +13,34 @@
  "lead_origin": "Web Search",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/raju-mehta-22424413b/",
+ "linkedin_source": "WebSearch extended: \"Raju Mehta\" El Paseo Jewelers LinkedIn (result title: Raju Mehta - VP - El Paseo Jewelers, Palm Desert)",
  "contact_person": "Raju Mehta",
  "role": "Owner",
- "contact_source": "https://localemagazine.com/meet-raju-mehta-diamond-expert-and-owner-of-el-paseo-jewelers-in-palm-desert/",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_source": "https://www.elpaseojewelers.com/community/ ('operated since 1998 under the leadership of executive officer Raju Mehta'); owner per https://localemagazine.com/meet-raju-mehta-diamond-expert-and-owner-of-el-paseo-jewelers-in-palm-desert/",
+ "tel_numbers": [
+  "1-760-773-1040"
+ ],
+ "tel_source": "https://www.elpaseojewelers.com/contact/",
+ "socials": [
+  "https://www.facebook.com/elpaseojewelers",
+  "https://www.instagram.com/elpaseojewelers/",
+  "https://www.youtube.com/channel/UCjEzKoO8JYFplRxQiqGIxRQ"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Ste E",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1998",
+  "natural",
+  "loose-diamonds",
+  "large-stones",
+  "custom-design",
+  "family-owned"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "Search: family business offering loose diamonds ('largest selection of loose diamonds in Palm Desert'); owner cites wholesale background \u2014 to verify on site"
+ "scope_reason": "Own About page: El Paseo Jewelers 'offers loose diamonds' with 'availability of large stones' and 'brings in the finest products of the Indian diamond cutting industry' via 'our Indian partners' - natural-diamond store sourcing its own loose stones (also retail/repair/We Buy Gold).",
+ "verified": true,
+ "enriched": true
 }

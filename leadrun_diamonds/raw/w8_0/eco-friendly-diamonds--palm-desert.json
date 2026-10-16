@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers"
+ "scope_reason": "unverified: site unreachable (affordable-eco-diamonds.com does not resolve - DNS failure); web searches for the name/phone found no trace of the business, so YP category 'Diamond Buyers' could not be confirmed.",
+ "verified": false,
+ "enriched": true
 }
