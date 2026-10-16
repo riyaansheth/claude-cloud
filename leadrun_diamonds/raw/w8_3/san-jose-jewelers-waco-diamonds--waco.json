@@ -1,0 +1,44 @@
+{
+ "business": "San Jose Jewelers (Waco Diamonds)",
+ "category_as_listed": "",
+ "phone": "(254) 666-5455",
+ "website": "https://www.sanjosewaco.com",
+ "address": "24 A LaSalle Avenue",
+ "city": "Waco",
+ "state": "TX",
+ "market": "Waco, TX",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.sanjosewaco.com/products/lab-grown-emerald-diamond-3-06-carat-d-vs1",
+ "lead_origin": "Web Search",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Robert Jimenez",
+ "role": "Owner",
+ "contact_source": "https://www.sanjosewaco.com/pages/about",
+ "tel_numbers": [
+  "(254) 666-5455"
+ ],
+ "tel_source": "https://www.sanjosewaco.com/pages/contact-us-today",
+ "socials": [
+  "https://www.facebook.com/sanjosejewelry",
+  "https://www.instagram.com/sanjosejewelry/",
+  "https://www.tiktok.com/@sanjosewaco"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1985",
+  "manufacturer",
+  "lab-grown",
+  "family-owned"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Own site: custom jeweler/manufacturer since 1985 (college rings, bridal; in-house CAD/CAM) that sources its own diamonds and sells loose natural/lab-grown diamonds; borderline manufacturer-retailer",
+ "verified": true,
+ "enriched": true
+}
