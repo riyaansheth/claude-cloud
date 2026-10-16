@@ -58,3 +58,35 @@ Set `"enriched": true` on every target you processed. Budget ≤ 120 WebSearch c
 7. Commit ONLY `leadrun_diamonds/raw/<OUT>/`; push to your outcome branch after every batch.
 Report: listings scraped, verified, in scope, dropped by reason, owners, LinkedIn, emails, direct lines, and
 which of your cities you think now have at least one lead meeting 2 of 3.
+
+## People worker (given MARKETS and OUT=p_<k>) — person-level LinkedIn leads
+Goal: up to 100 real people per market who work at US diamond-TRADE firms (owners, presidents, partners,
+buyers, diamond sales, brokers, GIA graduates at wholesalers/manufacturers/importers/bourse members),
+each with a personal linkedin.com/in/ URL. Quality over count: never pad, never invent.
+1. Company list: start from `leadrun_diamonds/diamonds_all.csv` rows whose Market is yours (in-scope firms),
+   then add more diamond-trade firms in your market from WebSearch / directories.
+2. For each firm, WebSearch (mode "extended") e.g. `<Company> <city> diamonds LinkedIn`,
+   `"<Company>" owner OR president OR sales LinkedIn`, `site:linkedin.com/in "<Company>"`,
+   and market sweeps like `"diamond wholesaler" <city> LinkedIn`, `"diamond buyer" <city> LinkedIn`,
+   `"GIA Graduate Gemologist" <city> diamonds LinkedIn`, `"47th Street" diamonds LinkedIn` (NYC).
+3. Record a person ONLY if a linkedin.com/in/ URL literally appears in a result and the result ties that
+   named person to a diamond-trade firm in your market. Never a /company/ page or a slug that is just the
+   business name. Exclude retail-chain staff, pawn/gold buyers, simulants (AGENT_BRIEF kill-list).
+4. Write one JSON per person to `leadrun_diamonds/raw_people/<OUT>/<slug>.json`:
+   {"person","title","company","company_website","city","state","market","linkedin_url","linkedin_source",
+    "company_email","company_phone","seniority" (owner/executive/manager/sales/other),"signals":[...],
+    "source_url","is_diamond_trade":true}
+   company_email/phone only if seen on the firm's own site or directory listing.
+5. Budget: use your full WebSearch allowance (≈180 calls); up to 4 subagents, one market each.
+   Commit ONLY `leadrun_diamonds/raw_people/<OUT>/`, push to your outcome branch every ~25 people.
+Report: people per market, firms covered, what limited the count.
+
+## LinkedIn backfill worker (given SHARD=k)
+Targets: `leadrun_diamonds/work/li/shard_<k>.json` — in-scope businesses that have NO personal LinkedIn.
+For each: (1) if `contact` is empty, find the owner/president name (About/Team/Contact page with requests,
+BBB "Business Management", OpenCorporates officers, press) and set contact_person/role/contact_source;
+(2) WebSearch mode "extended" `"First Last" <Business> LinkedIn` (and with city); record linkedin_url only if a
+linkedin.com/in/ URL literally appears tied to that person + business; set linkedin_source. Edit the raw
+`file` IN PLACE (keep all other fields), set `"li_backfill": true` even when nothing is found.
+Prioritise items with "qualified": true or a contact name. Up to 4 subagents. Commit ONLY the raw files you
+edited; push to your outcome branch every ~20 targets. Report: targets, names found, LinkedIn found.

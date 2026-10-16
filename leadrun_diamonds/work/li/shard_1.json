@@ -1,0 +1,770 @@
+[
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_midwest/reaver-diamond-company.json",
+  "business": "Reaver Diamond Company",
+  "market": "Detroit, MI",
+  "contact": "Steve Reaver",
+  "website": "https://www.reaverdiamond.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_se/mervis-diamond-importers.json",
+  "business": "Mervis Diamond Importers",
+  "market": "Washington, DC",
+  "contact": "Zed Mervis",
+  "website": "https://www.mervisdiamond.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/adn-rendon-jeweler.json",
+  "business": "ADN RENDON JEWELER",
+  "market": "Miami, FL",
+  "contact": "Reiner Rendon Dominguez",
+  "website": "https://adnrendonjeweler.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/e-frai-co.json",
+  "business": "E. FRAI & CO.",
+  "market": "Miami, FL",
+  "contact": "Eran Frai",
+  "website": "https://efrai.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/mollie-francine-llc.json",
+  "business": "MOLLIE FRANCINE, LLC",
+  "market": "Miami, FL",
+  "contact": "Mollie F Jonas",
+  "website": "https://molliefrancine.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/royal-gems-inc.json",
+  "business": "ROYAL GEMS INC",
+  "market": "Miami, FL",
+  "contact": "Shashi Jain",
+  "website": "https://royalgems.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/white-carat-co-diamonds.json",
+  "business": "WHITE CARAT CO. DIAMONDS",
+  "market": "Miami, FL",
+  "contact": "Saveen Lalani",
+  "website": "https://whitecaratdiamond.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/diamond-vault--sarasota.json",
+  "business": "Diamond Vault",
+  "market": "Sarasota, FL",
+  "contact": "Ali Chokr",
+  "website": "https://diamondvaultjewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_1/rivchun-chas-s-sons--cleveland.json",
+  "business": "Rivchun Chas S & Sons",
+  "market": "Cleveland, OH",
+  "contact": "Joe Soukenik, Jr.",
+  "website": "https://rivchunjewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/daviko-gems--gaithersburg.json",
+  "business": "Daviko Gems",
+  "market": "Bethesda, MD",
+  "contact": "David Wachnish",
+  "website": "https://www.kentlandsjewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/la-zaro-jewelry--silver-spring.json",
+  "business": "La Zaro Jewelry",
+  "market": "Bethesda, MD",
+  "contact": "Augusto P. Lazaro",
+  "website": "https://lazarodiamonds.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/precision-cut--los-angeles.json",
+  "business": "Precision Cut",
+  "market": "Pasadena, CA",
+  "contact": "Albert; Moshe (surnames not stated)",
+  "website": "https://precisioncutla.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/house-of-diamonds--san-diego.json",
+  "business": "House Of Diamonds",
+  "market": "San Diego, CA",
+  "contact": "Elan Nachassi",
+  "website": "https://houseofdiamonds.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/mariloff-diamonds-fine-jewelry--dallas.json",
+  "business": "Mariloff Diamonds & Fine Jewelry",
+  "market": "Dallas, TX",
+  "contact": "Rafi",
+  "website": "https://www.mariloff.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/sophil-gems--miami.json",
+  "business": "Sophil Gems",
+  "market": "Miami, FL",
+  "contact": "Philippe and Sophie (surnames not given)",
+  "website": "https://www.sophil.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_2/diamond-jewelers-of-sc--greenville.json",
+  "business": "Diamond Jewelers of SC",
+  "market": "Greenville, SC",
+  "contact": "Bruce Kingsmore",
+  "website": "https://www.diamondjewelersofsc.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_2/fountain-city-jewelers--knoxville-tn.json",
+  "business": "Fountain City Jewelers",
+  "market": "Knoxville, TN",
+  "contact": "Mark Enix",
+  "website": "https://www.fountaincityjewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/miami/almagor-diamonds-inc.json",
+  "business": "Almagor Diamonds, Inc.",
+  "market": "Miami, FL",
+  "contact": "David Almagor",
+  "website": "https://almagordiamonds.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/sledges-estate-jewelers--orange.json",
+  "business": "Sledges Estate Jewelers",
+  "market": "Irvine, CA",
+  "contact": "Chuck Sledge",
+  "website": "https://www.sledgejewelry.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/the-jeweler--san-clemente.json",
+  "business": "The Jeweler",
+  "market": "Irvine, CA",
+  "contact": "Nalia Hegge",
+  "website": "https://www.gerrythejeweler.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/summit-diamond-corp--tampa.json",
+  "business": "Summit Diamond Corp",
+  "market": "Tampa, FL",
+  "contact": "Scott & Mariela",
+  "website": "https://www.summitdiamond.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_3/m-a-laurie-jewelers-ltd--williamsville.json",
+  "business": "M A Laurie Jewelers Ltd",
+  "market": "Buffalo, NY",
+  "contact": "Jeff Bean",
+  "website": "https://lauriejewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/schlanderer-sons--ann-arbor.json",
+  "business": "Schlanderer & Sons",
+  "market": "Southfield, MI",
+  "contact": "Chuck Schlanderer",
+  "website": "https://www.schlandererandsonsjewelry.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/the-diamond-connection--san-diego.json",
+  "business": "The Diamond Connection",
+  "market": "San Diego, CA",
+  "contact": "Adam Lorell",
+  "website": "https://www.diamondconnectiononline.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_2/adamas-one-corp.json",
+  "business": "Adamas One Corp",
+  "market": "Greenville, SC",
+  "contact": "Jay Grdina",
+  "website": "https://www.adamasone.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/miami/aria-diamonds.json",
+  "business": "Aria Diamonds",
+  "market": "Miami, FL",
+  "contact": "Tomer Baruch",
+  "website": "",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_midwest/serj-shiklanian.json",
+  "business": "Serj Shiklanian",
+  "market": "Detroit, MI",
+  "contact": "Serj Shiklanian",
+  "website": "",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_sd_pr_hou/faulhaber-diamond-cutting-jewelry-works.json",
+  "business": "Faulhaber Diamond Cutting & Jewelry Works",
+  "market": "San Diego, CA",
+  "contact": "Don Faulhaber",
+  "website": "",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/diamond-connection.json",
+  "business": "DIAMOND CONNECTION",
+  "market": "Miami, FL",
+  "contact": "Avinash K Thakor",
+  "website": "",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/eli-melee.json",
+  "business": "ELI MELEE",
+  "market": "Miami, FL",
+  "contact": "Zulfiya Seidova",
+  "website": "",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/elite-casting.json",
+  "business": "ELITE CASTING",
+  "market": "Miami, FL",
+  "contact": "Juan M Valladares",
+  "website": "",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/laal-manufacturing-inc.json",
+  "business": "LAAL MANUFACTURING INC",
+  "market": "Miami, FL",
+  "contact": "Javier A Otero Garcia",
+  "website": "",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/moses-diamond-corp.json",
+  "business": "MOSES DIAMOND CORP",
+  "market": "Miami, FL",
+  "contact": "Stalin Pellissery",
+  "website": "",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/sp-diamonds-intl-trade-corp.json",
+  "business": "SP DIAMONDS INTL TRADE CORP",
+  "market": "Miami, FL",
+  "contact": "Spartacus R Soares da Silva",
+  "website": "",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/miami/buchwald-jewelers.json",
+  "business": "Buchwald Jewelers",
+  "market": "Miami, FL",
+  "contact": "",
+  "website": "https://www.buchwaldjewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/miami/miami-diamond-traders.json",
+  "business": "Miami Diamond Traders",
+  "market": "Miami, FL",
+  "contact": "",
+  "website": "https://miamidiamondtraders.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/south/aura-diamonds.json",
+  "business": "Aura Diamonds",
+  "market": "Dallas, TX",
+  "contact": "",
+  "website": "https://www.designsbyaura.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_sd_pr_hou/david-sons-fine-jewelers.json",
+  "business": "David & Sons Fine Jewelers",
+  "market": "San Diego, CA",
+  "contact": "",
+  "website": "https://davidandsonsjewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_sd_pr_hou/levi-family-jewelers.json",
+  "business": "Levi Family Jewelers",
+  "market": "San Diego, CA",
+  "contact": "",
+  "website": "https://www.levifamilyjewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_sd_pr_hou/oceanside-jewelers.json",
+  "business": "Oceanside Jewelers",
+  "market": "San Diego, CA",
+  "contact": "",
+  "website": "https://oceanside-jewelers.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/18k-miami.json",
+  "business": "18K Miami",
+  "market": "Miami, FL",
+  "contact": "",
+  "website": "https://www.18kmiami.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/barclays-jewelers.json",
+  "business": "BARCLAY'S JEWELERS",
+  "market": "Miami, FL",
+  "contact": "",
+  "website": "https://www.barclaysjewelry.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/italian-jewelry-inc.json",
+  "business": "ITALIAN JEWELRY, INC",
+  "market": "Miami, FL",
+  "contact": "",
+  "website": "https://italianjewelry.miami",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/nemaro-jewelers-inc.json",
+  "business": "NEMARO JEWELERS INC",
+  "market": "Miami, FL",
+  "contact": "",
+  "website": "https://www.nemarojewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/richards-gems-and-jewelry.json",
+  "business": "RICHARD\u2019S GEMS AND JEWELRY",
+  "market": "Miami, FL",
+  "contact": "",
+  "website": "https://www.richardsjewelry.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/bernie-s-son-jewelers--saint-petersburg.json",
+  "business": "Bernie's & Son Jewelers",
+  "market": "Sarasota, FL",
+  "contact": "",
+  "website": "https://www.berniesandson.net",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/emperor-diamonds-inc--los-angeles.json",
+  "business": "Emperor Diamonds Inc",
+  "market": "Pasadena, CA",
+  "contact": "",
+  "website": "https://emperordiamondsinc.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/king-diamond-co--los-angeles.json",
+  "business": "King Diamond Co",
+  "market": "Pasadena, CA",
+  "contact": "",
+  "website": "https://ladiamond.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/prime-baguette--los-angeles.json",
+  "business": "Prime Baguette",
+  "market": "Pasadena, CA",
+  "contact": "",
+  "website": "https://www.primebaguette.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/tampa-diamond-c-enter--tampa.json",
+  "business": "Tampa Diamond C Enter",
+  "market": "Tampa, FL",
+  "contact": "",
+  "website": "https://tampadiamondcenter.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/diamond-engagement-ring--san-diego.json",
+  "business": "Diamond Engagement Ring",
+  "market": "San Diego, CA",
+  "contact": "",
+  "website": "https://hallmanjewelers.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/yahalom-diamonds--san-diego.json",
+  "business": "Yahalom Diamonds",
+  "market": "San Diego, CA",
+  "contact": "",
+  "website": "https://www.stardiamondsandiego.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_2/the-goldsmith-by-rudi-ltd--hendersonville.json",
+  "business": "The Goldsmith By Rudi Ltd",
+  "market": "Greenville, SC",
+  "contact": "",
+  "website": "https://thegoldsmithbyrudi.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_e2/az-gems-inc--redlands.json",
+  "business": "AZ Gems Inc",
+  "market": "Riverside, CA",
+  "contact": "",
+  "website": "https://www.azgems.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_e2/c-r-diamond-jewelers--huntington-beach.json",
+  "business": "C & R Diamond Jewelers",
+  "market": "Long Beach, CA",
+  "contact": "",
+  "website": "https://www.huntingtonbeachjewelry.net",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w7_3/dash-diamonds--farmington.json",
+  "business": "Dash Diamonds",
+  "market": "Ann Arbor, MI",
+  "contact": "",
+  "website": "https://www.dashdiamonds.com",
+  "qualified": true
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/miami/carat-trade-inc.json",
+  "business": "Carat Trade Inc",
+  "market": "Miami, FL",
+  "contact": "",
+  "website": "https://www.carattrade.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/south/bova-diamonds.json",
+  "business": "Bova Diamonds",
+  "market": "Dallas, TX",
+  "contact": "",
+  "website": "https://www.bovadiamonds.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_midwest/american-gem-corporation.json",
+  "business": "American Gem Corporation",
+  "market": "Detroit, MI",
+  "contact": "",
+  "website": "https://www.americangemsociety.org",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_midwest/michigan-wholesale-diamonds.json",
+  "business": "Michigan Wholesale Diamonds",
+  "market": "Detroit, MI",
+  "contact": "",
+  "website": "https://www.michiganwholesalediamonds.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_sd_pr_hou/brilliant-diamonds-san-diego.json",
+  "business": "Brilliant Diamonds Fine Jewelers",
+  "market": "San Diego, CA",
+  "contact": "",
+  "website": "https://www.brilliantdiamonds.us",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_sd_pr_hou/diamonds-on-the-rock.json",
+  "business": "Diamonds on the Rock",
+  "market": "San Diego, CA",
+  "contact": "",
+  "website": "https://diamondsontherock.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w2_sd_pr_hou/jewelry-by-design-san-diego.json",
+  "business": "Jewelry by Design",
+  "market": "San Diego, CA",
+  "contact": "",
+  "website": "https://jewelrybydesign.info",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/lazaro-davinchy.json",
+  "business": "LAZARO DAVINCHY",
+  "market": "Miami, FL",
+  "contact": "",
+  "website": "https://lazarodavinchyjewelry.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w3_miami/mateo-made-it.json",
+  "business": "MATEO MADE IT",
+  "market": "Miami, FL",
+  "contact": "",
+  "website": "https://www.mateomadeit.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/april-diamonds--irvine.json",
+  "business": "April Diamonds",
+  "market": "Irvine, CA",
+  "contact": "",
+  "website": "https://www.aprildiamonds.net",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/birni-jewelers--vienna.json",
+  "business": "Birni Jewelers",
+  "market": "Washington, DC",
+  "contact": "",
+  "website": "https://www.mayjewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/continential-wholesale-diamonds--tampa.json",
+  "business": "Continential Wholesale Diamonds",
+  "market": "Sarasota, FL",
+  "contact": "",
+  "website": "https://monmouthjewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/dia-gems-inc--falls-church.json",
+  "business": "Dia-Gems Inc",
+  "market": "Washington, DC",
+  "contact": "",
+  "website": "https://www.diagemsinc.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/golden-star-diamonds--tampa.json",
+  "business": "Golden Star Diamonds",
+  "market": "Sarasota, FL",
+  "contact": "",
+  "website": "https://www.goldenstardiamonds.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/grown-brilliance--washington.json",
+  "business": "Grown Brilliance",
+  "market": "Washington, DC",
+  "contact": "",
+  "website": "https://www.grownbrilliance.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_0/the-karat-patch--san-pedro.json",
+  "business": "The Karat Patch",
+  "market": "Irvine, CA",
+  "contact": "",
+  "website": "https://thekaratpatch.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/alvin-wilson-co--lakeland.json",
+  "business": "Alvin Wilson Co",
+  "market": "Tampa, FL",
+  "contact": "",
+  "website": "https://alvinwilson.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/american-diamond-exchange-inc--los-angeles.json",
+  "business": "American Diamond Exchange Inc",
+  "market": "Pasadena, CA",
+  "contact": "",
+  "website": "https://adexnet.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/gems-and-gifts-inc--los-angeles.json",
+  "business": "Gems And Gifts Inc",
+  "market": "Pasadena, CA",
+  "contact": "",
+  "website": "https://opencorporates.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/pac-m-international--los-angeles.json",
+  "business": "Pac. M International",
+  "market": "Pasadena, CA",
+  "contact": "",
+  "website": "https://www.zilloninternational.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_2/value-diamond-tool-co--santa-ana.json",
+  "business": "Value Diamond Tool Co",
+  "market": "Pasadena, CA",
+  "contact": "",
+  "website": "https://www.valuediamond.net",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/michael-bay-estate-buyer--oklahoma-city.json",
+  "business": "Michael Bay Estate Buyer",
+  "market": "Oklahoma City, OK",
+  "contact": "",
+  "website": "https://www.cash4goldokc.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w5_5/naples-diamond-service--naples.json",
+  "business": "Naples Diamond Service",
+  "market": "Naples, FL",
+  "contact": "",
+  "website": "https://naplesdiamond.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/blumenthal-jewelers--la-mesa.json",
+  "business": "Blumenthal Jewelers",
+  "market": "San Diego, CA",
+  "contact": "",
+  "website": "https://www.blumenthaljewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/yp/ck-diamonds-inc--san-diego-ca.json",
+  "business": "Ck Diamonds Inc",
+  "market": "San Diego, CA",
+  "contact": "",
+  "website": "https://sandiegojewelersexchange.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_1/barmakian-brothers--boston.json",
+  "business": "Barmakian Brothers",
+  "market": "Worcester, MA",
+  "contact": "",
+  "website": "https://www.barmakian.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_1/black-diamond-group--woburn.json",
+  "business": "Black Diamond Group",
+  "market": "Worcester, MA",
+  "contact": "",
+  "website": "https://bdboots.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_1/safris-ltd--boston.json",
+  "business": "Safris Ltd",
+  "market": "Worcester, MA",
+  "contact": "",
+  "website": "https://www.safariltd.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_2/golden-carat-the--sevierville.json",
+  "business": "Golden Carat The",
+  "market": "Knoxville, TN",
+  "contact": "",
+  "website": "https://goldencarat.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_3/america-s-gold-diamond--richardson.json",
+  "business": "America's Gold & Diamond",
+  "market": "Plano, TX",
+  "contact": "",
+  "website": "https://www.americasgoldndiamond.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_3/diamond-gold-jewelry-exchange-dallas--plano.json",
+  "business": "Diamond Gold Jewelry Exchange Dallas",
+  "market": "Plano, TX",
+  "contact": "",
+  "website": "https://diamondgoldjewelryexchangedallas.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_e2/aaa-family-gems-inc--tustin.json",
+  "business": "AAA Family Gems Inc",
+  "market": "Riverside, CA",
+  "contact": "",
+  "website": "https://www.aaafamilygems.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_e2/gemma-s-jewelers--rancho-cucamonga.json",
+  "business": "Gemma's Jewelers",
+  "market": "Riverside, CA",
+  "contact": "",
+  "website": "https://gemmasjewelers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_e2/lugano-diamonds--newport-beach.json",
+  "business": "Lugano Diamonds",
+  "market": "Riverside, CA",
+  "contact": "",
+  "website": "https://www.luganodiamonds.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w6_e2/thomas-denton-co--glendale.json",
+  "business": "Thomas Denton & Co",
+  "market": "Riverside, CA",
+  "contact": "",
+  "website": "https://thomasdentonco.net",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w7_0/precise-diamonds-custom-jewelry-design--port-charlotte.json",
+  "business": "Precise Diamonds Custom Jewelry Design",
+  "market": "Fort Myers, FL",
+  "contact": "",
+  "website": "https://www.facebook.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w7_3/dimaggio-fine-art-and-jewelry--lathrup-village.json",
+  "business": "DiMaggio Fine Art And Jewelry",
+  "market": "Ann Arbor, MI",
+  "contact": "",
+  "website": "https://www.dfajb.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w7_3/estate-large-diamond-buyers--southfield.json",
+  "business": "Estate Large Diamond Buyers",
+  "market": "Ann Arbor, MI",
+  "contact": "",
+  "website": "https://www.estatelargediamondbuyers.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w7_3/kimberley-jewelers--troy.json",
+  "business": "Kimberley Jewelers",
+  "market": "Ann Arbor, MI",
+  "contact": "",
+  "website": "https://www.diamondvaultoftroy.com",
+  "qualified": false
+ },
+ {
+  "file": "/home/user/claude-cloud/leadrun_diamonds/raw/w7_3/kolt-jewelers--howell.json",
+  "business": "Kolt Jewelers",
+  "market": "Ann Arbor, MI",
+  "contact": "",
+  "website": "https://koltjewelers.com",
+  "qualified": false
+ }
+]
