@@ -11,21 +11,37 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/sophil-gems-8895671",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@sophil.com",
+ "email_source": "https://www.sophil.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "954 401 8332",
+  "(954) 629-2269"
+ ],
+ "tel_source": "https://www.sophil.com/contact-us",
+ "socials": [
+  "https://instagram.com/sophil51",
+  "https://www.facebook.com/Sophil-204412529753905/"
+ ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "gia-gg",
+  "since-1983",
+  "antwerp-trained",
+  "custom-design"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Own site (sophil.com/our-fine-jewelry-designers): owners are GIA gemologists 'Trained in 1975 in the diamond exchange in Antwerp, they opened their 1st diamond trading office in Geneva' and for engagement clients 'show you 2-3 stones ... We select diamonds' - borderline bridal specialist sourcing own loose stones.",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Site lists owners only as 'Philippe' and 'Sophie' (no surnames); 2 searches for surname/Sunbiz found nothing tied to Sophil Miami, so no owner/LinkedIn. 954 numbers on site differ from 305 main line. MapQuest marks Flagler St location closed."
 }

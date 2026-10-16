@@ -3,7 +3,7 @@
  "category_as_listed": "Diamond Buyers, Diamonds, Diamonds-Wholesale",
  "phone": "(305) 761-1520",
  "website": "https://www.diamondimagesusa.com",
- "address": "36 NE 1st St",
+ "address": "36 NE 1st Street, Suite 1016",
  "city": "Miami",
  "state": "FL",
  "market": "Coral Gables, FL",
@@ -11,21 +11,35 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/diamond-images-usa-506487552",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
- "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "email": "info@diamondimagesusa.com",
+ "email_source": "https://www.diamondimagesusa.com/blank-4",
+ "linkedin_url": "https://www.linkedin.com/in/aslam-bakshi-b5927197/",
+ "linkedin_source": "WebSearch extended: \"Aslam Bakshi\" Diamond Images Miami LinkedIn (result title 'ASLAM BAKSHI - DIAMOND IMAGES USA INC.,')",
+ "contact_person": "Aslam Bakshi",
+ "role": "Owner",
+ "contact_source": "https://instoremag.com/miami-diamond-importer-caters-to-retail-clients/",
+ "tel_numbers": [
+  "305.761.1520"
+ ],
+ "tel_source": "https://www.diamondimagesusa.com/blank-4",
+ "socials": [
+  "https://www.instagram.com/diamondimagesusa/"
+ ],
+ "building": "Seybold Building",
+ "suite": "Suite 1016",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "gia-certified",
+  "custom-manufacture",
+  "bridal",
+  "family-run"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Diamonds, Diamonds-Wholesale"
+ "scope_reason": "Own site: 'SPECIALIZING IN G.I.A CERTIFIED IDEAL CUT DIAMONDS ... We take pride in our work by selecting the worlds finest quality diamonds' plus custom designs in the Seybold Building; InStore calls it a 'Miami Diamond Importer' and owner's LinkedIn describes diamond wholesaler/manufacturer - bridal specialist sourcing own stones.",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Owner from InStore Jan-2023 article (fetched): Aslam Bakshi opened Diamond Images, wife Rubina co-worker. LinkedIn /in/ found in 2 searches tied to Diamond Images USA Inc. Only main line on site (Yelp shows 786-361-5231, not own site, not recorded)."
 }

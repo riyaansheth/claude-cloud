@@ -27,5 +27,8 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "unverified: site unreachable (listed website is a Yelp page for H and Y Diamonds Inc, returned 403; no own site found)",
+ "verified": false,
+ "enriched": true,
+ "enrich_notes": "Yelp URL 403; searches for 'Almagor Diamonds Miami (305) 350-5059' and 'H and Y Diamonds Miami owner' returned nothing relevant."
 }

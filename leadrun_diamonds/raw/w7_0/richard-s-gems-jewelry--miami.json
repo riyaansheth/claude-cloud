@@ -11,21 +11,30 @@
  "reviews": "23",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/richards-gems-jewelry-16827496",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@richardsjewelry.com",
+ "email_source": "https://richardsjewelry.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "1-888-539-3588",
+  "305-577-4522 (fax)"
+ ],
+ "tel_source": "https://richardsjewelry.com/contact-us/",
+ "socials": [
+  "http://www.facebook.com/RichardsJewelryMiami/",
+  "https://instagram.com/richardsgemsandjewelry/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Jewelers, Jewelry Designers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site (richardsjewelry.com/about-us): 'Richard's Gems & Jewelry has been happily serving our customers since 1984 ... Our store is staffed with highly trained jewelry professionals ... your Jeweler for Life' - consumer jewelry store, no wholesale/loose-diamond trade line.",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Dropped as retail-only after reading About/Contact; no owner search spent."
 }

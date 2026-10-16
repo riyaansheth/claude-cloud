@@ -18,14 +18,22 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "305-371-3476"
+ ],
+ "tel_source": "https://www.barclaysjewelry.com/pages/contact-us",
+ "socials": [
+  "https://facebook.com/Barclays.Jewelers.Miami",
+  "https://www.instagram.com/barclaysjewelers/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers, Jewelry Repairing"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site (barclaysjewelry.com): 'We are a well-established jewelry store that has grown with our community from a small store to a multiple brand jewelry retailer' (Seybold Building since 1979); loose diamonds shown only via an online virtual-inventory search.",
+ "verified": true,
+ "enriched": true,
+ "enrich_notes": "Dropped as retail-only after reading home/contact; no email on site; no owner search spent."
 }
