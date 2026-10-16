@@ -1,0 +1,19 @@
+{
+ "person": "Stuart Samuels",
+ "title": "President",
+ "company": "Premier Gem Corp",
+ "company_website": "https://premiergem.com",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "linkedin_url": "https://www.linkedin.com/in/stuart-samuels-1684a412",
+ "linkedin_source": "WebSearch: Stuart Samuels Premier Gem Corp LinkedIn",
+ "company_email": "info@premiergem.com",
+ "company_phone": "(212) 319-5151",
+ "seniority": "owner",
+ "signals": [
+  "seed-from-diamonds_all"
+ ],
+ "source_url": "https://www.linkedin.com/in/stuart-samuels-1684a412/",
+ "is_diamond_trade": true
+}
