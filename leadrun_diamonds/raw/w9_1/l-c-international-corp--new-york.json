@@ -1,0 +1,48 @@
+{
+ "business": "L C International Corp",
+ "category_as_listed": "Diamonds-Wholesale, Diamonds, Jewelers-Wholesale & Manufacturers",
+ "phone": "(212) 688-1198",
+ "website": "http://lcidiamonds.com/about-us",
+ "address": "15 W 47th St Ste 1009",
+ "city": "New York",
+ "state": "NY",
+ "market": "Princeton, NJ",
+ "rating": "",
+ "reviews": "27",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/l-c-international-corp-459259743",
+ "lead_origin": "YellowPages",
+ "email": "info@lcidiamonds.com",
+ "email_source": "http://lcidiamonds.com/contact-us/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "800.223.0248",
+  "1-212-688-1198"
+ ],
+ "tel_source": "http://lcidiamonds.com/about-us/",
+ "socials": [],
+ "building": "",
+ "suite": "Ste 1009",
+ "trade_memberships": [
+  "Diamond Dealers Club of New York",
+  "World Federation of Diamond Bourses",
+  "Diamond Manufacturers and Importers Association"
+ ],
+ "hooks": [
+  "since-1910",
+  "family-owned",
+  "wholesale",
+  "cutter",
+  "loose-diamonds",
+  "gia-certified"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "LCI Diamonds site: family in the diamond business since 1910 and \"one of the nation's leading diamond wholesalers and cutters since 1939\"; members of the Diamond Dealers Club of New York and WFDB; 15 W 47th St Suite 1309. [verdict carried from raw/yp/l-c-international-corp--new-york.json]",
+ "verified": true,
+ "enriched": true,
+ "carried_from": "raw/yp/l-c-international-corp--new-york.json"
+}

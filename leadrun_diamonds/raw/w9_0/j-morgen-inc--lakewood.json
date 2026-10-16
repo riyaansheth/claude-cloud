@@ -1,0 +1,39 @@
+{
+ "business": "J Morgen Inc",
+ "category_as_listed": "Jewelers",
+ "phone": "(877) 566-7436",
+ "website": "https://www.jmorgen.com",
+ "address": "12 America Ave",
+ "city": "Lakewood",
+ "state": "NJ",
+ "market": "Lakewood, NJ",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/lakewood-nj/mip/j-morgen-inc-562080645",
+ "lead_origin": "YellowPages",
+ "email": "info@jmorgen.com",
+ "email_source": "https://www.jmorgen.com/",
+ "linkedin_url": "https://www.linkedin.com/in/jonah-morgenstern-a1b989213/",
+ "linkedin_source": "WebSearch extended: \"Jonah Morgenstern\" J Morgen Jewelry Lakewood (profile headline: Owner, J Morgen Jewelers; Lakewood store) \u2014 Yoni is the site name",
+ "contact_person": "Yoni Morgenstern",
+ "role": "Owner",
+ "contact_source": "https://www.jmorgen.com/about-jmorgen/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.instagram.com/jmorgenjewelry/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "diamond-district-family",
+  "custom",
+  "diamond-buyer"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Site: private boutique jeweler, owner Yoni Morgenstern with family roots in NYC Diamond District hand-picks/sources diamonds for custom pieces and buys diamonds (borderline retail-facing).",
+ "verified": true,
+ "enriched": true
+}

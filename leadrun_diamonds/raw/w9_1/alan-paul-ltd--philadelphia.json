@@ -1,0 +1,44 @@
+{
+ "business": "Alan Paul Ltd",
+ "category_as_listed": "Diamond Buyers, Diamonds-Wholesale",
+ "phone": "(215) 829-4431",
+ "website": "http://alanpauldiamonds.com",
+ "address": "732 Sansom St",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Cherry Hill, NJ",
+ "rating": "",
+ "reviews": "31",
+ "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/alan-paul-ltd-15784668",
+ "lead_origin": "YellowPages",
+ "email": "AlanPaulLtd@aol.com",
+ "email_source": "https://jrow.org/alan-paul-ltd/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.facebook.com/alanpauldiamonds/"
+ ],
+ "building": "Jewelers Row",
+ "suite": "",
+ "trade_memberships": [
+  "Jewelers Row District"
+ ],
+ "hooks": [
+  "broker",
+  "diamond-buyer",
+  "natural",
+  "fancy-color",
+  "lab-grown"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "jrow.org: 'premiere diamond broker and buyer' in white, natural colored and lab-grown diamonds; YP lists Diamonds-Wholesale. jrow gives 715 Sansom St Suite 1R; YP gives 732 Sansom St. Website returned HTTP 506 (down). [verdict carried from raw/w3_ne_nyc/alan-paul-ltd.json]",
+ "verified": true,
+ "enriched": true,
+ "carried_from": "raw/w3_ne_nyc/alan-paul-ltd.json"
+}

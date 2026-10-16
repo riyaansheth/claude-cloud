@@ -1,0 +1,39 @@
+{
+ "business": "Siddhi Jewels",
+ "category_as_listed": "Diamonds-Wholesale",
+ "phone": "(212) 764-1416",
+ "website": "https://www.siddhijewels.com",
+ "address": "62 W 47th St",
+ "city": "New York",
+ "state": "NY",
+ "market": "Princeton, NJ",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/siddhi-jewels-481111055",
+ "lead_origin": "YellowPages",
+ "email": "info@siddhijewels.com",
+ "email_source": "https://www.siddhijewels.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "+919820999059"
+ ],
+ "tel_source": "https://www.siddhijewels.com/",
+ "socials": [
+  "https://www.facebook.com/siddhijewelsmum",
+  "https://www.instagram.com/siddhi.jewels.india"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [],
+ "is_diamond_trade": false,
+ "drop_reason": "other",
+ "scope_reason": "Listed site siddhijewels.com is a Mumbai jewelry catalogue (403 Zee Square, MG Road, Vile Parle East, Mumbai) with no New York address and no stated diamond wholesale/loose-diamond business. [verdict carried from raw/yp/siddhi-jewels--new-york.json]",
+ "verified": true,
+ "enriched": true,
+ "carried_from": "raw/yp/siddhi-jewels--new-york.json"
+}

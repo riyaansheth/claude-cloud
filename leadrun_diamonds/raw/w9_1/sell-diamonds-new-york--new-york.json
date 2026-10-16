@@ -1,0 +1,39 @@
+{
+ "business": "Sell Diamonds New York",
+ "category_as_listed": "Diamonds-Wholesale, Diamonds, Jewelers",
+ "phone": "(212) 221-2666",
+ "website": "http://www.selldiamondnewyork.com",
+ "address": "31 W 47th St Fl 505a",
+ "city": "New York",
+ "state": "NY",
+ "market": "Princeton, NJ",
+ "rating": "",
+ "reviews": "51",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/sell-diamonds-new-york-462882496",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "646-755-3981"
+ ],
+ "tel_source": "https://selldiamondsnyc.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "diamond-buyer",
+  "estate"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Listed domain redirects to selldiamondsnyc.com, a consumer diamond-buying office (55 W 47th St #203d) offering cash for diamond jewelry and stating \"we also buy gold silver platinum and watches\" plus coins; buy-from-public, no wholesale/trade supply. [verdict carried from raw/yp/sell-diamonds-new-york--new-york.json]",
+ "verified": true,
+ "enriched": true,
+ "carried_from": "raw/yp/sell-diamonds-new-york--new-york.json"
+}

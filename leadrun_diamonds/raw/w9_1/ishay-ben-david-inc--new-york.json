@@ -1,0 +1,52 @@
+{
+ "business": "Ishay Ben David Inc",
+ "category_as_listed": "Diamonds-Wholesale, Jewelers, Diamonds",
+ "phone": "(212) 944-5441",
+ "website": "http://www.fancycolordiamond.net",
+ "address": "580 5th Ave",
+ "city": "New York",
+ "state": "NY",
+ "market": "Princeton, NJ",
+ "rating": "",
+ "reviews": "14",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/ishay-ben-david-inc-574373556",
+ "lead_origin": "YellowPages",
+ "email": "info@fancycolordiamond.net",
+ "email_source": "https://fancycolordiamond.net/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/ishay-ben-david-88468026/",
+ "linkedin_source": "\"Ishay Ben-David\" IBD Fancy Colors LinkedIn",
+ "contact_person": "Ishay Ben-David",
+ "role": "Founder & President",
+ "contact_source": "https://fancycolordiamond.net/pages/about-us",
+ "tel_numbers": [
+  "+12129445441",
+  "+18004110951"
+ ],
+ "tel_source": "https://fancycolordiamond.net/pages/contact",
+ "socials": [
+  "https://twitter.com/fancycolordiam",
+  "https://www.facebook.com/fancycolordiamond",
+  "https://www.instagram.com/fancycolordiamond",
+  "https://www.pinterest.com/fancycolordiamond",
+  "https://www.youtube.com/fancycolordiamond"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "DDC (board member)"
+ ],
+ "hooks": [
+  "since-1979",
+  "family-owned",
+  "fancy-color",
+  "natural",
+  "GIA-certified",
+  "cutter"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Site: \"the Ben-David family at IBD Fancy Colors specializes in ... natural fancy colored diamonds\"; founder \"is a current Board Member of the New York Diamond Dealers Club (NY DDC)\". [verdict carried from raw/w5_1/ishay-ben-david-inc--new-york.json]",
+ "verified": true,
+ "enriched": true,
+ "carried_from": "raw/w5_1/ishay-ben-david-inc--new-york.json"
+}

@@ -1,0 +1,42 @@
+{
+ "business": "Diamond Buyer NYC, Inc",
+ "category_as_listed": "Diamond Cutters, Diamond Buyers, Jewelry Buyers",
+ "phone": "(917) 776-6015",
+ "website": "http://diamondbuyernyc.com",
+ "address": "580 5th Ave Fl D",
+ "city": "New York",
+ "state": "NY",
+ "market": "Princeton, NJ",
+ "rating": "5",
+ "reviews": "8",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/diamond-buyer-nyc-inc-495505184",
+ "lead_origin": "YellowPages",
+ "email": "info@diamondbuyernyc.com",
+ "email_source": "https://diamondbuyernyc.com/contact-us/",
+ "linkedin_url": "https://www.linkedin.com/in/jonathan-domatov-657a5529a/",
+ "linkedin_source": "\"Jonathan Domatov\" Diamond Buyer NYC LinkedIn",
+ "contact_person": "Jonathan Domatov",
+ "role": "President",
+ "contact_source": "https://diamondbuyernyc.com/about-us/",
+ "tel_numbers": [
+  "855-289-3769",
+  "917-776-6015"
+ ],
+ "tel_source": "https://diamondbuyernyc.com/about-us/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "35-years",
+  "estate-buyer",
+  "GIA",
+  "polisher-background"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Site buys loose diamonds/diamond rings (\"number one diamond buyer shop in New York\"); president Jonathan Domatov \"began working in the diamond business as a polisher\" and is \"a diamond supplier who offers high quality, certified diamonds\" - secondary-market diamond buyer, consumer-facing. [verdict carried from raw/w5_1/diamond-buyer-nyc-inc--new-york.json]",
+ "verified": true,
+ "enriched": true,
+ "carried_from": "raw/w5_1/diamond-buyer-nyc-inc--new-york.json"
+}

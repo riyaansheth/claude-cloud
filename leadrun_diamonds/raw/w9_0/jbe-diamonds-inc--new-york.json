@@ -1,0 +1,39 @@
+{
+ "business": "JBE Diamonds Inc",
+ "category_as_listed": "Diamond Buyers, Jewelry Buyers",
+ "phone": "(212) 221-1095",
+ "website": "https://jbediamonds.com",
+ "address": "580 5th Ave",
+ "city": "New York",
+ "state": "NY",
+ "market": "Fort Lee, NJ",
+ "rating": "5",
+ "reviews": "1",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/jbe-diamonds-inc-267117",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "since-1975",
+  "gia-certified",
+  "diamond-buyer"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Site: JBE Diamonds Inc. \"one of the largest diamond trading companies in the US\" \u2014 buys and sells GIA-certified loose diamonds since 1975 (580 5th Ave).",
+ "verified": true,
+ "enriched": true
+}

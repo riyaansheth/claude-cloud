@@ -1,0 +1,45 @@
+{
+ "business": "Unclaimed Diamonds",
+ "category_as_listed": "Diamonds-Wholesale, Jewelry Repairing, Jewelers",
+ "phone": "(215) 923-3210",
+ "website": "http://www.unclaimeddiamonds.com",
+ "address": "113 S 8th St",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Cherry Hill, NJ",
+ "rating": "",
+ "reviews": "112",
+ "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/unclaimed-diamonds-27903592",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "(877)-855-2663"
+ ],
+ "tel_source": "https://www.unclaimeddiamonds.com/",
+ "socials": [
+  "https://twitter.com/UnclaimdDiamond",
+  "https://www.facebook.com/Unclaimeddiamonds",
+  "https://www.instagram.com/unclaimed_diamonds",
+  "https://www.pinterest.com/unclmddiamonds/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "retail",
+  "lease-to-own",
+  "lab-grown"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site is a consumer jewelry e-shop selling finished engagement rings, wedding bands and fashion jewelry (incl. lab-grown) with \"No Credit Needed\" lease-to-own financing via Prog Leasing; no wholesale, loose-stone or trade offering shown. [verdict carried from raw/w6_1/unclaimed-diamonds--philadelphia.json]",
+ "verified": true,
+ "enriched": true,
+ "carried_from": "raw/w6_1/unclaimed-diamonds--philadelphia.json"
+}

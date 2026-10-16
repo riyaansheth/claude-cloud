@@ -1,0 +1,43 @@
+{
+ "business": "Levy Creations",
+ "category_as_listed": "Diamond Cutters",
+ "phone": "(312) 368-8540",
+ "website": "http://www.levycreations.com",
+ "address": "29 E Madison St",
+ "city": "Chicago",
+ "state": "IL",
+ "market": "Naperville, IL",
+ "rating": "",
+ "reviews": "55",
+ "source_url": "https://www.yellowpages.com/chicago-il/mip/levy-creations-467794498",
+ "lead_origin": "YellowPages",
+ "email": "service@levycreations.com",
+ "email_source": "http://www.levycreations.com/About",
+ "linkedin_url": "",
+ "linkedin_source": "\"Israel Levy\" Levy Creations LinkedIn (no matching profile)",
+ "contact_person": "Israel Levy",
+ "role": "President",
+ "contact_source": "http://www.levycreations.com/Contact",
+ "tel_numbers": [
+  "(312) 368-8540",
+  "(800) 621-0496"
+ ],
+ "tel_source": "http://www.levycreations.com/About",
+ "socials": [
+  "https://www.facebook.com/p/Levy-Creations-100067497922092/",
+  "https://x.com/levycreations"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "manufacturer",
+  "trade-only",
+  "bridal"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Own site: 'We do not sell to the public' ... 'one of the largest manufacturers of distinctive engagement and wedding sets'; 'A division of Israel Levy Diamond Cutters, Inc.'",
+ "verified": true,
+ "enriched": true
+}

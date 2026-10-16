@@ -1,0 +1,43 @@
+{
+ "business": "O M Color Diamonds",
+ "category_as_listed": "Diamonds-Wholesale, Diamonds",
+ "phone": "(212) 391-8858",
+ "website": "https://www.omcolordiamonds.com/contact",
+ "address": "15 W 47th St",
+ "city": "New York",
+ "state": "NY",
+ "market": "Princeton, NJ",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/o-m-color-diamonds-545424133",
+ "lead_origin": "YellowPages",
+ "email": "omcolordia@yahoo.com",
+ "email_source": "https://www.omcolordiamonds.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [
+  "212-391-8858",
+  "323-2349269"
+ ],
+ "tel_source": "https://www.omcolordiamonds.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "natural",
+  "fancy-color",
+  "melee",
+  "manufacturer",
+  "Antwerp-affiliate"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Natural fancy color diamond manufacturer: About page says its niche \"is the manufacturing a consistent supply of carefully well graded\" fancy color stones incl. melee; exhibited JCK Las Vegas. [verdict carried from raw/w5_1/o-m-color-diamonds--new-york.json]",
+ "verified": true,
+ "enriched": true,
+ "carried_from": "raw/w5_1/o-m-color-diamonds--new-york.json"
+}

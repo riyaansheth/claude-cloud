@@ -1,0 +1,40 @@
+{
+ "business": "Ner",
+ "category_as_listed": "Diamonds-Wholesale",
+ "phone": "(212) 827-0472",
+ "website": "https://www.nerdiamond.com",
+ "address": "10 W 46th St",
+ "city": "New York",
+ "state": "NY",
+ "market": "Princeton, NJ",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/new-york-ny/mip/ner-517000549",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.facebook.com/share/15heNwZmHbM/",
+  "https://www.instagram.com/ner_diamond"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "lab-grown",
+  "gia-certified"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Site nerdiamond.com is titled 'Premium Certified Diamonds & Jewelry Supplier | NER Diamond', says 'GIA Certified' and points to a lab-grown diamond collection; thin text, no about content. [verdict carried from raw/w5_1/ner--new-york.json]",
+ "verified": true,
+ "enriched": true,
+ "carried_from": "raw/w5_1/ner--new-york.json"
+}
