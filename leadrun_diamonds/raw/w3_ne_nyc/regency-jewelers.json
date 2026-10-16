@@ -6,9 +6,9 @@
   "email_source": "",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Avi Hoffman",
+  "role": "Owner",
+  "contact_source": "https://www.bbb.org/us/ma/boston/profile/jewelry-stores/regency-jewelers-0021-240158",
   "website": "https://www.regencydiamond.com",
   "address": "333 Washington St Ste 329, Boston, MA 02108",
   "city": "Boston",
@@ -29,5 +29,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "YP category Diamonds-Wholesale in the Boston jewelry district. Website loads only a JS shell (no readable contacts).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "no linkedin.com/in tied to Avi Hoffman (search did not surface him); site JS-only",
+  "li_backfill": true
 }

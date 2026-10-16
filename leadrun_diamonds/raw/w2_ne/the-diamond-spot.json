@@ -29,5 +29,7 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "Diamond specialist in the Jewelers Building; trade vs retail unverified.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "owner not named anywhere found (site says family-owned, 2nd generation); Anastasia Harrison is Jewelry Specialist (LinkedIn), not owner",
+  "li_backfill": true
 }

@@ -4,8 +4,8 @@
   "phone": "(617) 523-1131",
   "email": "info@santisiandbove.com",
   "email_source": "https://www.santisiandbove.com/",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/kimberley-murphy-aaa23b14/",
+  "linkedin_source": "\"Kimberley Murphy\" \"Santisi\" LinkedIn",
   "contact_person": "Kimberley Murphy",
   "role": "Owner",
   "contact_source": "https://www.santisiandbove.com/",
@@ -34,5 +34,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "YP: Jewelers/Jewelry Buyers/Diamonds; own site names Kimberley Murphy 'Third Generation Owner'. Diamond buyer/jeweler, borderline retail.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "LinkedIn title: Kimberley Murphy - Santisi & Bove Jewelers",
+  "li_backfill": true
 }

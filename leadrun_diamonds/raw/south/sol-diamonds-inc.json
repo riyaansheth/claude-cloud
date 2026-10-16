@@ -6,9 +6,9 @@
   "email_source": "",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Shlomo Meshli",
+  "role": "Owner",
+  "contact_source": "https://www.buzzfile.com/business/Sol-Diamonds-832-287-9952",
   "website": "https://soldiamondsinc.com",
   "address": "6222 Richmond Ave #784, Houston, TX",
   "city": "Houston",
@@ -33,5 +33,7 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Wholesale diamond distributor in Houston, 30+ years, appointment-only.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "only linkedin.com/in/sol-diamonds-inc-122151256 (business-name slug, not used); no personal profile found",
+  "li_backfill": true
 }

@@ -1,44 +1,46 @@
 {
- "business": "Abdo Hantouche Diamonds",
- "category_as_listed": "",
- "phone": "(251) 421-3130",
- "email": "hantouch2@comcast.net",
- "email_source": "https://hantouchediamonds.com/contact/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Abdo Hantouche",
- "role": "Owner",
- "contact_source": "https://hantouchediamonds.com/about-abdo-hantouche/",
- "website": "https://hantouchediamonds.com",
- "address": "800 Hillcrest Rd, Suite 5",
- "city": "Mobile",
- "state": "AL",
- "market": "Mobile, AL",
- "lead_origin": "Web Search",
- "rating": "",
- "reviews": "",
- "source_url": "https://hantouchediamonds.com/",
- "tel_numbers": [
-  "(251) 421-3130"
- ],
- "tel_source": "https://hantouchediamonds.com/contact/",
- "socials": [
-  "https://www.facebook.com/hantouchediamonds",
-  "https://www.instagram.com/hantouchediamonds/"
- ],
- "building": "",
- "suite": "Suite 5",
- "trade_memberships": [],
- "hooks": [
-  "wholesale",
-  "broker",
-  "since-1987",
-  "son-of-cutter"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Own site: 'Wholesale Diamond Broker Mobile, Alabama — Abdo Hantouche is one of the most highly regarded diamond wholesalers serving the gulf coast for over 35 years'; buys/evaluates diamonds by appointment.",
- "verified": true,
- "enriched": true,
- "enrich_notes": "Found via WebSearch. Owner bio on own About page (diamond broker since 1987, son of a diamond cutter). Email is a comcast freemail the business publishes on its contact page. Two extended LinkedIn searches returned no profile. Site shows a single number. Street address from Birdeye listing snippet."
+  "business": "Abdo Hantouche Diamonds",
+  "category_as_listed": "",
+  "phone": "(251) 421-3130",
+  "email": "hantouch2@comcast.net",
+  "email_source": "https://hantouchediamonds.com/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Abdo Hantouche",
+  "role": "Owner",
+  "contact_source": "https://hantouchediamonds.com/about-abdo-hantouche/",
+  "website": "https://hantouchediamonds.com",
+  "address": "800 Hillcrest Rd, Suite 5",
+  "city": "Mobile",
+  "state": "AL",
+  "market": "Mobile, AL",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://hantouchediamonds.com/",
+  "tel_numbers": [
+    "(251) 421-3130"
+  ],
+  "tel_source": "https://hantouchediamonds.com/contact/",
+  "socials": [
+    "https://www.facebook.com/hantouchediamonds",
+    "https://www.instagram.com/hantouchediamonds/"
+  ],
+  "building": "",
+  "suite": "Suite 5",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale",
+    "broker",
+    "since-1987",
+    "son-of-cutter"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Own site: 'Wholesale Diamond Broker Mobile, Alabama — Abdo Hantouche is one of the most highly regarded diamond wholesalers serving the gulf coast for over 35 years'; buys/evaluates diamonds by appointment.",
+  "verified": true,
+  "enriched": true,
+  "enrich_notes": "Found via WebSearch. Owner bio on own About page (diamond broker since 1987, son of a diamond cutter). Email is a comcast freemail the business publishes on its contact page. Two extended LinkedIn searches returned no profile. Site shows a single number. Street address from Birdeye listing snippet.",
+  "li_note": "no linkedin.com/in result tied to Abdo Hantouche",
+  "li_backfill": true
 }

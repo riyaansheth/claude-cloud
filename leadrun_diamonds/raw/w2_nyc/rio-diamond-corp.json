@@ -30,5 +30,7 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "AGTA member directory: Rio Diamond Corp, 62 W 47th St, contact Jose Batista (LinkedIn snippet: VP Operations); Jose Batista on DMIA board. Personal LinkedIn URL not surfaced.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "li_note": "LinkedIn \"others named\" list shows Jose Batista VP Operations at Rio Diamond Corp but no /in/ URL was shown for him",
+  "li_backfill": true
 }
