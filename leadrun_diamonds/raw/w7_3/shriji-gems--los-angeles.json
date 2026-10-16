@@ -11,13 +11,13 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/shriji-gems-467513403",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "shrijigems@hotmail.com",
+ "email_source": "https://jewelersjournal.com/listing/shriji-gems-inc/",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "\"Samir Shah\" \"Shriji Gems\" Los Angeles LinkedIn | Samir Shah Shriji Gems diamonds linkedin.com/in",
+ "contact_person": "Samir Shah",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/shriji-gems-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "No own website (listed URL is a jewelersjournal.com directory page); California SOS filing (via bizprofile.net) gives 'Type of Business WHOLESALE OF DIAMONDS AND COLOR STONE', office at 608 S. Hill St. Suite 1304 in the LA Jewelry District.",
+ "verified": true,
+ "enriched": true
 }

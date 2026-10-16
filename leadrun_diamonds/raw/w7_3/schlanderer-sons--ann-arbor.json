@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Watches, Jewelers"
+ "scope_reason": "unverified: site unreachable - schlandererandsonsjewelry.com returns HTTP 500 on all pages; press (annarbor.com) describes it as a family jewelry shop run by Chuck Schlanderer since 1933, no trade evidence found.",
+ "verified": false
 }

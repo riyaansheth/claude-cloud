@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamond Buyers, Gemologists"
+ "scope_reason": "unverified: site unreachable - dfajb.com does not resolve (DNS failure); search found no other own site or owner.",
+ "verified": false
 }
