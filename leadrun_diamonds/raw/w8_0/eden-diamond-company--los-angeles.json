@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "YP Diamonds-Wholesale, 6195 Whittier Blvd (213 number); nothing found online; an unrelated-looking \"Eden Diamond Inc.\" (2023, 4929 Wilshire) exists in CA SOS - not linked.",
+ "enriched": true
 }

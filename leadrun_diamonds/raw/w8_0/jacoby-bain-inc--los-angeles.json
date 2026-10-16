@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Robert Bain",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/jacoby-bain-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "CA SOS (bizprofile): Jacoby & Bain, Inc., active since 1979, 606 S Hill St, Robert Bain CEO/CFO/Director. YP Diamonds-Wholesale; no website or LinkedIn found.",
+ "enriched": true
 }

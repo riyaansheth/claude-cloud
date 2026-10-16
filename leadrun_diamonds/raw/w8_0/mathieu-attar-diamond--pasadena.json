@@ -15,17 +15,22 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
+ "contact_person": "Mathieu Attar",
  "role": "",
- "contact_source": "",
+ "contact_source": "https://diamondclubwestcoast.com/company-directory-2/",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "building": "International Jewelry Center",
+ "suite": "Ste 1238",
+ "trade_memberships": [
+  "DCWC"
+ ],
+ "hooks": [
+  "importer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Duplicate of the LA listing (same phone 213-629-4359); \"590 S Hill Ave Pasadena\" looks like a YP geocoding error. DCWC: \"Mathieu Attar Diamond Imports | Wholesale | Diamonds\", 550 S Hill St Ste 1238. Role not confirmed; no LinkedIn found.",
+ "enriched": true
 }

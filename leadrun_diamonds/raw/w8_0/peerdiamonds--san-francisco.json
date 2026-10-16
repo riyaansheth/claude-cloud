@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Patrick Cohen",
+ "role": "Manager",
+ "contact_source": "https://www.bizprofile.net/ca/san-francisco/peerdiamonds-llc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Jewelry Buyers, Diamonds"
+ "scope_reason": "CA SOS: Peerdiamonds LLC (567 Sutter St, SF) is in TERMINATED status, Manager Patrick Cohen; peerdiamonds.com unreachable; YP categories Diamond Buyers/Jewelry Buyers - likely defunct consumer diamond buyer. No LinkedIn found.",
+ "enriched": true
 }

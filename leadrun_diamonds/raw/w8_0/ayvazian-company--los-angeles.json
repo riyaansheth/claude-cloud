@@ -15,17 +15,22 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Tony Ayvazian",
+ "role": "Owner",
+ "contact_source": "https://www.buzzfile.com/business/Ayvazian-Co-213-627-7962",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "building": "California Jewelry Mart",
+ "suite": "Ste 922",
+ "trade_memberships": [
+  "DCWC"
+ ],
+ "hooks": [
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "DCWC directory: \"Ayvazian Co. | Wholesale | Diamonds | Loose Natural Diamonds, White & Yellow 0.50 to 10 cts.\", 607 S Hill St Ste 922; Buzzfile contact Tony Ayvazian, Owner (founded 1989). No website or LinkedIn found.",
+ "enriched": true
 }

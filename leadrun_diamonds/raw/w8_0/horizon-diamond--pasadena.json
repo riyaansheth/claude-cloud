@@ -2,7 +2,7 @@
  "business": "Horizon Diamond",
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(213) 623-5015",
- "website": "",
+ "website": "https://www.horizondiamondsonline.net",
  "address": "55 S Hill Ave",
  "city": "Pasadena",
  "state": "CA",
@@ -15,17 +15,21 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Krina Shah",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/horizon-diamond-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
- "trade_memberships": [],
+ "building": "International Jewelry Center",
+ "suite": "Ste 690",
+ "trade_memberships": [
+  "DCWC"
+ ],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "DCWC directory: \"Horizon Diamonds Inc | Wholesale | Diamonds | All things diamonds! Rounds, fancy shapes, white, fancy colors, matched pairs.\", 550 S Hill St Ste 690, same phone (YP Pasadena address looks wrong). Site is a trade login portal: \"registration is only for Horizon Diamonds authorized retail stores\". CA SOS (since 1990): Krina Shah CEO/CFO/Director (Manta names Nilesh N Shah CEO). No LinkedIn found.",
+ "verified": true,
+ "enriched": true
 }

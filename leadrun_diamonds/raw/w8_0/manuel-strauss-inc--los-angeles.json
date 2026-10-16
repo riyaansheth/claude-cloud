@@ -15,17 +15,20 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Manuel Strauss",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/manuel-strauss-inc",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
- "trade_memberships": [],
+ "building": "International Jewelry Center",
+ "suite": "Ste 1493",
+ "trade_memberships": [
+  "DCWC"
+ ],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "DCWC: \"Manuel Strauss Inc. | Wholesale | Estate Jewelry | Secondary: Watches/ Diamonds\", 550 S Hill St Ste 1493 (trade estate dealer); CA SOS active since 1983, CEO Manuel Strauss. No website or LinkedIn found.",
+ "enriched": true
 }

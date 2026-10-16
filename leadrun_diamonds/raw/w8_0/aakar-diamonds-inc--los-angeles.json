@@ -21,11 +21,12 @@
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
- "building": "",
- "suite": "",
+ "building": "International Jewelry Center",
+ "suite": "Ste 1548",
  "trade_memberships": [],
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "YP Diamonds-Wholesale; OpenCorporates shows AAKAR DIAMONDS, INC. (550 S Hill St Ste 1548) Terminated - Certificate of Dissolution 27 Jan 2016 (https://opencorporates.com/companies/us_ca/2027148); likely defunct; no website, owner or LinkedIn found.",
+ "enriched": true
 }

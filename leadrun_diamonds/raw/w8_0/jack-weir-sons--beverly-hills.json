@@ -2,7 +2,7 @@
  "business": "Jack Weir & Sons",
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(310) 276-1280",
- "website": "",
+ "website": "https://jackweirandsons.com",
  "address": "8730 Wilshire Blvd",
  "city": "Beverly Hills",
  "state": "CA",
@@ -15,17 +15,32 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Wyler Weir",
+ "role": "CEO",
+ "contact_source": "https://jackweirandsons.com/pages/about-us",
+ "tel_numbers": [
+  "(310) 276-1280"
+ ],
+ "tel_source": "https://jackweirandsons.com/pages/contact-us-1",
+ "socials": [
+  "https://www.facebook.com/jackweirandsons/",
+  "https://www.instagram.com/jackweirandsons",
+  "https://www.pinterest.com/jackweirandsons/_shop/",
+  "https://www.youtube.com/channel/UCMjUlaBVAkfVRT8aX9l1NFA/featured"
+ ],
  "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "suite": "Ste 530",
+ "trade_memberships": [
+  "DCWC"
+ ],
+ "hooks": [
+  "since-1981",
+  "importer",
+  "2nd-generation"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site: \"In 1979, Weir entered the trade, and in 1981 he founded Jack Weir Diamond Importers ... buying diamonds and building lasting relationships with dealers and cutters\"; \"Wyler is now CEO\". Today mostly vintage/estate jewelry e-commerce, but DCWC lists it as Wholesale / Diamonds (secondary Estate Jewelry) - borderline. Contact-page email is Cloudflare-obfuscated (not recorded). SOS lists Jack Weir CEO, Wyler Weir CFO. No personal LinkedIn found.",
+ "verified": true,
+ "enriched": true
 }

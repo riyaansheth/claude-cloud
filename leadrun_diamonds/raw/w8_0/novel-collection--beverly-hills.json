@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "YP Diamonds-Wholesale, 9401 Wilshire Blvd Beverly Hills (extra 213 numbers, link to a \"Golden Legend Inc\" YP page); no website, registry entry or owner confirmed.",
+ "enriched": true
 }

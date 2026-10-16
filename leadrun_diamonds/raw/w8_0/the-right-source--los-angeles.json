@@ -2,7 +2,7 @@
  "business": "The Right Source",
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(213) 622-8500",
- "website": "",
+ "website": "https://www.trsdiamonds.com",
  "address": "550 S Hill St",
  "city": "Los Angeles",
  "state": "CA",
@@ -15,17 +15,32 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "contact_person": "Jon Kohanzad",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/the-right-source-inc",
+ "tel_numbers": [
+  "+12136228500"
+ ],
+ "tel_source": "https://www.trsdiamonds.com/",
  "socials": [],
- "building": "",
- "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "building": "International Jewelry Center",
+ "suite": "Ste 1070",
+ "trade_memberships": [
+  "JBT",
+  "RapNet",
+  "CertNet",
+  "Polygon",
+  "JewelersLink",
+  "DCWC"
+ ],
+ "hooks": [
+  "importer",
+  "large-stones",
+  "gia-gg"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Site: \"a direct diamond importer and wholesaler of fine loose diamonds ... stones with EGL and GIA certificates - specializing in 3/4 carats and up\", \"As graduate gemologists\", \"Trade Members Only\"; members JBT, RapNET, CertNet, Polygon, Jewelers Link, DCWC. CA SOS CEO Jon Moris Kohanzad. Site email is Cloudflare-obfuscated (not recorded). No LinkedIn found.",
+ "verified": true,
+ "enriched": true
 }

@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "YP AKA \"Jewelry by Zaka, Inc.\" / \"Orange Jewelry Exchange\", 1882 N Tustin St Orange; edan.io listing page blocked (403); no owner or registry record found.",
+ "enriched": true
 }
