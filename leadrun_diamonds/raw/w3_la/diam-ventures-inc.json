@@ -6,9 +6,9 @@
  "email_source": "https://www.diamventures.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Paresh Parekh",
+ "role": "CEO",
+ "contact_source": "https://www.buzzfile.com/business/Diam-Ventures,-Inc.-213-623-6520",
  "website": "https://www.diamventures.com",
  "address": "550 South Hill Street, Suite 976, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -34,5 +34,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Si2 to I1 well graded diamonds)",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

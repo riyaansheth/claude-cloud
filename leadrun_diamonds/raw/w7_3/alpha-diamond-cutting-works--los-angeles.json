@@ -31,5 +31,7 @@
  "drop_reason": "",
  "scope_reason": "Listed site is example.com placeholder; Diamond Club West Coast member directory lists 'Alpha Diamond Cutting Works — Wholesale & Retail — Diamond cutting services for the trade; Secondary: Diamonds, Estate Jewelry'; YP category Diamond Cutters.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

@@ -4,8 +4,8 @@
  "phone": "404.237.1050",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/ronnie-agami-0a80109/",
+ "linkedin_source": "\"Ronnie Agami\" Universal Diamonds Atlanta LinkedIn",
  "contact_person": "Ronnie Agami",
  "role": "Owner",
  "contact_source": "https://www.atlantamagazine.com/style/in-atlanta-the-jewelry-business-is-often-a-multigenerational-affair/",
@@ -33,5 +33,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "Atlanta Magazine describes it as one of the largest diamond wholesalers in the Southeast; handles estate and loose diamonds. Founder Amos Agami; sons Ronnie and Jonathan partners.",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_backfill": true
 }

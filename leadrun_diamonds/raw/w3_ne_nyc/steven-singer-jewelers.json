@@ -1,45 +1,47 @@
 {
-  "business": "Steven Singer Jewelers",
-  "category_as_listed": "Jewelers-Wholesale & Manufacturers, Jewelers, Watches",
-  "phone": "215-627-3242",
-  "email": "ssj@stevensingerjewelers.com",
-  "email_source": "https://www.ihatestevensinger.com/pages/contact",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Steven Singer",
-  "role": "Owner",
-  "contact_source": "https://jrow.org/steven-singer-jewelers/",
-  "website": "https://www.ihatestevensinger.com",
-  "address": "739 Walnut Street, Philadelphia, PA 19106",
-  "city": "Philadelphia",
-  "state": "PA",
-  "market": "Philadelphia, PA",
-  "lead_origin": "Trade Directory",
-  "rating": "",
-  "reviews": "",
-  "source_url": "https://jrow.org/steven-singer-jewelers/",
-  "tel_numbers": [
-    "1-215-627-3242",
-    "215-627-3242",
-    "888-442-8378"
-  ],
-  "tel_source": "https://www.ihatestevensinger.com/pages/contact",
-  "socials": [
-    "https://www.facebook.com/pages/I-Hate-Steven-Singer/136381603053426",
-    "https://www.instagram.com/stevensingerjewelers/"
-  ],
-  "building": "Jewelers Row",
-  "suite": "",
-  "trade_memberships": [
-    "Jewelers Row District"
-  ],
-  "hooks": [
-    "since-1980",
-    "gia-certified",
-    "natural",
-    "bridal"
-  ],
-  "is_diamond_trade": true,
-  "scope_reason": "Jewelers Row diamond house founded 1980 by Steven Singer (BBB lists him as President); sells GIA-certified diamond engagement rings and is listed by YP under Jewelers-Wholesale & Manufacturers. Large single-owner diamond retailer, not a chain.",
-  "drop_reason": ""
+ "business": "Steven Singer Jewelers",
+ "category_as_listed": "Jewelers-Wholesale & Manufacturers, Jewelers, Watches",
+ "phone": "215-627-3242",
+ "email": "ssj@stevensingerjewelers.com",
+ "email_source": "https://www.ihatestevensinger.com/pages/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Steven Singer",
+ "role": "Owner",
+ "contact_source": "https://jrow.org/steven-singer-jewelers/",
+ "website": "https://www.ihatestevensinger.com",
+ "address": "739 Walnut Street, Philadelphia, PA 19106",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://jrow.org/steven-singer-jewelers/",
+ "tel_numbers": [
+  "1-215-627-3242",
+  "215-627-3242",
+  "888-442-8378"
+ ],
+ "tel_source": "https://www.ihatestevensinger.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/pages/I-Hate-Steven-Singer/136381603053426",
+  "https://www.instagram.com/stevensingerjewelers/"
+ ],
+ "building": "Jewelers Row",
+ "suite": "",
+ "trade_memberships": [
+  "Jewelers Row District"
+ ],
+ "hooks": [
+  "since-1980",
+  "gia-certified",
+  "natural",
+  "bridal"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Jewelers Row diamond house founded 1980 by Steven Singer (BBB lists him as President); sells GIA-certified diamond engagement rings and is listed by YP under Jewelers-Wholesale & Manufacturers. Large single-owner diamond retailer, not a chain.",
+ "drop_reason": "",
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

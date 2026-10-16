@@ -1,47 +1,49 @@
 {
-  "business": "Associated Diamond Brokers",
-  "category_as_listed": "",
-  "phone": "215-925-3822",
-  "email": "info@associateddiamondbrokers.com",
-  "email_source": "https://jrow.org/associated-diamond-brokers/",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Alan Levin",
-  "role": "Owner",
-  "contact_source": "https://jrow.org/associated-diamond-brokers/",
-  "website": "https://associateddiamondbrokers.com",
-  "address": "707 Sansom Street, Philadelphia, PA 19106",
-  "city": "Philadelphia",
-  "state": "PA",
-  "market": "Philadelphia, PA",
-  "lead_origin": "Trade Directory",
-  "rating": "",
-  "reviews": "",
-  "source_url": "https://jrow.org/associated-diamond-brokers/",
-  "tel_numbers": [
-    "215-925-3822"
-  ],
-  "tel_source": "https://associateddiamondbrokers.com/contact-us/",
-  "socials": [
-    "https://www.facebook.com/Associated-Diamond-Brokers-194260530611063/",
-    "https://www.instagram.com/associateddiamonds/"
-  ],
-  "building": "Jewelers Row",
-  "suite": "",
-  "trade_memberships": [
-    "GIA",
-    "Jewelers Row District"
-  ],
-  "hooks": [
-    "since-1977",
-    "2nd-generation",
-    "gia-diamond-grading",
-    "any-size-or-shape",
-    "estate",
-    "manufacturer",
-    "cad-cam"
-  ],
-  "is_diamond_trade": true,
-  "scope_reason": "jrow.org: bought 1977 by Leonard Levin & son Alan (GIA-certified in diamond grading); diamonds of any size/shape, estate, CAD/CAM manufacturing.",
-  "drop_reason": ""
+ "business": "Associated Diamond Brokers",
+ "category_as_listed": "",
+ "phone": "215-925-3822",
+ "email": "info@associateddiamondbrokers.com",
+ "email_source": "https://jrow.org/associated-diamond-brokers/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Alan Levin",
+ "role": "Owner",
+ "contact_source": "https://jrow.org/associated-diamond-brokers/",
+ "website": "https://associateddiamondbrokers.com",
+ "address": "707 Sansom Street, Philadelphia, PA 19106",
+ "city": "Philadelphia",
+ "state": "PA",
+ "market": "Philadelphia, PA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://jrow.org/associated-diamond-brokers/",
+ "tel_numbers": [
+  "215-925-3822"
+ ],
+ "tel_source": "https://associateddiamondbrokers.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/Associated-Diamond-Brokers-194260530611063/",
+  "https://www.instagram.com/associateddiamonds/"
+ ],
+ "building": "Jewelers Row",
+ "suite": "",
+ "trade_memberships": [
+  "GIA",
+  "Jewelers Row District"
+ ],
+ "hooks": [
+  "since-1977",
+  "2nd-generation",
+  "gia-diamond-grading",
+  "any-size-or-shape",
+  "estate",
+  "manufacturer",
+  "cad-cam"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "jrow.org: bought 1977 by Leonard Levin & son Alan (GIA-certified in diamond grading); diamonds of any size/shape, estate, CAD/CAM manufacturing.",
+ "drop_reason": "",
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

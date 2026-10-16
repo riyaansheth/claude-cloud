@@ -39,5 +39,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Listed website is JBE Diamonds (name differs from listing): 'JBE Diamonds Inc. is one of the largest diamond trading companies in the US. We buy and sell diamonds ... since 1975', mostly buying from the public.",
- "verified": true
+ "verified": true,
+ "li_note": "no owner name or linkedin found",
+ "li_backfill": true
 }

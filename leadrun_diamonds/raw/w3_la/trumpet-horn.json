@@ -6,9 +6,9 @@
  "email_source": "https://trumpetandhorn.com/pages/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Wyler Weir",
+ "role": "Owner",
+ "contact_source": "https://trumpetandhorn.com/pages/about-us",
  "website": "https://trumpetandhorn.com",
  "address": "523 West 6th Street, Suite 741, Los Angeles, California, United States, 90014",
  "city": "Los Angeles",
@@ -39,5 +39,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Estate Jewelry (Estate Jewelry); secondary: Diamonds",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "no linkedin found; founders Jerome & Kim Heidenreich sold brand to Wyler Weir (CEO, Jack Weir & Sons) and Jack Weir",
+ "li_backfill": true
 }

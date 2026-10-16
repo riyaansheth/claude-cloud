@@ -33,5 +33,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "kgoandco.com: '\"K\" GO & CO. Import - Export Wholesale Jewelry Manufacturing Diamonds & Precious Stones, 760 Market Street Suite 1008'.",
- "verified": true
+ "verified": true,
+ "li_note": "no owner name or linkedin found",
+ "li_backfill": true
 }

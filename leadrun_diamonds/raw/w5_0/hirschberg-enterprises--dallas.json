@@ -34,5 +34,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Home page: 'Hirschberg Enterprises - a wholesale diamond company that has been proudly serving the Dallas, Texas area' for over 40 years; Charles Hirschberg is 'a renowned diamond dealer'.",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

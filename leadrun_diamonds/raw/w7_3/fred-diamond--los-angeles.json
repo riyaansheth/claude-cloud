@@ -29,5 +29,7 @@
  "drop_reason": "",
  "scope_reason": "Listed site diamondexpress.com is an unrelated auto-transport firm; Manta (via search) lists Fred Diamond as a wholesale diamond and jewelry business; YP category Diamonds-Wholesale; CA SOS shows Fred Diamond, Inc. active since 1994 at 550 S Hill St Ste 1190.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

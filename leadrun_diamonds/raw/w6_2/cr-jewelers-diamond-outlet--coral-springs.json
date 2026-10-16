@@ -13,11 +13,11 @@
  "lead_origin": "YellowPages",
  "email": "customerservice@crjewelers.com",
  "email_source": "https://www.crjewelers.com/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/donald-weinberg-b8bb408/",
+ "linkedin_source": "CR Jewelers Boca Raton Weinberg owner president jewelry chain",
+ "contact_person": "Donald Weinberg",
+ "role": "Founder",
+ "contact_source": "https://www.crjewelers.com/html/about-us.html",
  "tel_numbers": [
   "(561) 672-1409",
   "(561) 271-4622"
@@ -37,5 +37,6 @@
  "drop_reason": "",
  "scope_reason": "Site (JS-rendered; company config) names the business 'CR Jewelers Diamond Importers' with 42 years in business and lists Loose Diamonds and 'We buy Diamonds' alongside retail jewelry and cash-for-gold; corporate offices shown at 8221 Glades Road #101 Suite A3, Boca Raton (not the Coral Springs listing address).",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_backfill": true
 }
