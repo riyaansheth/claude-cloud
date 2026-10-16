@@ -1,49 +1,50 @@
 {
- "business": "Fountain City Jewelers",
- "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Watches",
- "phone": "(865) 686-0502",
- "website": "https://www.fountaincityjewelers.com/",
- "address": "2802 Essary Dr",
- "city": "Knoxville",
- "state": "TN",
- "market": "Knoxville, TN",
- "rating": "3",
- "reviews": "6",
- "source_url": "https://www.yellowpages.com/nationwide/mip/fountain-city-jewelers-10780986",
- "lead_origin": "YellowPages",
- "email": "fcjweb@fountaincityjewelers.com",
- "email_source": "https://fountaincityjewelers.com/index.aspx?Pg=Contact",
- "linkedin_url": "",
- "linkedin_source": "\"Mark Enix\" Fountain City Jewelers Knoxville LinkedIn (no /in/ URL surfaced)",
- "contact_person": "Mark Enix",
- "role": "Owner",
- "contact_source": "https://fountaincityjewelers.com/index.aspx?pg=About&SPg=Our-History",
- "tel_numbers": [
-  "(865) 686-0502"
- ],
- "tel_source": "https://www.fountaincityjewelers.com/",
- "socials": [
-  "https://www.facebook.com/FountainCityJewelers/",
-  "https://www.instagram.com/fountaincityjewelers/",
-  "https://twitter.com/fountaincityjew"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [
-  "IJO (Master IJO Jeweler)"
- ],
- "hooks": [
-  "since-1999",
-  "2nd-generation",
-  "importer",
-  "Antwerp-sourced",
-  "loose diamonds",
-  "estate jewelry",
-  "custom"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Site: 'We are a Master IJO Jeweler and a direct diamond importer, sourcing stones straight from Antwerp' with certified loose diamonds - bridal jeweler sourcing its own loose stones.",
- "verified": true,
- "enriched": true
+  "business": "Fountain City Jewelers",
+  "category_as_listed": "Diamonds-Wholesale, Diamond Buyers, Watches",
+  "phone": "(865) 686-0502",
+  "website": "https://www.fountaincityjewelers.com/",
+  "address": "2802 Essary Dr",
+  "city": "Knoxville",
+  "state": "TN",
+  "market": "Knoxville, TN",
+  "rating": "3",
+  "reviews": "6",
+  "source_url": "https://www.yellowpages.com/nationwide/mip/fountain-city-jewelers-10780986",
+  "lead_origin": "YellowPages",
+  "email": "fcjweb@fountaincityjewelers.com",
+  "email_source": "https://fountaincityjewelers.com/index.aspx?Pg=Contact",
+  "linkedin_url": "https://www.linkedin.com/in/mark-enix-791a0b41/",
+  "linkedin_source": "\"Mark Enix\" Fountain City Jewelers LinkedIn",
+  "contact_person": "Mark Enix",
+  "role": "Owner",
+  "contact_source": "https://fountaincityjewelers.com/index.aspx?pg=About&SPg=Our-History",
+  "tel_numbers": [
+    "(865) 686-0502"
+  ],
+  "tel_source": "https://www.fountaincityjewelers.com/",
+  "socials": [
+    "https://www.facebook.com/FountainCityJewelers/",
+    "https://www.instagram.com/fountaincityjewelers/",
+    "https://twitter.com/fountaincityjew"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "IJO (Master IJO Jeweler)"
+  ],
+  "hooks": [
+    "since-1999",
+    "2nd-generation",
+    "importer",
+    "Antwerp-sourced",
+    "loose diamonds",
+    "estate jewelry",
+    "custom"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Site: 'We are a Master IJO Jeweler and a direct diamond importer, sourcing stones straight from Antwerp' with certified loose diamonds - bridal jeweler sourcing its own loose stones.",
+  "verified": true,
+  "enriched": true,
+  "li_backfill": true
 }
