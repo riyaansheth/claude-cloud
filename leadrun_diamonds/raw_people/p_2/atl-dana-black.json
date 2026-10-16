@@ -1,0 +1,20 @@
+{
+ "person": "Dana Black",
+ "title": "Sales Director",
+ "company": "Star Gems, Inc.",
+ "company_website": "https://stargems.com",
+ "city": "Norcross",
+ "state": "GA",
+ "market": "Atlanta, GA",
+ "linkedin_url": "https://www.linkedin.com/in/dana-black-20aa676",
+ "linkedin_source": "Star Gems Inc Norcross diamond sales (allowed_domains linkedin.com)",
+ "company_email": "sales@stargems.com",
+ "company_phone": "(770) 394-6727",
+ "seniority": "sales",
+ "signals": [
+  "wholesale",
+  "loose-diamonds"
+ ],
+ "source_url": "https://www.linkedin.com/in/dana-black-20aa676/",
+ "is_diamond_trade": true
+}

@@ -1,0 +1,22 @@
+{
+ "person": "Ivan Solomon",
+ "title": "CEO",
+ "company": "Solomon Brothers Jewelers",
+ "company_website": "https://www.solomonbrothers.com",
+ "city": "Atlanta",
+ "state": "GA",
+ "market": "Atlanta, GA",
+ "linkedin_url": "https://www.linkedin.com/in/ivan-solomon-67458b15",
+ "linkedin_source": "\"Ivan Solomon\" \"Solomon Brothers\" LinkedIn",
+ "company_email": "",
+ "company_phone": "(404) 266-0266",
+ "seniority": "owner",
+ "signals": [
+  "founder",
+  "gia-trained-gemologist",
+  "since-1982",
+  "retail-facing"
+ ],
+ "source_url": "https://www.linkedin.com/in/ivan-solomon-67458b15/",
+ "is_diamond_trade": true
+}

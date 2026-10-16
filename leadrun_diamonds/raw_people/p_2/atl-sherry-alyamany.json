@@ -1,0 +1,20 @@
+{
+ "person": "Sherry Alyamany",
+ "title": "",
+ "company": "Solomon Brothers Jewelers",
+ "company_website": "https://www.solomonbrothers.com",
+ "city": "Atlanta",
+ "state": "GA",
+ "market": "Atlanta, GA",
+ "linkedin_url": "https://www.linkedin.com/in/sherry-alyamany-242251b6",
+ "linkedin_source": "\"Solomon Brothers\" Atlanta jewelers diamond buyer OR gemologist (allowed_domains linkedin.com)",
+ "company_email": "",
+ "company_phone": "(404) 266-0266",
+ "seniority": "other",
+ "signals": [
+  "retail-facing",
+  "title-not-shown"
+ ],
+ "source_url": "https://www.linkedin.com/in/sherry-alyamany-242251b6/",
+ "is_diamond_trade": true
+}
