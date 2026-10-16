@@ -1,0 +1,43 @@
+{
+ "business": "Gem Boutique",
+ "category_as_listed": "Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Jewelers Supplies & Findings",
+ "phone": "(717) 846-5600",
+ "website": "http://www.gemboutiquepa.com",
+ "address": "1243 E Market St",
+ "city": "York",
+ "state": "PA",
+ "market": "Lancaster, PA",
+ "rating": "5",
+ "reviews": "14",
+ "source_url": "https://www.yellowpages.com/york-pa/mip/gem-boutique-14743428",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Jin Jou Meighen",
+ "role": "Owner",
+ "contact_source": "https://gemboutiquepa.com/about-us/",
+ "tel_numbers": [
+  "(717) 846-5600",
+  "717-854-5038"
+ ],
+ "tel_source": "https://gemboutiquepa.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/GemBoutiquePA",
+  "https://www.instagram.com/gemboutiqueyorkpa"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "gia-gg"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "gemstone-only",
+ "scope_reason": "Own site: \"Jin Jou Meighen, Proprietor and GIA Graduate Gemologist\" travels to gem mining countries for colored gemstones; handcrafted retail jewelry, no loose-diamond/wholesale line stated.",
+ "verified": true,
+ "enriched": true
+}
