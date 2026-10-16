@@ -1,0 +1,19 @@
+{
+ "person": "Danny Garabet",
+ "title": "Owner",
+ "company": "Golden State Jewelry",
+ "company_website": "https://goldenstatejewelry.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/danny-garabet-79820426/",
+ "linkedin_source": "WebSearch extended: site:linkedin.com/in \"Golden State Jewelry\" OR \"Janvier\" OR \"Eighternity\" OR \"Krainz Creations\" Los Angeles (result title: Danny Garabet - Owner - Golden State Jewelry)",
+ "company_email": "sales@goldenstatejewelry.com",
+ "company_phone": "213-627-9677",
+ "seniority": "owner",
+ "signals": [
+  "bourse"
+ ],
+ "source_url": "https://www.linkedin.com/in/danny-garabet-79820426/",
+ "is_diamond_trade": true
+}

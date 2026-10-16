@@ -1,0 +1,21 @@
+{
+ "person": "Jay Yadegar",
+ "title": "Owner",
+ "company": "J & J Yadegar Diamonds",
+ "company_website": "https://yadegardiamonds.com",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "linkedin_url": "https://www.linkedin.com/in/jay-yadegar-85202810/",
+ "linkedin_source": "query: \"Jay Yadegar\" OR \"Yadegar Diamonds\" San Francisco LinkedIn | result title: Jay Yadegar - Yadegar Diamonds and Fine Jewelry",
+ "company_email": "",
+ "company_phone": "(415) 626-5035",
+ "seniority": "owner",
+ "signals": [
+  "BBB lists Jay Yadegar as owner of J&J Yadegar Diamonds, 888 Brannan St Ste 140 (SF Gift & Jewelry Center)",
+  "Listed under Diamonds Wholesale on YellowPages",
+  "GIA education per LinkedIn"
+ ],
+ "source_url": "https://www.bbb.org/us/ca/san-francisco/profile/jewelry-stores/jj-yadegar-diamonds-1116-50126",
+ "is_diamond_trade": true
+}

@@ -18,5 +18,6 @@
   "Operating status unclear (one listing shows closed)"
  ],
  "source_url": "https://jewelryjudge.net/lackey.htm",
- "is_diamond_trade": true
+ "is_diamond_trade": false,
+ "drop_reason": "appraiser (no inventory per brief kill-list); listing possibly closed"
 }

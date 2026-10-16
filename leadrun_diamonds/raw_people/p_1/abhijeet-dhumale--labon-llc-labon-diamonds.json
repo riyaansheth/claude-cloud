@@ -1,0 +1,20 @@
+{
+ "person": "Abhijeet Dhumale",
+ "title": "Sales Manager",
+ "company": "Labon LLC (Labon Diamonds)",
+ "company_website": "https://labondiamonds.com",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "linkedin_url": "https://www.linkedin.com/in/abhijeet-dhumale-38b65b24a/",
+ "linkedin_source": "WebSearch extended: site:linkedin.com/in \"Carl K. Gumpert\" OR \"Bia Million\" OR \"CVD Diamond Inc\" OR \"Labon Diamonds\" (result title: Abhijeet Dhumale - Sales Manager at Labon Diamonds; profile location New York)",
+ "company_email": "sales@labondiamonds.com",
+ "company_phone": "",
+ "seniority": "sales",
+ "signals": [
+  "bourse",
+  "lab-grown"
+ ],
+ "source_url": "https://www.linkedin.com/in/abhijeet-dhumale-38b65b24a/",
+ "is_diamond_trade": true
+}

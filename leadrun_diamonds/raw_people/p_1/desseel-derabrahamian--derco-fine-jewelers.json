@@ -1,0 +1,21 @@
+{
+ "person": "Desseel Derabrahamian",
+ "title": "Jeweler",
+ "company": "Derco Fine Jewelers",
+ "company_website": "https://dercodiamonds.com",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "linkedin_url": "https://www.linkedin.com/in/desseel-derabrahamian-527166176/",
+ "linkedin_source": "query: \"Derco Fine Jewelers\" OR \"Derco Diamonds\" LinkedIn | result title: Desseel Derabrahamian - Jeweler at Derco fine jewelers",
+ "company_email": "",
+ "company_phone": "(415) 626-7442",
+ "seniority": "other",
+ "signals": [
+  "Third-generation jeweler at family diamond-trading firm (founded 1939 trading diamonds and colored gemstones)",
+  "At Derco since 2015",
+  "888 Brannan St, SF Gift & Jewelry Center"
+ ],
+ "source_url": "https://sfgcjm.com/tenant/derco-inc/",
+ "is_diamond_trade": true
+}
