@@ -46,5 +46,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site: 'family business ... started in 1982 ... an AGS-registered supplier', 'first in the industry to introduce Hearts & Arrows diamonds to America'; affiliations DDC, WFDB, AGS, RapNet, Polygon, JBT, IDEX.",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found (several unrelated Gary W. Wright profiles)",
+ "li_backfill": true
 }
