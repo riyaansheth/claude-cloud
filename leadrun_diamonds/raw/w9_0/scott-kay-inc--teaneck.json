@@ -2,7 +2,7 @@
  "business": "Scott Kay Inc",
  "category_as_listed": "Jewelers",
  "phone": "(201) 287-0100",
- "website": "http://www.scottkay.com",
+ "website": "https://www.scottkay.com",
  "address": "780 Palisade Ave",
  "city": "Teaneck",
  "state": "NJ",
@@ -11,21 +11,28 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/teaneck-nj/mip/scott-kay-inc-26857884",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "customerservice@scottkay.com",
+ "email_source": "https://www.scottkay.com/pages/contact-scott-kay",
  "linkedin_url": "",
- "linkedin_source": "",
+ "linkedin_source": "WebSearch extended: Scott Kay Inc Teaneck president LinkedIn \u2014 only founder Scott Kay profile (died 2014, per National Jeweler) \u2014 not recorded",
  "contact_person": "",
  "role": "",
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/scottkayusa/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "bridal"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers"
+ "scope_reason": "Scott Kay Inc: bridal / diamond jewelry designer-manufacturer at 780 Palisade Ave Teaneck; brand acquired by Frederick Goldman 2015 (National Jeweler); site currently says it is being rebuilt.",
+ "verified": true,
+ "enriched": true
 }

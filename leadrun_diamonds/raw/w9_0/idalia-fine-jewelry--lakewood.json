@@ -24,8 +24,12 @@
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "wholesale",
+  "exporter"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds"
+ "scope_reason": "YP category Diamonds; Freshdi supplier profile for Idalia Jewelry at 1072 Madison Ave lists diamond earrings/jewelry/necklaces as wholesale/export products \u2014 thin evidence.",
+ "enriched": true
 }
