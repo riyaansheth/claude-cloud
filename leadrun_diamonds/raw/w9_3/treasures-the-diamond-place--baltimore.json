@@ -11,8 +11,8 @@
  "reviews": "18",
  "source_url": "https://www.yellowpages.com/baltimore-md/mip/treasures-the-diamond-place-8054317",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "support@treasuresthediamondplace.com",
+ "email_source": "https://treasuresthediamondplace.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
@@ -20,12 +20,17 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/TreasuresTDP",
+  "https://www.instagram.com/treasures.thediamondplace"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelers-Wholesale & Manufacturers, Gift Shops"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site (treasuresthediamondplace.com): \"The Perfect Place To Buy Premium Quality Gold And Diamond Jewelry\" with in-store locations and finished-jewelry catalog - retail-only.",
+ "verified": true,
+ "enriched": true
 }

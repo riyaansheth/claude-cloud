@@ -1,24 +1,32 @@
 {
  "category_as_listed": "",
- "email": "",
- "email_source": "",
- "linkedin_url": "https://www.linkedin.com/in/nizam-peters-504a5728/",
- "linkedin_source": "WebSearch: American Institute of Diamond Cutting Deerfield Beach owner LinkedIn",
+ "email": "nizam@diamondschool.com",
+ "email_source": "https://diamondschool.com/",
+ "linkedin_url": "https://www.linkedin.com/in/nizam-peters-504a5728",
+ "linkedin_source": "https://diamondschool.com/ (LinkedIn link in the business's own site header/footer)",
  "contact_person": "Nizam Peters",
  "role": "Founder",
- "contact_source": "https://www.crunchbase.com/organization/american-institute-of-diamond-cutting",
+ "contact_source": "https://diamondschool.com/founder-and-faculty-information/",
  "rating": "",
  "reviews": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(954) 574-0833"
+ ],
+ "tel_source": "https://diamondschool.com/",
+ "socials": [
+  "https://www.linkedin.com/in/nizam-peters-504a5728"
+ ],
  "building": "",
  "suite": "#202",
  "trade_memberships": [],
  "hooks": [
+  "43-years",
+  "colored-diamonds",
+  "consultation",
   "cutter",
   "importer",
-  "loose-diamonds"
+  "loose-diamonds",
+  "rough-diamonds"
  ],
  "drop_reason": "",
  "business": "American Institute of Diamond Cutting, Inc.",
@@ -31,5 +39,8 @@
  "lead_origin": "LinkedIn",
  "source_url": "https://www.crunchbase.com/organization/american-institute-of-diamond-cutting",
  "is_diamond_trade": true,
- "scope_reason": "diamondschool.com (search summary): imports rough diamonds, cuts/polishes at private US factory, sells loose diamonds at wholesale prices"
+ "scope_reason": "Own site (diamondschool.com): \"We provide services in cutting and polishing rough diamonds, modernize older cuts, and recutting chipped and broken diamonds\" and \"Polished diamonds are available for purchase\" - diamond cutter/rough evaluator plus cutting school.",
+ "verified": true,
+ "note_w9": "Site also lists diamondcutting@att.net (general). Founder page: 'MR. NIZAM PETERS FOUNDER, DIRECTOR, SENIOR INSTRUCTOR'.",
+ "enriched": true
 }

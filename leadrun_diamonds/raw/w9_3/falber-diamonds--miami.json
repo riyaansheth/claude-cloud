@@ -11,21 +11,32 @@
  "reviews": "19",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/falber-diamonds-451076085",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "Max@dvgdiamonds.com",
+ "email_source": "https://www.dvgdiamonds.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/maximo-quinones-33686b17/",
+ "linkedin_source": "WebSearch extended: \"Maximo Quinones\" DVG Diamonds Miami LinkedIn (result title \"Maximo Quinones - DVG Diamonds\")",
+ "contact_person": "Maximo Quinones",
+ "role": "Manager",
+ "contact_source": "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=DVGDIAMONDSJEWELRY+L170002614350&aggregateId=flal-l17000261435-bdad49c0-67aa-4103-b574-52d1e9aa040e&searchTerm=D.V.G.%2C+LLC&listNameOrder=DVG+L030000504900",
+ "tel_numbers": [
+  "(305) 502-8782"
+ ],
+ "tel_source": "https://www.dvgdiamonds.com/contact",
+ "socials": [
+  "http://www.facebook.com/dvgdiamonds",
+  "https://instagram.com/dvgdiamonds"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "seybold-district",
+  "wholesale"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "Listed website is DVG Diamonds (dvgdiamonds.com): \"Your Trusted Source of Wholesale Diamonds & Engagement Rings\", 22 NE 1st St Ste 201 Miami - wholesale diamond dealer; link between Falber Diamonds name and DVG site is from the YP listing only.",
+ "verified": true,
+ "note_w9": "Sunbiz DVG Diamonds & Jewelry LLC lists MGR QUINONES, MAXIMO (search summary). Also LinkedIn https://www.linkedin.com/in/jose-quinones-34b738b/ titled 'jose quinones - Owner, dvg diamonds'. 1stDibs/trademark tie Falber Diamonds to Y. Ciliberti Diamonds, Inc. (unconfirmed).",
+ "enriched": true
 }

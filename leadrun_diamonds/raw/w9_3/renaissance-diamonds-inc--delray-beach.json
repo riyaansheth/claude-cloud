@@ -3,7 +3,7 @@
  "category_as_listed": "Jewelers, Jewelers-Wholesale & Manufacturers",
  "phone": "(561) 496-7044",
  "website": "http://renaissancediamonds.com",
- "address": "9799 Savona Winds Dr",
+ "address": "72 SE 6th Ave Suite #K",
  "city": "Delray Beach",
  "state": "FL",
  "market": "Delray Beach, FL",
@@ -11,21 +11,35 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/delray-beach-fl/mip/renaissance-diamonds-inc-22739031",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "Support@RenaissanceDiamonds.com",
+ "email_source": "https://renaissancediamonds.com/",
+ "linkedin_url": "https://www.linkedin.com/in/neil-koppel-4657ab7/",
+ "linkedin_source": "WebSearch extended: \"Neil Koppel\" Renaissance Diamonds LinkedIn (result title \"Neil Koppel - Renaissance Diamonds Corp.\")",
+ "contact_person": "Neil Koppel",
+ "role": "Founder",
+ "contact_source": "https://renaissancediamonds.com/about-us/",
+ "tel_numbers": [
+  "+1.888.968.4877"
+ ],
+ "tel_source": "https://renaissancediamonds.com/about-us/",
+ "socials": [
+  "https://www.facebook.com/RenaissanceDiamonds/",
+  "https://www.instagram.com/renaissancediamonds/",
+  "https://x.com/labgrowndiamond"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Suite #K",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "fancy-color",
+  "gia-igi-certified",
+  "lab-grown",
+  "manufacturer",
+  "since-1990s"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "Own site (renaissancediamonds.com): \"33 Years Perfecting Lab-Grown Diamonds For the Trade\" and About page cites U.S.-based manufacturing and serving \"a wholesale partner\" - lab-grown diamond producer/distributor.",
+ "verified": true,
+ "enriched": true
 }

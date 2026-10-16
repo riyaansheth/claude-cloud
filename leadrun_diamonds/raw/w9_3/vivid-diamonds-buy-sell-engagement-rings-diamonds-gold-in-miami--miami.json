@@ -11,21 +11,32 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/vivid-diamonds-buy-sell-engagement-rings-diamonds-gold-in-miami-578645104",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "info@vividdiamonds.com",
+ "email_source": "https://vividdiamonds.com/",
+ "linkedin_url": "https://www.linkedin.com/in/alon-ruschin-71248648/",
+ "linkedin_source": "WebSearch extended: \"Alon Ruschin\" Vivid Diamonds LinkedIn (result title \"Alon Ruschin - Vivid Diamonds & Jewelry\")",
+ "contact_person": "Alon Ruschin",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/fl/miami/profile/diamond/vivid-diamonds-inc-0633-90064671",
+ "tel_numbers": [
+  "+1-305-722-2753"
+ ],
+ "tel_source": "https://vividdiamonds.com/",
+ "socials": [
+  "https://facebook.com/vividdiamonds",
+  "https://instagram.com/vividdiamonds"
+ ],
  "building": "",
  "suite": "Ste 905",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "estate-buyer",
+  "investment-grade",
+  "since-2010"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Jewelry Engravers"
+ "scope_reason": "Own site (vividdiamonds.com): \"hand-selected, investment-grade diamonds and bespoke fine jewelry, curated by Alon Ruschin... over two decades of expertise in diamonds\" plus buying of diamonds/estate jewelry - diamond specialist and estate-diamond buyer (borderline: consumer-facing).",
+ "verified": true,
+ "enriched": true
 }

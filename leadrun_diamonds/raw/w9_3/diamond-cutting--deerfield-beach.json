@@ -11,21 +11,34 @@
  "reviews": "46",
  "source_url": "https://www.yellowpages.com/deerfield-beach-fl/mip/diamond-cutting-462417862",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "nizam@diamondschool.com",
+ "email_source": "https://diamondschool.com/",
+ "linkedin_url": "https://www.linkedin.com/in/nizam-peters-504a5728",
+ "linkedin_source": "https://diamondschool.com/ (LinkedIn link in the business's own site header/footer)",
+ "contact_person": "Nizam Peters",
+ "role": "Founder",
+ "contact_source": "https://diamondschool.com/founder-and-faculty-information/",
+ "tel_numbers": [
+  "(954) 574-0833"
+ ],
+ "tel_source": "https://diamondschool.com/",
+ "socials": [
+  "https://www.linkedin.com/in/nizam-peters-504a5728"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "43-years",
+  "colored-diamonds",
+  "consultation",
+  "cutter",
+  "rough-diamonds"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Cutters"
+ "scope_reason": "Own site (diamondschool.com): \"We provide services in cutting and polishing rough diamonds, modernize older cuts, and recutting chipped and broken diamonds\" and \"Polished diamonds are available for purchase\" - diamond cutter/rough evaluator plus cutting school.",
+ "verified": true,
+ "note_w9": "Site also lists diamondcutting@att.net (general). Founder page: 'MR. NIZAM PETERS FOUNDER, DIRECTOR, SENIOR INSTRUCTOR'.",
+ "enriched": true
 }

@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Diamonds, Jewelers-Wholesale & Manufacturers"
+ "scope_reason": "unverified: site unreachable - bermansjewelers.com now serves an unrelated SEO-spam WordPress page ('hicksindustries'); gmail address on it is not the business's",
+ "verified": false,
+ "enriched": true
 }

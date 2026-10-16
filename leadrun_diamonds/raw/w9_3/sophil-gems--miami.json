@@ -11,21 +11,26 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/miami-fl/mip/sophil-gems-8895671",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@sophil.com",
+ "email_source": "https://www.sophil.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(954) 629-2269",
+  "954 401 8332"
+ ],
+ "tel_source": "https://www.sophil.com/contact-us",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site (sophil.com): \"Exquisite Personalized Fine Jewelry\" - Sophie and Philippe design custom pieces from a Fort Lauderdale salon (2410 N Federal Hwy); custom retail jeweler, no wholesale/loose-diamond trade stated.",
+ "verified": true,
+ "enriched": true
 }
