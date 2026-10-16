@@ -14,10 +14,10 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "WebSearch extended: \"Ramesh Jain\" Genuine Gems Diamonds Fort Lee LinkedIn \u2014 no personal profile found",
+ "contact_person": "Ramesh Jain",
+ "role": "President",
+ "contact_source": "https://www.dnb.com/business-directory/company-profiles.genuine_gems_corporation.8d0829e54bc1d1bd32e4da275fb63b00.html (via WebSearch snippet)",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "D&B: Genuine Gems Corporation dba Genuine Gems Diamonds, 2125 Center Ave Fort Lee; YP Jewelers-Wholesale & Manufacturers. genuinegems.com unreachable (thin evidence).",
+ "enriched": true
 }

@@ -14,18 +14,28 @@
  "email": "",
  "email_source": "",
  "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_source": "WebSearch extended: David So Solasfera Light Masters LinkedIn \u2014 no personal profile surfaced",
+ "contact_person": "David So",
+ "role": "Founder",
+ "contact_source": "http://www.solasfera.com/discover/the-solasfera-story/about-david-so",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
- "hooks": [],
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "3rd-generation",
+  "gia-gg",
+  "manufacturer",
+  "patented-cut",
+  "solasfera"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamond Buyers"
+ "scope_reason": "Site: Light Masters Diamond Group (Solasfera) \u2014 patented Solasfera round brilliant cut; David So, 3rd-generation jeweler, GIA graduate; \"high performance diamond and fine jewelry manufacturing company\".",
+ "verified": true,
+ "enriched": true
 }
