@@ -9,7 +9,8 @@ BRANCHES=(leadrun/worker-1 leadrun/worker-2 leadrun/worker-3 leadrun/worker-4 le
           leadrun/r5-0 leadrun/r5-1 leadrun/r5-2 leadrun/r5-3 leadrun/r5-4
           leadrun/people-0 leadrun/people-1 leadrun/people-2 leadrun/people-3
           leadrun/li-0 leadrun/li-1 leadrun/li-2 leadrun/li-3
-          leadrun/r6-0 leadrun/r6-1 leadrun/r6-2 leadrun/r6-3 leadrun/r6-4)
+          leadrun/r6-0 leadrun/r6-1 leadrun/r6-2 leadrun/r6-3 leadrun/r6-4 \
+          leadrun/r7-0 leadrun/r7-1 leadrun/r7-2 leadrun/r7-3 leadrun/r7-4)
 for b in "${BRANCHES[@]}"; do
   if git fetch -q origin "$b" 2>/dev/null; then
     # only the files this worker itself changed since it forked — never its stale copies of others' files
