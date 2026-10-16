@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (vermadiamonds.com shows 'Squarespace - Website Expired'). YP categories: Diamond Buyers, Watches, Diamonds.",
- "enriched": true
+ "enriched": true,
+ "li_note": "pass2: no owner name found (vermadiamonds.com 404; no indexed Verma Diamond Buyers in Greenwich CT)",
+ "li_backfill": true
 }

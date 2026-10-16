@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: YP website link points to an unrelated domain (gcalusa.com, GCAL gem lab)",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found for Iselin NJ office; KGK Group leadership (Kothari family) is HQ-level, not confirmed for US entity; listed website gcalusa.com is GCAL (separate NYC grading lab), not KGK",
+ "li_backfill": true
 }

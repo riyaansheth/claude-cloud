@@ -6,9 +6,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Samir Sheth",
+ "role": "CEO",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/mirakle-gems-inc",
  "website": "https://www.miraklegems.com",
  "address": "550 S. Hill Street, Suite 1042, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -34,6 +34,6 @@
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Diamonds. Part of the diamond industry for the past 35 years.  Specializing in commercial white, natural fancy colors & treated fancy colors, unique shapes, salt & pepper, champagne colors etc.)",
  "drop_reason": "",
- "li_note": "owner not found; linkedin search not run (web search budget exhausted)",
+ "li_note": "pass2: Samir Sheth listed as CEO/CFO/Director (CA filing via bizprofile; also registered agent on opencorporates us_ca/5795969); a linkedin.com/in/samir-sheth-34a720105 profile surfaced but lists MSN Investments, not tied to Mirakle Gems - not recorded",
  "li_backfill": true
 }

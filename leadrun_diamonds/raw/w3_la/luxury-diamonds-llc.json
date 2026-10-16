@@ -33,5 +33,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (loose diamonds from melee up to 0.50 pointer in vs2 to I-1 goods,gia)",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "pass2: no owner name found (site returned 429; searches found only unrelated Luxury Diamonds businesses)",
+ "li_backfill": true
 }

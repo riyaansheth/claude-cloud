@@ -32,5 +32,7 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Jewelry (Diamonds and jewelry.); secondary: Diamonds/ Manufacturer",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "pass2: no owner name found (simrancollection.com is a coming-soon placeholder; no registry/press hits)",
+ "li_backfill": true
 }

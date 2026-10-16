@@ -28,5 +28,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (diamondexchangebaltimore.com no response); Cockeysville MD is outside the Lancaster market",
- "verified": false
+ "verified": false,
+ "li_note": "pass2: no owner name found; listed site diamondexchangebaltimore.com does not resolve; only matching Diamond Exchange found is a diamond buyer at 11222 York Rd Cockeysville MD (not Lancaster PA)",
+ "li_backfill": true
 }
