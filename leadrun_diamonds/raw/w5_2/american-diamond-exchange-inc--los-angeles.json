@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (listed site adexnet.com redirects to American Diamond Exchange of New Haven, Connecticut (203 number), not this Los Angeles listing)",
- "verified": false
+ "verified": false,
+ "li_backfill": true
 }

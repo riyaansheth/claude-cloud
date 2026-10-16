@@ -13,11 +13,11 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/adreena-barmakian-979b8b16/",
+ "linkedin_source": "\"Adreena Barmakian\" Barmakian Jewelers LinkedIn",
+ "contact_person": "Adreena Barmakian",
+ "role": "Owner",
+ "contact_source": "https://prospeo.io/c/barmakian-jewelers-email-format",
  "tel_numbers": [
   "617-227-3724",
   "508-872-5454",
@@ -44,5 +44,6 @@
  "drop_reason": "",
  "scope_reason": "Family jeweler since 1910 with three New England showrooms that sells loose natural and loose lab-grown diamonds and designs rings \"around your personally selected diamond\"; borderline (also designer brands and Swiss watches, buys diamonds from large suppliers).",
  "verified": true,
- "dup_of": "raw/yp/barmakian-brothers--boston.json"
+ "dup_of": "raw/yp/barmakian-brothers--boston.json",
+ "li_backfill": true
 }

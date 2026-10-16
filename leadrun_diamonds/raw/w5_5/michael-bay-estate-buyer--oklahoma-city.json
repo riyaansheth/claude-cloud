@@ -29,5 +29,6 @@
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (cash4goldokc.com resets every connection). eBay seller \"Michael Bay's Jewelry\" (Oklahoma City) describes itself as a wholesaler of fine diamond jewelry, certified loose natural diamonds, watches and estate pieces; listing domain suggests gold buying — borderline.",
  "verified": false,
- "enriched": true
+ "enriched": true,
+ "li_backfill": true
 }

@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (no business website; listing links to an OpenCorporates record for GEMS & GIFTS, INC., 606 S Hill St Ste 1105, status \"Suspended Ftb/Sos\")",
- "verified": false
+ "verified": false,
+ "li_backfill": true
 }

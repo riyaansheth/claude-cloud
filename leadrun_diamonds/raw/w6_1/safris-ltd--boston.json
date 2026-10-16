@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: listed website safariltd.com is an unrelated toy company",
- "verified": false
+ "verified": false,
+ "li_backfill": true
 }

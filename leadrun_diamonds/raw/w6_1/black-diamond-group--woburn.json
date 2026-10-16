@@ -28,5 +28,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "unverified: site unreachable (bdboots.com is an empty boots page, not the business)",
- "verified": false
+ "verified": false,
+ "li_backfill": true
 }
