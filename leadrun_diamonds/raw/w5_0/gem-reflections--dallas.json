@@ -40,5 +40,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "About page: family business in the Dallas World Trade Center for 25+ years offering 'gems and fine jewelry to stores as well as private clientele', custom CAD/wax design, and buying diamonds 0.50 ct and above.",
- "verified": true
+ "verified": true,
+ "li_note": "no owner name found; no linkedin found",
+ "li_backfill": true
 }

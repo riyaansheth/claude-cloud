@@ -6,9 +6,9 @@
  "email_source": "https://janvierla.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Tanya Parikh",
+ "role": "Owner",
+ "contact_source": "https://news.centurionjewelry.com/articles/detail/jewelers-24-karat-club-to-honor-susan-jacques-omi-nagpal-and-tanya-parikh",
  "website": "https://janvierla.com",
  "address": "550 South Hill Street, Suite 1490, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -34,5 +34,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Jewelry (Specializing in custom engagement rings); secondary: Diamonds",
- "drop_reason": ""
+ "drop_reason": "",
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

@@ -44,5 +44,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site: \"Dalumi specializes in manufacturing, polishing, and marketing finest quality natural diamonds\" and \"Since 1993, we've been a De Beers Sightholder\".",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found; directories (rocketreach.co/biana-catapano-email_850876607) list her as CEO of Dalumi Group",
+ "li_backfill": true
 }

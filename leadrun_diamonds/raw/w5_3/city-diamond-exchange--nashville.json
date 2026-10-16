@@ -36,5 +36,7 @@
  "drop_reason": "",
  "scope_reason": "Own site: 'CDE has traded and sold millions of dollars worth of polished and rough diamonds to jewelry stores across the U.S, Europe, and Israel' and buys 'from diamond dealers, gold stores, pawn shops, and the public' - borderline: also markets gold buying, Rolex and pawn.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found; directory listings (dandb) name Yale Chotin as president",
+ "li_backfill": true
 }

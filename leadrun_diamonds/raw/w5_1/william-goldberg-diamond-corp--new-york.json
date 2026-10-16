@@ -46,5 +46,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Diamantaire/cutter: \"In 1973, when a burgeoning diamantaire named William Goldberg established William Goldberg Diamond Corporation\"; family cuts major stones (Ashoka) in its workshop.",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found; Bloomberg lists Saul Goldberg as CEO of William Goldberg Diamond Corp (bloomberg.com/profile/person/25550157)",
+ "li_backfill": true
 }

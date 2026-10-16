@@ -44,5 +44,7 @@
  "drop_reason": "",
  "scope_reason": "Site: 'Northwest Diamonds is a family owned diamond wholesaler that has been in Portland since 1990 ... we have handled thousands of GIA certified, loose diamonds'.",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

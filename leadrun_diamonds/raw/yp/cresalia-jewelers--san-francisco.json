@@ -38,5 +38,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Diamonds page: 'Cresalia Jewelers is a direct diamond importer utilizing the world's largest diamond centers. We maintain a vast selection of diamonds' and imports Canadian diamonds; family has been 'finding, designing, manufacturing, and selling fine jewelry' for six generations.",
- "verified": true
+ "verified": true,
+ "li_note": "no linkedin found",
+ "li_backfill": true
 }

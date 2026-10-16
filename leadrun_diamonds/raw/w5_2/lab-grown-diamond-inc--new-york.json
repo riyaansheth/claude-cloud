@@ -36,5 +36,7 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Listed website is Imperial Diamonds: 'MINING | WHOLESALE | RETAIL | FINANCIAL SERVICES SINCE 1985'; 'As wholesalers ... We produced an exclusive line of lab-grown diamonds'.",
- "verified": true
+ "verified": true,
+ "li_note": "only first names found (Pankaj & Raj, per faire.com); no linkedin found",
+ "li_backfill": true
 }
