@@ -1,0 +1,44 @@
+{
+  "business": "Adamas Fine Jewelry",
+  "category_as_listed": "",
+  "phone": "(617) 558-8899",
+  "email": "adamas@adamasfinejewelry.com",
+  "email_source": "https://www.adamasfinejewelry.com/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Anto Aboyan",
+  "role": "Owner",
+  "contact_source": "https://www.adamasfinejewelry.com/about/",
+  "website": "https://www.adamasfinejewelry.com",
+  "address": "22 Lincoln St",
+  "city": "Newton",
+  "state": "MA",
+  "market": "Newton, MA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.adamasfinejewelry.com/about/",
+  "tel_numbers": [
+    "(617) 558-8899"
+  ],
+  "tel_source": "https://www.adamasfinejewelry.com/contact/",
+  "socials": [
+    "https://www.facebook.com/profile.php?id=100063655086213",
+    "https://www.instagram.com/adamasfinejewelryma/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1997",
+    "manufacturer",
+    "on-site-casting",
+    "custom-bridal",
+    "family-owned"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Manufacturing jeweler: co-owner/master craftsman Anto Aboyan (ex-Boston Jewelers Building bench jeweler) hand-casts custom engagement rings in an on-site workshop and per its blog hand-selects every diamond. Co-owner Veronica Sagherian. No LinkedIn found.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

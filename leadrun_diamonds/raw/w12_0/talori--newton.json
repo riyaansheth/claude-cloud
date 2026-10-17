@@ -1,0 +1,44 @@
+{
+  "business": "Talori",
+  "category_as_listed": "",
+  "phone": "(617) 916-9462",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://talori.com",
+  "address": "51 Union St",
+  "city": "Newton",
+  "state": "MA",
+  "market": "Newton, MA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://talori.com/pages/about-us",
+  "tel_numbers": [
+    "(617) 916-9462"
+  ],
+  "tel_source": "https://talori.com/pages/about-us",
+  "socials": [
+    "https://www.facebook.com/TaloriJewelry",
+    "https://www.instagram.com/talori_jewelry"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "family-owned",
+    "3rd-generation",
+    "diamond-setting",
+    "casting",
+    "custom-design"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Talori Inc. says 'We are goldsmiths and professional craftsman in diamond setting and casting design' \u2014 custom bridal maker; owner named only as 'Ani' on About page (no last name, so no LinkedIn search). Address from Yelp/search results.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}
