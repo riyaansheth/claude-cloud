@@ -1,0 +1,38 @@
+{
+ "business": "New York Diamond Center",
+ "category_as_listed": "Diamond Buyers, Gold, Silver & Platinum Buyers & Dealers, Jewelers",
+ "phone": "(727) 724-3311",
+ "website": "https://shopnydc.com",
+ "address": "28540 Us Highway 19 N",
+ "city": "Clearwater",
+ "state": "FL",
+ "market": "Clearwater, FL",
+ "rating": "5",
+ "reviews": "1",
+ "source_url": "https://www.yellowpages.com/clearwater-fl/mip/new-york-diamond-center-497845361",
+ "lead_origin": "YellowPages",
+ "email": "Info@newyorkdiamondcenter.com",
+ "email_source": "https://shopnydc.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Andy Yasparro",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/fl/clearwater/profile/jewelry-stores/new-york-diamond-center-0653-6001526",
+ "tel_numbers": [
+  "7277243311"
+ ],
+ "tel_source": "https://shopnydc.com/",
+ "socials": [
+  "https://facebook.com/NewYorkDiamondCenter",
+  "https://instagram.com/newyorkdiamondcenter/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Retail jewelry store (custom design, repairs, appraisals) that buys gold/diamonds from the public; no wholesale/loose-diamond trade stated. Name per BBB \"Andy Yasparro, President\" (D&B spells Andrew Yasbarro); no LinkedIn found.",
+ "verified": true,
+ "enriched": true
+}
