@@ -11,21 +11,30 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/brooklyn-ny/mip/better-jewelry-545681557",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "customerservice@betterjewelry.com",
+ "email_source": "https://www.betterjewelry.com/pages/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(646) 725-0885"
+ ],
+ "tel_source": "https://www.betterjewelry.com/pages/contact-us",
+ "socials": [
+  "https://www.facebook.com/betterjewelry/",
+  "https://www.instagram.com/betterjewelry/",
+  "https://twitter.com/betterjewelry",
+  "https://ru.pinterest.com/betterjewelryny/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site is an online store for West Indian bangles (\"All bangles are made to order. Free regular shipping in the USA\") - finished jewelry retail, no diamond trade.",
+ "verified": true,
+ "enriched": true
 }

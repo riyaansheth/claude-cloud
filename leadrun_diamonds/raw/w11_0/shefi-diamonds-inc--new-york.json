@@ -2,7 +2,7 @@
  "business": "Shefi Diamonds Inc",
  "category_as_listed": "Diamonds, Jewelers-Wholesale & Manufacturers, Jewelers",
  "phone": "(212) 391-1482",
- "website": "https://www.bluestardiamonds.com",
+ "website": "https://shefidiamonds.com",
  "address": "10 W 46th St",
  "city": "New York",
  "state": "NY",
@@ -15,17 +15,30 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_person": "Sanjay Hirawat",
+ "role": "President",
+ "contact_source": "https://instoremag.com/shefi-celebrates-50-years-of-legacy/",
+ "tel_numbers": [
+  "(212) 391-1482"
+ ],
+ "tel_source": "https://shefidiamonds.com/",
+ "socials": [
+  "https://www.facebook.com/shefidiamond",
+  "https://www.instagram.com/shefidiamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1975",
+  "manufacturer",
+  "loose-diamond-supplier",
+  "bridal",
+  "to-the-trade"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Listed site bluestardiamonds.com is an unrelated Mumbai firm; real site shefidiamonds.com (shows (212) 391-1482) says \"Founded in 1975, SHEFI began as a premier loose diamond supplier and has grown into a leading fine jewelry brand\" - bridal & fashion jewelry manufacturer with a retailer portal.",
+ "verified": true,
+ "enriched": true
 }

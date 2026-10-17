@@ -11,21 +11,25 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/brooklyn-ny/mip/united-wholesale-jewelers-inc-15586096",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "bestwebuygoldbrooklyn@gmail.com",
+ "email_source": "https://bestwebuygoldbrooklyn.wordpress.com/contact-2/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(718) 621-4470"
+ ],
+ "tel_source": "https://bestwebuygoldbrooklyn.wordpress.com/contact-2/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers"
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Own site (R&A Wholesale Jewelers, 2201 59th St, same phone) is a gold-buying page: \"CASH FOR GOLD NOW! WE BUY GOLD!\".",
+ "verified": true,
+ "enriched": true
 }

@@ -18,14 +18,18 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "646-755-3981"
+ ],
+ "tel_source": "https://selldiamondsnyc.com/contact-us/",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds"
+ "is_diamond_trade": false,
+ "drop_reason": "cash-for-gold",
+ "scope_reason": "Consumer buy-back shop: \"Get Cash for Diamonds\" / \"Sell Gold, Sell Silver, Sell Coins\" at 55 W 47th St - cash-for-jewelry buyer, not a trade supplier.",
+ "verified": true,
+ "enriched": true
 }

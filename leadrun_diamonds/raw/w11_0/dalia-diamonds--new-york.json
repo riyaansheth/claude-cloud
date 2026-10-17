@@ -11,21 +11,31 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/dalia-diamonds-480943787",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "sales@daliadiamonds.com",
+ "email_source": "https://daliadiamonds.com/index.php?route=information/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(212)781-1777"
+ ],
+ "tel_source": "https://daliadiamonds.com/index.php?route=information/contact",
  "socials": [],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "3rd-generation",
+  "manufacturer",
+  "certified-diamonds",
+  "colored-diamonds",
+  "diamond-district"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds, Jewelers, Diamond Buyers"
+ "scope_reason": "Site: \"Diamonds direct from Manufacturer in NY Diamond District\"; About: \"family has been actively involved in the Jewelry trade for three generations ... We manufacture our own Jewelry\" with certified diamonds (69 W 47th St).",
+ "verified": true,
+ "enriched": true
 }

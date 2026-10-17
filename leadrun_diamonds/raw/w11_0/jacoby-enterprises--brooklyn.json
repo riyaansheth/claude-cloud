@@ -11,21 +11,33 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/brooklyn-ny/mip/jacoby-enterprises-29090447",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "email": "sales@jacobygems.com",
+ "email_source": "https://www.jacobygems.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/abraham-n-jacobowitz-7719349/",
+ "linkedin_source": "\"Abraham Jacobowitz\" Jacoby Gems LinkedIn",
+ "contact_person": "Abraham Jacobowitz",
+ "role": "Featured On About Page",
+ "contact_source": "https://www.jacobygems.com/about",
+ "tel_numbers": [
+  "718.435.0289"
+ ],
+ "tel_source": "https://www.jacobygems.com/contact",
+ "socials": [
+  "https://www.facebook.com/jacobygemstones",
+  "https://instagram.com/jacobygems"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers"
+ "hooks": [
+  "importer",
+  "manufacturer",
+  "gemstones",
+  "wholesale"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "gemstone-only",
+ "scope_reason": "Site: \"Jacoby Gems is a direct importer and manufacturer of genuine, semi-precious and synthetic gemstones\" - colored stones (plus CZ/synthetics), no diamond line.",
+ "verified": true,
+ "enriched": true
 }

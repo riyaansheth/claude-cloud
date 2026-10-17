@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds, Jewelers"
+ "scope_reason": "unverified: listed website hobokengoldanddiamonds.com is Hoboken Gold & Diamond at \"115 Washington St. Hoboken, NJ\" with (201) 659-0486 and no Brooklyn location mentioned - a mismatched site, so its emails/phones are not attributed to this Brooklyn listing.",
+ "verified": false,
+ "enriched": true
 }

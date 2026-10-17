@@ -11,21 +11,35 @@
  "reviews": "64",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/ultimate-diamond-co-455663817",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "hello@ultimatediamond.com",
+ "email_source": "https://www.ultimatediamond.com/our-story",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "646-366-8018",
+  "+16463668018"
+ ],
+ "tel_source": "https://www.ultimatediamond.com/contact",
+ "socials": [
+  "https://www.instagram.com/ultimatediamondco"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "60-years",
+  "family-owned",
+  "natural",
+  "lab-grown",
+  "supplier-to-retailers",
+  "diamond-district"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds, Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Site: \"For 60 years we've provided natural and lab-grown diamonds to the world's largest retailers and third-party platforms\" - Diamond District source now also selling direct (19 W 47th St).",
+ "verified": true,
+ "enriched": true
 }

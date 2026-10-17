@@ -11,21 +11,37 @@
  "reviews": "12",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/sea-wave-diamonds-20840863",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@seawavediamonds.com",
+ "email_source": "https://seawavediamonds.com/pages/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(212) 730-8446",
+  "(212) 730-8618"
+ ],
+ "tel_source": "https://seawavediamonds.com/pages/about-us",
+ "socials": [
+  "https://www.facebook.com/SeaWaveDiamondsJewelry/",
+  "https://www.instagram.com/seawavediamonds/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "30-years",
+  "family-owned",
+  "bridal",
+  "custom",
+  "GIA-graded",
+  "lab-grown",
+  "diamond-district"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds, Jewelers-Wholesale & Manufacturers, Watches"
+ "scope_reason": "Site: \"family-owned NYC studio with 30+ years of crafting bridal and bespoke jewelry using clearly labeled GIA-graded diamonds\" - Diamond District (5 W 47th St) bridal/custom workshop; also sells watches.",
+ "verified": true,
+ "enriched": true
 }

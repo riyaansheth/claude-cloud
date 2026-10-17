@@ -24,8 +24,16 @@
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "since-1985",
+  "wholesale",
+  "mining",
+  "lab-grown",
+  "family-business"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds, Jewelers, Diamonds-Wholesale"
+ "scope_reason": "Site: \"MINING | WHOLESALE | RETAIL | FINANCIAL SERVICES SINCE 1985\"; About: \"As wholesalers ... We entered the mining business ... We produced an exclusive line of lab-grown diamonds\".",
+ "verified": true,
+ "enriched": true
 }

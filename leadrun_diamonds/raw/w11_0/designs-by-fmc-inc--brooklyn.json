@@ -24,8 +24,13 @@
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers"
+ "hooks": [
+  "since-1976",
+  "manufacturer"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "costume-fashion",
+ "scope_reason": "Site: \"manufacturing & wholesale distribution of jewelry, precious stones and costume jewelry\" with \"highly affordable\" collections drop-shipped to retailers - no diamond line mentioned (costume/fashion manufacturer).",
+ "verified": true,
+ "enriched": true
 }
