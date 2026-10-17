@@ -1,0 +1,44 @@
+{
+ "business": "Gordon James Fine Diamonds",
+ "category_as_listed": "Jewelry Stores",
+ "phone": "425-777-4451",
+ "email": "Gordon@GordonJamesDiamonds.com",
+ "email_source": "https://www.gordonjamesdiamonds.com/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Gordon Raine",
+ "role": "Owner",
+ "contact_source": "https://www.gordonjamesdiamonds.com/bio",
+ "website": "https://www.gordonjamesdiamonds.com",
+ "address": "10133 Main Street",
+ "city": "Bellevue",
+ "state": "WA",
+ "market": "Bellevue, WA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.gordonjamesdiamonds.com/contact",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "http://instagram.com/gordonjamesdiamonds",
+  "https://www.facebook.com/pages/Gordon-James-Diamonds-Now-Open-in-Bellevue/352649111486885"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "gia-gg",
+  "since-1975",
+  "wholesale-loose-diamonds",
+  "diamantaire",
+  "family-business"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Bio: Gordon Raine, GIA Graduate Gemologist, 'gem dealer and diamantaire'; bought Amcut Diamond Company (regional diamond wholesaler) in 1975 and supplied wholesale loose diamonds to stores nationally. Second address on contact page: matt@GordonJamesDiamonds.com (son Matthew).",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

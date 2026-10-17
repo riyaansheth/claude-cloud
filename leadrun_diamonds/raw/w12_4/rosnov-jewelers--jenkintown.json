@@ -1,0 +1,45 @@
+{
+ "business": "Rosnov Jewelers",
+ "category_as_listed": "Jewelry Stores",
+ "phone": "215-885-4218",
+ "email": "info@rosnov.com",
+ "email_source": "https://www.rosnov.com/",
+ "linkedin_url": "https://www.linkedin.com/in/scott-rosnov-9b675149/",
+ "linkedin_source": "WebSearch extended: \"Scott Rosnov\" OR \"David Rosnov\" Rosnov Jewelers LinkedIn",
+ "contact_person": "Scott Rosnov",
+ "role": "Partner",
+ "contact_source": "https://www.rosnov.com/about",
+ "website": "https://www.rosnov.com",
+ "address": "320 York Road",
+ "city": "Jenkintown",
+ "state": "PA",
+ "market": "Jenkintown, PA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.rosnov.com/about",
+ "tel_numbers": [
+  "215-885-4218"
+ ],
+ "tel_source": "https://www.rosnov.com/",
+ "socials": [
+  "https://www.facebook.com/pages/category/Jewelry---Watches-Store/Rosnov-Jewelers-115487195144220/",
+  "https://www.instagram.com/rosnovjewelers/?hl=en"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "since-1906",
+  "5th-generation",
+  "manufacturer",
+  "gia-gg"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "About page: since 1906 (Jewelers Row origin), 4th-gen David Rosnov expanded jewelry design/manufacturing and diamond expertise; Valley Forge guide says direct relationships with diamond importers and private diamond appointments. BBB (via search) names David Rosnov principal owner; Scott Rosnov is 5th generation (LinkedIn found for Scott). Address from Philadelphia Inquirer guide.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}
