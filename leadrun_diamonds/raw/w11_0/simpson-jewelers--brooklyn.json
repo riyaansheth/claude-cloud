@@ -1,0 +1,38 @@
+{
+ "business": "Simpson Jewelers",
+ "category_as_listed": "Jewelers-Wholesale & Manufacturers, Jewelry Designers, Jewelers",
+ "phone": "(718) 871-0120",
+ "website": "http://simpsonjewelers.com/browse.asp",
+ "address": "4922 13th Ave",
+ "city": "Brooklyn",
+ "state": "NY",
+ "market": "Brooklyn, NY",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/brooklyn-ny/mip/simpson-jewelers-469374216",
+ "lead_origin": "YellowPages",
+ "email": "INFO@SIMPSONJEWELERS.COM",
+ "email_source": "https://simpsonjewelers.com/pages/contact-us",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Yosef Simpson",
+ "role": "Featured On About Page",
+ "contact_source": "https://simpsonjewelers.com/pages/about-us",
+ "tel_numbers": [
+  "7188710120"
+ ],
+ "tel_source": "https://simpsonjewelers.com/pages/contact-us",
+ "socials": [
+  "https://www.facebook.com/SimpsonJewelers/",
+  "https://www.instagram.com/simpsonjewelers"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Retail store on 13th Ave: \"We source our jewelry from around the world\" and \"As your concierge for high jewelry and watches\" - finished jewelry/watch retailer, not diamond trade.",
+ "verified": true,
+ "enriched": true
+}

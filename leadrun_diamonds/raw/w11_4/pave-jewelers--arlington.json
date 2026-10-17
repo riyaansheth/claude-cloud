@@ -1,0 +1,45 @@
+{
+  "business": "Pavé Jewelers",
+  "category_as_listed": "",
+  "phone": "(855) 696-7283",
+  "email": "sales@pavejewelers.com",
+  "email_source": "https://www.pavejewelers.com/pages/contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Vishal Hemrajani",
+  "role": "Owner",
+  "contact_source": "https://www.bbb.org/us/va/arlington/profile/jewelry-stores/pave-jewelers-0241-236003503",
+  "website": "https://www.pavejewelers.com",
+  "address": "1800 Wilson Blvd, Suite 128",
+  "city": "Arlington",
+  "state": "VA",
+  "market": "Arlington, VA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.pavejewelers.com/",
+  "tel_numbers": [
+    "(855)696-7283"
+  ],
+  "tel_source": "https://www.pavejewelers.com/pages/contact",
+  "socials": [
+    "https://www.facebook.com/pavejewelers/",
+    "https://www.instagram.com/pavejewelers/"
+  ],
+  "building": "",
+  "suite": "Suite 128",
+  "trade_memberships": [],
+  "hooks": [
+    "by-appointment",
+    "private-jeweler",
+    "loose-diamonds",
+    "lab-grown",
+    "natural",
+    "second-generation"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Self-described 'Private Jewelers specializing in loose diamonds' (LinkedIn company blurb); site sells loose earth-mined and lab-grown diamonds and build-your-own rings, by appointment only.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

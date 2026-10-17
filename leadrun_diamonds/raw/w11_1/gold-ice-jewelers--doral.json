@@ -1,0 +1,9 @@
+{
+ "business": "Gold & Ice Jewelers",
+ "market": "Doral, FL",
+ "source_url": "https://www.goldandice.com/about-gold-ice/",
+ "drop_reason": "retail-only",
+ "scope_reason": "Site: retail store that 'Buy, Sell, Trade, & Repair Jewelry and Watches' (Rolex/Cartier, Cuban links); no wholesale or trade activity",
+ "is_diamond_trade": false,
+ "verified": true
+}

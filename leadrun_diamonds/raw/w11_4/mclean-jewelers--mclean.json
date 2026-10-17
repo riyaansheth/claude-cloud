@@ -1,0 +1,47 @@
+{
+  "business": "Mclean Jewelers",
+  "category_as_listed": "",
+  "phone": "703-821-3344",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Brahms Yoo",
+  "role": "Owner",
+  "contact_source": "https://www.mcleanjewelers.com/contact",
+  "website": "http://www.mcleanjewelers.com",
+  "address": "6801 Whittier Avenue, Suite 101 (Lascaris Building)",
+  "city": "McLean",
+  "state": "VA",
+  "market": "McLean, VA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "http://www.mcleanjewelers.com/diamond-information",
+  "tel_numbers": [
+    "703-821-3344"
+  ],
+  "tel_source": "http://www.mcleanjewelers.com/",
+  "socials": [],
+  "building": "Lascaris Building",
+  "suite": "Suite 101",
+  "trade_memberships": [
+    "AGS"
+  ],
+  "hooks": [
+    "since-1978",
+    "family-owned",
+    "ideal-cut",
+    "gia-ags-certified",
+    "diamond-buyer",
+    "diamond-broker-consignment",
+    "in-house-gem-lab",
+    "estate",
+    "formerly-mangan-jewelers"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: 'We buy, sell, and trade diamonds', specialises in GIA/AGS certified ideal-cut diamonds, has an in-house diamond lab, is 'members of an extensive diamond trading network' accessing dealer inventories worldwide, and brokers diamonds on consignment. Contact page lists 'Contact : Brahms Yoo'; Yelp says the Mangans retired and Brahms Yoo took over; BBB lists Byungki Yoo, Owner/Operator.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}
