@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds, Jewelers"
+ "scope_reason": "Unverified: NY DOS lists EMILIYA'S DIAMONDS, INC (filed 2005) at 2007 Coney Island Ave, Brooklyn; no website, owner or evidence of trade vs retail found (YP: Diamonds, Jewelers).",
+ "verified": false,
+ "enriched": true
 }

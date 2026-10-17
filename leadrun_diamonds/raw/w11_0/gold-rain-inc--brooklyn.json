@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Unverified: NY DOS lists GOLD RAIN, INC. (filed 2012, 7 Corbin Place, Brooklyn); no website, owner or diamond evidence found (YP: Jewelers-Wholesale & Manufacturers).",
+ "verified": false,
+ "enriched": true
 }

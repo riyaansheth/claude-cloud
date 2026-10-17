@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "Unverified: NY DOS lists GOLDEN STAR WHOLESALE INC (filed 2018, process addressee Li Zhu Li, 5611 Fort Hamilton Pkwy) but a different address than YP, so not linked; no diamond evidence found.",
+ "verified": false,
+ "enriched": true
 }

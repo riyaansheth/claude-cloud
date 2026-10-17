@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Kalman Heller",
+ "role": "Principal",
+ "contact_source": "https://data.ny.gov/resource/n9v6-gdp6.json",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds"
+ "scope_reason": "Unverified: NY DOS lists MADISON AVENUE TRADERS INC. (filed 2012) with process addressee Kalman Heller at 1541 51st St; MapQuest gives website billionairediamonds.com (unreachable) and tags it second-hand/jewelry store; no LinkedIn found.",
+ "verified": false,
+ "enriched": true
 }

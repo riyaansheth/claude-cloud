@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds"
+ "scope_reason": "Unverified: YP category Diamonds only; searches for 'Abraham Fasten' surfaced only a Brooklyn CPA of that name, not tied to a diamond business, so no owner/LinkedIn recorded.",
+ "verified": false,
+ "enriched": true
 }

@@ -20,12 +20,18 @@
  "contact_source": "",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/47direct/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds"
+ "scope_reason": "In scope: NY DOS lists 47 Direct Diamonds, Inc. (filed 2011) at 54 W 47th St, New York (Diamond District), and its Facebook page says 'All of our jewelry for sale are build in house'; no owner name or email found.",
+ "verified": true,
+ "enriched": true
 }

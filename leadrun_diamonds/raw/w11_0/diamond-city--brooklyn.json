@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds"
+ "scope_reason": "Unverified: YP category Diamonds only; web search found nothing tying 'Diamond City' to 8602 18th Ave and NY DOS shows no matching Brooklyn jewelry entity.",
+ "verified": false,
+ "enriched": true
 }

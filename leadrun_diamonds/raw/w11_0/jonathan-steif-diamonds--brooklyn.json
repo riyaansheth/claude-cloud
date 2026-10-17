@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Jonathan Steif",
+ "role": "Principal",
+ "contact_source": "https://www.yellowpages.com/brooklyn-ny/mip/jonathan-steif-diamonds-470724705",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds, Jewelers"
+ "scope_reason": "In scope (low confidence): YP AKA 'Steif Jonathan / Jonathan Steif Diamonds LLC' and MapQuest lists Jonathan Steif Diamonds LLC at 5424 11th Ave with short Mo-Th 10-16/Fr 10-12 hours, consistent with a Borough Park diamond dealer; no website, email or LinkedIn found.",
+ "verified": true,
+ "enriched": true
 }
