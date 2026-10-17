@@ -9,7 +9,7 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "website": "",
+ "website": "https://jerusalemjewelry.org",
  "address": "1061 Main St",
  "city": "Paterson",
  "state": "NJ",
@@ -18,15 +18,20 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://www.yellowpages.com/paterson-nj/mip/jerusalem-jewelry-550849514",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "(973) 225-0005"
+ ],
+ "tel_source": "https://jerusalemjewelry.org/",
+ "socials": [
+  "https://www.facebook.com/Jerusalem-jewelry-443494519553157/",
+  "https://www.instagram.com/jerusalemjewelrynj/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": true,
- "scope_reason": "unverified: no own website (YP link is a placeholder); kept on YP category 'Jewelers-Wholesale & Manufacturers, Jewelers'",
- "drop_reason": "",
- "verified": false
+ "is_diamond_trade": false,
+ "scope_reason": "Site jerusalemjewelry.org: Middle Eastern 21K/24K yellow gold, coins & bullion and custom pieces (rebranded from a RamAllah store est. 2014); no diamond trade.",
+ "drop_reason": "retail-only",
+ "verified": true
 }
