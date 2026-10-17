@@ -1,0 +1,47 @@
+{
+  "business": "Amber's Jewelers",
+  "category_as_listed": "",
+  "phone": "281-391-6333",
+  "email": "sales@ambersdesigns.com",
+  "email_source": "https://www.ambersdesigns.com",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.ambersdesigns.com",
+  "address": "5510 Roberts Rd",
+  "city": "Katy",
+  "state": "TX",
+  "market": "Katy, TX",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.ambersdesigns.com/",
+  "tel_numbers": [
+    "+1-281-391-6333"
+  ],
+  "tel_source": "https://www.ambersdesigns.com",
+  "socials": [
+    "https://www.facebook.com/ambersdesignsfinejewelry/",
+    "https://www.instagram.com/ambersdesignsfinejewelry/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "since-2001",
+    "gia-gg",
+    "lab-grown",
+    "loose-diamonds",
+    "custom-design",
+    "in-house-workshop"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: Katy custom jeweler since 2001 with in-house master jewelers, a great assortment of loose diamonds (natural + lab-grown), GIA Graduate Gemologist on site. Retail-facing - weak trade fit.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

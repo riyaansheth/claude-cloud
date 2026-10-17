@@ -1,0 +1,45 @@
+{
+  "business": "Diamond Room of Dallas",
+  "category_as_listed": "Diamond Buyers, Jewelry Buyers, Watches",
+  "phone": "(214) 935-5667",
+  "website": "https://diamondrooms.com/dallas",
+  "address": "8235 Douglas Ave",
+  "city": "Dallas",
+  "state": "TX",
+  "market": "Irving, TX",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/dallas-tx/mip/diamond-room-of-dallas-565057431",
+  "lead_origin": "YellowPages",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/mattodesky/",
+  "linkedin_source": "WebSearch extended: \"Matt O'Desky\" Diamond Room LinkedIn (profile lists Austin Diamond District, the earlier name of The Diamond Room)",
+  "contact_person": "Matt O\u2019Desky",
+  "role": "Owner",
+  "contact_source": "https://diamondrooms.com/about",
+  "tel_numbers": [
+    "+19724995847",
+    "9724310944",
+    "+15124584367"
+  ],
+  "tel_source": "https://diamondrooms.com/about",
+  "socials": [
+    "https://www.facebook.com/theaustindiamondroom/",
+    "https://www.instagram.com/thediamondroomtx/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "lab-grown",
+    "natural",
+    "by-appointment",
+    "broker"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Site: private jeweler for engagement rings, loose diamonds (natural and lab-grown) and custom design by appointment; owner described elsewhere as diamond broker",
+  "verified": true,
+  "enriched": true
+}

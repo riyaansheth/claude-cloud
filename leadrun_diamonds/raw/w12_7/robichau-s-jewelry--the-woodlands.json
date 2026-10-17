@@ -1,0 +1,46 @@
+{
+  "business": "Robichau's Jewelry, LLC",
+  "category_as_listed": "",
+  "phone": "2813677807",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "John Robichau",
+  "role": "Owner",
+  "contact_source": "https://www.woodlandsonline.com/npps/story.cfm?nppage=83772",
+  "website": "https://www.robichausjewelry.com",
+  "address": "4775 W Panther Creek Dr",
+  "city": "The Woodlands",
+  "state": "TX",
+  "market": "The Woodlands, TX",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.robichausjewelry.com/",
+  "tel_numbers": [
+    "2813677807",
+    "8322407532"
+  ],
+  "tel_source": "https://www.robichausjewelry.com/contact",
+  "socials": [
+    "https://www.facebook.com/robichausjewelryspring",
+    "https://www.instagram.com/robichaus/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "gia",
+    "family-business",
+    "40-years",
+    "natural",
+    "lab-grown",
+    "loose-diamonds"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site sells loose natural and lab-grown diamonds plus custom engagement rings; family-owned 40 years; owner John Robichau described as GIA Diamond Certified Expert (woodlandsonline). Bridal-focused retailer - weak trade fit.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

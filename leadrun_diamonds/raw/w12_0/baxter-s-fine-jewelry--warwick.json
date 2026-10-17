@@ -1,0 +1,48 @@
+{
+  "business": "Baxter's Fine Jewelry",
+  "category_as_listed": "",
+  "phone": "(401) 739-8222",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Paul Messerlian",
+  "role": "Owner",
+  "contact_source": "https://www.baxtersjewelry.com/pages/about-our-store",
+  "website": "https://www.baxtersjewelry.com",
+  "address": "200 Jefferson Blvd",
+  "city": "Warwick",
+  "state": "RI",
+  "market": "Warwick, RI",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.baxtersjewelry.com/pages/about-our-store",
+  "tel_numbers": [
+    "(401) 739-8222"
+  ],
+  "tel_source": "https://www.baxtersjewelry.com/pages/contact",
+  "socials": [
+    "https://www.facebook.com/BaxtersJewelry/",
+    "https://www.instagram.com/baxters_jewelry/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Jewelers of America"
+  ],
+  "hooks": [
+    "since-1960",
+    "3rd-generation",
+    "former-manufacturer",
+    "lab-grown",
+    "natural",
+    "loose-diamonds",
+    "custom-design"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Family firm founded 1960 in manufacturing (Messerlian family); sells loose diamonds (setting + diamond / lab-grown) and per The Knot carries RI's largest selection of GIA-certified diamonds with an in-house master jeweler; Paul Messerlian selected and set diamonds for the Kentucky Derby trophy.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

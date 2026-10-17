@@ -1,0 +1,41 @@
+{
+  "business": "Sherman Diamonds",
+  "category_as_listed": "Diamond Buyers",
+  "phone": "(281) 377-4268",
+  "website": "https://shermansdiamonds.com",
+  "address": "3800 Sw Freeway Service Rd",
+  "city": "Houston",
+  "state": "TX",
+  "market": "The Woodlands, TX",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/houston-tx/mip/sherman-diamonds-568356239",
+  "lead_origin": "YellowPages",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "tel_numbers": [
+    "281-609-6440"
+  ],
+  "tel_source": "https://shermansdiamonds.com/contact",
+  "socials": [
+    "https://www.facebook.com/p/Sherman-Diamonds-100091969895980/",
+    "https://www.instagram.com/shermansdiamond/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "estate-buyer",
+    "gemologist"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Site: diamond/jewelry buyer with Loose Diamonds and Wholesale Diamonds pages, operated by a certified gemologist with 20+ years in the diamond trade; site address 3823 Richmond Ave, Suite A, Houston",
+  "verified": true,
+  "enriched": true
+}

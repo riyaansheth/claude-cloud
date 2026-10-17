@@ -1,0 +1,42 @@
+{
+  "business": "Yepremian Fine Jewelers",
+  "category_as_listed": "",
+  "phone": "(401) 737-2116",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://yepremianjewelers.com",
+  "address": "80 Lambert Lind Hwy",
+  "city": "Warwick",
+  "state": "RI",
+  "market": "Warwick, RI",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://yepremianjewelers.com/",
+  "tel_numbers": [
+    "4017372116"
+  ],
+  "tel_source": "https://yepremianjewelers.com/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1980",
+    "family-owned",
+    "loose-diamonds",
+    "lab-grown",
+    "natural",
+    "estate"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Family jeweler (est. 1980) whose site sells loose diamonds and lab-grown diamonds alongside engagement rings and estate jewelry; also coins/piercing (secondary). Owner name not found.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

@@ -1,0 +1,45 @@
+{
+ "business": "Highland Diamond",
+ "category_as_listed": "Diamond Buyers",
+ "phone": "(404) 228-0000",
+ "website": "https://www.highlanddiamond.com",
+ "address": "1393 N Highland Ave NE",
+ "city": "Atlanta",
+ "state": "GA",
+ "market": "Duluth, GA",
+ "rating": "",
+ "reviews": "14",
+ "source_url": "https://www.yellowpages.com/atlanta-ga/mip/highland-diamond-537832738",
+ "lead_origin": "YellowPages",
+ "email": "info@highlanddiamond.com",
+ "email_source": "https://www.highlanddiamond.com/pages/contact",
+ "linkedin_url": "",
+ "linkedin_source": "\"John Rothermel\" Highland Diamond Atlanta LinkedIn (none found)",
+ "contact_person": "John Rothermel",
+ "role": "Owner",
+ "contact_source": "https://www.highlanddiamond.com/pages/about-us",
+ "tel_numbers": [
+  "404-228-0000"
+ ],
+ "tel_source": "https://www.highlanddiamond.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/highlanddiamond/",
+  "https://www.instagram.com/highlanddiamond/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "gia-gg",
+  "manufacturer",
+  "lab-grown",
+  "since-2017"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Own about page: founder John Rothermel, GIA Diamonds Graduate, \"started on the wholesale side of the business ... manufacturing his own line of jewelry for auction houses and retail stores\"; bespoke diamond jeweler since 2017.",
+ "verified": true,
+ "enriched": true
+}

@@ -1,0 +1,12 @@
+{
+  "business": "Roman Jewelers",
+  "market": "Cranston, RI",
+  "city": "Cranston",
+  "state": "RI",
+  "source_url": "https://www.romanjewelersri.com/about",
+  "is_diamond_trade": false,
+  "drop_reason": "cash-for-gold",
+  "scope_reason": "About page: 'store's focus has shifted toward buying jewelry from the public'.",
+  "lead_origin": "Web Search",
+  "verified": true
+}

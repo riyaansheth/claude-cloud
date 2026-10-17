@@ -1,0 +1,11 @@
+{
+ "business": "Alan James Jewelers",
+ "city": "Troy",
+ "state": "MI",
+ "market": "Troy, MI",
+ "source_url": "https://www.alanjamesjewelersllc.com/about-us",
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Site: fully mobile, by-appointment consumer jeweler (custom, restoration, buying jewelry); no wholesale/loose-stone trade evident",
+ "verified": true
+}

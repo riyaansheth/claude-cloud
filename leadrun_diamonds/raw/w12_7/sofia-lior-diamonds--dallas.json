@@ -1,0 +1,40 @@
+{
+  "business": "Sofia Lior Diamonds",
+  "category_as_listed": "Diamond Buyers, Jewelry Buyers, Jewelers-Wholesale & Manufacturers",
+  "phone": "(214) 655-8822",
+  "website": "http://sofialior.diamonds",
+  "address": "4201 Spring Valley Rd Ste 520",
+  "city": "Dallas",
+  "state": "TX",
+  "market": "Richardson, TX",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/dallas-tx/mip/sofia-lior-diamonds-566892154",
+  "lead_origin": "YellowPages",
+  "email": "sales@sofialior.diamonds",
+  "email_source": "https://sofialior.diamonds/about-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "tel_numbers": [
+    "+1 (214) 655-8822"
+  ],
+  "tel_source": "https://sofialior.diamonds",
+  "socials": [
+    "https://www.facebook.com/sofialiordiamonds"
+  ],
+  "building": "",
+  "suite": "Ste 520",
+  "trade_memberships": [],
+  "hooks": [
+    "lab-grown",
+    "by-appointment"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Site: appointment-only Dallas showroom selling loose lab-grown diamonds (e.g. Radiant 4.06ct Lab Grown Diamond, E, VVS2) and engagement rings; also sells moissanite",
+  "verified": true,
+  "enriched": true
+}

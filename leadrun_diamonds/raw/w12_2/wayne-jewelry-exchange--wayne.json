@@ -1,0 +1,39 @@
+{
+ "business": "Wayne Jewelry Exchange",
+ "category_as_listed": "Jewelry",
+ "phone": "(973) 837-8866",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "",
+ "address": "57 NJ-23",
+ "city": "Wayne",
+ "state": "NJ",
+ "market": "Wayne, NJ",
+ "lead_origin": "Web Search",
+ "rating": "5.0",
+ "reviews": "284",
+ "source_url": "https://reviews.birdeye.com/wayne-jewelry-exchange-brilliant-diamonds-169778788825849",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "gia-graduates",
+  "gia-certified-loose-diamonds"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Search listing: jewelers are GIA graduates offering GIA-certified loose diamonds; Birdeye name \"Wayne Jewelry Exchange - BRILLIANT DIAMONDS\". No own website found; owner unknown. Same address as YP \"M A Jewelers\".",
+ "drop_reason": "",
+ "other_phones": [
+  "(201) 931-6121"
+ ],
+ "verified": false,
+ "enriched": true
+}

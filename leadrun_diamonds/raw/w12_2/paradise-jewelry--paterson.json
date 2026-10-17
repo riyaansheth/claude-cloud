@@ -1,0 +1,39 @@
+{
+ "business": "Paradise Jewelry",
+ "category_as_listed": "",
+ "phone": "",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://paradisejewelryusa.com",
+ "address": "1069 Main St",
+ "city": "Paterson",
+ "state": "NJ",
+ "market": "Paterson, NJ",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://paradisejewelryusa.com/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.facebook.com/ParadiseJewelryUSA/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "manufacturer",
+  "wholesale",
+  "middle-eastern-gold",
+  "diamond-jewelry"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Search snippet of own site: \"Manufacturer | Wholesale | Retail\" specialising in 21K/22K/24K Middle Eastern gold, luxury diamond jewelry, custom designs. Mainly gold; borderline. Site is JS-rendered so no contacts/owner read.",
+ "drop_reason": "",
+ "verified": false
+}

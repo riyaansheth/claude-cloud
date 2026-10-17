@@ -1,0 +1,40 @@
+{
+ "business": "Crown Diamond Jewelers",
+ "category_as_listed": "Diamond Buyers, Bridal Shops, Formal Wear Rental & Sales",
+ "phone": "(727) 847-1113",
+ "website": "https://shopcrowndiamond.com",
+ "address": "10220 Us Highway 19 Ste 100",
+ "city": "Port Richey",
+ "state": "FL",
+ "market": "Clearwater, FL",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/port-richey-fl/mip/crown-diamond-jewelers-580356175",
+ "lead_origin": "YellowPages",
+ "email": "crowndiamondjewelers@gmail.com",
+ "email_source": "https://shopcrowndiamond.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Noman",
+ "role": "Owner",
+ "contact_source": "https://shopcrowndiamond.com/",
+ "tel_numbers": [
+  "+17278471113"
+ ],
+ "tel_source": "https://shopcrowndiamond.com/",
+ "socials": [
+  "https://www.facebook.com/crowndj/",
+  "https://www.instagram.com/crowndiamondjewelers/"
+ ],
+ "building": "",
+ "suite": "Ste 100",
+ "trade_memberships": [],
+ "hooks": [
+  "since-2012"
+ ],
+ "is_diamond_trade": false,
+ "drop_reason": "retail-only",
+ "scope_reason": "Own site: local jewelry store (engagement rings, repair, appraisals, pre-owned watches) buying gold/estate jewelry from the public; outside assigned cities; no trade/wholesale line.",
+ "verified": true,
+ "enriched": true
+}

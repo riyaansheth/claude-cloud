@@ -1,0 +1,41 @@
+{
+  "business": "Henri Paul Jewelers",
+  "category_as_listed": "",
+  "phone": "281-296-5784",
+  "email": "pascal@henripauljewelers.com",
+  "email_source": "https://www.henripauljewelers.com/contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Pascal Henri Paul",
+  "role": "Owner",
+  "contact_source": "https://www.henripauljewelers.com/about",
+  "website": "https://www.henripauljewelers.com",
+  "address": "",
+  "city": "The Woodlands",
+  "state": "TX",
+  "market": "The Woodlands, TX",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.henripauljewelers.com/",
+  "tel_numbers": [
+    "281-296-5784",
+    "713-456-9586"
+  ],
+  "tel_source": "https://www.henripauljewelers.com/contact",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "gia-certified",
+    "custom-design",
+    "loose-diamonds",
+    "family-business"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: family-owned Woodlands custom jeweler; all diamonds GIA certified, select from a private collection of loose diamonds; designer Pascal Henri Paul (Director/Designer Jeweler, 30 years)",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}
