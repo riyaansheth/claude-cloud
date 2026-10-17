@@ -1,0 +1,44 @@
+{
+ "business": "TFC Diamonds",
+ "category_as_listed": "",
+ "phone": "786.410.7877",
+ "email": "Info@tfcdiamonds.com",
+ "email_source": "https://tfcdiamonds.com/",
+ "linkedin_url": "",
+ "linkedin_source": "\"David Palomeque\" TFC Diamonds LinkedIn (no personal profile found)",
+ "contact_person": "David Palomeque",
+ "role": "CEO",
+ "contact_source": "https://tfcdiamonds.com/",
+ "website": "https://tfcdiamonds.com",
+ "address": "Brickell Business Center, 1200 Brickell Ave Oficina 1815",
+ "city": "Miami",
+ "state": "FL",
+ "market": "Doral, FL",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://tfcdiamonds.com/",
+ "tel_numbers": [
+  "786.410.7877",
+  "786.508.9207"
+ ],
+ "tel_source": "https://tfcdiamonds.com/",
+ "socials": [],
+ "building": "Brickell Business Center",
+ "suite": "Oficina 1815",
+ "trade_memberships": [
+  "Diamond Bourse Latin America",
+  "Dubai Diamond Exchange"
+ ],
+ "hooks": [
+  "latin-america",
+  "bourse-member",
+  "natural",
+  "25-years"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: diamond trading firm serving Latin America, Caribbean and North America; 'David Palomeque President-CEO, Member Diamond Bourse Latin America, Member Diamond Bourse Dubai'",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}
