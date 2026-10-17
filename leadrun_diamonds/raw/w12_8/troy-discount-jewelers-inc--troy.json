@@ -1,0 +1,41 @@
+{
+ "business": "Troy Discount Jewelers, Inc",
+ "category_as_listed": "Jewelers, Diamonds, Jewelry Repairing",
+ "phone": "(248) 528-0962",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://troydiamonds.com",
+ "address": "3495 Rochester Rd",
+ "city": "Troy",
+ "state": "MI",
+ "market": "Troy, MI",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://troydiamonds.com/",
+ "tel_numbers": [
+  "248-528-0962"
+ ],
+ "tel_source": "https://troydiamonds.com/",
+ "socials": [
+  "https://www.facebook.com/troydiamonds/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "gia-certified-diamonds",
+  "lab-grown",
+  "findings"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site title: 'Troy Jewelers - Diamond Engagement Rings, Lab Grown Diamonds, Wedding Bands, GIA Certified Diamonds, Jewelry, Findings'. Thin site; borderline bridal retailer.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

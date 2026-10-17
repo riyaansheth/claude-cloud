@@ -1,0 +1,45 @@
+{
+ "business": "Summit Jewelers",
+ "category_as_listed": "Jewelers",
+ "phone": "(248) 669-0303",
+ "email": "info@summitjewelers.com",
+ "email_source": "http://summitjewelers.com/contact-us/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "http://www.summitjewelers.com",
+ "address": "6061 Haggerty Rd",
+ "city": "West Bloomfield",
+ "state": "MI",
+ "market": "West Bloomfield, MI",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "http://summitjewelers.com/about-us/",
+ "tel_numbers": [
+  "(248) 669-0302",
+  "(248) 669-0303"
+ ],
+ "tel_source": "http://summitjewelers.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/SummitJewelry",
+  "https://www.instagram.com/summitjewelers/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1977",
+  "family-owned",
+  "loose-diamonds",
+  "custom-design",
+  "wholesale-prices"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: 'We have many loose gemstones and diamonds in stock'; owner is a jewelry maker and 'specialist in diamonds and gemstones'; family-owned since 1977 (small custom/bridal jeweler).",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}
