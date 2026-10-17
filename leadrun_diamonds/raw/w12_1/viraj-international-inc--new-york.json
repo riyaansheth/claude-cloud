@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers"
+ "scope_reason": "YellowPages categories: Diamonds-Wholesale, Jewelers; unverified: no website, WebSearch on name+address found nothing (Manhattan 47th St, outside this worker's cities)",
+ "verified": false
 }
