@@ -1,45 +1,45 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-17T12:18:39+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-17T13:26:58+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
 | Metric | Count |
 |---|---|
-| Listings in research pool (in scope after discovery) | 37073 |
-| Businesses researched (after dedupe) → `jewelry_all.csv` | 22620 |
+| Listings in research pool (in scope after discovery) | 37074 |
+| Businesses researched (after dedupe) → `jewelry_all.csv` | 22621 |
 | Qualified (2 of 3) → `jewelry_qualified.csv` | 571 |
 | Qualification rate | 2.5% |
 | Websites crawled OK / attempted | 19144 / 23052 |
-| Listings with an owner/decision-maker name | 4870 |
+| Listings with an owner/decision-maker name | 4871 |
 | LinkedIn searches by outcome | ambiguous: 293, match: 182, none: 570, reject: 135 |
 
 ## Fill rate per field
 
 | # | Column | all.csv | qualified.csv |
 |---|---|---|---|
-| 1 | Business | 22620 (100.0%) | 571 (100.0%) |
-| 2 | Segment | 22620 (100.0%) | 571 (100.0%) |
-| 3 | Category (as listed) | 22573 (99.8%) | 570 (99.8%) |
-| 4 | Phone | 21186 (93.7%) | 557 (97.5%) |
+| 1 | Business | 22621 (100.0%) | 571 (100.0%) |
+| 2 | Segment | 22621 (100.0%) | 571 (100.0%) |
+| 3 | Category (as listed) | 22574 (99.8%) | 570 (99.8%) |
+| 4 | Phone | 21187 (93.7%) | 557 (97.5%) |
 | 5 | Email | 5144 (22.7%) | 559 (97.9%) |
 | 6 | LinkedIn Profile | 164 (0.7%) | 157 (27.5%) |
-| 7 | Contact Person | 2441 (10.8%) | 298 (52.2%) |
-| 8 | Role | 2441 (10.8%) | 298 (52.2%) |
+| 7 | Contact Person | 2442 (10.8%) | 298 (52.2%) |
+| 8 | Role | 2442 (10.8%) | 298 (52.2%) |
 | 9 | Website | 17006 (75.2%) | 571 (100.0%) |
-| 10 | Address | 21722 (96.0%) | 564 (98.8%) |
-| 11 | Real City | 17818 (78.8%) | 478 (83.7%) |
-| 12 | Real State | 17922 (79.2%) | 477 (83.5%) |
-| 13 | Market | 22620 (100.0%) | 571 (100.0%) |
-| 14 | Lead Origin | 22620 (100.0%) | 571 (100.0%) |
+| 10 | Address | 21723 (96.0%) | 564 (98.8%) |
+| 11 | Real City | 17819 (78.8%) | 478 (83.7%) |
+| 12 | Real State | 17923 (79.2%) | 477 (83.5%) |
+| 13 | Market | 22621 (100.0%) | 571 (100.0%) |
+| 14 | Lead Origin | 22621 (100.0%) | 571 (100.0%) |
 | 15 | Rating | 8134 (36.0%) | 340 (59.5%) |
 | 16 | Reviews | 8134 (36.0%) | 340 (59.5%) |
-| 17 | Source | 22620 (100.0%) | 571 (100.0%) |
-| 18 | Signals | 22620 (100.0%) | 571 (100.0%) |
-| 19 | Match Type | 22620 (100.0%) | 571 (100.0%) |
+| 17 | Source | 22621 (100.0%) | 571 (100.0%) |
+| 18 | Signals | 22621 (100.0%) | 571 (100.0%) |
+| 19 | Match Type | 22621 (100.0%) | 571 (100.0%) |
 | 20 | Email Source | 5144 (22.7%) | 559 (97.9%) |
 | 21 | LinkedIn Source | 169 (0.7%) | 157 (27.5%) |
-| 22 | Found At | 22620 (100.0%) | 571 (100.0%) |
+| 22 | Found At | 22621 (100.0%) | 571 (100.0%) |
 | 23 | Also Listed As | 2985 (13.2%) | 163 (28.5%) |
 | 24 | Other Markets | 677 (3.0%) | 71 (12.4%) |
 | 25 | Merged Listings | 5506 (24.3%) | 270 (47.3%) |
@@ -116,7 +116,7 @@ Generated 2026-10-17T12:18:39+05:30 by `python3 run.py build`. Every number belo
 | Louisville, KY | 203 | 122 | 35 | 28 | 2 | 4 |
 | Milwaukee, WI | 290 | 150 | 44 | 9 | 0 | 0 |
 | Albuquerque, NM | 463 | 311 | 72 | 77 | 4 | 12 |
-| Tucson, AZ | 290 | 160 | 40 | 32 | 0 | 1 |
+| Tucson, AZ | 291 | 161 | 40 | 33 | 0 | 1 |
 | Oklahoma City, OK | 236 | 141 | 23 | 5 | 0 | 1 |
 | Tulsa, OK | 203 | 109 | 13 | 4 | 0 | 2 |
 | Omaha, NE | 208 | 103 | 17 | 4 | 0 | 0 |
@@ -178,10 +178,10 @@ Generated 2026-10-17T12:18:39+05:30 by `python3 run.py build`. Every number belo
 |---|---|---|---|
 | Google Maps | 10382 | 5221 | 207 |
 | YellowPages | 19807 | 14026 | 207 |
-| BBB | 4508 | 2201 | 137 |
+| BBB | 4509 | 2202 | 137 |
 | OpenStreetMap | 2376 | 1172 | 20 |
 
-Discovery tasks completed: bbb=1514, gmaps=525, osm=105, yp=1069
+Discovery tasks completed: bbb=1516, gmaps=525, osm=105, yp=1069
 
 ## dropped_out_of_scope
 
@@ -210,8 +210,8 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 6186 | bbb:041e21befdeeed50: appraiser-lab-insurer |
-| bbb | blocked | 312 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
+| builder | final-kill | 6270 | bbb:041e21befdeeed50: appraiser-lab-insurer |
+| bbb | blocked | 317 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
 | osm | error | 122 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
 | osm | http-500 | 83 | https://overpass.kumi.systems/api/interpreter |
