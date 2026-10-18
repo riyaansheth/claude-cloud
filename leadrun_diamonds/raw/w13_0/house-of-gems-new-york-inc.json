@@ -1,0 +1,42 @@
+{
+  "business": "House of Gems New York, Inc.",
+  "category_as_listed": "Diamond, Other; Natural Gemstones",
+  "phone": "516-993-0028",
+  "email": "simon@hogdiamonds.com",
+  "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1051884",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Simon Abda",
+  "role": "Member",
+  "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1051884",
+  "website": "https://www.houseofgems1986.com",
+  "address": "580 5th Ave., Ste. 2606",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1051884",
+  "tel_numbers": [
+    "+1 (516) 993-0028"
+  ],
+  "tel_source": "https://www.houseofgems1986.com/",
+  "socials": [
+    "https://www.instagram.com/houseofgems1986/"
+  ],
+  "building": "580 Fifth Avenue",
+  "suite": "Ste 2606",
+  "trade_memberships": [
+    "AGTA"
+  ],
+  "hooks": [
+    "fancy-color",
+    "since-1986",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "AGTA directory: GIA-certified fancy color diamonds (blue, pink, yellow, brown) with traceability, plus sapphires/spinels/rubies.",
+  "drop_reason": "",
+  "enriched": true
+}

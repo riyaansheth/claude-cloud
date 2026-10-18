@@ -1,0 +1,36 @@
+{
+  "business": "Prisma",
+  "category_as_listed": "Diamond, Other; Natural Gemstones",
+  "phone": "212-777-9111",
+  "email": "prismafancy@yahoo.com",
+  "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1047548",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Ashish Modi",
+  "role": "Member",
+  "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1047548",
+  "website": "",
+  "address": "580 5th Ave., Ste. 702",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1047548",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "580 Fifth Avenue",
+  "suite": "Ste 702",
+  "trade_memberships": [
+    "AGTA"
+  ],
+  "hooks": [
+    "fancy-color"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "AGTA directory: fancy colored diamonds (blue, pink, yellow) and alexandrite.",
+  "drop_reason": "",
+  "enriched": true
+}

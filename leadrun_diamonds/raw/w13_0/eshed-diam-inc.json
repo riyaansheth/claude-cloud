@@ -1,0 +1,46 @@
+{
+  "business": "Eshed Diam, Inc.",
+  "category_as_listed": "Diamond, Other; Natural Gemstones",
+  "phone": "213-622-9819",
+  "email": "info@eshed.us",
+  "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1030221",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Liran Eshed",
+  "role": "Member",
+  "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1030221",
+  "website": "https://www.eshed.com",
+  "address": "580 5th Ave., Ste. 3000",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1030221",
+  "tel_numbers": [
+    "12136229819",
+    "19173092523"
+  ],
+  "tel_source": "https://eshed.com/contact/",
+  "socials": [
+    "https://www.facebook.com/eshed.official/",
+    "https://www.instagram.com/eshed_gemstar/"
+  ],
+  "building": "580 Fifth Avenue",
+  "suite": "Ste 3000",
+  "trade_memberships": [
+    "AGTA",
+    "RJC"
+  ],
+  "hooks": [
+    "large-stones",
+    "fancy-color",
+    "natural",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "AGTA directory: D-Z and natural fancy colored diamonds, pairs and singles 1-50 ct+, NY office at 580 5th Ave Ste 3000 (main line is LA 213 number).",
+  "drop_reason": "",
+  "enriched": true
+}

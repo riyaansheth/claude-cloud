@@ -1,0 +1,37 @@
+{
+  "business": "4 G's Trading Corp.",
+  "category_as_listed": "Diamond, Other; Natural Gemstones",
+  "phone": "212-398-9085",
+  "email": "info@4gsemeralds.com",
+  "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1007216",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Amit Elian",
+  "role": "Member",
+  "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1007216",
+  "website": "",
+  "address": "580 Fifth Ave., Ste. 915",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1007216",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "580 Fifth Avenue",
+  "suite": "Ste 915",
+  "trade_memberships": [
+    "AGTA"
+  ],
+  "hooks": [
+    "matched-pairs",
+    "fancy-shapes"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "AGTA directory: gem-quality emeralds and matching pairs of fancy-shape VS+ diamonds (half moons, hearts, trapezes, kites...).",
+  "drop_reason": "",
+  "enriched": true
+}

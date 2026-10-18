@@ -2,8 +2,8 @@
   "business": "A K Unique Color Inc.",
   "category_as_listed": "Diamond, Emerald & Other Color Gemstones",
   "phone": "(212) 398 2211",
-  "email": "",
-  "email_source": "",
+  "email": "info@akunique.net",
+  "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1044097",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Ashok Daga",
@@ -24,7 +24,8 @@
   "building": "580 Fifth Avenue",
   "suite": "Ste 2506",
   "trade_memberships": [
-    "IDCA"
+    "IDCA",
+    "AGTA"
   ],
   "hooks": [],
   "is_diamond_trade": true,

@@ -2,8 +2,8 @@
   "business": "Soham Diamonds",
   "category_as_listed": "Fine Jewelry Manufacturer of Diamond & Rare Gemstones",
   "phone": "(212) 398 2109",
-  "email": "info@modanijewels.com",
-  "email_source": "https://modanijewels.com/",
+  "email": "sumit@sohamdiamonds.com",
+  "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1008283",
   "linkedin_url": "https://www.linkedin.com/in/sumitmodani/",
   "linkedin_source": "WebSearch: \"Sumit Modani\" Modani Jewels Soham Diamonds LinkedIn (result: Sumit Modani - Modani Jewels)",
   "contact_person": "Sumit Modani",
@@ -29,7 +29,8 @@
   "building": "International Gem Tower",
   "suite": "Ste 18LM",
   "trade_memberships": [
-    "IDCA"
+    "IDCA",
+    "AGTA"
   ],
   "hooks": [
     "manufacturer"

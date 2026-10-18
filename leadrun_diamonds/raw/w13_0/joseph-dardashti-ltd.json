@@ -1,0 +1,40 @@
+{
+  "business": "Joseph Dardashti, Ltd.",
+  "category_as_listed": "Diamond, Other; Jewelry Manufacturing; Estate Jewelry",
+  "phone": "212-398-9282",
+  "email": "info@sophiad.com",
+  "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1022867",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Joseph Dardashti",
+  "role": "Member",
+  "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1022867",
+  "website": "http://sophiad.com",
+  "address": "580 Fifth Ave., 21st Fl.",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1022867",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/joseph.dardashti.7",
+    "https://www.instagram.com/josephdardashti/"
+  ],
+  "building": "580 Fifth Avenue",
+  "suite": "21st Fl",
+  "trade_memberships": [
+    "AGTA"
+  ],
+  "hooks": [
+    "manufacturer",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "AGTA directory: natural diamonds, jewelry manufacturing, estate jewelry (Sophia D brand).",
+  "drop_reason": "",
+  "enriched": true
+}

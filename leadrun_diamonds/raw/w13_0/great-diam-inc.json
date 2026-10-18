@@ -1,0 +1,42 @@
+{
+  "business": "Great Diam, Inc.",
+  "category_as_listed": "Diamond, Other",
+  "phone": "917-349-5600",
+  "email": "ny@greatdiam.com",
+  "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1049797",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Rajanish Sutariya",
+  "role": "Member",
+  "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1049797",
+  "website": "http://www.greatdiam.com",
+  "address": "592 5th Ave., Ste. 5B",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1049797",
+  "tel_numbers": [
+    "+1(585)4433580"
+  ],
+  "tel_source": "https://www.greatdiam.com/contact",
+  "socials": [
+    "https://www.facebook.com/greatdiaminc"
+  ],
+  "building": "592 Fifth Avenue",
+  "suite": "Ste 5B",
+  "trade_memberships": [
+    "AGTA"
+  ],
+  "hooks": [
+    "fancy-color",
+    "fancy-shapes",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "AGTA directory: natural fancy colored diamonds and fancy shaped diamonds.",
+  "drop_reason": "",
+  "enriched": true
+}

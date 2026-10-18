@@ -2,14 +2,14 @@
   "business": "Elite Jewelry House LLC",
   "category_as_listed": "Diamond & Fine Jewelry",
   "phone": "(212) 730 7255",
-  "email": "",
-  "email_source": "",
+  "email": "hello@elitejewelryhouse.com",
+  "email_source": "https://elitejewelryhouse.com/about",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Shivkar Mehta",
   "role": "Member",
   "contact_source": "https://idcany.org/member-directory-details/71",
-  "website": "",
+  "website": "https://elitejewelryhouse.com",
   "address": "580 5th Avenue Suite 718",
   "city": "New York",
   "state": "NY",
@@ -18,17 +18,21 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://idcany.org/member-directory-details/71",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "+12127307255"
+  ],
+  "tel_source": "https://elitejewelryhouse.com/about",
   "socials": [],
   "building": "580 5th Avenue",
   "suite": "Ste 718",
   "trade_memberships": [
     "IDCA"
   ],
-  "hooks": [],
+  "hooks": [
+    "manufacturer"
+  ],
   "is_diamond_trade": true,
-  "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'Diamond & Fine Jewelry'; contacts Shivkar Mehta.",
+  "scope_reason": "IDCA member (Diamond & Fine Jewelry); own site: custom jewelry manufacturing and virtual inventory services for retailer partners, 580 Fifth Ave Ste 718.",
   "drop_reason": "",
   "idca_other_contacts": "Shivkar Mehta",
   "enriched": true
