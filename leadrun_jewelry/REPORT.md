@@ -1,58 +1,58 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-18T18:21:27+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-18T18:32:33+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
 | Metric | Count |
 |---|---|
-| Listings in research pool (in scope after discovery) | 46551 |
-| Businesses researched (after dedupe) → `jewelry_all.csv` | 28820 |
-| Qualified (2 of 3) → `jewelry_qualified.csv` | 633 |
+| Listings in research pool (in scope after discovery) | 46555 |
+| Businesses researched (after dedupe) → `jewelry_all.csv` | 28824 |
+| Qualified (2 of 3) → `jewelry_qualified.csv` | 634 |
 | Qualification rate | 2.2% |
-| Websites crawled OK / attempted | 23847 / 28602 |
-| Listings with an owner/decision-maker name | 5096 |
-| LinkedIn searches by outcome | ambiguous: 294, match: 182, none: 572, reject: 135 |
+| Websites crawled OK / attempted | 23905 / 28667 |
+| Listings with an owner/decision-maker name | 5106 |
+| LinkedIn searches by outcome | ambiguous: 306, match: 183, none: 597, reject: 137 |
 
 ## Fill rate per field
 
 | # | Column | all.csv | qualified.csv |
 |---|---|---|---|
-| 1 | Business | 28820 (100.0%) | 633 (100.0%) |
-| 2 | Segment | 28820 (100.0%) | 633 (100.0%) |
-| 3 | Category (as listed) | 28760 (99.8%) | 632 (99.8%) |
-| 4 | Phone | 27122 (94.1%) | 618 (97.6%) |
-| 5 | Email | 6226 (21.6%) | 622 (98.3%) |
-| 6 | LinkedIn Profile | 164 (0.6%) | 156 (24.6%) |
-| 7 | Contact Person | 2576 (8.9%) | 303 (47.9%) |
-| 8 | Role | 2576 (8.9%) | 303 (47.9%) |
-| 9 | Website | 22035 (76.5%) | 633 (100.0%) |
-| 10 | Address | 27724 (96.2%) | 626 (98.9%) |
-| 11 | Real City | 23250 (80.7%) | 535 (84.5%) |
-| 12 | Real State | 23350 (81.0%) | 534 (84.4%) |
-| 13 | Market | 28820 (100.0%) | 633 (100.0%) |
-| 14 | Lead Origin | 28820 (100.0%) | 633 (100.0%) |
-| 15 | Rating | 9781 (33.9%) | 380 (60.0%) |
-| 16 | Reviews | 9781 (33.9%) | 380 (60.0%) |
-| 17 | Source | 28820 (100.0%) | 633 (100.0%) |
-| 18 | Signals | 28820 (100.0%) | 633 (100.0%) |
-| 19 | Match Type | 28820 (100.0%) | 633 (100.0%) |
-| 20 | Email Source | 6226 (21.6%) | 622 (98.3%) |
-| 21 | LinkedIn Source | 168 (0.6%) | 156 (24.6%) |
-| 22 | Found At | 28820 (100.0%) | 633 (100.0%) |
-| 23 | Also Listed As | 3714 (12.9%) | 193 (30.5%) |
-| 24 | Other Markets | 1251 (4.3%) | 108 (17.1%) |
-| 25 | Merged Listings | 6823 (23.7%) | 308 (48.7%) |
-| 26 | Flags | 3726 (12.9%) | 140 (22.1%) |
-| 27 | Mobile Candidates | 708 (2.5%) | 489 (77.3%) |
-| 28 | Socials | 5837 (20.3%) | 552 (87.2%) |
+| 1 | Business | 28824 (100.0%) | 634 (100.0%) |
+| 2 | Segment | 28824 (100.0%) | 634 (100.0%) |
+| 3 | Category (as listed) | 28764 (99.8%) | 633 (99.8%) |
+| 4 | Phone | 27126 (94.1%) | 619 (97.6%) |
+| 5 | Email | 6226 (21.6%) | 623 (98.3%) |
+| 6 | LinkedIn Profile | 165 (0.6%) | 157 (24.8%) |
+| 7 | Contact Person | 2581 (9.0%) | 304 (47.9%) |
+| 8 | Role | 2581 (9.0%) | 304 (47.9%) |
+| 9 | Website | 22038 (76.5%) | 634 (100.0%) |
+| 10 | Address | 27727 (96.2%) | 627 (98.9%) |
+| 11 | Real City | 23251 (80.7%) | 536 (84.5%) |
+| 12 | Real State | 23351 (81.0%) | 535 (84.4%) |
+| 13 | Market | 28824 (100.0%) | 634 (100.0%) |
+| 14 | Lead Origin | 28824 (100.0%) | 634 (100.0%) |
+| 15 | Rating | 9784 (33.9%) | 381 (60.1%) |
+| 16 | Reviews | 9784 (33.9%) | 381 (60.1%) |
+| 17 | Source | 28824 (100.0%) | 634 (100.0%) |
+| 18 | Signals | 28824 (100.0%) | 634 (100.0%) |
+| 19 | Match Type | 28824 (100.0%) | 634 (100.0%) |
+| 20 | Email Source | 6226 (21.6%) | 623 (98.3%) |
+| 21 | LinkedIn Source | 169 (0.6%) | 157 (24.8%) |
+| 22 | Found At | 28824 (100.0%) | 634 (100.0%) |
+| 23 | Also Listed As | 3714 (12.9%) | 193 (30.4%) |
+| 24 | Other Markets | 1251 (4.3%) | 108 (17.0%) |
+| 25 | Merged Listings | 6823 (23.7%) | 309 (48.7%) |
+| 26 | Flags | 3727 (12.9%) | 140 (22.1%) |
+| 27 | Mobile Candidates | 708 (2.5%) | 489 (77.1%) |
+| 28 | Socials | 5837 (20.3%) | 553 (87.2%) |
 
 ## Qualification components
 
 | Signal | Businesses | Rate |
 |---|---|---|
 | email | 6226 | 21.6% |
-| linkedin | 164 | 0.6% |
+| linkedin | 165 | 0.6% |
 | direct-line | 708 | 2.5% |
 | role-email | 2391 | 8.3% |
 | gia | 1457 | 5.1% |
@@ -66,7 +66,7 @@ Generated 2026-10-18T18:21:27+05:30 by `python3 run.py build`. Every number belo
 
 | Market | Listings | Businesses | Email | Owner name | LinkedIn | Qualified |
 |---|---|---|---|---|---|---|
-| New York, NY | 1440 | 1172 | 270 | 85 | 11 | 33 |
+| New York, NY | 1440 | 1168 | 267 | 85 | 11 | 33 |
 | Los Angeles, CA | 1278 | 1003 | 229 | 73 | 8 | 28 |
 | Chicago, IL | 988 | 677 | 154 | 58 | 5 | 18 |
 | Houston, TX | 1029 | 694 | 142 | 56 | 5 | 21 |
@@ -171,22 +171,22 @@ Generated 2026-10-18T18:21:27+05:30 by `python3 run.py build`. Every number belo
 | Reno, NV | 126 | 71 | 16 | 4 | 0 | 0 |
 | Sioux Falls, SD | 95 | 33 | 4 | 1 | 0 | 0 |
 | Fort Wayne, IN | 104 | 45 | 15 | 1 | 0 | 0 |
-| Garden City, NY | 912 | 675 | 111 | 13 | 0 | 5 |
+| Garden City, NY | 912 | 678 | 113 | 16 | 0 | 5 |
 | Huntington, NY | 339 | 209 | 51 | 7 | 0 | 4 |
 | Hackensack, NJ | 977 | 750 | 116 | 11 | 0 | 10 |
-| Newark, NJ | 873 | 613 | 123 | 14 | 0 | 14 |
+| Newark, NJ | 873 | 614 | 124 | 15 | 0 | 14 |
 | Edison, NJ | 490 | 312 | 55 | 6 | 0 | 8 |
 | White Plains, NY | 340 | 212 | 42 | 11 | 0 | 3 |
-| Irvine, CA | 566 | 373 | 90 | 20 | 0 | 6 |
+| Irvine, CA | 566 | 373 | 90 | 21 | 0 | 6 |
 | Anaheim, CA | 411 | 243 | 43 | 7 | 0 | 2 |
-| Pasadena, CA | 836 | 588 | 34 | 5 | 0 | 3 |
-| Sherman Oaks, CA | 444 | 314 | 0 | 0 | 0 | 0 |
+| Pasadena, CA | 834 | 588 | 34 | 5 | 0 | 3 |
+| Sherman Oaks, CA | 443 | 318 | 0 | 0 | 0 | 0 |
 | Plano, TX | 401 | 248 | 58 | 7 | 0 | 4 |
 | Schaumburg, IL | 425 | 279 | 71 | 11 | 0 | 5 |
 | Northbrook, IL | 194 | 117 | 23 | 7 | 0 | 0 |
 | Bethesda, MD | 378 | 238 | 55 | 8 | 0 | 4 |
 | Fairfax, VA | 317 | 203 | 40 | 5 | 0 | 3 |
-| King of Prussia, PA | 341 | 200 | 52 | 8 | 0 | 3 |
+| King of Prussia, PA | 341 | 200 | 52 | 8 | 1 | 4 |
 | Alpharetta, GA | 338 | 220 | 46 | 7 | 0 | 4 |
 | Troy, MI | 377 | 225 | 51 | 6 | 0 | 2 |
 | Fort Myers, FL | 231 | 119 | 28 | 3 | 0 | 1 |
@@ -196,12 +196,12 @@ Generated 2026-10-18T18:21:27+05:30 by `python3 run.py build`. Every number belo
 
 | Source | Listings | Businesses (as base row) | Qualified |
 |---|---|---|---|
-| Google Maps | 12473 | 6146 | 225 |
-| YellowPages | 26761 | 19136 | 257 |
+| Google Maps | 12472 | 6149 | 226 |
+| YellowPages | 26759 | 19138 | 257 |
 | BBB | 4510 | 2168 | 130 |
-| OpenStreetMap | 2810 | 1370 | 21 |
+| OpenStreetMap | 2810 | 1369 | 21 |
 
-Discovery tasks completed: bbb=1708, gmaps=705, osm=125, yp=2739
+Discovery tasks completed: bbb=1708, gmaps=705, osm=125, yp=2743
 
 ## dropped_out_of_scope
 
@@ -210,10 +210,10 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 | Reason | discovery | site-check | builder | Total |
 |---|---|---|---|---|
 | appraiser-lab-insurer | 293 | 0 | 30 | 323 |
-| beads-craft | 1525 | 95 | 12 | 1632 |
+| beads-craft | 1525 | 96 | 12 | 1633 |
 | chain | 7473 | 0 | 0 | 7473 |
 | coin-currency | 905 | 13 | 0 | 918 |
-| costume-fashion | 1322 | 399 | 113 | 1834 |
+| costume-fashion | 1322 | 402 | 113 | 1837 |
 | diamond-trade | 251 | 45 | 10 | 306 |
 | gold-buyer | 596 | 119 | 32 | 747 |
 | kiosk-battery | 31 | 0 | 0 | 31 |
@@ -224,13 +224,13 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 | thrift-consignment | 461 | 0 | 0 | 461 |
 | trade-association | 4 | 0 | 0 | 4 |
 | wholesale-manufacturer | 170 | 16 | 2 | 188 |
-| **all** | | | | **22435** |
+| **all** | | | | **22439** |
 
 ## What blocked the run
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 6639 | bbb:041e21befdeeed50: appraiser-lab-insurer |
+| builder | final-kill | 6742 | bbb:041e21befdeeed50: appraiser-lab-insurer |
 | bbb | blocked | 321 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
 | osm | error | 136 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
@@ -238,7 +238,7 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 | yp | soft-block-503 | 43 | https://www.yellowpages.com/search?search_terms=custom+jewelry&geo_location_terms=Anaheim%2C+CA&page=5 |
 | osm | http-504 | 35 | https://maps.mail.ru/osm/tools/overpass/api/interpreter |
 | osm | http-406 | 33 | https://overpass-api.de/api/interpreter |
-| linkedin | blocked | 26 | http-200 or challenge page at https://www.google.com/search?q=%22Rachel+Clinnick-Barbagelata%22+San+Francisco+linkedin&hl=en&num=10 |
+| linkedin | blocked | 27 | http-200 or challenge page at https://www.google.com/search?q=%22Rachel+Clinnick-Barbagelata%22+San+Francisco+linkedin&hl=en&num=10 |
 | trade | blocked | 2 | http-403 or challenge page at https://www.americangemsociety.org/find-a-jeweler/?location=Los+Angeles%2C+CA |
 | yp | soft-block-404 | 2 | https://www.yellowpages.com/search?search_terms=jewelers&geo_location_terms=Los+Angeles%2C+CA&page=30 |
 
