@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers, Diamonds"
+ "scope_reason": "YellowPages category Jewelers-Wholesale & Manufacturers; unverified: no own website found, web search returned nothing",
+ "enriched": true
 }
