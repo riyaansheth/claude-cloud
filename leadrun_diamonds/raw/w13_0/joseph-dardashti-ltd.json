@@ -7,8 +7,8 @@
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Joseph Dardashti",
-  "role": "Member",
-  "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1022867",
+  "role": "Founder",
+  "contact_source": "https://sophiad.com/pages/our-story",
   "website": "http://sophiad.com",
   "address": "580 Fifth Ave., 21st Fl.",
   "city": "New York",
@@ -31,7 +31,8 @@
   ],
   "hooks": [
     "manufacturer",
-    "natural"
+    "natural",
+    "7th-generation"
   ],
   "is_diamond_trade": true,
   "scope_reason": "AGTA directory: natural diamonds, jewelry manufacturing, estate jewelry (Sophia D brand).",

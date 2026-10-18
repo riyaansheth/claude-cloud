@@ -4,8 +4,8 @@
   "phone": "212-398-9085",
   "email": "info@4gsemeralds.com",
   "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1007216",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/amit-elian-325965190/",
+  "linkedin_source": "WebSearch: \"Amit Elian\" 4 G's Trading emeralds diamonds LinkedIn (result: Amit elian - 4gs trading corp)",
   "contact_person": "Amit Elian",
   "role": "Member",
   "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1007216",
@@ -28,7 +28,8 @@
   ],
   "hooks": [
     "matched-pairs",
-    "fancy-shapes"
+    "fancy-shapes",
+    "importer"
   ],
   "is_diamond_trade": true,
   "scope_reason": "AGTA directory: gem-quality emeralds and matching pairs of fancy-shape VS+ diamonds (half moons, hearts, trapezes, kites...).",

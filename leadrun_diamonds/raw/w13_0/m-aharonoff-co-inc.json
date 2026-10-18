@@ -7,8 +7,8 @@
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Haim Aharonoff",
-  "role": "Member",
-  "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1171",
+  "role": "VP",
+  "contact_source": "https://us-jeweler.com/company-m-aharonoff-co-in-new-york-ny-5555",
   "website": "",
   "address": "580 5th Ave., Rm. 1225",
   "city": "New York",
@@ -24,7 +24,9 @@
   "building": "580 Fifth Avenue",
   "suite": "Rm 1225",
   "trade_memberships": [
-    "AGTA"
+    "AGTA",
+    "RJC",
+    "DDC"
   ],
   "hooks": [
     "gia",

@@ -4,10 +4,10 @@
   "phone": "516-993-0028",
   "email": "simon@hogdiamonds.com",
   "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1051884",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/simon-abda-36874235/",
+  "linkedin_source": "WebSearch: \"Simon Abda\" House of Gems diamonds LinkedIn (result: Simon Abda - US Manager - House of Gems 1986)",
   "contact_person": "Simon Abda",
-  "role": "Member",
+  "role": "Manager",
   "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1051884",
   "website": "https://www.houseofgems1986.com",
   "address": "580 5th Ave., Ste. 2606",
@@ -33,7 +33,8 @@
   "hooks": [
     "fancy-color",
     "since-1986",
-    "natural"
+    "natural",
+    "manufacturer"
   ],
   "is_diamond_trade": true,
   "scope_reason": "AGTA directory: GIA-certified fancy color diamonds (blue, pink, yellow, brown) with traceability, plus sapphires/spinels/rubies.",
