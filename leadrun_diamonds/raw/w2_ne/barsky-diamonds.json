@@ -2,8 +2,8 @@
   "business": "Barsky Diamonds",
   "category_as_listed": "Diamonds-Wholesale",
   "phone": "215-925-8639",
-  "email": "",
-  "email_source": "",
+  "email": "customerservice@barskydiamonds.com",
+  "email_source": "https://jrow.org/barsky-diamonds/",
   "linkedin_url": "https://www.linkedin.com/in/jeffrey-barsky-37443634/",
   "linkedin_source": "WebSearch extended: Frank Salese Fine Diamonds Philadelphia LinkedIn ('Jeffrey Barsky - Barsky Diamonds')",
   "contact_person": "Jeffrey Barsky",
@@ -33,5 +33,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Listed under wholesale diamonds; family diamond house at 724 Sansom for generations. Owner Jeff Barsky per press; Manta lists Harold Barsky.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

@@ -1,0 +1,50 @@
+{
+  "business": "Philadelphia Diamond Company",
+  "category_as_listed": "",
+  "phone": "(215) 607-6700",
+  "email": "info@philadelphiadiamondcompany.com",
+  "email_source": "https://www.philadelphiadiamondco.com/pages/contact",
+  "linkedin_url": "https://www.linkedin.com/in/kenyattablack/",
+  "linkedin_source": "raw_people/p_0/kenyatta-black-philadelphia.json (WebSearch extended, allowed_domains linkedin.com: Philadelphia Diamond Company GIA diamonds; title Owner)",
+  "contact_person": "Kenyatta Black",
+  "role": "Founder",
+  "contact_source": "https://www.philadelphiadiamondco.com/pages/about",
+  "website": "https://www.philadelphiadiamondco.com",
+  "address": "The Bank Building, 421 Chestnut Street",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.philadelphiadiamondco.com/pages/about",
+  "tel_numbers": [
+    "215-607-6700",
+    "2156076707",
+    "215.607.6710"
+  ],
+  "tel_source": "https://www.philadelphiadiamondco.com/, https://www.philadelphiadiamondco.com/pages/contact",
+  "socials": [
+    "https://www.facebook.com/PhiladelphiaDiamondCompany/",
+    "https://www.instagram.com/DiamondCompanyGroup/"
+  ],
+  "building": "The Bank Building",
+  "suite": "",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "gia-gg",
+    "since-2002",
+    "2nd-generation",
+    "bridal",
+    "custom",
+    "lab-grown",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: GIA Graduate Gemologist Kenyatta Black (second-generation jeweler) founded it in 2002; appointment-only custom bridal studio sourcing GIA-certified natural and lab-grown diamonds; Atlanta second location. Borderline bridal-specialist.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}
