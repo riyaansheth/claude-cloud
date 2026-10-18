@@ -6,9 +6,9 @@
  "email_source": "https://www.jisshow.com/fall/en-us/attend/exhibitor-directory/exhibitor-details.h%20%20s%20jewelry.org-84b8d44e-2eb0-4b8c-a436-36db8918f582.html",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Igal Haimov",
+ "role": "President",
+ "contact_source": "https://florida.intercreditreport.com/company/h-s-jewelry-inc-p00000014449",
  "website": "",
  "address": "55 NE 1st St, Ste 10",
  "city": "Miami",
@@ -29,5 +29,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "JIS Fall exhibitor description: 'Wholesale specializing in Diamond Jewelry'.",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }
