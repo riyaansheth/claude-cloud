@@ -134,6 +134,27 @@ MARKETS = [
     ("Reno", "NV", (39.4500, -119.8800, 39.6000, -119.7200)),
     ("Sioux Falls", "SD", (43.4800, -96.8200, 43.6200, -96.6500)),
     ("Fort Wayne", "IN", (40.9800, -85.2500, 41.1800, -85.0500)),
+    # Run 6: high-density jewelry suburbs around the largest metros, with wider boxes.
+    ("Garden City", "NY", (40.6000, -73.8000, 40.9000, -73.4500)),
+    ("Huntington", "NY", (40.7300, -73.5000, 40.9800, -73.0500)),
+    ("Hackensack", "NJ", (40.8000, -74.2000, 41.0500, -73.9200)),
+    ("Newark", "NJ", (40.6300, -74.3500, 40.8500, -74.0700)),
+    ("Edison", "NJ", (40.3500, -74.5500, 40.6500, -74.2000)),
+    ("White Plains", "NY", (40.9500, -73.9000, 41.2000, -73.6000)),
+    ("Irvine", "CA", (33.5000, -117.9500, 33.7700, -117.6000)),
+    ("Anaheim", "CA", (33.7300, -118.1000, 33.9500, -117.7500)),
+    ("Pasadena", "CA", (34.0500, -118.2200, 34.2200, -117.9000)),
+    ("Sherman Oaks", "CA", (34.1300, -118.6500, 34.3000, -118.3500)),
+    ("Plano", "TX", (32.9500, -96.9500, 33.2500, -96.5800)),
+    ("Schaumburg", "IL", (41.9200, -88.3000, 42.2000, -87.9500)),
+    ("Northbrook", "IL", (42.0300, -87.9500, 42.3000, -87.6500)),
+    ("Bethesda", "MD", (38.9500, -77.3000, 39.2000, -76.9000)),
+    ("Fairfax", "VA", (38.7500, -77.4500, 39.0500, -77.0500)),
+    ("King of Prussia", "PA", (39.9500, -75.6000, 40.2500, -75.2800)),
+    ("Alpharetta", "GA", (33.9000, -84.6500, 34.2000, -84.1500)),
+    ("Troy", "MI", (42.4500, -83.5500, 42.7000, -83.0000)),
+    ("Fort Myers", "FL", (26.4000, -82.1000, 26.7500, -81.7500)),
+    ("Sarasota", "FL", (27.1500, -82.7000, 27.5500, -82.3500)),
 ]
 
 
@@ -142,14 +163,18 @@ def market_label(city, st):
 
 
 GMAPS_QUERIES = ["jewelry store", "custom jewelry", "jewelry repair",
-                 "estate jewelry", "goldsmith jeweler"]
+                 "estate jewelry", "goldsmith jeweler",
+                 # Run 6 "deep search" terms (only run for markets a stage is pointed at).
+                 "engagement rings", "fine jewelry", "bridal jewelry", "jewelry designer"]
 # (bare "goldsmith <city>" makes Maps jump straight to a business named "The Goldsmith")
-YP_TERMS = ["jewelers"]
+YP_TERMS = ["jewelers", "jewelry stores", "custom jewelry", "jewelry repair", "engagement rings"]
 BBB_CATEGORIES = ["Jewelry Stores", "Jewelry Repair"]
 
 # Pages fetched per site during the crawl.
 CRAWL_PATHS = ["/", "/about", "/about-us", "/contact", "/team", "/our-story",
-               "/meet-the-jeweler", "/contact-us"]
+               "/meet-the-jeweler", "/contact-us",
+               # owner names and direct lines often live on team/staff pages
+               "/our-team", "/meet-the-team", "/staff", "/about/our-team"]
 
 # Domains never used as a dedupe key (many unrelated businesses share them).
 SHARED_HOSTS = {
