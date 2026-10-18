@@ -2,8 +2,8 @@
   "business": "Benadato Trading Co",
   "category_as_listed": "Diamond Buyers",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "sales@benadato.com",
+  "email_source": "https://www.benadato.com/contact",
   "linkedin_url": "https://www.linkedin.com/in/yossi-benadato-36255591/",
   "linkedin_source": "\"Yossi Benadato\" Benadato Trading LinkedIn",
   "contact_person": "Yossi Benadato",
@@ -18,18 +18,25 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.benadato.com/",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "+1-888-625-0232"
+  ],
+  "tel_source": "https://www.benadato.com/contact",
+  "socials": [
+    "https://www.facebook.com/BenadatoTradingCo/",
+    "https://www.instagram.com/benadato.diamonds/"
+  ],
   "building": "",
   "suite": "",
   "trade_memberships": [],
   "hooks": [
     "estate",
-    "loose-diamond-buyer"
+    "loose-diamond-buyer",
+    "2nd-generation"
   ],
   "is_diamond_trade": true,
   "scope_reason": "Denver diamond buyer purchasing loose diamonds; Co-Founder Yossi Benadato described as diamond expert (estate-stone buyer)",
   "drop_reason": "",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

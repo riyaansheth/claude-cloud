@@ -1,0 +1,12 @@
+{
+  "business": "Oster Jewelers",
+  "source_url": "https://www.yellowpages.com/denver-co/jewelers",
+  "drop_reason": "retail-only",
+  "scope_reason": "Own site: retail jeweler focused on luxury watches and designer jewelry; no loose-diamond sourcing described.",
+  "market": "Denver, CO",
+  "is_diamond_trade": false,
+  "city": "Denver",
+  "state": "CO",
+  "website": "https://www.osterjewelers.com",
+  "lead_origin": "YellowPages"
+}

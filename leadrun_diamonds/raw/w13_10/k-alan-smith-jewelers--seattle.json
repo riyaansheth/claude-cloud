@@ -1,0 +1,43 @@
+{
+  "business": "K Alan Smith Jewelers",
+  "category_as_listed": "Diamonds",
+  "phone": "(206) 622-0223",
+  "email": "kim@kalansmithjeweler.com",
+  "email_source": "https://kalansmithjeweler.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Kim",
+  "role": "Owner",
+  "contact_source": "https://kalansmithjeweler.com/",
+  "website": "https://kalansmithjeweler.com",
+  "address": "500 Union St Ste 325",
+  "city": "Seattle",
+  "state": "WA",
+  "market": "Seattle, WA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/seattle-wa/mip/k-alan-smith-jewelers-67406",
+  "tel_numbers": [
+    "206-622-0223"
+  ],
+  "tel_source": "https://kalansmithjeweler.com/contact-us/",
+  "socials": [
+    "https://www.facebook.com/kalansmithjeweler/",
+    "https://www.instagram.com/kalansmithjeweler/"
+  ],
+  "building": "",
+  "suite": "Ste 325",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "since-2004",
+    "gia-gg",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: private jewelry salon since 2004; owner and graduate gemologist Kim selects loose diamonds for clients to compare side by side, 'vast majority of our diamonds are certified by the GIA', offers lineage documentation from rough crystal through the cutting facility - bridal specialist sourcing own loose stones.",
+  "drop_reason": "",
+  "verified": true
+}

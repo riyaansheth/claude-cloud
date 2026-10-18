@@ -1,0 +1,44 @@
+{
+  "business": "Denver Diamonds & Jewelry",
+  "category_as_listed": "Jewelers-Wholesale & Manufacturers",
+  "phone": "(303) 534-0057",
+  "email": "john@denverdiamonds.com",
+  "email_source": "http://denverdiamonds.com/contact-us/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "John Buchholz",
+  "role": "Owner",
+  "contact_source": "http://denverdiamonds.com/john-buchholz/",
+  "website": "http://denverdiamonds.com",
+  "address": "910 16th Street #425",
+  "city": "Denver",
+  "state": "CO",
+  "market": "Denver, CO",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/denver-co/mip/denver-diamonds-jewelry-452793053",
+  "tel_numbers": [
+    "(303) 534-0057",
+    "(800) 588-0057"
+  ],
+  "tel_source": "http://denverdiamonds.com/contact-us/",
+  "socials": [
+    "http://www.facebook.com/DenverDiamondsandJewelry"
+  ],
+  "building": "",
+  "suite": "#425",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "since-1976",
+    "cutter",
+    "gia-gg",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: John Christian Buchholz, GIA Graduate Gemologist and American School of Diamond Cutting journeyman, founded John Buchholz Diamond Company in 1976; 'Diamond cutting done in house'; business was initially exclusive to wholesale diamond cutting.",
+  "drop_reason": "",
+  "verified": true
+}

@@ -1,0 +1,41 @@
+{
+  "business": "Abby Sparks Jewelry",
+  "category_as_listed": "Jewelry Designers",
+  "phone": "(303) 957-6502",
+  "email": "hello@abbysparks.com",
+  "email_source": "https://www.abbysparks.com/contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Abby Sparks",
+  "role": "Founder",
+  "contact_source": "https://www.abbysparks.com/about/",
+  "website": "https://www.abbysparks.com",
+  "address": "1320 27th St",
+  "city": "Denver",
+  "state": "CO",
+  "market": "Denver, CO",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/denver-co/mip/abby-sparks-jewelry-542142333",
+  "tel_numbers": [
+    "303-957-6502"
+  ],
+  "tel_source": "https://www.abbysparks.com/contact",
+  "socials": [
+    "https://www.facebook.com/AbbySparksJewelry",
+    "https://www.instagram.com/abbysparksjewelry/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-2013",
+    "lab-grown",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: custom fine-jewelry/engagement studio founded 2013 with a diamonds page and custom engagement rings built around client-selected natural or lab-grown center stones (bridal specialist sourcing stones; not a wholesaler).",
+  "drop_reason": "",
+  "verified": true
+}

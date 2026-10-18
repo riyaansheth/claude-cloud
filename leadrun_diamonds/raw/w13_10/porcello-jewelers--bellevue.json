@@ -1,0 +1,42 @@
+{
+  "business": "Porcello Jewelers",
+  "category_as_listed": "Diamonds",
+  "phone": "(425) 454-2300",
+  "email": "kalyn@porcellos.com",
+  "email_source": "https://porcellos.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://porcellos.com",
+  "address": "10222 NE 8th St",
+  "city": "Bellevue",
+  "state": "WA",
+  "market": "Seattle, WA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/bellevue-wa/mip/porcello-jewelers-464709632",
+  "tel_numbers": [
+    "425.454.2300"
+  ],
+  "tel_source": "https://porcellos.com/contact/",
+  "socials": [
+    "https://www.facebook.com/Porcellos/",
+    "https://www.instagram.com/porcellojewelers/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1952",
+    "3rd-generation",
+    "natural",
+    "cutter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'one of the best known diamond buyers in the Northwest ... for three generations', works with loose diamonds and lists 'the finest diamond cutters' on staff; estate/antique jeweler since 1952 (also watches and coins) - estate-diamond buyer, borderline.",
+  "drop_reason": "",
+  "verified": true
+}
