@@ -1,16 +1,16 @@
 {
-  "business": "Matthew Green Inc",
+  "business": "Matthew Green Jewelers",
   "category_as_listed": "Diamond Buyers, Jewelry Buyers",
   "phone": "(561) 716-0377",
   "email": "Sales@MatthewGreenJewelers.com",
   "email_source": "https://matthewgreenjewelers.com/contact-us/",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/matthew-green-a59b9620/",
+  "linkedin_source": "WebSearch extended: \"Matthew Green\" Matthew Green Jewelers Boca Raton LinkedIn (result title: Matthew Green - Matthew Green Jewelers & Auctioneers, Boca Raton)",
   "contact_person": "Matthew Green",
   "role": "President",
   "contact_source": "https://matthewgreenjewelers.com/about-us/",
   "website": "http://matthewgreenjewelers.com",
-  "address": "",
+  "address": "8221 Glades Rd",
   "city": "Boca Raton",
   "state": "FL",
   "market": "Boca Raton, FL",
@@ -25,15 +25,15 @@
   "socials": [
     "http://www.instagram.com/matthewgreenjewelers"
   ],
-  "building": "",
-  "suite": "",
+  "building": "International Jewelers Exchange",
+  "suite": "Booth F1",
   "trade_memberships": [],
   "hooks": [
     "estate-diamond-buyer",
     "30-years"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Own site title: 'Buyers & Sellers of Luxury Goods ... Diamond Buyers & Wholesalers'; 'We specialize in diamonds & custom settings' for 30 years",
+  "scope_reason": "Own site title: Matthew Green Jewelers, Buyers & Sellers of Luxury Goods ... Diamond Buyers & Wholesalers; YP lists the entity as Matthew Green Inc; IJE Boca directory booth F1",
   "drop_reason": "",
   "verified": true,
   "enriched": true

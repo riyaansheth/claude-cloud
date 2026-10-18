@@ -6,10 +6,10 @@
   "email_source": "https://intljewelers.com/boca-raton",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
-  "website": "",
+  "contact_person": "Boris Pinkhasov",
+  "role": "President",
+  "contact_source": "https://mazaldiamondsboca.com/pages/about",
+  "website": "https://mazaldiamondsboca.com",
   "address": "8221 Glades Rd",
   "city": "Boca Raton",
   "state": "FL",
@@ -18,14 +18,20 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://intljewelers.com/boca-raton",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "561.477.0977"
+  ],
+  "tel_source": "https://mazaldiamondsboca.com/",
+  "socials": [
+    "https://www.facebook.com/mazaldiamonds/",
+    "https://www.instagram.com/mazaldiamonds/"
+  ],
   "building": "International Jewelers Exchange",
   "suite": "Booth A1",
   "trade_memberships": [],
   "hooks": [
-    "loose-diamonds"
+    "loose-diamonds",
+    "since-1995"
   ],
   "is_diamond_trade": true,
   "scope_reason": "IJE Boca directory: 'We carry a large selection of engagement ring mountings as well as loose stones'",

@@ -4,11 +4,11 @@
   "phone": "(561) 395-3462",
   "email": "info@altierjewelers.com",
   "email_source": "https://altierjewelers.com/",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/cutler-altier-a9a915b0/",
+  "linkedin_source": "WebSearch extended: \"Cutler Altier\" LinkedIn (result title: cutler altier - President/CEO - Altier Jewelers)",
+  "contact_person": "Cutler Altier",
+  "role": "President",
+  "contact_source": "https://www.bbb.org/us/fl/boca-raton/profile/jewelry-stores/altier-jewelers-inc-0633-90111461",
   "website": "http://www.altierjewelers.com",
   "address": "701 S Federal Hwy",
   "city": "Boca Raton",
@@ -31,7 +31,8 @@
   "trade_memberships": [],
   "hooks": [
     "3rd-generation",
-    "manufacturer"
+    "manufacturer",
+    "since-1960"
   ],
   "is_diamond_trade": true,
   "scope_reason": "YP: Jewelers-Wholesale & Manufacturers; Boca Raton family jeweler (3rd generation) known for big diamond jewelry",

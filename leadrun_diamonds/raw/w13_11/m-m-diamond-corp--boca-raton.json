@@ -6,9 +6,9 @@
   "email_source": "https://intljewelers.com/boca-raton",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Menachem Missika",
+  "role": "Officer",
+  "contact_source": "https://bisprofiles.com/fl/m-m-diamonds-p01000079645",
   "website": "",
   "address": "8221 Glades Rd",
   "city": "Boca Raton",
@@ -20,7 +20,9 @@
   "source_url": "https://intljewelers.com/boca-raton",
   "tel_numbers": [],
   "tel_source": "",
-  "socials": [],
+  "socials": [
+    "https://www.facebook.com/p/MM-Diamond-Corp-100079563202889/"
+  ],
   "building": "International Jewelers Exchange",
   "suite": "Booth A6 & B4",
   "trade_memberships": [],
