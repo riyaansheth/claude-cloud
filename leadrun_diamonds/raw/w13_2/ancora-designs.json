@@ -4,11 +4,11 @@
  "phone": "855.262.6727",
  "email": "sales@ancoradesigns.com",
  "email_source": "https://www.ancoradesigns.com/contact",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/danny-rubinstein-37648923/",
+ "linkedin_source": "WebSearch extended: Ancora Designs Los Angeles bridal jewelry manufacturer owner founder LinkedIn (result title: Danny Rubinstein - President - ANCORA DESIGNS)",
+ "contact_person": "Danny Rubinstein",
+ "role": "President",
+ "contact_source": "https://www.linkedin.com/in/danny-rubinstein-37648923/",
  "website": "https://www.ancoradesigns.com",
  "address": "550 S. Hill St., #1276, Los Angeles, CA 90013",
  "city": "Los Angeles",
@@ -28,7 +28,8 @@
  "trade_memberships": [],
  "hooks": [
   "manufacturer",
-  "bridal"
+  "bridal",
+  "since-1982"
  ],
  "is_diamond_trade": true,
  "scope_reason": "Own site: produces custom orders in its factory in Los Angeles; 'No minimum orders, 100% custom design' bridal collection made in LA jewelry district (manufacturer)",
