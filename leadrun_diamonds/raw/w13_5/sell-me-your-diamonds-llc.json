@@ -1,0 +1,41 @@
+{
+  "business": "Sell Me Your Diamonds LLC",
+  "category_as_listed": "",
+  "phone": "(713) 499-0809",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Idan Nissan",
+  "role": "Featured On About Page",
+  "contact_source": "https://sellmeyourdiamonds.com/about-us/",
+  "website": "https://sellmeyourdiamonds.com",
+  "address": "6222 Richmond Ave, Suite 372",
+  "city": "Houston",
+  "state": "TX",
+  "market": "Houston, TX",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://sellmeyourdiamonds.com/about-us/",
+  "tel_numbers": [
+    "(713) 499-0809"
+  ],
+  "tel_source": "https://sellmeyourdiamonds.com/contact/",
+  "socials": [],
+  "building": "",
+  "suite": "Suite 372",
+  "trade_memberships": [
+    "GIA",
+    "bourse"
+  ],
+  "hooks": [
+    "gia-gg",
+    "2nd-generation",
+    "estate-buyer",
+    "bourse"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "About page: Idan Nissan - Graduate Gemologist, Diamond Dealer, Diamond Bourse Member, second generation diamond professional; private Houston diamond buyer with global resale network",
+  "drop_reason": ""
+}

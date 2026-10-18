@@ -6,9 +6,9 @@
   "email_source": "https://dutchdiamondimports.com/",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Harry Schick",
+  "role": "Owner",
+  "contact_source": "https://www.bbb.org/us/tx/dallas/profile/jewelry-stores/dutch-diamond-imports-inc-0875-90327963",
   "website": "https://www.dutchdiamondimports.com",
   "address": "2050 N Stemmons Fwy",
   "city": "Dallas",
@@ -22,14 +22,19 @@
     "(214) 742-5707"
   ],
   "tel_source": "https://dutchdiamondimports.com/",
-  "socials": [],
+  "socials": [
+    "https://www.facebook.com/Dutchdiamondimports/",
+    "https://www.instagram.com/dutchdiamondimports/"
+  ],
   "building": "World Trade Center, Dallas Market Center (Diamond District)",
   "suite": "WTC 7723",
   "trade_memberships": [],
   "hooks": [
-    "importer"
+    "importer",
+    "since-1986"
   ],
   "is_diamond_trade": true,
   "scope_reason": "Diamond importer (name) and DMC Diamond District exclusive jeweler (Dutch Diamond, WTC 7723)",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

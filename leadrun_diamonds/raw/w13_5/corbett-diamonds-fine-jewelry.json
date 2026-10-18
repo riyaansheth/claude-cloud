@@ -7,7 +7,7 @@
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Chris Corbett",
-  "role": "Founder",
+  "role": "President",
   "contact_source": "https://www.corbettdiamonds.com/about",
   "website": "https://www.corbettdiamonds.com",
   "address": "2050 N Stemmons Fwy",
@@ -34,5 +34,6 @@
   "is_diamond_trade": true,
   "scope_reason": "DMC listing: handles fine jewelry, loose diamonds and colored stones; DMC Diamond District exclusive jeweler, by appointment only",
   "drop_reason": "",
-  "li_note": "no linkedin.com/in for Chris Corbett found"
+  "li_note": "no linkedin.com/in for Chris Corbett found",
+  "enriched": true
 }

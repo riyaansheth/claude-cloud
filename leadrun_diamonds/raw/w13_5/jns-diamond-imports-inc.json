@@ -1,0 +1,33 @@
+{
+  "business": "JNS Diamond Imports, Inc.",
+  "category_as_listed": "Diamonds",
+  "phone": "(713) 627-9477",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "5433 Westheimer Rd Ste 715",
+  "city": "Houston",
+  "state": "TX",
+  "market": "Houston, TX",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/houston-tx/diamonds",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "Ste 715",
+  "trade_memberships": [],
+  "hooks": [
+    "importer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond importer per name; YellowPages Diamonds listing (seen via WebSearch result summary)",
+  "drop_reason": ""
+}

@@ -9,8 +9,8 @@
   "contact_person": "",
   "role": "",
   "contact_source": "",
-  "website": "http://www.schandra.com",
-  "address": "2050 N Stemmons Fwy",
+  "website": "https://schandra.com",
+  "address": "2050 Stemmons Frwy, Unit 133",
   "city": "Dallas",
   "state": "TX",
   "market": "Dallas, TX",
@@ -18,8 +18,12 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.dallasmarketcenter.com/exhibitors/schandra-inc/",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "(214) 748 6819",
+    "(214) 741-1729",
+    "(214) 748 6811"
+  ],
+  "tel_source": "https://schandra.com/pages/about-us",
   "socials": [],
   "building": "World Trade Center, Dallas Market Center (Diamond District)",
   "suite": "WTC 7533",
@@ -32,5 +36,7 @@
   "scope_reason": "DMC listing: Schandra Diamonds & Fine Jewelry - Loose Diamonds, Engagement Rings; premier source for lab-grown diamonds; DMC Diamond District exclusive jeweler",
   "drop_reason": "",
   "dmc_contacts": "Sandy S Rep 2147486819; Shobha S Rep 2147411729 (DMC page)",
-  "site_note": "schandra.com returned 404 on 2026-10-18"
+  "site_note": "schandra.com returned 404 on 2026-10-18",
+  "tel_note": "site labels: 748 6819 Primary, 741-1729 General, 748 6811 Business IT",
+  "enriched": true
 }
