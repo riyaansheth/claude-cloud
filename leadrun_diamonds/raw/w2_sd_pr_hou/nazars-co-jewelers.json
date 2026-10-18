@@ -1,14 +1,14 @@
 {
   "business": "Nazar's & Co. Jewelers",
   "category_as_listed": "Jewelry",
-  "phone": "",
-  "email": "",
-  "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Nazaret Kalajian",
-  "role": "President",
-  "contact_source": "https://www.dnb.com/business-directory/company-profiles.nazars_fine_jewelry_inc.ec157b3737ff72ee868bf4ec9204700d.html",
+  "phone": "(713) 952-3687",
+  "email": "sales@nazars.com",
+  "email_source": "https://nazarsandco.com/pages/contact",
+  "linkedin_url": "https://www.linkedin.com/in/ruby-kalajian-7877788a/",
+  "linkedin_source": "WebSearch: \"Nazaret Kalajian\" OR \"Nazar Kalajian\" Nazar's Houston jeweler LinkedIn (result title: Ruby Kalajian - Vp at Nazar's fine jewelry)",
+  "contact_person": "Ruby Kalajian",
+  "role": "Vice President",
+  "contact_source": "https://www.linkedin.com/in/ruby-kalajian-7877788a/",
   "website": "https://nazarsandco.com",
   "address": "4901 Richmond Ave",
   "city": "Houston",
@@ -18,9 +18,14 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://nazarsandco.com/",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "(713) 952-3687"
+  ],
+  "tel_source": "https://nazarsandco.com/pages/contact",
+  "socials": [
+    "https://www.facebook.com/NazarsAndCoJewelers",
+    "https://x.com/NazarsJewelers"
+  ],
   "building": "",
   "suite": "",
   "trade_memberships": [],
@@ -33,6 +38,7 @@
   "is_diamond_trade": true,
   "scope_reason": "Yelp: direct diamond importer since 1982; own site: area's leading (lab grown) diamond importer. Entity Nazar's Fine Jewelry, Inc. LinkedIn search for owner returned no match.",
   "drop_reason": "",
-  "li_note": "no linkedin.com/in result tied to Nazaret Kalajian",
-  "li_backfill": true
+  "li_note": "President per D&B is Nazaret Kalajian (no LinkedIn found); Ruby Kalajian is VP per LinkedIn title. Site lists FAX 713.952.3688 (not recorded as a line)",
+  "li_backfill": true,
+  "enriched": true
 }

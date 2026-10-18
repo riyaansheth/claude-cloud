@@ -13,11 +13,11 @@
   "lead_origin": "YellowPages",
   "email": "info@mariloff.com",
   "email_source": "https://www.mariloff.com/contact-us/",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Rafi",
-  "role": "",
-  "contact_source": "https://www.mariloff.com/our-story/ ('Moshe's son-in-law, Rafi, at the helm'; surname not given)",
+  "linkedin_url": "https://www.linkedin.com/in/rafi-navon-0b156822",
+  "linkedin_source": "WebSearch: Mariloff Diamonds Dallas owner Rafi Fozailoff LinkedIn (ZoomInfo sameAs for Rafi Navon, CEO Mariloff Diamonds)",
+  "contact_person": "Rafi Navon",
+  "role": "CEO",
+  "contact_source": "https://www.zoominfo.com/p/Rafi-Navon/1253420315",
   "tel_numbers": [
     "+1-214-744-2490"
   ],
@@ -41,5 +41,7 @@
   "drop_reason": "",
   "scope_reason": "Site bills itself 'Dallas' Leader in Wholesale Natural & Lab Diamonds, Custom Engagement Rings'; founder Arye Fozailoff was a diamond wholesaler in Israel and the family hand-selects diamonds (also a retail showroom carrying Gabriel & Co.) - borderline bridal specialist.",
   "verified": true,
-  "li_backfill": true
+  "li_backfill": true,
+  "li_note": "mariloff.com/our-story: Moshe's son-in-law, Rafi, at the helm; founder Arye Fozailoff",
+  "enriched": true
 }

@@ -16,8 +16,8 @@
   "linkedin_url": "",
   "linkedin_source": "\"Danny Shaftel\" Shaftel Diamonds LinkedIn",
   "contact_person": "Danny Shaftel",
-  "role": "CEO & Co-Owner",
-  "contact_source": "https://www.shafteldiamonds.com/about-shaftel-diamonds/",
+  "role": "CEO",
+  "contact_source": "https://www.shafteldiamonds.com/about-us/",
   "tel_numbers": [
     "713-781-5300"
   ],
@@ -29,18 +29,21 @@
   "building": "",
   "suite": "",
   "trade_memberships": [
-    "GIA GG"
+    "GIA GG",
+    "GIA"
   ],
   "hooks": [
     "since 1978",
     "second generation (Keith retired 2025; Danny & Gaby lead)",
     "began as wholesale loose-diamond supplier",
-    "custom manufacturing"
+    "custom manufacturing",
+    "gia-gg"
   ],
   "is_diamond_trade": true,
   "drop_reason": "",
   "scope_reason": "'Shaftel Diamonds started in 1978 as a wholesale supplier of loose diamonds and precious colored gemstones, as well as a manufacturer of custom engagement rings'; still sells loose diamonds working 'directly with diamond cutters'.",
   "verified": true,
-  "li_note": "candidate /in/shafteldiamond titled 'Danny Shaftel - Shaftel Diamond Co.' not recorded: slug is business name",
-  "li_backfill": true
+  "li_note": "LinkedIn result linkedin.com/in/shafteldiamond (title Danny Shaftel - Shaftel Diamond Co.) not recorded: slug is the business name",
+  "li_backfill": true,
+  "enriched": true
 }
