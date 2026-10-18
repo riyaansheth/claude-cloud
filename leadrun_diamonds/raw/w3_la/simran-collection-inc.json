@@ -2,13 +2,13 @@
  "business": "Simran Collection Inc.",
  "category_as_listed": "Jewelry, Diamonds and jewelry.",
  "phone": "(213) 623-9100",
- "email": "",
- "email_source": "",
+ "email": "uj@simrancollection.com",
+ "email_source": "https://simrancollection.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Ujval Zaveri",
+ "role": "President",
+ "contact_source": "https://www.buzzfile.com/business/Simran-Collection,-Inc.-213-623-9100",
  "website": "https://simrancollection.com",
  "address": "550 South Hill street, Suite 1000, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -18,8 +18,10 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+18559697883"
+ ],
+ "tel_source": "https://simrancollection.com/",
  "socials": [],
  "building": "International Jewelry Center",
  "suite": "Suite 1000",
@@ -34,5 +36,6 @@
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Jewelry (Diamonds and jewelry.); secondary: Diamonds/ Manufacturer",
  "drop_reason": "",
  "li_note": "pass2: no owner name found (simrancollection.com is a coming-soon placeholder; no registry/press hits)",
- "li_backfill": true
+ "li_backfill": true,
+ "enriched": true
 }

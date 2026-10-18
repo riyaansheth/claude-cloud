@@ -9,7 +9,7 @@
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "website": "",
+ "website": "https://www.diamondsforlife.com",
  "address": "550 South Hill Street, Suite 1650, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
  "state": "CA",
@@ -18,8 +18,11 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+1-213-955-5900",
+  "+1-213-810-7333"
+ ],
+ "tel_source": "https://www.diamondsforlife.com/contact/",
  "socials": [],
  "building": "International Jewelry Center",
  "suite": "Suite 1650",
@@ -30,5 +33,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds; secondary: Diamonds",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

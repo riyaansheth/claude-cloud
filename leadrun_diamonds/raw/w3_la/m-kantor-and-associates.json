@@ -4,11 +4,11 @@
  "phone": "(310) 246-2408",
  "email": "kimberly@kantorgems.com",
  "email_source": "https://kantorgems.com/pages/contact",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/marcbookstein/",
+ "linkedin_source": "WebSearch extended: \"Marc Bookstein\" Kantor LinkedIn (profile: Beverly Hills gemologist, wholesale background; ContactOut lists Chief Gemologist at M. Kantor & Associates; AGTA lists Bookstein, Marc as Kantor contact)",
+ "contact_person": "Marc Bookstein",
+ "role": "Chief Gemologist",
+ "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1020399",
  "website": "https://kantorgems.com",
  "address": "9489 Dayton Way, Suite 300, Beverly Hills, California, United States, 90210",
  "city": "Beverly Hills",
@@ -33,11 +33,14 @@
   "DCWC"
  ],
  "hooks": [
-  "estate"
+  "estate",
+  "3rd-generation",
+  "agta"
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Estate Jewelry; secondary: Diamonds",
  "drop_reason": "",
  "li_note": "pass2: no owner name found (1stdibs dealer profile: Beverly Hills, three-generation family firm, early West Coast sightholder, no names; kantorgems.com returned 429)",
- "li_backfill": true
+ "li_backfill": true,
+ "enriched": true
 }
