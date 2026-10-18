@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers"
+ "scope_reason": "unverified: site unreachable (gemcorp.us account suspended); YP Jewelers-Wholesale & Manufacturers at 21600 Greenfield Rd, Oak Park.",
+ "enriched": true
 }

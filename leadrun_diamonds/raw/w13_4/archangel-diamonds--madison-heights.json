@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelers, Jewelry Designers"
+ "scope_reason": "unverified: site unreachable (listed website is a suspended page); YP Jewelers-Wholesale & Manufacturers.",
+ "enriched": true
 }
