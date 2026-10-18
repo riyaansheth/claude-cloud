@@ -2,8 +2,8 @@
   "business": "Kuperman Bros Diamonds USA Inc",
   "category_as_listed": "Jewelry",
   "phone": "(212) 764-3004",
-  "email": "",
-  "email_source": "",
+  "email": "info@kupermanbros.com",
+  "email_source": "https://www.kupermanbros.com/contact",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Udi Kuperman",
@@ -40,5 +40,6 @@
   "scope_reason": "Manufacturer/supplier of round & fancy diamonds .5 to 10+ ct, cutting in Israel & Far East, mostly GIA/HRD certified; offices NYC/London/Israel/HK. Founded by Shlomo Kuperman with brother Udi (D&B lists Udi as CEO of the Ltd entity). Email on contact page not seen verbatim.",
   "drop_reason": "",
   "li_note": "no linkedin.com/in result for Udi Kuperman; D&B lists him CEO of Kuperman Brothers Diamonds Ltd (Ramat Gan)",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

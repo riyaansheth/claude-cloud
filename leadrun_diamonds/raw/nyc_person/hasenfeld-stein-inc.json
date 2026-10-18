@@ -18,8 +18,11 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.linkedin.com/in/hertz-hasenfeld-3547a1a2/",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "212-575-0290",
+    "800-223-3315"
+  ],
+  "tel_source": "https://hasenfeld-stein.com/contact-hasenfeld-stein/",
   "socials": [],
   "building": "",
   "suite": "",
@@ -38,5 +41,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "New York-based diamond manufacturer and wholesaler founded 1948, cuts diamonds in NY and China; FireMark brand; DMIA VP.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

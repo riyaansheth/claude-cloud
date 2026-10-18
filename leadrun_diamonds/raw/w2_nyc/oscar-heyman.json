@@ -2,14 +2,14 @@
   "business": "Oscar Heyman",
   "category_as_listed": "",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "concierge@oscarheyman.com",
+  "email_source": "https://oscarheyman.com/",
   "linkedin_url": "https://www.linkedin.com/in/lewis-heyman-6ab8414/",
   "linkedin_source": "WebSearch extended: \"Tom Heyman\" \"Oscar Heyman\" LinkedIn (title \"Lewis Heyman - Oscar Heyman\")",
   "contact_person": "Lewis Heyman",
   "role": "President",
   "contact_source": "https://nationaljeweler.com/articles/13629-oscar-heyman-employee-celebrates-60-years-with-the-company",
-  "website": "",
+  "website": "https://oscarheyman.com",
   "address": "",
   "city": "New York",
   "state": "NY",
@@ -20,7 +20,10 @@
   "source_url": "https://nationaljeweler.com/articles/13629-oscar-heyman-employee-celebrates-60-years-with-the-company",
   "tel_numbers": [],
   "tel_source": "",
-  "socials": [],
+  "socials": [
+    "https://www.facebook.com/OscarHeymanJewelry/",
+    "https://www.instagram.com/oscarheyman/"
+  ],
   "building": "",
   "suite": "",
   "trade_memberships": [
@@ -32,5 +35,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "NYC fine jewelry manufacturer founded 1912 ('jeweler's jeweler'); Tom and Lewis Heyman co-presidents, Adam CEO; Tom Heyman on DMIA board. No LinkedIn for Tom; Lewis's profile used.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

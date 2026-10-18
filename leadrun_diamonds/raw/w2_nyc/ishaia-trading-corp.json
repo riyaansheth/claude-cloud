@@ -10,7 +10,7 @@
   "role": "President",
   "contact_source": "https://www.gia.edu/gems-gemology/summer-2025-gemnews-ishaia-gol",
   "website": "https://www.houseofgol.com",
-  "address": "580 Fifth Avenue",
+  "address": "579 Fifth Avenue, Suite 1150",
   "city": "New York",
   "state": "NY",
   "market": "New York, NY",
@@ -18,8 +18,11 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.gia.edu/gems-gemology/summer-2025-gemnews-ishaia-gol",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "+1 (212) 371-6990",
+    "9172382220"
+  ],
+  "tel_source": "https://www.houseofgol.com/contact-2",
   "socials": [],
   "building": "580 Fifth Avenue",
   "suite": "",
@@ -34,5 +37,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "GIA G&G: diamond trader, owner of Ishaia Trading Corp in NY since 1970s; sells large diamonds via House of GOL (Fifth Ave showroom, site gives 579/580 Fifth Ave).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

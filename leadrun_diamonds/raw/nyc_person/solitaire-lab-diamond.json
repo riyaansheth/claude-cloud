@@ -18,8 +18,11 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://solitairelabdiamond.com/",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "+1 (551) 229-6452",
+    "+1 (551) 378-8328"
+  ],
+  "tel_source": "https://solitairelabdiamond.com/contact",
   "socials": [],
   "building": "",
   "suite": "",
@@ -32,5 +35,6 @@
   "scope_reason": "Site title: Wholesale Lab Grown Diamond Jewelry Supplier in New York, USA.",
   "drop_reason": "",
   "li_note": "no owner name found",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

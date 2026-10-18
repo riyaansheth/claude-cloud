@@ -2,14 +2,14 @@
   "business": "Julius Klein Diamonds",
   "category_as_listed": "",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "info@juliusklein.com",
+  "email_source": "https://www.juliusklein.com/contact-us",
   "linkedin_url": "https://www.linkedin.com/in/mark-j-klein-03a014210/",
   "linkedin_source": "\"Mark Klein\" \"Julius Klein\" diamonds LinkedIn",
   "contact_person": "Mark Klein",
   "role": "",
   "contact_source": "https://katerinaperez.com/articles/julius-klein-modern-diamond-legacy",
-  "website": "",
+  "website": "https://www.juliusklein.com",
   "address": "",
   "city": "New York",
   "state": "NY",
@@ -18,9 +18,15 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://katerinaperez.com/articles/julius-klein-modern-diamond-legacy",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "212-488-6800"
+  ],
+  "tel_source": "https://www.juliusklein.com/contact-us",
+  "socials": [
+    "https://www.facebook.com/JuliusKleinDiamonds/",
+    "https://www.instagram.com/juliuskleindiamonds/",
+    "https://x.com/juliusklein1948"
+  ],
   "building": "World Diamond Tower (per Dec 2025 article photo caption)",
   "suite": "",
   "trade_memberships": [],
@@ -33,5 +39,6 @@
   "scope_reason": "Diamond manufacturing dynasty led by Mark Klein; Dec-2025 article places its office in the World Diamond Tower in the diamond district. Exact address/suite not seen (2023 release says it moved out of 580 Fifth Ave Suite 500).",
   "drop_reason": "",
   "li_note": "LinkedIn title: Mark J. Klein - Julius Klein Diamonds",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }
