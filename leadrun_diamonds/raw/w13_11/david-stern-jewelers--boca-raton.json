@@ -1,0 +1,42 @@
+{
+  "business": "David Stern Jewelers",
+  "category_as_listed": "Jewelry Designers, Diamond Buyers, Jewelers",
+  "phone": "(561) 994-3330",
+  "email": "info@davidsternjewelers.com",
+  "email_source": "https://www.davidsternjewelers.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "David Stern",
+  "role": "Owner",
+  "contact_source": "https://www.davidsternjewelers.com/",
+  "website": "https://www.davidsternjewelers.com",
+  "address": "21073 Powerline Rd",
+  "city": "Boca Raton",
+  "state": "FL",
+  "market": "Boca Raton, FL",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "16",
+  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/david-stern-jewelers-496623781",
+  "tel_numbers": [
+    "561-994-3330"
+  ],
+  "tel_source": "https://www.davidsternjewelers.com/about-us/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1970",
+    "family-owned",
+    "estate-diamond-buyer",
+    "lab-grown",
+    "natural",
+    "gia"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: buys diamonds ('Loose stones or set pieces'), custom design by David Stern, master jeweler and gemologist; natural and lab-grown diamonds; since 1970",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

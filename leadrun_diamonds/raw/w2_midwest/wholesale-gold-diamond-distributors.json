@@ -1,7 +1,7 @@
 {
   "business": "Wholesale Gold & Diamond Distributors",
   "category_as_listed": "Jewelry",
-  "phone": "",
+  "phone": "(763) 535-8000",
   "email": "",
   "email_source": "",
   "linkedin_url": "https://www.linkedin.com/in/ron-silver-4a403617/",
@@ -31,5 +31,6 @@
   "is_diamond_trade": true,
   "scope_reason": "Wholesale diamond/gold distributor with no storefront, est. 1984; older listings at 10 S 5th St Ste 5 Minneapolis; also does repair and buys gold (mixed)",
   "drop_reason": "",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

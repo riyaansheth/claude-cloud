@@ -1,0 +1,41 @@
+{
+  "business": "D'vara Jewelers",
+  "category_as_listed": "Jewelers",
+  "phone": "(561) 999-9007",
+  "email": "arthur@dvarajewelers.com",
+  "email_source": "https://www.dvarajewelers.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Arthur Asinmaz",
+  "role": "Owner",
+  "contact_source": "https://www.dvarajewelers.com/",
+  "website": "https://www.dvarajewelers.com",
+  "address": "100 Plaza Real S",
+  "city": "Boca Raton",
+  "state": "FL",
+  "market": "Boca Raton, FL",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "19",
+  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/dvara-jewelers-22877221",
+  "tel_numbers": [
+    "561.999.9007"
+  ],
+  "tel_source": "https://www.dvarajewelers.com/",
+  "socials": [
+    "https://www.facebook.com/DVaraJewelers/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "custom-design",
+    "estate"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'fine diamond and semi-precious jewelry designed by ... Arthur Asinmaz, Owner and Master Craftsman'; custom design, estate jewelry",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

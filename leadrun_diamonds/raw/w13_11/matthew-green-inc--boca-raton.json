@@ -1,0 +1,40 @@
+{
+  "business": "Matthew Green Inc",
+  "category_as_listed": "Diamond Buyers, Jewelry Buyers",
+  "phone": "(561) 716-0377",
+  "email": "Sales@MatthewGreenJewelers.com",
+  "email_source": "https://matthewgreenjewelers.com/contact-us/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Matthew Green",
+  "role": "President",
+  "contact_source": "https://matthewgreenjewelers.com/about-us/",
+  "website": "http://matthewgreenjewelers.com",
+  "address": "",
+  "city": "Boca Raton",
+  "state": "FL",
+  "market": "Boca Raton, FL",
+  "lead_origin": "YellowPages",
+  "rating": "5",
+  "reviews": "1",
+  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/matthew-green-inc-13324548",
+  "tel_numbers": [
+    "561.716.0377"
+  ],
+  "tel_source": "https://matthewgreenjewelers.com/contact-us/",
+  "socials": [
+    "http://www.instagram.com/matthewgreenjewelers"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "estate-diamond-buyer",
+    "30-years"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site title: 'Buyers & Sellers of Luxury Goods ... Diamond Buyers & Wholesalers'; 'We specialize in diamonds & custom settings' for 30 years",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}
