@@ -1,7 +1,7 @@
 {
   "business": "Intergem Fine Jewelry",
   "category_as_listed": "",
-  "phone": "",
+  "phone": "(214) 742-3771",
   "email": "",
   "email_source": "",
   "linkedin_url": "",
@@ -9,8 +9,8 @@
   "contact_person": "",
   "role": "",
   "contact_source": "",
-  "website": "",
-  "address": "2050 North Stemmons Freeway, Suite 7503, Dallas, TX",
+  "website": "https://www.intergemfinejewelry.com",
+  "address": "2050 N Stemmons Fwy",
   "city": "Dallas",
   "state": "TX",
   "market": "Dallas, TX",
@@ -22,13 +22,17 @@
   "tel_source": "",
   "socials": [],
   "building": "World Trade Center, Dallas Market Center (Diamond District)",
-  "suite": "Suite 7503",
+  "suite": "WTC 7503",
   "trade_memberships": [],
   "hooks": [
     "since-1980",
-    "family-owned"
+    "family-owned",
+    "gia",
+    "wholesale"
   ],
   "is_diamond_trade": true,
   "scope_reason": "Exclusive jeweler in DMC Diamond District (trade-only wholesale marketplace); family owned since 1980.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "phone_source": "https://www.yellowpages.com/dallas-tx/mip/intergem-1856224",
+  "enriched": true
 }
