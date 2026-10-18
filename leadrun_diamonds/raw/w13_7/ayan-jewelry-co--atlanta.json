@@ -1,0 +1,43 @@
+{
+ "business": "Ayan Jewelry Co",
+ "category_as_listed": "",
+ "phone": "(678) 972-5338",
+ "email": "info@AyanJewelryCo.com",
+ "email_source": "https://ayanjewelryco.com/contact/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://ayanjewelryco.com",
+ "address": "",
+ "city": "Atlanta",
+ "state": "GA",
+ "market": "Atlanta, GA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://ayanjewelryco.com/what-we-buy/diamonds/",
+ "tel_numbers": [
+  "+16789725338"
+ ],
+ "tel_source": "https://ayanjewelryco.com/contact/",
+ "socials": [
+  "https://www.facebook.com/ayanjewelry/",
+  "https://www.instagram.com/ayanjewelry/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "estate-buyer",
+  "natural",
+  "importer",
+  "cutter"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site Our Story: began importing and cutting colored stones for retail jewelers, then 'buying and selling natural diamonds and estate jewelry from dealers to dealers'; buys loose diamonds; GIA GGs on staff.",
+ "drop_reason": ""
+}
