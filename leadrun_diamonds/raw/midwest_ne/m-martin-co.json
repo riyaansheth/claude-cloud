@@ -1,37 +1,43 @@
 {
-  "business": "M. Martin & Co.",
-  "category_as_listed": "Jewelers",
-  "phone": "",
-  "email": "",
-  "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Stan Perkins",
-  "role": "Owner",
-  "contact_source": "https://business.lgbtcc.com/list/member/m-martin-co-793",
-  "website": "",
-  "address": "5 S Wabash Ave",
-  "city": "Chicago",
-  "state": "IL",
-  "market": "Chicago, IL",
-  "lead_origin": "Building Directory",
-  "rating": "",
-  "reviews": "",
-  "source_url": "https://business.lgbtcc.com/list/member/m-martin-co-793",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
-  "building": "Mallers Building (Jewelers Center)",
-  "suite": "",
-  "trade_memberships": [
-    "GIA"
-  ],
-  "hooks": [
-    "gia-gg",
-    "since-1939",
-    "natural"
-  ],
-  "is_diamond_trade": true,
-  "scope_reason": "Listing describes it as one of the oldest firms in the Mallers Jewelers Center specializing in diamonds; owner a GIA Graduate Gemologist (WeddingWire: est. 1939).",
-  "drop_reason": ""
+ "business": "M. Martin & Co.",
+ "category_as_listed": "Jewelers",
+ "phone": "312-263-4957",
+ "email": "mmartinandcompany@gmail.com",
+ "email_source": "https://www.mmartinjewelry.com/",
+ "linkedin_url": "https://www.linkedin.com/in/stan-perkins-g-g-01a4a846/",
+ "linkedin_source": "WebSearch extended: \"Stan Perkins\" \"M. Martin\" jewelers Chicago LinkedIn -> \"Stan Perkins, G.G. - Owner & Graduate Gemologist - M. Martin & Co.\"",
+ "contact_person": "Stan Perkins",
+ "role": "Owner",
+ "contact_source": "https://www.mmartinjewelry.com/ (\"STAN PERKINS, OWNER\")",
+ "website": "https://www.mmartinjewelry.com",
+ "address": "5 S Wabash Ave",
+ "city": "Chicago",
+ "state": "IL",
+ "market": "Chicago, IL",
+ "lead_origin": "Building Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://business.lgbtcc.com/list/member/m-martin-co-793",
+ "tel_numbers": [
+  "312-263-4957"
+ ],
+ "tel_source": "https://www.mmartinjewelry.com/",
+ "socials": [
+  "https://www.facebook.com/mmartinandco",
+  "https://www.instagram.com/mmartinandco/"
+ ],
+ "building": "Mallers Building (Jewelers Center)",
+ "suite": "Suite 2104A",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "gia-gg",
+  "since-1939",
+  "natural"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Listing describes it as one of the oldest firms in the Mallers Jewelers Center specializing in diamonds; owner a GIA Graduate Gemologist (WeddingWire: est. 1939).",
+ "drop_reason": "",
+ "enriched": true
 }

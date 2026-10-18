@@ -1,0 +1,39 @@
+{
+ "business": "National Diamond Syndicate",
+ "category_as_listed": "Jewelers-Wholesale & Manufacturers, Jewelry Supply Wholesalers & Manufacturers",
+ "phone": "(312) 782-0365",
+ "website": "https://www.nationaldiamond.com",
+ "address": "67 E Madison St Ste 1610",
+ "city": "Chicago",
+ "state": "IL",
+ "market": "Chicago, IL",
+ "rating": "",
+ "reviews": "74",
+ "source_url": "https://www.yellowpages.com/chicago-il/mip/national-diamond-syndicate-6532947",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/keith-zimmerman-92078111/",
+ "linkedin_source": "WebSearch extended: \"National Diamond Syndicate\" Chicago president owner LinkedIn -> \"Keith Zimmerman - President - National Diamond Syndicate\"",
+ "contact_person": "Keith Zimmerman",
+ "role": "President",
+ "contact_source": "https://www.linkedin.com/in/keith-zimmerman-92078111/",
+ "tel_numbers": [
+  "312-782-0365",
+  "800-621-5057"
+ ],
+ "tel_source": "https://nationaldiamond.com/",
+ "socials": [],
+ "building": "",
+ "suite": "Ste 1610",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1953",
+  "loose-diamonds",
+  "manufacturer"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Own site: \"National Diamond Syndicate has been an industry leader since 1953\" providing \"loose diamonds as well as manufactured jewelry\" (YP kill-list hit on Jewelry Supply category was a false positive).",
+ "enriched": true
+}

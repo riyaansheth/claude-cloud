@@ -1,0 +1,44 @@
+{
+ "business": "Reuven Gitter Jewelers",
+ "category_as_listed": "Jewelers",
+ "phone": "(312) 263-1513",
+ "email": "contact@reuvengitter.com",
+ "email_source": "https://reuvengitter.com/about/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://reuvengitter.com",
+ "address": "5 S Wabash Ave # 1708",
+ "city": "Chicago",
+ "state": "IL",
+ "market": "Chicago, IL",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/search?search_terms=jewelers&geo_location_terms=Chicago%2C+IL+60603",
+ "tel_numbers": [
+  "3122631513",
+  "7123399294"
+ ],
+ "tel_source": "https://reuvengitter.com/, https://reuvengitter.com/about/",
+ "socials": [
+  "https://www.facebook.com/ReuvenGitter/"
+ ],
+ "building": "Mallers Building",
+ "suite": "# 1708",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "since-1986",
+  "importer",
+  "loose-diamonds",
+  "gia-gg"
+ ],
+ "is_diamond_trade": "",
+ "scope_reason": "Own About page: \"As a direct importer of diamonds\" with \"considerable loose diamond inventory\" hand picked by the owner; on Jeweler's Row since 1986; on-site GIA Graduate Gemologist.",
+ "drop_reason": "",
+ "enriched": true
+}

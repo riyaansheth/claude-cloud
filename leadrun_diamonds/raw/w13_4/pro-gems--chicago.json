@@ -1,0 +1,41 @@
+{
+ "business": "Pro-Gems",
+ "category_as_listed": "Jewelers, Jewelry Designers",
+ "phone": "(312) 332-2642",
+ "email": "mark@progemsltd.com",
+ "email_source": "http://www.progemsltd.com/contact-us",
+ "linkedin_url": "https://www.linkedin.com/in/markrengel/",
+ "linkedin_source": "WebSearch extended: \"Mark Engel\" \"Pro Gems\" OR \"Professional Gems\" Chicago LinkedIn -> \"Mark R. Engel - Pro-Gems Jewelers,Ltd.\" (also Samir Dhanani - Owner at Pro Gems Ltd.: https://www.linkedin.com/in/samirdhanani/)",
+ "contact_person": "Mark Engel",
+ "role": "Owner",
+ "contact_source": "http://www.progemsltd.com/contact-us (name+email); owner per Yelp/LinkedIn snippet",
+ "website": "http://www.progemsltd.com",
+ "address": "5 S Wabash Ave",
+ "city": "Chicago",
+ "state": "IL",
+ "market": "Chicago, IL",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/search?search_terms=jewelers&geo_location_terms=Chicago%2C+IL+60603",
+ "tel_numbers": [
+  "312-236-9706"
+ ],
+ "tel_source": "http://www.progemsltd.com/contact-us",
+ "socials": [
+  "http://instagram.com/progemsltd",
+  "https://www.facebook.com/pages/Professional-Gems-Jewelry-INC/334378626644924"
+ ],
+ "building": "Mallers Building",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "manufacturer",
+  "gia-gg",
+  "custom"
+ ],
+ "is_diamond_trade": "",
+ "scope_reason": "Own site (Professional Gems Jewelry): diamond and custom jewelry maker on Wabash that \"creates all of its jewelry by hand\"; staff incl. Samir Dhanani, Graduate Gemologist. Borderline manufacturer/bridal.",
+ "drop_reason": "",
+ "enriched": true
+}
