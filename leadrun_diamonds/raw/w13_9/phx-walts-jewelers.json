@@ -1,0 +1,13 @@
+{
+  "business": "Walt's Jewelers",
+  "source_url": "https://waltsjewelers.com/",
+  "drop_reason": "retail-only",
+  "scope_reason": "Third-generation retail jeweler since 1956 (CAD design, cash for gold); no wholesale/loose diamond trade evidence.",
+  "market": "Phoenix, AZ",
+  "city": "Gilbert",
+  "state": "AZ",
+  "website": "https://waltsjewelers.com",
+  "is_diamond_trade": false,
+  "enriched": true,
+  "verified": true
+}

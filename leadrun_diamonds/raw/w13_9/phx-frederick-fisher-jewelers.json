@@ -1,0 +1,13 @@
+{
+  "business": "Frederick Fisher Jewelers",
+  "source_url": "https://ffjewelers.com/",
+  "drop_reason": "retail-only",
+  "scope_reason": "Flagstaff Mall family retail store with Glendale showroom; sells finished bridal, watches, clocks; no loose-stone sourcing evidence.",
+  "market": "Phoenix, AZ",
+  "city": "Glendale",
+  "state": "AZ",
+  "website": "https://ffjewelers.com",
+  "is_diamond_trade": false,
+  "enriched": true,
+  "verified": true
+}
