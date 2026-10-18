@@ -6,7 +6,7 @@
   "address": "805 Sansom St",
   "city": "Philadelphia",
   "state": "PA",
-  "market": "Wilmington, DE",
+  "market": "Philadelphia, PA",
   "rating": "1",
   "reviews": "2",
   "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/max-weiner-fine-jewelers-11611631",
@@ -38,5 +38,6 @@
   "verified": true,
   "dup_of": "raw/yp/max-weiner-fine-jewelers--philadelphia.json",
   "li_note": "existing linkedin_url kept",
-  "li_backfill": true
+  "li_backfill": true,
+  "market_before_fix": "Wilmington, DE"
 }

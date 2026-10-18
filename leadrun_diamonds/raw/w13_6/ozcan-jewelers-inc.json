@@ -1,0 +1,39 @@
+{
+  "business": "Ozcan Jewelers Inc",
+  "category_as_listed": "Jewelry Stores",
+  "phone": "(617) 338-6844",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Varujan Ozcan",
+  "role": "President",
+  "contact_source": "https://www.manta.com/c/mmd38v7/ozcan-jewelers",
+  "website": "",
+  "address": "387 Washington St, Suite 517",
+  "city": "Boston",
+  "state": "MA",
+  "market": "Boston, MA",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bostonjewelers.club/our-members",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "Ste 517",
+  "trade_memberships": [
+    "Boston Jewelers Club"
+  ],
+  "hooks": [
+    "manufacturer",
+    "wholesale",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Directory descriptions (FOB/industrynet via WebSearch): wholesale jewelry manufacturer in Boston making diamond engagement rings and bands, incl. GIA-certified diamonds; members Varujan & Hilda Ozcan in Boston Jewelers Club. No own website found.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

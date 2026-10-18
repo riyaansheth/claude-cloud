@@ -1,43 +1,44 @@
 {
- "business": "Alan Paul LTD",
- "category_as_listed": "Diamonds-Wholesale, Diamond Buyers",
- "phone": "(215) 829-4431",
- "email": "AlanPaulLtd@aol.com",
- "email_source": "https://jrow.org/alan-paul-ltd/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "website": "https://www.alanpauldiamonds.com",
- "address": "732 Sansom St, Philadelphia, PA 19106",
- "city": "Philadelphia",
- "state": "PA",
- "market": "Philadelphia, PA",
- "lead_origin": "YellowPages",
- "rating": "",
- "reviews": "",
- "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/alan-paul-ltd-15784668",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [
-  "https://www.facebook.com/alanpauldiamonds/"
- ],
- "building": "Jewelers Row",
- "suite": "",
- "trade_memberships": [
-  "Jewelers Row District"
- ],
- "hooks": [
-  "broker",
-  "diamond-buyer",
-  "natural",
-  "fancy-color",
-  "lab-grown"
- ],
- "is_diamond_trade": true,
- "scope_reason": "jrow.org: 'premiere diamond broker and buyer' in white, natural colored and lab-grown diamonds; YP lists Diamonds-Wholesale. jrow gives 715 Sansom St Suite 1R; YP gives 732 Sansom St. Website returned HTTP 506 (down).",
- "drop_reason": "",
- "li_note": "no owner name found; no linkedin found",
- "li_backfill": true
+  "business": "Alan Paul LTD",
+  "category_as_listed": "Diamonds-Wholesale, Diamond Buyers",
+  "phone": "(215) 829-4431",
+  "email": "AlanPaulLtd@aol.com",
+  "email_source": "https://jrow.org/alan-paul-ltd/",
+  "linkedin_url": "https://www.linkedin.com/in/alan-paul-feinstein-686a674a/",
+  "linkedin_source": "raw_people/p_0/alan-paul-feinstein-alan.json (WebSearch extended, allowed_domains linkedin.com: Alan Paul Ltd diamonds Philadelphia; title Jewelry Designer & Diamond Broker)",
+  "contact_person": "Alan Paul Feinstein",
+  "role": "Owner",
+  "contact_source": "https://www.linkedin.com/in/alan-paul-feinstein-686a674a/",
+  "website": "https://www.alanpauldiamonds.com",
+  "address": "732 Sansom St, Philadelphia, PA 19106",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/alan-paul-ltd-15784668",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/alanpauldiamonds/"
+  ],
+  "building": "Jewelers Row",
+  "suite": "",
+  "trade_memberships": [
+    "Jewelers Row District"
+  ],
+  "hooks": [
+    "broker",
+    "diamond-buyer",
+    "natural",
+    "fancy-color",
+    "lab-grown"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "jrow.org: 'premiere diamond broker and buyer' in white, natural colored and lab-grown diamonds; YP lists Diamonds-Wholesale. jrow gives 715 Sansom St Suite 1R; YP gives 732 Sansom St. Website returned HTTP 506 (down).",
+  "drop_reason": "",
+  "li_note": "no owner name found; no linkedin found",
+  "li_backfill": true,
+  "enriched": true
 }

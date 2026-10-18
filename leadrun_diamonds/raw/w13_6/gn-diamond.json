@@ -1,0 +1,50 @@
+{
+  "business": "GN Diamond",
+  "category_as_listed": "Philadelphia Diamond Wholesaler",
+  "phone": "(800) 724-8810",
+  "email": "sales@gndiamond.com",
+  "email_source": "https://www.gndiamond.com/contact-us",
+  "linkedin_url": "https://www.linkedin.com/in/asaf-herskovitz-6b402079/",
+  "linkedin_source": "raw_people/p_0/asaf-herskovitz-gn.json (WebSearch extended, allowed_domains linkedin.com: GN Diamond Philadelphia diamonds); CEO title corroborated by ZoomInfo in WebSearch \"Asaf Herskovitz\" GN Diamond LinkedIn",
+  "contact_person": "Asaf Herskovitz",
+  "role": "CEO",
+  "contact_source": "https://www.zoominfo.com/c/gn-diamond/50694589",
+  "website": "https://www.gndiamond.com",
+  "address": "800 Chestnut St, Suite 206",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.gndiamond.com/our-story",
+  "tel_numbers": [
+    "(800) 724-8810"
+  ],
+  "tel_source": "https://www.gndiamond.com/contact-us",
+  "socials": [
+    "https://www.facebook.com/gndiamond/",
+    "https://www.instagram.com/gn_diamond/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RapNet",
+    "GIA",
+    "IGI"
+  ],
+  "hooks": [
+    "wholesale",
+    "trade-only",
+    "natural",
+    "lab-grown",
+    "cutter",
+    "manufacturer",
+    "large-inventory"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: wholesale diamond company serving 4,500+ independent retailers; \"We do not sell to the public\"; 9,000+ natural and 8,000+ lab-created loose diamonds; LinkedIn company page calls it a direct cutter and manufacturer.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

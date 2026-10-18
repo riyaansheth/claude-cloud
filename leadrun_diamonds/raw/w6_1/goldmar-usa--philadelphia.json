@@ -6,7 +6,7 @@
   "address": "732 Sansom St Ste B",
   "city": "Philadelphia",
   "state": "PA",
-  "market": "Wilmington, DE",
+  "market": "Philadelphia, PA",
   "rating": "5",
   "reviews": "11",
   "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/goldmar-usa-455261657",
@@ -35,5 +35,6 @@
   "verified": true,
   "dup_of": "raw/yp/goldmar-usa--philadelphia.json",
   "li_note": "Manta lists him CEO; no linkedin.com/in found. goldmarusa.com SSL error",
-  "li_backfill": true
+  "li_backfill": true,
+  "market_before_fix": "Wilmington, DE"
 }
