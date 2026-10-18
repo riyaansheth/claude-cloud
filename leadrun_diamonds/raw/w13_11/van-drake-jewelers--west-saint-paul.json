@@ -1,0 +1,42 @@
+{
+  "business": "Van Drake Jewelers",
+  "category_as_listed": "Diamonds",
+  "phone": "(651) 457-4407",
+  "email": "contactus@vandrakejewelers.com",
+  "email_source": "https://vandrakejewelers.com/pages/contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://vandrakejewelers.com",
+  "address": "1901 Robert St S",
+  "city": "West Saint Paul",
+  "state": "MN",
+  "market": "Minneapolis, MN",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/minneapolis-mn/diamonds",
+  "tel_numbers": [
+    "651-457-4407"
+  ],
+  "tel_source": "https://vandrakejewelers.com/",
+  "socials": [
+    "https://www.facebook.com/VanDrakeJewelers"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "lab-grown",
+    "natural",
+    "estate",
+    "custom-design"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Borderline retail: site offers \"Search by Loose Diamonds: God Made Diamonds / Man Made Diamonds\", Estate Services, Custom Jewelry, \"We Buy Gold\". YP shows company name Ishii Inc. No owner name found.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

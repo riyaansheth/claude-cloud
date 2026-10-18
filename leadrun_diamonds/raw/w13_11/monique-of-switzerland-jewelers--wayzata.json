@@ -1,0 +1,43 @@
+{
+  "business": "Monique of Switzerland Jewelers",
+  "category_as_listed": "Diamonds",
+  "phone": "(952) 835-2235",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Dean Moodie",
+  "role": "CEO",
+  "contact_source": "https://www.bbb.org/us/mn/wayzata/profile/jewelry-stores/monique-of-switzerland-jewelers-0704-96062648 (per WebSearch result); site https://moniqueofswitzerlandjewelers.com/pages/about-us names \"Dean, co-owner\"",
+  "website": "https://moniqueofswitzerlandjewelers.com",
+  "address": "728 Lake St E",
+  "city": "Wayzata",
+  "state": "MN",
+  "market": "Minneapolis, MN",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/minneapolis-mn/diamonds?page=2",
+  "tel_numbers": [
+    "+19528352235"
+  ],
+  "tel_source": "https://moniqueofswitzerlandjewelers.com/",
+  "socials": [
+    "https://www.facebook.com/MoniqueofSwitzerlandJewelers",
+    "https://www.instagram.com/moniqueofswitzerlandjewelers/",
+    "https://x.com/moniquejeweler"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "diamond-broker",
+    "custom-design",
+    "family-owned"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "About page: \"Dean, co-owner and a seasoned expert in the diamond industry with 20 years of experience... sourcing only the finest diamonds\"; Chamber listing calls him \"Diamond Broker & Designer\". No email on site; no LinkedIn for Dean found.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

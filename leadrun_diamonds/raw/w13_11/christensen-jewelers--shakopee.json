@@ -1,0 +1,45 @@
+{
+  "business": "Christensen Jewelers",
+  "category_as_listed": "Diamonds",
+  "phone": "(952) 322-7344",
+  "email": "contactus@christensenjewelers.com",
+  "email_source": "https://christensenjewelers.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Alex Christensen",
+  "role": "Owner",
+  "contact_source": "https://www.manta.com/c/mx4grlq/christensen-jewelers (seen in WebSearch result)",
+  "website": "https://christensenjewelers.com",
+  "address": "8076 Old Carriage Ct",
+  "city": "Shakopee",
+  "state": "MN",
+  "market": "Minneapolis, MN",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/minneapolis-mn/diamonds?page=2",
+  "tel_numbers": [
+    "(952) 322-7344",
+    "(715) 486-0607"
+  ],
+  "tel_source": "https://christensenjewelers.com/pages/contact-us",
+  "socials": [
+    "https://www.facebook.com/christensenjewelers",
+    "https://www.pinterest.com/christensenco"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "5th-generation",
+    "since-1898",
+    "natural",
+    "lab-grown",
+    "antwerp-sourced"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Homepage: \"HAND-PICKED DIAMONDS FROM ANTWERP, BELGIUM\"; \"fifth-generation family of jewelers\" with on-premises custom work and graduate gemologist. Note: (715) 486-0607 is their Marshfield WI store, not a personal direct line.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

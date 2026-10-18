@@ -6,10 +6,10 @@
   "email_source": "https://intljewelers.com/boca-raton",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
-  "website": "",
+  "contact_person": "Elana Oami",
+  "role": "President",
+  "contact_source": "https://www.bbb.org/us/fl/boca-raton/profile/jewelry-designers/made-for-love-inc-0633-90367159",
+  "website": "https://madeforlovejewelry.com",
   "address": "8221 Glades Rd",
   "city": "Boca Raton",
   "state": "FL",
@@ -18,15 +18,24 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://intljewelers.com/boca-raton",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "561-477-1771"
+  ],
+  "tel_source": "https://madeforlovejewelry.com/",
+  "socials": [
+    "https://twitter.com/MadeForLoveInc",
+    "https://www.facebook.com/MadeForLoveInc/",
+    "https://www.instagram.com/madeforloveinc/"
+  ],
   "building": "International Jewelers Exchange",
   "suite": "Booth C7 & D2",
   "trade_memberships": [],
   "hooks": [
     "wholesale",
-    "estate-diamond-buyer"
+    "estate-diamond-buyer",
+    "manufacturer",
+    "since-1976",
+    "cutter"
   ],
   "is_diamond_trade": true,
   "scope_reason": "IJE Boca directory: 'We are Custom Jewelry Designers, Diamond Wholesalers, and Estate Buyers'",

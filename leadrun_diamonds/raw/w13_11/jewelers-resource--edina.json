@@ -1,0 +1,39 @@
+{
+  "business": "Jewelers Resource",
+  "category_as_listed": "Jewelers-Wholesale & Manufacturers",
+  "phone": "(952) 888-5278",
+  "email": "stephanie@jrcompany.com",
+  "email_source": "https://www.jrcompany.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.jrcompany.com",
+  "address": "5200 Wilson Road Suite 150",
+  "city": "Edina",
+  "state": "MN",
+  "market": "Minneapolis, MN",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/minneapolis-mn/jewelers-wholesale-manufacturers",
+  "tel_numbers": [
+    "(800) 328-2947"
+  ],
+  "tel_source": "https://www.jrcompany.com/",
+  "socials": [],
+  "building": "",
+  "suite": "Suite 150",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale",
+    "trade-only",
+    "diamond-jewelry"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: \"Wholesale Jeweler | Jewelers Resource ... Closed to the General Public. Call for Product Availability and Ordering\"; lines include Diamond Solitaires, Diamond Necklaces, Engagement & Ring Settings (sales incentive/award programs). YP address 8200 Humboldt Ave S (older); site address 5200 Wilson Rd Ste 150 Edina. Site number is toll-free 800 line, differs from YP 952 number. Owner not found.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

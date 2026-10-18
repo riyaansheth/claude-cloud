@@ -1,0 +1,44 @@
+{
+  "business": "Filigree Jewelers",
+  "category_as_listed": "Diamonds",
+  "phone": "(612) 486-2290",
+  "email": "info@filigreejewelers.com",
+  "email_source": "https://filigreejewelers.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Catherine Thies",
+  "role": "Owner",
+  "contact_source": "https://filigreejewelers.com/pages/our-staff (Catherine, Owner); surname via https://northloop.org/north-loops-filigree-jewelers-offers-one-kind-finds/",
+  "website": "https://filigreejewelers.com",
+  "address": "210 N 2nd St Ste 101",
+  "city": "Minneapolis",
+  "state": "MN",
+  "market": "Minneapolis, MN",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/minneapolis-mn/diamonds",
+  "tel_numbers": [
+    "612-486-2290"
+  ],
+  "tel_source": "https://filigreejewelers.com/pages/contact-us",
+  "socials": [
+    "https://www.facebook.com/FiligreeJewelers/",
+    "https://www.instagram.com/filigreejewelers/",
+    "https://www.tiktok.com/@filigree_jewelers"
+  ],
+  "building": "",
+  "suite": "Ste 101",
+  "trade_memberships": [],
+  "hooks": [
+    "estate",
+    "vintage",
+    "2nd-generation",
+    "gemologist-on-site"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Estate/vintage diamond jeweler: \"Minneapolis Vintage + Estate Jeweler\"; Catherine described as \"second generation estate jeweler\"; Brent Thies (co-owner) lead appraiser. LinkedIn company page lists the owners but no personal /in/ URL surfaced.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}
