@@ -1,0 +1,46 @@
+{
+  "business": "Robert Foote Jeweler",
+  "category_as_listed": "Jewelers",
+  "phone": "(612) 929-2279",
+  "email": "robert@rfjeweler.com",
+  "email_source": "https://rfjeweler.com/contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Robert Foote",
+  "role": "Owner",
+  "contact_source": "https://rfjeweler.com/about",
+  "website": "https://rfjeweler.com",
+  "address": "5049 France Ave S",
+  "city": "Minneapolis",
+  "state": "MN",
+  "market": "Minneapolis, MN",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/edina-mn/jewelers",
+  "tel_numbers": [
+    "612-840-0239",
+    "(816) 814-0634"
+  ],
+  "tel_source": "https://rfjeweler.com/contact",
+  "socials": [
+    "https://www.facebook.com/pages/Robert-Foote-Jeweler-Official-Site/98904487198"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA",
+    "AGS"
+  ],
+  "hooks": [
+    "custom-design",
+    "manufacturer",
+    "certified-stones",
+    "relocated-lees-summit-mo"
+  ],
+  "is_diamond_trade": false,
+  "scope_reason": "Own site says the store has relocated to Lee's Summit, MO (monthly Twin Cities appointments only) — not a local Minneapolis business",
+  "drop_reason": "other",
+  "verified": true,
+  "enriched": true
+}

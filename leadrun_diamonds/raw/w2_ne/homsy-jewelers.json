@@ -4,11 +4,11 @@
   "phone": "(617) 523-1918",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Nicholas Homsy",
-  "role": "Founder",
-  "contact_source": "https://www.homsyjewelers.com/about-us",
+  "linkedin_url": "https://www.linkedin.com/in/fadi-homsy-100b871bb/",
+  "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): Homsy Jewelers Boston owner (result title: Fadi Homsy - Chief Executive Officer at homsy jewelers)",
+  "contact_person": "Fadi Homsy",
+  "role": "CEO",
+  "contact_source": "https://www.linkedin.com/in/fadi-homsy-100b871bb/",
   "website": "https://www.homsyjewelers.com",
   "address": "333 Washington Street, Suite 215, Boston, MA 02108",
   "city": "Boston",
@@ -34,5 +34,6 @@
   "scope_reason": "Family jeweler carrying GIA-certified loose diamonds; bridal loose-stone specialist, retail-facing.",
   "drop_reason": "",
   "li_note": "no linkedin.com/in result tied to person",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

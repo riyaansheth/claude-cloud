@@ -2,14 +2,14 @@
   "business": "Le Monde Fine Jewelry",
   "category_as_listed": "Wholesale Jewelry",
   "phone": "(425) 401-0145",
-  "email": "",
-  "email_source": "",
+  "email": "LeMondeGlobeJewelry@comcast.net",
+  "email_source": "http://lemondeglobe.com/",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "",
   "role": "",
   "contact_source": "",
-  "website": "",
+  "website": "http://lemondeglobe.com",
   "address": "1424 4th Ave, Ste 510",
   "city": "Seattle",
   "state": "WA",
@@ -18,14 +18,20 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.bbb.org/us/wa/seattle/category/wholesale-jewelry",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "(425) 401-0145"
+  ],
+  "tel_source": "http://lemondeglobe.com/",
   "socials": [],
   "building": "1424 4th Ave (4th & Pike Building)",
   "suite": "Ste 510",
   "trade_memberships": [],
-  "hooks": [],
+  "hooks": [
+    "since-1993",
+    "manufacturer"
+  ],
   "is_diamond_trade": true,
-  "scope_reason": "BBB 'Wholesale Jewelry' tenant of Seattle's diamond-district building; diamond line not verified (low confidence)",
-  "drop_reason": ""
+  "scope_reason": "BBB Wholesale Jewelry tenant of 1424 4th Ave (Seattle diamond-district building); YP lists as Jewelers-Wholesale & Manufacturers; own site: in business since July 1993, complete line designed and manufactured in Seattle - diamond line still not explicitly confirmed (low confidence)",
+  "drop_reason": "",
+  "enriched": true
 }

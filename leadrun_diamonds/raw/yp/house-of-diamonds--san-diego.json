@@ -38,5 +38,6 @@
   "drop_reason": "",
   "scope_reason": "Site: 'H.O.D. Inc. House of Diamonds - Diamond Cutters and Importers in San Diego', offering AGS/GIA/IGI/EGL certified and non-certified diamonds, matched pairs, with a log-in trade inventory.",
   "verified": true,
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

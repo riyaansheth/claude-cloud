@@ -2,14 +2,14 @@
  "business": "Rising Star Diamonds",
  "category_as_listed": "Diamonds, Diamonds",
  "phone": "(213) 891-9190",
- "email": "",
- "email_source": "",
+ "email": "sales@risingstardiamond.com",
+ "email_source": "https://risingstardiamond.com/pages/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "website": "",
+ "website": "https://risingstardiamond.com",
  "address": "550 South Hill Street, Suite 750, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
  "state": "CA",
@@ -18,8 +18,10 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+12138919190"
+ ],
+ "tel_source": "https://risingstardiamond.com/pages/contact-us",
  "socials": [],
  "building": "International Jewelry Center",
  "suite": "Suite 750",
@@ -30,5 +32,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Diamonds)",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

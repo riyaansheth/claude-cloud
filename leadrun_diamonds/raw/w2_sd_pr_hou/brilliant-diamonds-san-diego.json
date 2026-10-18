@@ -18,8 +18,11 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.brilliantdiamonds.us/",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "619-501-9700",
+    "858-925-7205"
+  ],
+  "tel_source": "https://www.brilliantdiamonds.us/contact-us",
   "socials": [],
   "building": "",
   "suite": "",
@@ -32,5 +35,6 @@
   "is_diamond_trade": true,
   "scope_reason": "Site lists Custom Design & Manufacturing and Wholesale Diamonds; Gaslamp + North County locations.",
   "drop_reason": "",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

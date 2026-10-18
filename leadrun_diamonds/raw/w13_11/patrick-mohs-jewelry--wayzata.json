@@ -1,0 +1,45 @@
+{
+  "business": "Patrick Mohs Jewelry",
+  "category_as_listed": "Jewelers",
+  "phone": "(952) 297-1049",
+  "email": "hello@patrickmohs.com",
+  "email_source": "https://www.patrickmohs.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Patrick Nelson",
+  "role": "Owner",
+  "contact_source": "https://www.patrickmohs.com/partrick-mary-kay",
+  "website": "https://www.patrickmohs.com",
+  "address": "240 Minnetonka Ave S #102",
+  "city": "Wayzata",
+  "state": "MN",
+  "market": "Minneapolis, MN",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/wayzata-mn/jewelers",
+  "tel_numbers": [
+    "612.481.6647"
+  ],
+  "tel_source": "https://www.patrickmohs.com/contact",
+  "socials": [
+    "https://www.instagram.com/patrickmohsjewelry/",
+    "https://www.facebook.com/patrickmohsjewelry/"
+  ],
+  "building": "",
+  "suite": "#102",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "gia-gg",
+    "manufacturer",
+    "custom-design",
+    "jck-rising-star-2013"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: \"As experienced Graduate Gemologists, Patrick and Mary Kay will source and select the perfect diamonds, gemstones\"; husband/wife Patrick Nelson and Mary Kay Mohs \"joining their design and manufacturing skills\" in their Wayzata studio. Site phone 612.481.6647 differs from YP (952) 297-1049. LinkedIn not found.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

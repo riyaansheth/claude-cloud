@@ -2,14 +2,14 @@
   "business": "R.A. Riam Group (ALTR Created Diamonds)",
   "category_as_listed": "wholesale jeweler",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "info@altr.nyc",
+  "email_source": "https://altr.nyc/pages/connect",
   "linkedin_url": "https://www.linkedin.com/in/amishshah-nyc/",
   "linkedin_source": "\"Amish Shah\" ALTR Created Diamonds LinkedIn",
   "contact_person": "Amish Shah",
   "role": "Founder",
   "contact_source": "https://en.wikipedia.org/wiki/ALTR_Created_Diamonds",
-  "website": "",
+  "website": "https://altr.nyc",
   "address": "",
   "city": "New York",
   "state": "NY",
@@ -20,7 +20,11 @@
   "source_url": "https://en.wikipedia.org/wiki/ALTR_Created_Diamonds",
   "tel_numbers": [],
   "tel_source": "",
-  "socials": [],
+  "socials": [
+    "https://www.facebook.com/altrcreated",
+    "https://www.instagram.com/altrcreateddiamonds/",
+    "https://x.com/ALTRDiamonds"
+  ],
   "building": "",
   "suite": "",
   "trade_memberships": [],
@@ -32,5 +36,6 @@
   "scope_reason": "NYC wholesale jeweler whose ALTR division is a lab-grown diamond brand; founder Amish Shah ex-R&R Grosbard.",
   "drop_reason": "",
   "li_note": "Profile title 'Amish Shah - Founder & CEO, ALTR & J'EVAR'. Also seen: /in/amishshahny (Founder - J'evar).",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

@@ -2,14 +2,14 @@
  "business": "B&V Diamonds Inc.",
  "category_as_listed": "Diamonds",
  "phone": "(213) 489-4887",
- "email": "",
- "email_source": "",
+ "email": "info@bvdiamonds.com",
+ "email_source": "https://www.bvdiamonds.com",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "website": "",
+ "website": "https://www.bvdiamonds.com",
  "address": "550 South Hill Street, Suite 685, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
  "state": "CA",
@@ -18,8 +18,11 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "213-489-4887",
+  "213-716-2550"
+ ],
+ "tel_source": "https://www.bvdiamonds.com",
  "socials": [],
  "building": "International Jewelry Center",
  "suite": "Suite 685",
@@ -28,9 +31,12 @@
   "DCWC"
  ],
  "hooks": [
-  "manufacturer"
+  "manufacturer",
+  "importer",
+  "israel-office"
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds; secondary: Jewelry, Manufacturer",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

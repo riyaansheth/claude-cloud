@@ -1,0 +1,45 @@
+{
+ "business": "Atlantic Diamond Co",
+ "category_as_listed": "Diamonds, Jewelers",
+ "phone": "(312) 236-8521",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.atlanticdiamond.net",
+ "address": "111 N Wabash Ave",
+ "city": "Chicago",
+ "state": "IL",
+ "market": "Chicago, IL",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/search?search_terms=diamonds&geo_location_terms=Chicago%2C+IL+60603",
+ "tel_numbers": [
+  "(888) 232-3426",
+  "(312) 236-8521"
+ ],
+ "tel_source": "https://www.atlanticdiamond.net/",
+ "socials": [
+  "https://www.facebook.com/pages/Atlantic-Diamond-Company/324260124356295",
+  "https://www.instagram.com/atlantic_diamond/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA",
+  "AGS",
+  "IGI"
+ ],
+ "hooks": [
+  "loose-diamonds",
+  "wholesale"
+ ],
+ "is_diamond_trade": "",
+ "scope_reason": "Own site: loose-diamond search by GIA/AGS/IGI cert with \"Open an Account\" trade login and Account Managers; Trade Affiliations page.",
+ "drop_reason": "",
+ "enriched": true
+}

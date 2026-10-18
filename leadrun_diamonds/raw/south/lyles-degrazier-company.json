@@ -1,7 +1,7 @@
 {
   "business": "Lyles-DeGrazier Company",
   "category_as_listed": "",
-  "phone": "",
+  "phone": "214-747-3558",
   "email": "",
   "email_source": "",
   "linkedin_url": "",
@@ -9,7 +9,7 @@
   "contact_person": "",
   "role": "",
   "contact_source": "",
-  "website": "",
+  "website": "https://www.lylesjewelry.com",
   "address": "",
   "city": "Dallas",
   "state": "TX",
@@ -18,17 +18,27 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://acmagazine.accessoriescouncil.org/the-jewelry-issue-winter-2025/page-171?pp=1",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "214-747-3558"
+  ],
+  "tel_source": "https://lylesjewelry.com/",
+  "socials": [
+    "https://www.facebook.com/lylesdegrazier/"
+  ],
   "building": "World Trade Center, Dallas Market Center (Diamond District)",
   "suite": "WTC 7943",
   "trade_memberships": [],
   "hooks": [
     "loose-stones",
-    "wholesale-showroom"
+    "wholesale-showroom",
+    "since-1949",
+    "family-owned",
+    "manufacturer",
+    "gia"
   ],
   "is_diamond_trade": true,
   "scope_reason": "Diamond District showroom offering fine jewelry, loose stones and finished collections to trade.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enrich_note": "DMC: family-owned wholesale fine jewelry showroom and manufacturing facility, GIA-certified loose diamonds",
+  "enriched": true
 }

@@ -1,0 +1,44 @@
+{
+ "business": "Diamonds Forever",
+ "category_as_listed": "",
+ "phone": "(619) 223-2151",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Jenny Seligmann",
+ "role": "Founder",
+ "contact_source": "https://diamondsforeversandiego.com/about",
+ "website": "https://diamondsforeversandiego.com",
+ "address": "4685 Date Avenue",
+ "city": "La Mesa",
+ "state": "CA",
+ "market": "San Diego, CA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://diamondsforeversandiego.com/about",
+ "tel_numbers": [
+  "(619) 223-2151"
+ ],
+ "tel_source": "https://diamondsforeversandiego.com/contact",
+ "socials": [
+  "https://www.instagram.com/diamondsforeversandiego/",
+  "https://www.tiktok.com/@diamondsforever.sandiego"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "gia-gg",
+  "women-owned",
+  "custom-manufacturing"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Women-owned custom engagement-ring studio that designs and makes pieces in-house ('We are the gemologists, designers, engineers, and craftswomen'); co-owners Jenny (founder, GIA GJ/gemologist) and Amy (gemologist). Borderline: site does not explicitly advertise loose-stone inventory. Site email is Cloudflare-obfuscated (not recorded).",
+ "drop_reason": "",
+ "enriched": true,
+ "verified": true
+}

@@ -29,5 +29,6 @@
   "drop_reason": "",
   "scope_reason": "unverified: site unreachable",
   "verified": false,
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

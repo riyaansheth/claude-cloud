@@ -1,0 +1,43 @@
+{
+  "business": "Jeffrey Jewelry Co",
+  "category_as_listed": "Jewelers-Wholesale & Manufacturers",
+  "phone": "(763) 999-5102",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Dana Silver",
+  "role": "Owner",
+  "contact_source": "https://jeffreyjewelry.com/aboutus.html (3rd generation, per WebSearch result)",
+  "website": "https://jeffreyjewelry.com",
+  "address": "701 Xenia Ave S Suite 230",
+  "city": "Golden Valley",
+  "state": "MN",
+  "market": "Minneapolis, MN",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/minneapolis-mn/jewelers-wholesale-manufacturers",
+  "tel_numbers": [
+    "+1-612-337-5700"
+  ],
+  "tel_source": "https://jeffreyjewelry.com/",
+  "socials": [
+    "https://www.facebook.com/JeffreyJewelryCo/",
+    "https://www.instagram.com/thediamondgirl/"
+  ],
+  "building": "Golden Hills Office Center",
+  "suite": "Suite 230",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1943",
+    "3rd-generation",
+    "certified-stones",
+    "custom-design"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: \"Diamonds Our Specialty!\"; \"Jeffrey's has the midwest largest certified diamond and colored stone selection available\"; custom \"from concept through model design, casting and stone selection\". No email on site; LinkedIn for Dana Silver not confirmed.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

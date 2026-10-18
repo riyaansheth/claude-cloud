@@ -4,11 +4,11 @@
   "phone": "215-922-5995",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/massimino-russello-1a8b0a82/",
+  "linkedin_source": "WebSearch extended: \"Frank Salese\" diamonds Philadelphia LinkedIn (result: Massimino Russello - Frank Salese Jewelers, manager); partner per own site",
+  "contact_person": "Massimino Russello",
+  "role": "Partner",
+  "contact_source": "https://philadelphiapa.diamonds/frank-salese-massey-russello.html",
   "website": "https://philadelphiapa.diamonds",
   "address": "733 Sansom St, Philadelphia, PA 19106",
   "city": "Philadelphia",
@@ -34,5 +34,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Says it offers wholesale diamonds on Jewelers Row, by appointment; family owned 50+ years (Facebook).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

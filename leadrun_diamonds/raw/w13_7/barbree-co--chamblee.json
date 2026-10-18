@@ -1,0 +1,41 @@
+{
+ "business": "Barbree & Co.",
+ "category_as_listed": "",
+ "phone": "404-990-1192",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Amy Barbree",
+ "role": "Owner",
+ "contact_source": "https://www.barbreeandco.com/about-us/",
+ "website": "https://www.barbreeandco.com",
+ "address": "3666 North Peachtree Road Suite #400",
+ "city": "Chamblee",
+ "state": "GA",
+ "market": "Atlanta, GA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.barbreeandco.com/",
+ "tel_numbers": [
+  "404-990-1192"
+ ],
+ "tel_source": "https://www.barbreeandco.com/contact/",
+ "socials": [
+  "https://www.facebook.com/barbreeandco"
+ ],
+ "building": "",
+ "suite": "Suite #400",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "estate-buyer",
+  "since-1992",
+  "gia-gg"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: Atlanta fine jewelry purchasing & sales; 'buying estate and vintage jewelry since 1992', diamond evaluation by owner Amy Barbree, GIA Graduate Gemologist. Estate-diamond buyer (borderline: also buys gold).",
+ "drop_reason": ""
+}

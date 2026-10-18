@@ -45,6 +45,7 @@
   "drop_reason": "",
   "scope_reason": "Site: 'DIAMOND MANUFACTURERS AND WHOLESALERS SINCE 1999' with 1000+ GIA & AGS certified loose diamonds and 'Extended Memo Terms Subject To Credit Check' for retailers.",
   "verified": true,
-  "li_note": "also member/registered agent per OpenCorporates; no linkedin.com/in found",
-  "li_backfill": true
+  "li_note": "r13: no linkedin.com/in for Ron Maor found; site lists Toll free / Telephone / Fax only",
+  "li_backfill": true,
+  "enriched": true
 }

@@ -2,14 +2,14 @@
   "business": "Milner Diamonds",
   "category_as_listed": "",
   "phone": "215-922-1248",
-  "email": "",
-  "email_source": "",
+  "email": "info@milnerdiamonds.com",
+  "email_source": "https://jrow.org/milner-diamonds/",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "",
   "role": "",
   "contact_source": "",
-  "website": "",
+  "website": "https://www.milnerdiamonds.com",
   "address": "728 Sansom St, Philadelphia, PA",
   "city": "Philadelphia",
   "state": "PA",
@@ -27,5 +27,6 @@
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "Diamond business listed in Jewelers Row Business Association shop directory; wholesale status unverified.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

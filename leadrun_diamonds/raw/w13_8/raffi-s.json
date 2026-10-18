@@ -1,0 +1,41 @@
+{
+ "business": "Raffi's",
+ "category_as_listed": "Loose Stones & Diamonds",
+ "phone": "415.621.6688",
+ "email": "info@raffis.com",
+ "email_source": "http://raffis.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Raffi Khatchadourian",
+ "role": "Owner",
+ "contact_source": "https://www.manta.com/c/mm821kp/raffi-s-jewelry",
+ "website": "http://raffis.com",
+ "address": "888 Brannan St Ste 149",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "lead_origin": "Building Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://sfgcjm.com/tenant/raffi-s/",
+ "tel_numbers": [
+  "+14156216688"
+ ],
+ "tel_source": "http://raffis.com/",
+ "socials": [
+  "https://www.instagram.com/raffis_jewelry",
+  "https://www.facebook.com/RaffisJewelry"
+ ],
+ "building": "SF Gift Center & Jewelry Mart",
+ "suite": "Ste 149",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1980",
+  "gia",
+  "loose-diamonds"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Directory: est. 1980; large selection of loose GIA-graded diamonds and custom design",
+ "drop_reason": "",
+ "enriched": true
+}

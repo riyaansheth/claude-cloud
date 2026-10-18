@@ -2,7 +2,7 @@
   "business": "Wrm Jewelry Inc",
   "category_as_listed": "Diamonds-Wholesale, Jewelers",
   "phone": "(865) 397-9181",
-  "website": "http://finer.jewelry",
+  "website": "https://finercustomjewelry.com",
   "address": "6900 E Camelback Rd Ste 1050",
   "city": "Scottsdale",
   "state": "AZ",
@@ -44,5 +44,6 @@
   "drop_reason": "",
   "scope_reason": "Finer Custom Jewelry (finer.jewelry) offers 'Diamond sourcing, custom design' of engagement rings, 'In the Trade Since 2011'; team page says Shimon 'got started in the wholesale diamond business... supplying diamonds to stores throughout the Phoenix Valley' — bridal specialist sourcing its own stones.",
   "verified": true,
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

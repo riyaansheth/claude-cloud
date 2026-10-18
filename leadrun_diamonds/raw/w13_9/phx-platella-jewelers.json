@@ -1,0 +1,42 @@
+{
+  "business": "Platella Jewelers",
+  "category_as_listed": "",
+  "phone": "(480) 668-3868",
+  "email": "silver@platella.com",
+  "email_source": "https://platella.com/pages/about-us",
+  "linkedin_url": "",
+  "linkedin_source": "\"Hugo Rodriguez\" Platella Jewelers Scottsdale LinkedIn (no profile found)",
+  "contact_person": "Hugo Rodriguez",
+  "role": "Founder",
+  "contact_source": "https://platella.com/pages/about-us",
+  "website": "https://platella.com",
+  "address": "7122 E Greenway Pkwy #120, Scottsdale, AZ 85254",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "market": "Phoenix, AZ",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://platella.com/",
+  "tel_numbers": [
+    "(480) 668-3868"
+  ],
+  "tel_source": "https://platella.com/",
+  "socials": [
+    "https://www.instagram.com/platellajewelers/"
+  ],
+  "building": "",
+  "suite": "#120",
+  "trade_memberships": [],
+  "hooks": [
+    "since-2003",
+    "designer-manufacturer",
+    "custom-design",
+    "bridal"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Designer house: 'handcrafted jewelry designed by Hugo Rodriguez... original pieces crafted with diamonds'; founder is in-house designer making custom/bridal pieces (borderline manufacturer).",
+  "drop_reason": "",
+  "enriched": true,
+  "verified": true
+}

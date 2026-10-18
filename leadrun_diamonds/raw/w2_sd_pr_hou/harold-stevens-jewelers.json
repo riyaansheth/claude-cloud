@@ -18,8 +18,10 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.haroldstevens.com/pages/about-harold-stevens",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "619.231.0520"
+  ],
+  "tel_source": "https://www.haroldstevens.com/pages/contact-us",
   "socials": [],
   "building": "",
   "suite": "Ste 1580",
@@ -34,5 +36,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Site: Harold Krasner began selling exclusively to the trade as a diamond importer & manufacturer; now owners Harold & Ryan Krasner; offers loose diamond importing / GIA loose diamonds.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

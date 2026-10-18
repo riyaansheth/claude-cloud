@@ -1,0 +1,40 @@
+{
+  "business": "Harmony Diamonds, Inc.",
+  "category_as_listed": "Melle & Certified Diamonds",
+  "phone": "(212) 755 7979",
+  "email": "sales@harmonydiamonds.com",
+  "email_source": "https://harmonydiamonds.com/contact",
+  "linkedin_url": "https://www.linkedin.com/in/sanjiv-mehta-22105a176/",
+  "linkedin_source": "WebSearch: \"Sanjiv Mehta\" Harmony Diamonds 580 Fifth Avenue (result: Sanjiv Mehta - President - Harmony Diamonds Inc.,)",
+  "contact_person": "Sanjiv Mehta",
+  "role": "President",
+  "contact_source": "https://idcany.org/member-directory-details/100",
+  "website": "https://harmonydiamonds.com",
+  "address": "580 Fifth Avenue Suite # 1221",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://idcany.org/member-directory-details/100",
+  "tel_numbers": [
+    "(212) 755-7979"
+  ],
+  "tel_source": "https://harmonydiamonds.com/contact",
+  "socials": [],
+  "building": "580 Fifth Avenue",
+  "suite": "Ste 1221",
+  "trade_memberships": [
+    "IDCA"
+  ],
+  "hooks": [
+    "melee",
+    "since-1974"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'Melle & Certified Diamonds'; contacts Sanjiv Mehta.",
+  "drop_reason": "",
+  "idca_other_contacts": "Sanjiv Mehta",
+  "enriched": true
+}

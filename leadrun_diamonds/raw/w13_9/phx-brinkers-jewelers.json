@@ -1,0 +1,13 @@
+{
+  "business": "Brinker's Jewelers",
+  "source_url": "https://brinkersjewelers.com/",
+  "drop_reason": "retail-only",
+  "scope_reason": "Multi-state luxury retailer (Evansville IN origin, since 1972), 'Authorized Dealer' of watches/designer brands; no loose-diamond trade evidence.",
+  "market": "Phoenix, AZ",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "website": "https://brinkersjewelers.com",
+  "is_diamond_trade": false,
+  "enriched": true,
+  "verified": true
+}

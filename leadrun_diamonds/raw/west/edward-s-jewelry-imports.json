@@ -2,14 +2,14 @@
  "business": "Edward's Jewelry & Imports",
  "category_as_listed": "Jewelry Stores",
  "phone": "(415) 626-9333",
- "email": "",
- "email_source": "",
+ "email": "edwardsjewelryimports@gmail.com",
+ "email_source": "https://sfgcjm.com/tenant/edwards-jewelry-and-imports/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "Edward Misserlian",
  "role": "",
  "contact_source": "https://www.bbb.org/us/ca/san-francisco/profile/jewelry-stores/edwards-jewelry-imports-1116-41897",
- "website": "",
+ "website": "https://edwardsjewelryimports.com",
  "address": "888 Brannan St Ste 160",
  "city": "San Francisco",
  "state": "CA",
@@ -18,21 +18,29 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://www.bbb.org/us/ca/san-francisco/profile/jewelry-stores/edwards-jewelry-imports-1116-41897",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
- "building": "GiftCenter & JewelryMart (888 Brannan)",
+ "tel_numbers": [
+  "(415) 877-3730",
+  "+14156269333"
+ ],
+ "tel_source": "https://edwardsjewelryimports.com/pages/contact",
+ "socials": [
+  "https://www.instagram.com/edwardsjewelry160/",
+  "https://www.facebook.com/EdwardJewelry"
+ ],
+ "building": "SF Gift Center & Jewelry Mart",
  "suite": "Ste 160",
  "trade_memberships": [],
  "hooks": [
   "since-1983",
   "gia",
   "importer",
-  "large-loose-inventory"
+  "large-loose-inventory",
+  "fancy-yellow"
  ],
  "is_diamond_trade": true,
  "scope_reason": "BBB profile: one of the largest selections of loose GIA and EGL certified diamonds; importer in the SF jewelry mart",
  "drop_reason": "",
  "li_note": "no linkedin found; business site testimonial references passing of Edward",
- "li_backfill": true
+ "li_backfill": true,
+ "enriched": true
 }

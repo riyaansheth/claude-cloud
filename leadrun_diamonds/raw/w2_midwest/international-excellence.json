@@ -2,14 +2,14 @@
   "business": "International Excellence",
   "category_as_listed": "Jeweler",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "sales@intl925.com",
+  "email_source": "https://www.intl925.com/contact/",
   "linkedin_url": "https://www.linkedin.com/in/hazem-ahram-6880555a/",
   "linkedin_source": "\"Hazem Ahram\" International Excellence LinkedIn",
   "contact_person": "Hazem Ahram",
   "role": "",
   "contact_source": "https://denvermart.com/markets/denver-diamond-district/",
-  "website": "",
+  "website": "https://www.intl925.com",
   "address": "451 E 58th Ave",
   "city": "Denver",
   "state": "CO",
@@ -18,15 +18,21 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://denvermart.com/markets/denver-diamond-district/",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "303-297-9644"
+  ],
+  "tel_source": "https://www.intl925.com/",
   "socials": [],
   "building": "Denver Mart (Denver Diamond District)",
   "suite": "",
   "trade_memberships": [],
-  "hooks": [],
+  "hooks": [
+    "lab-grown",
+    "manufacturer"
+  ],
   "is_diamond_trade": true,
-  "scope_reason": "By-appointment showroom in Denver Mart Diamond District (Hazem and Adli Ahram); roster may date to 2019",
+  "scope_reason": "By-appointment showroom in Denver Mart Diamond District (Hazem and Adli Ahram); own site intl925.com (page title \"Contact - International Excellence\", now 3033 S Parker Rd #222A Aurora) is a wholesale jeweler carrying gold, silver, lab-grown diamond and bridal styles with custom design/manufacturing and wholesale accounts",
   "drop_reason": "",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

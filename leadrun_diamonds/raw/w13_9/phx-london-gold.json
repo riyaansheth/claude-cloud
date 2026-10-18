@@ -1,0 +1,13 @@
+{
+  "business": "London Gold",
+  "source_url": "https://www.londongold.com/company/about-us/",
+  "drop_reason": "retail-only",
+  "scope_reason": "Multi-store Arizona retail jeweler (Scottsdale, Peoria, Chandler) and gold/Rolex buyer; loose-diamond sales are retail online catalog, no trade evidence.",
+  "market": "Phoenix, AZ",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "website": "https://www.londongold.com",
+  "is_diamond_trade": false,
+  "enriched": true,
+  "verified": true
+}

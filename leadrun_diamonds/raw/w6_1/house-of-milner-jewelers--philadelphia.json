@@ -6,13 +6,13 @@
   "address": "Located in the JE Caldwell Building, 728 Sansom St",
   "city": "Philadelphia",
   "state": "PA",
-  "market": "Wilmington, DE",
+  "market": "Philadelphia, PA",
   "rating": "",
   "reviews": "120",
   "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/house-of-milner-jewelers-3787010",
   "lead_origin": "YellowPages",
-  "email": "",
-  "email_source": "",
+  "email": "info@milnerdiamonds.com",
+  "email_source": "https://jrow.org/milner-diamonds/",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Josef Milner",
@@ -45,5 +45,7 @@
   "verified": true,
   "dup_of": "raw/yp/house-of-milner-jewelers--philadelphia.json",
   "li_note": "Josef Milner is historical founder (1898-1985 per site); site lists Steven Hersh (grandson) and Brett Sandler as current jewelers - contact should likely be Steven Hersh. No LinkedIn searched for Hersh",
-  "li_backfill": true
+  "li_backfill": true,
+  "market_before_fix": "Wilmington, DE",
+  "enriched": true
 }

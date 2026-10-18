@@ -2,7 +2,7 @@
  "business": "United Gems",
  "category_as_listed": "Diamonds-Wholesale, Diamonds, Jewelers",
  "phone": "(312) 641-3006",
- "website": "http://www.united-gem.com",
+ "website": "https://www.unitedgem.com",
  "address": "29 E Madison St",
  "city": "Chicago",
  "state": "IL",
@@ -13,11 +13,11 @@
  "lead_origin": "YellowPages",
  "email": "",
  "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "\"Richard Goynshor\" United Gem LinkedIn (no /in/ profile found)",
- "contact_person": "Richard Goynshor",
- "role": "Proprietor",
- "contact_source": "https://www.unitedgem.com/about-us/",
+ "linkedin_url": "https://www.linkedin.com/in/dara-goynshor-8a399157/",
+ "linkedin_source": "WebSearch extended: \"Goynshor\" United Gem Chicago diamonds LinkedIn -> \"Dara Goynshor - Director of Sales - United Gem Ltd.\" (Jun 2005-Present, Greater Chicago Area)",
+ "contact_person": "Dara Goynshor",
+ "role": "Director of Sales",
+ "contact_source": "https://www.linkedin.com/in/dara-goynshor-8a399157/",
  "tel_numbers": [
   "312.641.2743",
   "800.937.5424"
@@ -25,7 +25,7 @@
  "tel_source": "https://www.unitedgem.com/, https://www.unitedgem.com/contact-us/",
  "socials": [],
  "building": "",
- "suite": "",
+ "suite": "Ste 1405",
  "trade_memberships": [],
  "hooks": [
   "since-1930s",
@@ -42,5 +42,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "United Gem Ltd (29 E Madison, Chicago): \"As diamond cutters and wholesalers\" serving \"our wholesale clients\" with ideal-cut diamonds \"primarily cut in Antwerp\", loose natural and lab-grown inventory and long-term memo.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

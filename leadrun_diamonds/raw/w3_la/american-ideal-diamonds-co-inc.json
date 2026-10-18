@@ -2,14 +2,14 @@
  "business": "American Ideal Diamonds co inc.",
  "category_as_listed": "Diamonds, Loose diamonds",
  "phone": "(213) 688-0059",
- "email": "",
- "email_source": "",
+ "email": "americanidealdiamonds@gmail.com",
+ "email_source": "https://americanidealdiamond.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "website": "",
+ "website": "https://americanidealdiamond.com",
  "address": "550 South Hill Street, Suite 645, Los Angeles, California, United States, 90014",
  "city": "Los Angeles",
  "state": "CA",
@@ -18,8 +18,10 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+12136880059"
+ ],
+ "tel_source": "https://americanidealdiamond.com/contact",
  "socials": [],
  "building": "International Jewelry Center",
  "suite": "Suite 645",
@@ -27,8 +29,12 @@
   "Bourse",
   "DCWC"
  ],
- "hooks": [],
+ "hooks": [
+  "since-1981",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds (Loose diamonds); secondary: Jewelry/Studs and unique mounted pieces/Watches",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

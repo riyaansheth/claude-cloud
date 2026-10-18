@@ -9,8 +9,8 @@
   "contact_person": "Barry Baxman",
   "role": "",
   "contact_source": "https://denvermart.com/markets/denver-diamond-district/",
-  "website": "",
-  "address": "",
+  "website": "https://www.jfoptionsjewelers.com",
+  "address": "3575 Ringsby Ct., Suite 302",
   "city": "Denver",
   "state": "CO",
   "market": "Denver, CO",
@@ -18,15 +18,24 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://denvermart.com/markets/denver-diamond-district/",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "3032924744",
+    "8003064744"
+  ],
+  "tel_source": "https://www.jfoptionsjewelers.com/about-us/",
+  "socials": [
+    "https://www.facebook.com/JFOptionsJewelers",
+    "https://www.instagram.com/jfoptionsjewelers/"
+  ],
   "building": "Denver Mart (Denver Diamond District)",
   "suite": "",
   "trade_memberships": [],
-  "hooks": [],
+  "hooks": [
+    "since-1992"
+  ],
   "is_diamond_trade": true,
-  "scope_reason": "By-appointment showroom in Denver Mart wholesale Diamond District (Becky and Barry Baxman); BBB shows Ringsby Court address; role 'Owner' inferred from directory naming",
+  "scope_reason": "Denver Mart wholesale Diamond District showroom (Becky and Barry Baxman); own site: since 1992, Becky Baxman owner and founder, JFO diamonds / loose diamond search, now at 3575 Ringsby Ct Suite 302 by appointment",
   "drop_reason": "",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

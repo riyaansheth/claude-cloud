@@ -2,14 +2,14 @@
  "business": "BSH Diamond Corp",
  "category_as_listed": "Diamonds",
  "phone": "(213) 622-4313",
- "email": "",
- "email_source": "",
+ "email": "bon.bshjewelry@gmail.com",
+ "email_source": "https://www.bshdiamond.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "website": "",
+ "website": "https://www.bshdiamond.com",
  "address": "550 South Hill Street, Suite 652, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
  "state": "CA",
@@ -18,8 +18,10 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "+1-213-6224313"
+ ],
+ "tel_source": "https://www.bshdiamond.com/contact",
  "socials": [],
  "building": "International Jewelry Center",
  "suite": "Suite 652",
@@ -32,5 +34,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds; secondary: Jewelry/ Manufacturer",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

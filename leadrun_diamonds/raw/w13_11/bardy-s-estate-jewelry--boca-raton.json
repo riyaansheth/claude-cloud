@@ -1,0 +1,44 @@
+{
+  "business": "Bardy's Estate Jewelry",
+  "category_as_listed": "",
+  "phone": "(561) 430-5304",
+  "email": "info@bardys.com",
+  "email_source": "https://www.bardys.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.bardys.com",
+  "address": "8221 Glades Rd",
+  "city": "Boca Raton",
+  "state": "FL",
+  "market": "Boca Raton, FL",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://intljewelers.com/boca-raton",
+  "tel_numbers": [
+    "(561) 430-5304"
+  ],
+  "tel_source": "https://www.bardys.com/",
+  "socials": [
+    "https://www.facebook.com/BardysEstateJewelryDiamonds",
+    "https://www.instagram.com/bardysestatejewelry/"
+  ],
+  "building": "International Jewelers Exchange",
+  "suite": "Booth G9",
+  "trade_memberships": [],
+  "hooks": [
+    "estate-diamond-buyer",
+    "large-stones",
+    "50-years",
+    "lab-grown",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'a top buyer of estate jewelry, diamonds, watches' for 50+ years; 'We Buy Natural Diamonds'; IJE: 'Specializing in High Grade Diamonds'",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "business": "Z's Fine Jewelry",
+  "category_as_listed": "",
+  "phone": "(623) 374-7706",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.zsfinejewelry.com",
+  "address": "7547 W Greenway Rd #580, Peoria, AZ",
+  "city": "Peoria",
+  "state": "AZ",
+  "market": "Phoenix, AZ",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.zsfinejewelry.com/",
+  "tel_numbers": [
+    "(623) 374-7706"
+  ],
+  "tel_source": "https://www.zsfinejewelry.com/contact",
+  "socials": [
+    "https://www.facebook.com/zsfinejewelry",
+    "https://www.instagram.com/zsfinejewelry/",
+    "https://x.com/zsfinejewelry"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "25-years",
+    "3rd-generation",
+    "custom-design",
+    "bridal"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Third-generation family jeweler (25+ yrs) in Peoria: custom design, 'help you select the perfect diamond' for engagement rings; borderline bridal specialist. Address from poyst.com listing seen in search.",
+  "drop_reason": "",
+  "enriched": true,
+  "verified": true
+}

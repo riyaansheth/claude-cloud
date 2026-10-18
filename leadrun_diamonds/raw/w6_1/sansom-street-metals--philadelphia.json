@@ -6,7 +6,7 @@
   "address": "730 Sansom St",
   "city": "Philadelphia",
   "state": "PA",
-  "market": "Wilmington, DE",
+  "market": "Philadelphia, PA",
   "rating": "",
   "reviews": "29",
   "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/sansom-street-metals-17519484",
@@ -43,5 +43,6 @@
   "verified": true,
   "dup_of": "raw/yp/sansom-street-metals--philadelphia.json",
   "li_note": "no owner name found",
-  "li_backfill": true
+  "li_backfill": true,
+  "market_before_fix": "Wilmington, DE"
 }

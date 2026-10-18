@@ -2,14 +2,14 @@
  "business": "Toper diamonds inc",
  "category_as_listed": "Diamonds, Round and fancy from 1/4 points to 10 cts",
  "phone": "(213) 488-1166",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "website": "",
+ "email": "Hagai@toperdiamonds.com",
+ "email_source": "https://www.toperdiamonds.com/",
+ "linkedin_url": "https://www.linkedin.com/in/hagai-toper-8186757",
+ "linkedin_source": "WebSearch extended: \"Hagai Toper\" LinkedIn (ContactOut: Owner at Toper diamonds | Los Angeles)",
+ "contact_person": "Hagai Toper",
+ "role": "President",
+ "contact_source": "https://www.corporationwiki.com/California/Los-Angeles/hagai-toper/43317653.aspx",
+ "website": "https://www.toperdiamonds.com",
  "address": "550 South Hill Street, Suite 1480, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
  "state": "CA",
@@ -18,8 +18,10 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "213-488-1166"
+ ],
+ "tel_source": "https://www.toperdiamonds.com/",
  "socials": [],
  "building": "International Jewelry Center",
  "suite": "Suite 1480",
@@ -28,9 +30,13 @@
   "DCWC"
  ],
  "hooks": [
-  "fancy-color"
+  "fancy-color",
+  "7th-generation",
+  "manufacturer",
+  "natural"
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Round and fancy from 1/4 points to 10 cts)",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

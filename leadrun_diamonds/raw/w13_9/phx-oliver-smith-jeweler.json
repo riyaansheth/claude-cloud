@@ -1,0 +1,46 @@
+{
+  "business": "Oliver Smith Jeweler",
+  "category_as_listed": "",
+  "phone": "480-607-4444",
+  "email": "info@oliversmithjeweler.com",
+  "email_source": "https://oliversmithjeweler.com/pages/contact-us",
+  "linkedin_url": "https://www.linkedin.com/in/oliver-smith-8967b98/",
+  "linkedin_source": "\"Oliver Smith\" \"Oliver Smith Jeweler\" Scottsdale LinkedIn",
+  "contact_person": "Oliver Smith",
+  "role": "Founder",
+  "contact_source": "https://oliversmithjeweler.com/pages/about-us",
+  "website": "https://oliversmithjeweler.com",
+  "address": "8787 N Scottsdale Rd",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "market": "Phoenix, AZ",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://oliversmithjeweler.com/pages/about-us",
+  "tel_numbers": [
+    "480-607-4444"
+  ],
+  "tel_source": "https://oliversmithjeweler.com/pages/contact-us",
+  "socials": [
+    "https://www.instagram.com/oliversmithjeweler/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA GG"
+  ],
+  "hooks": [
+    "since-1981",
+    "second-generation",
+    "gia-certified",
+    "loose-diamonds",
+    "estate",
+    "designer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "About page: founder Oliver Smith is a graduate gemologist and designer; 'We select GIA-certified stones for our loose diamonds'; sells loose diamonds, estate jewelry and custom bridal. Address from LinkedIn company snippet.",
+  "drop_reason": "",
+  "enriched": true,
+  "verified": true
+}

@@ -1,45 +1,45 @@
 {
-  "business": "Sky Diamonds",
-  "category_as_listed": "",
-  "phone": "(702) 527-3775",
-  "email": "contact@skydiamonds.com",
-  "email_source": "https://skydiamonds.com/pages/contact",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Ofer Mizrahi",
-  "role": "Owner",
-  "contact_source": "https://skydiamonds.com/blogs/news/sky-diamonds-press-release",
-  "website": "https://skydiamonds.com",
-  "address": "",
-  "city": "Las Vegas",
-  "state": "NV",
-  "market": "Las Vegas, NV",
-  "lead_origin": "Web Search",
-  "rating": "",
-  "reviews": "",
-  "source_url": "https://skydiamonds.com/",
-  "tel_numbers": [
-    "+17025273775"
-  ],
-  "tel_source": "https://skydiamonds.com/pages/contact",
-  "socials": [
-    "https://www.facebook.com/SkyDiamondsUSA/",
-    "https://www.instagram.com/skydiamondsusa/"
-  ],
-  "building": "Town Square",
-  "suite": "",
-  "trade_memberships": [],
-  "hooks": [
-    "family-owned",
-    "lab-grown",
-    "natural",
-    "40-years",
-    "importer",
-    "cutter-tel-aviv"
-  ],
-  "is_diamond_trade": true,
-  "scope_reason": "About page: run by the Mizrahi family, \"more than four decades in diamond importing and wholesale\" (\"forty years wholesaling to businesses\") before opening a showroom; press release: rough cut and polished at Mizrahi HQ in Tel Aviv.",
-  "drop_reason": "",
-  "enriched": true,
-  "li_backfill": true
+ "business": "Sky Diamonds",
+ "category_as_listed": "",
+ "phone": "(702) 527-3775",
+ "email": "contact@skydiamonds.com",
+ "email_source": "https://skydiamonds.com/pages/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Ofer Mizrahi",
+ "role": "Owner",
+ "contact_source": "https://skydiamonds.com/blogs/news/sky-diamonds-press-release",
+ "website": "https://skydiamonds.com",
+ "address": "",
+ "city": "Las Vegas",
+ "state": "NV",
+ "market": "Las Vegas, NV",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://skydiamonds.com/",
+ "tel_numbers": [
+  "+17025273775"
+ ],
+ "tel_source": "https://skydiamonds.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/SkyDiamondsUSA/",
+  "https://www.instagram.com/skydiamondsusa/"
+ ],
+ "building": "Town Square",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "family-owned",
+  "lab-grown",
+  "natural",
+  "40-years",
+  "importer",
+  "cutter-tel-aviv"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "About page: run by the Mizrahi family, \"more than four decades in diamond importing and wholesale\" (\"forty years wholesaling to businesses\") before opening a showroom; press release: rough cut and polished at Mizrahi HQ in Tel Aviv.",
+ "drop_reason": "",
+ "enriched": true,
+ "li_backfill": true
 }

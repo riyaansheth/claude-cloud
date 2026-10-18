@@ -1,0 +1,41 @@
+{
+  "business": "MSP Jewelers",
+  "category_as_listed": "",
+  "phone": "612.886.3859",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.mspjewelers.com",
+  "address": "711 NE 15th Ave, Suite #216",
+  "city": "Minneapolis",
+  "state": "MN",
+  "market": "Minneapolis, MN",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.mspjewelers.com/",
+  "tel_numbers": [
+    "612.886.3859"
+  ],
+  "tel_source": "https://www.mspjewelers.com/",
+  "socials": [
+    "http://www.facebook.com/MSPjewelers",
+    "https://www.instagram.com/mspjewelers/"
+  ],
+  "building": "",
+  "suite": "Suite #216",
+  "trade_memberships": [],
+  "hooks": [
+    "custom-design",
+    "appointment-only"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Borderline: appointment-based Minneapolis custom studio, \"custom design guidance with direct control of the process\"; engagement rings/diamond bands. Same phone as YP listing \"R & M Diamonds\" (2909 Bryant Ave S). No email or owner found.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

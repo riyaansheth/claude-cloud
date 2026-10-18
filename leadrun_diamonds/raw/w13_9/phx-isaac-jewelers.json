@@ -1,0 +1,44 @@
+{
+  "business": "Isaac Jewelers",
+  "category_as_listed": "",
+  "phone": "480-941-9090",
+  "email": "info@isaacjewelers.com",
+  "email_source": "https://www.isaacjewelers.com/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "\"Frank Isaac\" \"Isaac Jewelers\" Scottsdale LinkedIn (no profile found)",
+  "contact_person": "Frank Isaac",
+  "role": "Owner",
+  "contact_source": "https://www.isaacjewelers.com/about/",
+  "website": "https://www.isaacjewelers.com",
+  "address": "15044 N. Scottsdale Rd. #130, Scottsdale, AZ 85254",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "market": "Phoenix, AZ",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.isaacjewelers.com/about/",
+  "tel_numbers": [
+    "480-941-9090"
+  ],
+  "tel_source": "https://www.isaacjewelers.com/contact/",
+  "socials": [
+    "https://www.facebook.com/IsaacJewelers/",
+    "https://www.instagram.com/isaacjewelersaz"
+  ],
+  "building": "Kierland Commons",
+  "suite": "#130",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1996",
+    "wholesale",
+    "loose-diamonds",
+    "custom-design",
+    "gia-certified"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "About page: 'As a diamond wholesaler, the store is one of the area's largest diamond sources'; 'loose stones at wholesale pricing'. (480-941-9089 is the fax, excluded.)",
+  "drop_reason": "",
+  "enriched": true,
+  "verified": true
+}

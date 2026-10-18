@@ -11,8 +11,8 @@
  "reviews": "2",
  "source_url": "https://www.yellowpages.com/san-francisco-ca/mip/padis-jewelry-522182936",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "support@padisjewelry.com",
+ "email_source": "https://sfgcjm.com/tenant/padis-jewelry/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "Steve Padis",
@@ -27,9 +27,10 @@
   "https://twitter.com/padisjewelry",
   "https://www.facebook.com/StevePadisJewelry",
   "https://www.instagram.com/padisjewelry",
-  "https://www.pinterest.com/PadisJewelry"
+  "https://www.pinterest.com/PadisJewelry",
+  "https://www.facebook.com/StevePadisJewelry/"
  ],
- "building": "",
+ "building": "SF Gift Center & Jewelry Mart",
  "suite": "Ste 128",
  "trade_memberships": [],
  "hooks": [
@@ -43,5 +44,6 @@
  "scope_reason": "Family-owned SF/Napa jeweler with 'Loose Diamonds', 'Lab Grown Diamonds' and engagement-ring 'Mounting Only' sections plus custom design; borderline - mostly designer bridal retail (Tacori, Verragio, De Beers Forevermark).",
  "verified": true,
  "li_note": "no linkedin tied to Padis Jewelry (only Steve and Judy Padis - Padis Vineyards profile, not recorded)",
- "li_backfill": true
+ "li_backfill": true,
+ "enriched": true
 }

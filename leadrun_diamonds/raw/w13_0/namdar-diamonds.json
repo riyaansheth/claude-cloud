@@ -1,0 +1,45 @@
+{
+  "business": "Namdar Diamonds",
+  "category_as_listed": "Fancy Color Diamonds",
+  "phone": "(212) 371-1800",
+  "email": "daniel@namdarinc.com",
+  "email_source": "https://www.namdardiamondsusa.com/pages/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Daniel Namdar",
+  "role": "Director",
+  "contact_source": "https://nationaljeweler.com/articles/11285-a-day-in-the-life-daniel-namdar-fancy-color-diamond-specialist",
+  "website": "https://www.namdardiamondsusa.com",
+  "address": "580 Fifth Avenue, Suite 709",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.namdardiamondsusa.com/pages/contact-us",
+  "tel_numbers": [
+    "+12123711800"
+  ],
+  "tel_source": "https://www.namdardiamondsusa.com/pages/contact-us",
+  "socials": [
+    "https://www.facebook.com/namdarinc/",
+    "https://www.instagram.com/namdardiamonds/"
+  ],
+  "building": "580 Fifth Avenue",
+  "suite": "Ste 709",
+  "trade_memberships": [
+    "DDC",
+    "GIA"
+  ],
+  "hooks": [
+    "natural",
+    "fancy-color",
+    "since-1984"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Supplier of natural GIA fancy color diamonds to fine jewelers since 1984 (search result + own site); lists Diamond Dealers Club membership.",
+  "drop_reason": "",
+  "linkedin_note": "no linkedin.com/in result for Daniel Namdar",
+  "enriched": true
+}

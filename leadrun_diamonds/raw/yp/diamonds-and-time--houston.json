@@ -11,24 +11,32 @@
   "reviews": "",
   "source_url": "https://www.yellowpages.com/houston-tx/mip/diamonds-and-time-537594909",
   "lead_origin": "YellowPages",
-  "email": "",
-  "email_source": "",
+  "email": "ami@davidoffdiamonds.com",
+  "email_source": "https://www.davidoffdiamonds.com/contact-us",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "",
   "role": "",
   "contact_source": "",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "713-781-1700",
+    "1-800-343-2629"
+  ],
+  "tel_source": "https://www.davidoffdiamonds.com/contact-us",
+  "socials": [
+    "https://www.facebook.com/davidoffheritage"
+  ],
   "building": "",
-  "suite": "",
+  "suite": "Suite 640",
   "trade_memberships": [],
-  "hooks": [],
+  "hooks": [
+    "since-1976"
+  ],
   "is_diamond_trade": true,
   "drop_reason": "",
   "scope_reason": "unverified: listed website davidoffdiamonds.com belongs to Davidoff Heritage Diamonds LLC (6222 Richmond Ste 640, 713-781-1700); no evidence it is 'Diamonds And Time' (phone 713-974-4040)",
   "verified": false,
   "li_note": "website is Davidoff Heritage Diamonds LLC (family-owned since 1976, formerly Mike Davidov Co.); no current owner name found",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

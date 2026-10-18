@@ -1,0 +1,41 @@
+{
+ "business": "Laron Jewelers",
+ "category_as_listed": "",
+ "phone": "(312) 263-3898",
+ "email": "laronjewelers@yahoo.com",
+ "email_source": "https://laronjewelers.com/",
+ "linkedin_url": "",
+ "linkedin_source": "\"Larry Shtulman\" LaRon Jewelers LinkedIn (extended) - no /in/ profile (about.me only)",
+ "contact_person": "Larry Shtulman",
+ "role": "Owner",
+ "contact_source": "https://laronjewelers.com/pages/about-us",
+ "website": "https://laronjewelers.com",
+ "address": "5 S Wabash Ave Suite 806",
+ "city": "Chicago",
+ "state": "IL",
+ "market": "Chicago, IL",
+ "lead_origin": "Building Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://jewelerscenter.com/jewelers/",
+ "tel_numbers": [
+  "3122633898"
+ ],
+ "tel_source": "https://laronjewelers.com/",
+ "socials": [
+  "https://www.facebook.com/La-Ron-Jewelers-Chicago-Diamond-Wedding-Jeweler-191982250818678/"
+ ],
+ "building": "Mallers Building",
+ "suite": "Suite 806",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1964",
+  "2nd-generation",
+  "manufacturer",
+  "gia"
+ ],
+ "is_diamond_trade": "",
+ "scope_reason": "Own site: \"manufactures most of their 14k, 18k, and platinum jewelry on the premises\", owner has relationships \"with a vast array of diamond cutters and brokers\", GIA-trained diamond expert on premises; Jewelers Center lists it under diamond-importers-dealers.",
+ "drop_reason": "",
+ "enriched": true
+}

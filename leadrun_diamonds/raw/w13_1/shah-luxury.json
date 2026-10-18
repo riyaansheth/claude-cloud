@@ -1,0 +1,38 @@
+{
+ "business": "Shah Luxury",
+ "category_as_listed": "Plumb Club member",
+ "phone": "800-222-7424",
+ "email": "sales@shahluxe.com",
+ "email_source": "https://plumbclub.com/member/shah-luxury/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Salil Shah",
+ "role": "Featured On About Page",
+ "contact_source": "https://plumbclub.com/member/shah-luxury/",
+ "website": "https://www.shahluxe.com",
+ "address": "22 W. 48th Street, Suite # 600, New York, NY 10036",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://plumbclub.com/member/shah-luxury/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "22 W 48th St",
+ "suite": "Suite 600",
+ "trade_memberships": [
+  "Plumb Club",
+  "RJC"
+ ],
+ "hooks": [
+  "manufacturer",
+  "rough-evaluator",
+  "five-decades"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Plumb Club: founder Natwar Shah, rough diamond evaluator and diamond manufacturer supplying diamond companies, now fine jewelry; RJC lists Shah Diamonds, Inc.",
+ "drop_reason": ""
+}

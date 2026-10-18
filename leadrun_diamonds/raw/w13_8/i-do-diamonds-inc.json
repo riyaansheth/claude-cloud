@@ -1,0 +1,39 @@
+{
+ "business": "I Do Diamonds, Inc.",
+ "category_as_listed": "",
+ "phone": "(702) 369-0850",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/idoizkovich/",
+ "linkedin_source": "WebSearch extended: \"Ido Izkovich\" I Do Diamonds LinkedIn (result title: Ido Izkovich - President and CEO at i.do diamonds; Las Vegas)",
+ "contact_person": "Ido Izkovich",
+ "role": "President",
+ "contact_source": "https://www.jckonline.com/editorial-article/i-do-diamonds-proprietary-ags-labs-report/",
+ "website": "",
+ "address": "10801 W. Charleston Blvd. Suite 530",
+ "city": "Las Vegas",
+ "state": "NV",
+ "market": "Las Vegas, NV",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.macraesbluebook.com/search/company.cfm?company=1170380",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "Ste 530",
+ "trade_memberships": [
+  "AGS"
+ ],
+ "hooks": [
+  "importer",
+  "ags",
+  "loose-diamonds",
+  "perfect-princess-cut"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "JCK: direct importer and American Gem Society supplier of AGS Ideal/premium-cut loose diamonds (Perfect Princess Cut). Caution: Yelp marks the W Charleston location CLOSED; LinkedIn still lists him as President/CEO",
+ "drop_reason": "",
+ "enriched": true
+}

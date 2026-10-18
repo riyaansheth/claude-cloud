@@ -1,15 +1,15 @@
 {
  "business": "SFD Trading, Inc.",
  "category_as_listed": "",
- "phone": "",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
+ "phone": "1-800-875-1733",
+ "email": "sales@sfdiamonds.com",
+ "email_source": "https://sfdiamonds.com/",
+ "linkedin_url": "https://www.linkedin.com/in/ami-raz-02840563/",
+ "linkedin_source": "WebSearch extended: \"Ami Raz\" \"SFD Trading\" LinkedIn (result title: Ami Raz - SFD Trading Inc.)",
  "contact_person": "Ami Raz",
  "role": "Owner",
  "contact_source": "https://prospeo.io/c/sfd-trading-email-format",
- "website": "",
+ "website": "https://sfdiamonds.com",
  "address": "868 Brannan Street, Suite 303",
  "city": "San Francisco",
  "state": "CA",
@@ -18,8 +18,10 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://prospeo.io/c/sfd-trading-email-format",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "1-800-875-1733"
+ ],
+ "tel_source": "https://sfdiamonds.com/",
  "socials": [],
  "building": "",
  "suite": "Ste 303",
@@ -28,11 +30,15 @@
   "since-1985",
   "importer",
   "wholesale",
-  "sells-to-trade"
+  "sells-to-trade",
+  "lab-grown",
+  "natural",
+  "melee"
  ],
  "is_diamond_trade": true,
  "scope_reason": "Specializes in loose diamonds for dealers, jewelry stores and manufacturers; imports from Israel, Belgium, Russia, South Africa (aggregator data; co-owner Karen Raz also listed)",
  "drop_reason": "",
  "li_note": "no linkedin found",
- "li_backfill": true
+ "li_backfill": true,
+ "enriched": true
 }

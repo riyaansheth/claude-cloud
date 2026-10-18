@@ -6,7 +6,7 @@
   "address": "132 S 8th St",
   "city": "Philadelphia",
   "state": "PA",
-  "market": "Wilmington, DE",
+  "market": "Philadelphia, PA",
   "rating": "",
   "reviews": "45",
   "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/michael-david-jewelers-3755823",
@@ -30,5 +30,6 @@
   "scope_reason": "unverified: site unreachable (listed dmflavors.com does not resolve)",
   "verified": false,
   "li_note": "no owner name found",
-  "li_backfill": true
+  "li_backfill": true,
+  "market_before_fix": "Wilmington, DE"
 }

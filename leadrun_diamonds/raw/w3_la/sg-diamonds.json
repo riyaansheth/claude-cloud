@@ -2,14 +2,14 @@
  "business": "SG Diamonds",
  "category_as_listed": "Diamonds, Specializing in Layouts for Eternity Bands, Necklaces, & Bracelets",
  "phone": "(213) 986-6636",
- "email": "",
- "email_source": "",
+ "email": "info@sg-diamonds.com",
+ "email_source": "https://www.sg-diamonds.com/about",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "website": "",
+ "website": "https://www.sg-diamonds.com",
  "address": "607 South Hill Street, Suite 714, Los Angeles, California, United States, 90014",
  "city": "Los Angeles",
  "state": "CA",
@@ -18,8 +18,10 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(213) 986-6636"
+ ],
+ "tel_source": "https://www.sg-diamonds.com/about",
  "socials": [],
  "building": "",
  "suite": "Suite 714",
@@ -27,8 +29,11 @@
   "Bourse",
   "DCWC"
  ],
- "hooks": [],
+ "hooks": [
+  "3rd-generation"
+ ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Specializing in Layouts for Eternity Bands, Necklaces, & Bracelets)",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

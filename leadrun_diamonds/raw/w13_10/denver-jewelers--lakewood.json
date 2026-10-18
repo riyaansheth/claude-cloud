@@ -1,0 +1,39 @@
+{
+  "business": "Denver Jewelers",
+  "category_as_listed": "Diamonds",
+  "phone": "(720) 375-5643",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Steve Hosie",
+  "role": "Owner",
+  "contact_source": "https://denverjewelers.com/about-us/",
+  "website": "https://denverjewelers.com",
+  "address": "12085 W Alameda Pkwy Unit G9",
+  "city": "Lakewood",
+  "state": "CO",
+  "market": "Denver, CO",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/lakewood-co/mip/denver-jewelers-1372424",
+  "tel_numbers": [
+    "720-375-5643",
+    "720-454-9770"
+  ],
+  "tel_source": "https://denverjewelers.com/ https://denverjewelers.com/about-us/",
+  "socials": [],
+  "building": "",
+  "suite": "Unit G9",
+  "trade_memberships": [],
+  "hooks": [
+    "since-2011",
+    "manufacturer",
+    "family-owned"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Our business actually designs and manufactures, creating fine jewelry from start to finish'; offers loose diamonds and a 'GIA Certified diamond buying service'; Steve Hosie President/Owner.",
+  "drop_reason": "",
+  "verified": true
+}

@@ -18,8 +18,10 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://diamondsontherock.com/san-diego-diamond-experts/wholesale-diamonds/",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "8587502190"
+  ],
+  "tel_source": "https://diamondsontherock.com/contact/",
   "socials": [],
   "building": "",
   "suite": "",
@@ -33,5 +35,6 @@
   "is_diamond_trade": true,
   "scope_reason": "Site: diamond wholesalers for over 25 years in San Diego, now selling wholesale diamonds to the public; Knot lists La Jolla/San Diego.",
   "drop_reason": "",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

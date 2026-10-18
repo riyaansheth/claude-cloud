@@ -2,14 +2,14 @@
  "business": "Diamond Eyez Inc.",
  "category_as_listed": "Diamonds",
  "phone": "(213) 623-3686",
- "email": "",
- "email_source": "",
+ "email": "sales.diamondeyez@gmail.com",
+ "email_source": "https://diamondeyezinc.com/pages/about-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "website": "",
+ "website": "https://diamondeyezinc.com",
  "address": "607 South Hill St., Suite 311, Los Angeles, California, United States, 90014",
  "city": "Los Angeles",
  "state": "CA",
@@ -18,8 +18,11 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(213) 623-3686",
+  "(213) 675-8400"
+ ],
+ "tel_source": "https://diamondeyezinc.com/",
  "socials": [],
  "building": "",
  "suite": "Suite 311",
@@ -30,5 +33,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

@@ -2,8 +2,8 @@
  "business": "Kobelli Inc",
  "category_as_listed": "Diamonds, eCommerce",
  "phone": "(213) 689-0076",
- "email": "info@kobelli.com",
- "email_source": "https://kobelli.com/",
+ "email": "avi@kobelli.com",
+ "email_source": "https://kobelli.com/pages/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "Kobi Katz",
@@ -47,5 +47,6 @@
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds (eCommerce); secondary: Manufacturer/ Jewelry",
  "drop_reason": "",
  "li_note": "no linkedin found",
- "li_backfill": true
+ "li_backfill": true,
+ "enriched": true
 }

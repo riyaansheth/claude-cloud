@@ -1,0 +1,40 @@
+{
+  "business": "Aneri Jewels, LLC dba Laxmi Diamond NY",
+  "category_as_listed": "Diamonds & Diamond Jewelry",
+  "phone": "(212) 840 4506",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Nick Parekh",
+  "role": "President",
+  "contact_source": "https://www.jckonline.com/editorial-article/equity-diamond-brokers-aneri/",
+  "website": "https://www.laxmidiamond.com",
+  "address": "592 Fifth Avenue 4th Floor",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://idcany.org/member-directory-details/15",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "592 Fifth Avenue",
+  "suite": "4th Floor",
+  "trade_memberships": [
+    "IDCA"
+  ],
+  "hooks": [
+    "sightholder",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'Diamonds & Diamond Jewelry'; contacts Nikunj Parekh / Jatin Vora.",
+  "drop_reason": "",
+  "idca_other_contacts": "Nikunj Parekh / Jatin Vora",
+  "enriched": true,
+  "president_note": "JCK: Aneri Jewels formed 2009 by Nick Parekh, president (https://www.jckonline.com/editorial-article/equity-diamond-brokers-aneri/)",
+  "idca_contact": "Nikunj Parekh"
+}

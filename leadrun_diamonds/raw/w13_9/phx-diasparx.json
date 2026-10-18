@@ -1,0 +1,50 @@
+{
+  "business": "Diasparx (Ralph Mueller & Associates)",
+  "category_as_listed": "",
+  "phone": "480-640-0948",
+  "email": "daniel@diasparx.com",
+  "email_source": "https://www.diasparx.com/contact",
+  "linkedin_url": "",
+  "linkedin_source": "\"Ralph Mueller\" Scottsdale diamonds jewelry Diasparx OR \"Ralph Mueller & Associates\" LinkedIn (only /company/ page found; no personal profile)",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.diasparx.com",
+  "address": "6900 E Camelback Rd, Ste 1050, Scottsdale, AZ 85251",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "market": "Phoenix, AZ",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.diasparx.com/about",
+  "tel_numbers": [
+    "480-640-0948"
+  ],
+  "tel_source": "https://www.diasparx.com/contact",
+  "socials": [
+    "https://www.facebook.com/profile.php?id=100088561748204",
+    "https://www.instagram.com/diasparx/"
+  ],
+  "building": "",
+  "suite": "Ste 1050",
+  "trade_memberships": [
+    "JBT",
+    "RapNet",
+    "GIA Alumni Association",
+    "Polygon",
+    "DDC",
+    "BBB"
+  ],
+  "hooks": [
+    "25-years",
+    "estate-buyer",
+    "wholesale",
+    "wholesale-mode-site"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "About page: 'a premier diamond, jewelry, and gemstone wholesale and private jeweler company'; 'Trade partners rely on our depth of inventory'; why-us page lists JBT, RapNet, Polygon, NY Diamond Dealers Club membership. Site has a 'Wholesale Mode' toggle; diasparx.com/trust-ralph-mueller-and-associates ties it to Ralph Mueller & Associates (Scottsdale diamond supplier).",
+  "drop_reason": "",
+  "enriched": true,
+  "verified": true
+}

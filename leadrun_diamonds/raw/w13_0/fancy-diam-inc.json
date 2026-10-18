@@ -1,0 +1,40 @@
+{
+  "business": "Fancy Diam, Inc",
+  "category_as_listed": "All Fancy Natural Color Diamonds",
+  "phone": "(212) 704 0111",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Rajesh Zalavadiya",
+  "role": "Member",
+  "contact_source": "https://idcany.org/member-directory-details/80",
+  "website": "https://www.fancydiamondgroup.com",
+  "address": "580 Fifth Avenue Suite# 2903",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://idcany.org/member-directory-details/80",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "580 Fifth Avenue",
+  "suite": "Ste 2903",
+  "trade_memberships": [
+    "IDCA",
+    "AGTA"
+  ],
+  "hooks": [
+    "fancy-color",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'All Fancy Natural Color Diamonds'; contacts Rajesh Zalavadiya.",
+  "drop_reason": "",
+  "idca_other_contacts": "Rajesh Zalavadiya",
+  "directory_tel2": "(917) 244 4572",
+  "enriched": true
+}

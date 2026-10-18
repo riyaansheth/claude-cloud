@@ -2,14 +2,14 @@
  "business": "Giraux Fine Jewelry",
  "category_as_listed": "Jewelry Stores",
  "phone": "(415) 863-8188",
- "email": "",
- "email_source": "",
+ "email": "customercare@giraux.com",
+ "email_source": "https://sfgcjm.com/tenant/giraux-fine-jewelry/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "Tamar Sarkissian",
  "role": "Principal",
  "contact_source": "https://instoremag.com/founder-of-giraux-fine-jewelry-passed-away/amp/",
- "website": "",
+ "website": "https://www.giraux.com",
  "address": "888 Brannan St #129",
  "city": "San Francisco",
  "state": "CA",
@@ -18,10 +18,15 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/giraux-fine-jewelry-0030394",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
- "building": "GiftCenter & JewelryMart (888 Brannan)",
+ "tel_numbers": [
+  "+14158638188"
+ ],
+ "tel_source": "https://www.giraux.com/",
+ "socials": [
+  "https://www.instagram.com/girauxfinejewelry/",
+  "https://www.facebook.com/GirauxFineJewelry"
+ ],
+ "building": "SF Gift Center & Jewelry Mart",
  "suite": "Ste 129",
  "trade_memberships": [
   "Jewelers of America"
@@ -36,5 +41,6 @@
  "scope_reason": "Founded to bring loose diamonds and handcrafted jewelry to the wholesale market; known for large loose-diamond inventory. Founder Jirair Sarkissian d.2022; run by children Tamar and Sarkis",
  "drop_reason": "",
  "li_note": "no linkedin url found; search summary mentions a Giraux Controller profile under name Tamar Kilijian (URL not shown, unverified)",
- "li_backfill": true
+ "li_backfill": true,
+ "enriched": true
 }

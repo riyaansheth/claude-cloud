@@ -1,0 +1,47 @@
+{
+  "business": "Nelson Estate Jewelers",
+  "category_as_listed": "",
+  "phone": "(480) 459-9867",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/david-nelson-b473b1116/",
+  "linkedin_source": "\"David Nelson\" \"Nelson Estate Jewelers\" Mesa LinkedIn",
+  "contact_person": "David Nelson",
+  "role": "Owner",
+  "contact_source": "https://nelsonestatejewelers.com/about-us/",
+  "website": "https://nelsonestatejewelers.com",
+  "address": "1862 W. Baseline Rd. Ste 101, Mesa, AZ 85202",
+  "city": "Mesa",
+  "state": "AZ",
+  "market": "Phoenix, AZ",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://nelsonestatejewelers.com/",
+  "tel_numbers": [
+    "(480) 459-9867"
+  ],
+  "tel_source": "https://nelsonestatejewelers.com/contact-us/",
+  "socials": [
+    "https://facebook.com/NelsonEstateJewelers",
+    "https://instagram.com/nelsonestatejewelers/",
+    "https://twitter.com/Nelson_Jewelers"
+  ],
+  "building": "",
+  "suite": "Ste 101",
+  "trade_memberships": [
+    "GIA",
+    "BBB"
+  ],
+  "hooks": [
+    "since-2017",
+    "estate-buyer",
+    "natural",
+    "loose-diamonds"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: 'Diamond Dealer \u2014 carries certified loose diamonds'; buys loose diamonds from estate sellers and dealer networks; GIA & AGS certified diamonds.",
+  "drop_reason": "",
+  "enriched": true,
+  "verified": true
+}

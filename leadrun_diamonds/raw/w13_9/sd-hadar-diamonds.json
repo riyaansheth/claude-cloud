@@ -1,0 +1,43 @@
+{
+  "business": "Hadar Diamonds",
+  "category_as_listed": "",
+  "phone": "619-572-8100",
+  "email": "bestprice@hadardiamonds.com",
+  "email_source": "https://hadardiamonds.com/policies/privacy-policy",
+  "linkedin_url": "https://www.linkedin.com/in/gerry-hauser-b448886/",
+  "linkedin_source": "\"Gerry Hauser\" Hadar Diamonds LinkedIn",
+  "contact_person": "Gerry Hauser",
+  "role": "CEO",
+  "contact_source": "https://hadardiamonds.com/pages/gerry-hauser-hadar-diamonds-ceo-quoted-in-rapaport-magazine",
+  "website": "https://hadardiamonds.com",
+  "address": "",
+  "city": "San Diego",
+  "state": "CA",
+  "market": "San Diego, CA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://hadardiamonds.com/",
+  "tel_numbers": [
+    "619-572-8100"
+  ],
+  "tel_source": "https://hadardiamonds.com/pages/contact",
+  "socials": [
+    "https://facebook.com/hadardiamonds",
+    "https://instagram.com/hadardiamonds"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "lab-grown",
+    "natural",
+    "family-owned-40-years",
+    "online-loose-diamond-inventory"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site sells loose diamonds online ('Shop over 12,600 Diamonds'): IGI lab-grown and GIA natural/HPHT loose stones; full-service diamond house, family-owned 40+ years.",
+  "drop_reason": "",
+  "enriched": true,
+  "verified": true
+}

@@ -2,15 +2,15 @@
   "business": "House of Diamonds Inc",
   "category_as_listed": "",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "sales@hod.live",
+  "email_source": "https://www.hod.live/contact-us/",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "",
   "role": "",
   "contact_source": "",
-  "website": "",
-  "address": "50 West 47th Street, New York, NY 10036",
+  "website": "https://www.hod.live",
+  "address": "50 West 47th Street Suite 2018, New York, NY 10036",
   "city": "New York",
   "state": "NY",
   "market": "New York, NY",
@@ -18,18 +18,26 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.indianjeweller.in/Indian-Jewellery-News/5193/index.html",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "212-944-9868"
+  ],
+  "tel_source": "https://www.hod.live/contact-us/",
   "socials": [],
   "building": "International Gem Tower",
-  "suite": "",
-  "trade_memberships": [],
+  "suite": "Ste 2018",
+  "trade_memberships": [
+    "IDCA",
+    "GIA"
+  ],
   "hooks": [
     "manufacturer",
     "importer",
-    "loose-diamonds"
+    "loose-diamonds",
+    "natural",
+    "8th-generation"
   ],
   "is_diamond_trade": true,
   "scope_reason": "Manufacturer and importer of loose diamonds; took IGT office space (GlobeSt 2010, Indian Jeweller 2014).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

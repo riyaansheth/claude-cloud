@@ -1,0 +1,42 @@
+{
+  "business": "Oakgem",
+  "category_as_listed": "Jewelers",
+  "phone": "(561) 826-7467",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://oakgem.com",
+  "address": "316 Plaza Real",
+  "city": "Boca Raton",
+  "state": "FL",
+  "market": "Boca Raton, FL",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/boca-raton-fl/mip/oakgem-548349408",
+  "tel_numbers": [
+    "609.300.6900",
+    "754.946.2526"
+  ],
+  "tel_source": "https://oakgem.com/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "JBT",
+    "JVC"
+  ],
+  "hooks": [
+    "30-years",
+    "estate-diamond-buyer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'For over 30 years ... buying and selling fine estate jewelry'; 'started as a business serving the jewelry trade'; JBT and JVC member",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

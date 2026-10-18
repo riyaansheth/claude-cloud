@@ -2,8 +2,8 @@
   "business": "NYC Wholesale Diamonds Inc.",
   "category_as_listed": "Jewelry",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "KS@NYCWD.com",
+  "email_source": "https://www.nycwholesalediamonds.com/index.html",
   "linkedin_url": "https://www.linkedin.com/in/keithsaxe/",
   "linkedin_source": "WebSearch: Keith Saxe NYC Wholesale Diamonds LinkedIn",
   "contact_person": "Keith J. Saxe",
@@ -21,7 +21,10 @@
   "tel_numbers": [],
   "tel_source": "",
   "socials": [
-    "https://www.facebook.com/NYCWholesaleDiamonds/"
+    "https://www.facebook.com/NYCWholesaleDiamonds/",
+    "https://twitter.com/nycwd",
+    "https://www.facebook.com/NYCWholesaleDiamonds",
+    "https://www.instagram.com/nycwd/"
   ],
   "building": "",
   "suite": "Suite 3A",
@@ -35,5 +38,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Founder/president Keith Saxe (GIA educated); sells GIA certified ideal cut loose diamonds wholesale in the Diamond District for 30 years.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

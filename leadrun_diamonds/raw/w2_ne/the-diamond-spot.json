@@ -2,13 +2,13 @@
   "business": "The Diamond Spot",
   "category_as_listed": "",
   "phone": "(617) 816-5710",
-  "email": "",
-  "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "email": "info@thediamondspotboston.com",
+  "email_source": "https://thediamondspotboston.com/privacy-policy/",
+  "linkedin_url": "https://www.linkedin.com/in/cliff-f-ab53ab190/",
+  "linkedin_source": "WebSearch extended (allowed_domains linkedin.com): The Diamond Spot Boston FCP Diamonds owner Frye (result title: Cliff F. - Small Business Owner - The Diamond Spot)",
+  "contact_person": "Cliff Frye",
+  "role": "Owner",
+  "contact_source": "https://www.bostonjewelers.club/our-members (Cliff Frye - FCP Diamonds); privacy policy: FCP Diamonds, LLC d/b/a Diamond Spot",
   "website": "https://thediamondspotboston.com",
   "address": "333 Washington Street, Suite 430, Boston, MA",
   "city": "Boston",
@@ -18,18 +18,23 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://thediamondspotboston.com/2020/07/08/the-diamond-spot-on-boston-jewelers-building/",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "+16178165710"
+  ],
+  "tel_source": "https://thediamondspotboston.com/",
   "socials": [
     "https://www.facebook.com/TheDiamondSpot/"
   ],
   "building": "Jewelers Building (333 Washington St)",
   "suite": "Ste 430",
-  "trade_memberships": [],
+  "trade_memberships": [
+    "Boston Jewelers Club"
+  ],
   "hooks": [],
   "is_diamond_trade": true,
   "scope_reason": "Diamond specialist in the Jewelers Building; trade vs retail unverified.",
   "drop_reason": "",
   "li_note": "owner not named anywhere found (site says family-owned, 2nd generation); Anastasia Harrison is Jewelry Specialist (LinkedIn), not owner",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

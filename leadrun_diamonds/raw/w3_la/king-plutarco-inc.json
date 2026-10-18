@@ -2,14 +2,14 @@
  "business": "King Plutarco Inc.",
  "category_as_listed": "Pearls, Loose and Strands",
  "phone": "(213) 624-3077",
- "email": "",
- "email_source": "",
+ "email": "kplutarco@aol.com",
+ "email_source": "https://kingplutarco.com/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "website": "",
+ "website": "https://kingplutarco.com",
  "address": "550 South Hill Street, Suite 1652, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
  "state": "CA",
@@ -18,8 +18,10 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "12136243077"
+ ],
+ "tel_source": "https://kingplutarco.com/",
  "socials": [],
  "building": "International Jewelry Center",
  "suite": "Suite 1652",
@@ -30,5 +32,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Pearls (Loose and Strands); secondary: Diamonds,Emerald",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

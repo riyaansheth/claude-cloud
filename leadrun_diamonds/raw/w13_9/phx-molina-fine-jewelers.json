@@ -1,0 +1,13 @@
+{
+  "business": "Molina Fine Jewelers",
+  "source_url": "https://www.molinafinejewelers.com/",
+  "drop_reason": "retail-only",
+  "scope_reason": "High-end retail jeweler at 3134 E Camelback Rd; site shows no loose diamond / trade / wholesale activity.",
+  "market": "Phoenix, AZ",
+  "city": "Phoenix",
+  "state": "AZ",
+  "website": "https://www.molinafinejewelers.com",
+  "is_diamond_trade": false,
+  "enriched": true,
+  "verified": true
+}

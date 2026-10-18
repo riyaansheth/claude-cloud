@@ -4,12 +4,12 @@
   "phone": "(617) 523-3771",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
-  "website": "",
+  "linkedin_url": "https://www.linkedin.com/in/harry-gigian-764379143/",
+  "linkedin_source": "WebSearch extended: Gigian Jewelry Company Boston Harry Gigian manufacturer (result title: Harry Gigian - President - Gigian Jewelry Company)",
+  "contact_person": "Harry Gigian",
+  "role": "President",
+  "contact_source": "https://www.bbb.org/us/ma/boston/profile/jewelry-manufacturers/gigian-jewelry-co-0021-134552",
+  "website": "https://www.harrygigian.com",
   "address": "333 Washington St Ste 513, Boston, MA 02108",
   "city": "Boston",
   "state": "MA",
@@ -18,17 +18,22 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.yellowpages.com/boston-ma/mip/gigian-jewelers-473523946",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "(617) 523-3771"
+  ],
+  "tel_source": "https://www.harrygigian.com/contact-us.html",
   "socials": [],
   "building": "Jewelers Building, 333 Washington St",
-  "suite": "Ste 513",
-  "trade_memberships": [],
+  "suite": "Store 318",
+  "trade_memberships": [
+    "Boston Jewelers Club"
+  ],
   "hooks": [
     "wholesale",
     "manufacturer"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "YP lists as Jewelers-Wholesale & Manufacturers tenant of the Boston jewelers buildings; diamond line not confirmed (no own site read).",
-  "drop_reason": ""
+  "scope_reason": "Own site: \"wholesale, high end jewelry business specializing in custom made jewelry ... custom design and creation for retailers\"; molds, casts and sets precious stones; est. 1985.",
+  "drop_reason": "",
+  "enriched": true
 }

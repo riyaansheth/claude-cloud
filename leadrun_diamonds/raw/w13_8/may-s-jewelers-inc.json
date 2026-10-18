@@ -1,0 +1,39 @@
+{
+ "business": "May's Jewelers Inc.",
+ "category_as_listed": "Loose Stones & Diamonds",
+ "phone": "415-255-1151",
+ "email": "maysjeweler@gmail.com",
+ "email_source": "https://maysjeweler.com/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/ken-lam-91b851b5/",
+ "linkedin_source": "WebSearch extended: \"May's Jewelers\" San Francisco owner LinkedIn (result title: Ken Lam - President at May's Jewelers Inc.)",
+ "contact_person": "Ken Lam",
+ "role": "President",
+ "contact_source": "WebSearch result title: Ken Lam - President at May's Jewelers Inc.",
+ "website": "https://www.maysjeweler.com",
+ "address": "888 Brannan St Ste 179",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "lead_origin": "Building Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://sfgcjm.com/tenant/may-s-jewelers-inc/",
+ "tel_numbers": [
+  "(415) 255-1151"
+ ],
+ "tel_source": "https://maysjeweler.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/MaysJewelers/"
+ ],
+ "building": "SF Gift Center & Jewelry Mart",
+ "suite": "Ste 179",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1988",
+  "gia"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Directory: family-owned since 1988, specializes in fine quality GIA-graded diamonds",
+ "drop_reason": "",
+ "enriched": true
+}

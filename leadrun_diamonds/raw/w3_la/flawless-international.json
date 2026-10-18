@@ -6,9 +6,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Javid Moreh",
+ "role": "President",
+ "contact_source": "https://www.gojewelrydistrict.com/flawless-international",
  "website": "",
  "address": "550 South Hill Street, Suite 1450, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -28,9 +28,11 @@
   "DCWC"
  ],
  "hooks": [
-  "estate"
+  "estate",
+  "since-1983"
  ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale & Retail; primary specialty: Diamonds (Fine diamond jewelry & estate jewelry); secondary: Jewelry",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

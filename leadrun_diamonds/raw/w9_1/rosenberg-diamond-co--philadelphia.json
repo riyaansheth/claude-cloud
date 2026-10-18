@@ -1,47 +1,48 @@
 {
- "business": "Rosenberg Diamond Co",
- "category_as_listed": "Diamond Buyers, Diamonds-Wholesale, Diamonds",
- "phone": "(215) 627-1317",
- "website": "https://www.rosenbergdiamondco.com",
- "address": "738 Sansom St",
- "city": "Philadelphia",
- "state": "PA",
- "market": "Cherry Hill, NJ",
- "rating": "",
- "reviews": "45",
- "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/rosenberg-diamond-co-14270424",
- "lead_origin": "YellowPages",
- "email": "contact@rosenbergdiamondco.com",
- "email_source": "https://www.rosenbergdiamondco.com/contact/",
- "linkedin_url": "https://www.linkedin.com/in/larry-rosenberg-b8345519/",
- "linkedin_source": "WebSearch extended: \"Larry Rosenberg\" \"Rosenberg Diamond\" LinkedIn -> \"Larry Rosenberg - Rosenberg Diamond Company\" (Philadelphia)",
- "contact_person": "Larry Rosenberg",
- "role": "Owner",
- "contact_source": "https://willyou.net/jewelers/rosenberg-diamond-co-philadelphia-pa",
- "tel_numbers": [
-  "(215) 627-1317"
- ],
- "tel_source": "https://www.rosenbergdiamondco.com/contact/",
- "socials": [
-  "https://www.instagram.com/rosenbergdiamondco/"
- ],
- "building": "",
- "suite": "",
- "trade_memberships": [
-  "RapNet",
-  "Polygon",
-  "GIA"
- ],
- "hooks": [
-  "since-1981",
-  "2nd-generation",
-  "natural",
-  "memo",
-  "estate-buyer"
- ],
- "is_diamond_trade": true,
- "drop_reason": "",
- "scope_reason": "Own About page: \"one of the largest diamond wholesalers in the Northeastern United States... selling and memo loose GIA certified diamonds to dealers\"; RapNet ID #13659.",
- "verified": true,
- "enriched": true
+  "business": "Rosenberg Diamond Co",
+  "category_as_listed": "Diamond Buyers, Diamonds-Wholesale, Diamonds",
+  "phone": "(215) 627-1317",
+  "website": "https://www.rosenbergdiamondco.com",
+  "address": "738 Sansom St",
+  "city": "Philadelphia",
+  "state": "PA",
+  "market": "Philadelphia, PA",
+  "rating": "",
+  "reviews": "45",
+  "source_url": "https://www.yellowpages.com/philadelphia-pa/mip/rosenberg-diamond-co-14270424",
+  "lead_origin": "YellowPages",
+  "email": "contact@rosenbergdiamondco.com",
+  "email_source": "https://www.rosenbergdiamondco.com/contact/",
+  "linkedin_url": "https://www.linkedin.com/in/larry-rosenberg-b8345519/",
+  "linkedin_source": "WebSearch extended: \"Larry Rosenberg\" \"Rosenberg Diamond\" LinkedIn -> \"Larry Rosenberg - Rosenberg Diamond Company\" (Philadelphia)",
+  "contact_person": "Larry Rosenberg",
+  "role": "Owner",
+  "contact_source": "https://willyou.net/jewelers/rosenberg-diamond-co-philadelphia-pa",
+  "tel_numbers": [
+    "(215) 627-1317"
+  ],
+  "tel_source": "https://www.rosenbergdiamondco.com/contact/",
+  "socials": [
+    "https://www.instagram.com/rosenbergdiamondco/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RapNet",
+    "Polygon",
+    "GIA"
+  ],
+  "hooks": [
+    "since-1981",
+    "2nd-generation",
+    "natural",
+    "memo",
+    "estate-buyer"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "Own About page: \"one of the largest diamond wholesalers in the Northeastern United States... selling and memo loose GIA certified diamonds to dealers\"; RapNet ID #13659.",
+  "verified": true,
+  "enriched": true,
+  "market_before_fix": "Cherry Hill, NJ"
 }

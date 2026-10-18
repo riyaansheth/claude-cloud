@@ -2,13 +2,13 @@
   "business": "David & Sons Fine Jewelers",
   "category_as_listed": "",
   "phone": "",
-  "email": "",
-  "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "\"Edmond Elghanian\" San Diego LinkedIn",
-  "contact_person": "Edmond Elghanian",
-  "role": "President",
-  "contact_source": "https://davidandsonsjewelers.com/about",
+  "email": "davidandsonsutc@gmail.com",
+  "email_source": "https://davidandsonsjewelers.com/contact/",
+  "linkedin_url": "https://www.linkedin.com/in/emil-elghanian-34155b16/",
+  "linkedin_source": "WebSearch extended: \"Edmond Elghanian\" David & Sons Fine Jewelers LinkedIn",
+  "contact_person": "Emil Elghanian",
+  "role": "Owner",
+  "contact_source": "https://www.linkedin.com/company/david-sons-fine-jewelers",
   "website": "https://davidandsonsjewelers.com",
   "address": "4485 La Jolla Village Drive",
   "city": "San Diego",
@@ -18,9 +18,14 @@
   "rating": "4.8",
   "reviews": "1.4k",
   "source_url": "https://davidandsonsjewelers.com/loose-diamonds-san-diego-ca/",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "858-457-7664"
+  ],
+  "tel_source": "https://davidandsonsjewelers.com/contact/",
+  "socials": [
+    "https://www.facebook.com/DandSFineJewelers",
+    "https://www.instagram.com/davidandsonsfinejewelers/"
+  ],
   "building": "",
   "suite": "",
   "trade_memberships": [],
@@ -33,5 +38,6 @@
   "is_diamond_trade": true,
   "scope_reason": "Site: 'Loose Diamonds San Diego - Unbeatable Wholesale Prices'; claims most extensive loose diamond inventory in California; wholesale provider of certified loose diamonds. Entity David & Sons Jewelry, Inc.",
   "drop_reason": "",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

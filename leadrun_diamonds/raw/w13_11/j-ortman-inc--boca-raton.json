@@ -1,0 +1,43 @@
+{
+  "business": "J. Ortman Inc",
+  "category_as_listed": "",
+  "phone": "",
+  "email": "heididesignz@gmail.com",
+  "email_source": "https://jortman.com/contact/",
+  "linkedin_url": "https://www.linkedin.com/in/heidi-ortman-sheff-a2013316",
+  "linkedin_source": "https://jortman.com/ (page source structured data sameAs for Heidi Ortman Sheff)",
+  "contact_person": "Heidi Ortman Sheff",
+  "role": "Principal",
+  "contact_source": "https://jortman.com/",
+  "website": "https://jortman.com",
+  "address": "",
+  "city": "Boca Raton",
+  "state": "FL",
+  "market": "Boca Raton, FL",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://jortman.com/",
+  "tel_numbers": [
+    "(914) 643-1553"
+  ],
+  "tel_source": "https://jortman.com/contact/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1899",
+    "4th-generation",
+    "wholesale",
+    "estate-diamond-buyer",
+    "lab-grown",
+    "natural",
+    "large-stones"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'J.Ortman Inc is a wholesale fine diamond' and estate jewelry firm since 1899, 'premier source ... in high-end estate jewelry and wholesale diamonds'; led by 4th-generation Heidi Ortman Sheff",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

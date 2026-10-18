@@ -1,0 +1,13 @@
+{
+  "business": "Schmitt Jewelers",
+  "source_url": "https://schmittjewelers.com/",
+  "drop_reason": "retail-only",
+  "scope_reason": "Family retail jewelry store at 4402 E Camelback Rd selling finished jewelry and online diamond search; no trade/sourcing evidence.",
+  "market": "Phoenix, AZ",
+  "city": "Phoenix",
+  "state": "AZ",
+  "website": "https://schmittjewelers.com",
+  "is_diamond_trade": false,
+  "enriched": true,
+  "verified": true
+}
