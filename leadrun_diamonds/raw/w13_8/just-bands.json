@@ -6,9 +6,9 @@
  "email_source": "https://sfgcjm.com/tenant/just-bands/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "John Meric",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ca/san-francisco/profile/jewelry-stores/just-diamonds-1116-282453",
  "website": "",
  "address": "888 Brannan St Ste 1045",
  "city": "San Francisco",
@@ -20,7 +20,9 @@
  "source_url": "https://sfgcjm.com/tenant/just-bands/",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/SFJustBands/"
+ ],
  "building": "SF Gift Center & Jewelry Mart",
  "suite": "Ste 1045",
  "trade_memberships": [],
