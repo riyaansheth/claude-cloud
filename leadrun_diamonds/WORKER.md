@@ -90,3 +90,29 @@ linkedin.com/in/ URL literally appears tied to that person + business; set linke
 `file` IN PLACE (keep all other fields), set `"li_backfill": true` even when nothing is found.
 Prioritise items with "qualified": true or a contact name. Up to 4 subagents. Commit ONLY the raw files you
 edited; push to your outcome branch every ~20 targets. Report: targets, names found, LinkedIn found.
+
+## Qualify-push worker (given MARKETS and OUT=w13_<k>) — target 50 QUALIFIED per market
+Goal: raise the number of QUALIFIED leads (2 of 3: real email / personal LinkedIn of a named owner /
+direct line ≠ main line) in your markets to 50 each, or until the market is honestly exhausted.
+Never fabricate — an unfilled field beats an invented one. Budget ≤ 120 WebSearch calls total.
+
+0. Measure first: `python3 scripts/ingest.py && python3 scripts/build.py`, then count rows per market in
+   `diamonds_qualified.csv` vs `diamonds_all.csv`. Re-run this after every ~20 edits to track progress.
+1. UPGRADE existing leads (cheapest wins first). For every row in `diamonds_all.csv` in your markets that is
+   NOT in `diamonds_qualified.csv`: find its raw JSON (`grep -rl '"<business>"' raw/`), then fill what is
+   missing — fetch the business's own site `/`, `/contact`, `/about`, `/team` with Bash+requests for
+   `mailto:` emails and `tel:` numbers (tel_source = own page URLs only); find the owner/founder name; then
+   WebSearch (mode "extended") `"First Last" <Business> LinkedIn` and record a linkedin.com/in/ URL only if it
+   literally appears and ties to this business. Edit the raw file IN PLACE (keep all fields, set
+   "enriched": true). Rows flagged out of scope stay out — do not re-scope them.
+2. DISCOVER new trade businesses in your markets until you reach the target: building/tenant directories
+   (e.g. NYC International Gem Tower, 580 Fifth Ave, 20/36/55/62/71 W 47th St; LA St. Vincent Jewelry Center,
+   International Jewelry Center, California Jewelry Mart; Miami Seybold Building; Chicago Mallers / 5 S
+   Wabash; Houston/Dallas jewelry marts), DDC / DMIA / JBT / AGS / bourse member lists, JCK Las Vegas exhibitor
+   lists with addresses in your market, and searches like `"diamond wholesaler" <market> owner LinkedIn`.
+   Prefer businesses that publish an email and a named owner — those qualify. Write each as a new raw JSON in
+   `raw/<OUT>/` (AGENT_BRIEF schema). Check `ls raw/*/` for the slug first; never duplicate.
+3. Commit ONLY files under `leadrun_diamonds/raw/` (your OUT dir plus the raw files you upgraded in place);
+   push to your outcome branch every ~20 files and at the end.
+Report per market: qualified before → after, new businesses added, upgrades made (emails / LinkedIn /
+direct lines), and why the market stopped short of 50 if it did.
