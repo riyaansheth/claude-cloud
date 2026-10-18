@@ -1,0 +1,49 @@
+{
+  "business": "IGC New York Inc.",
+  "category_as_listed": "Diamond Manufacturer",
+  "phone": "+1- 212 764 0949",
+  "email": "izzy@igcgroup.com",
+  "email_source": "https://www.igcgroup.com/contact/",
+  "linkedin_url": "https://www.linkedin.com/in/izzy-rosenberg-81b52b43/",
+  "linkedin_source": "WebSearch: \"Izzy Rosenberg\" OR \"Charles Paskesz\" IGC New York diamonds LinkedIn (result: izzy rosenberg - office manager at IGC Group)",
+  "contact_person": "Izzy Rosenberg",
+  "role": "Manager",
+  "contact_source": "https://www.igcgroup.com/contact/",
+  "website": "https://www.igcgroup.com",
+  "address": "580 Fifth Avenue, Suite 708",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://jvclegal.org/membership/directory/",
+  "tel_numbers": [
+    "+1- 212 764 0949",
+    "800 431 8919"
+  ],
+  "tel_source": "https://www.igcgroup.com/contact/",
+  "socials": [
+    "https://www.instagram.com/igcgroupdiamonds/"
+  ],
+  "building": "580 Fifth Avenue",
+  "suite": "Ste 708",
+  "trade_memberships": [
+    "JVC",
+    "RJC",
+    "De Beers Sightholder"
+  ],
+  "hooks": [
+    "manufacturer",
+    "sightholder",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "NY subsidiary of IGC Group (Antwerp diamond manufacturer, De Beers sightholder); polished & rough diamonds; NY staff Izzy Rosenberg, Charles Paskesz, Matan Ehrlich listed on contact page.",
+  "drop_reason": "",
+  "other_emails": [
+    "newyork@igcgroup.com",
+    "charles@igcgroup.com"
+  ],
+  "enriched": true
+}

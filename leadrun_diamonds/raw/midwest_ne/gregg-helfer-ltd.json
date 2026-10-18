@@ -1,35 +1,42 @@
 {
-  "business": "Gregg Helfer Ltd",
-  "category_as_listed": "Jewelers-Wholesale & Manufacturers; Diamond Buyers",
-  "phone": "312-920-0970",
-  "email": "",
-  "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
-  "website": "",
-  "address": "5 S Wabash Ave",
-  "city": "Chicago",
-  "state": "IL",
-  "market": "Chicago, IL",
-  "lead_origin": "YellowPages",
-  "rating": "",
-  "reviews": "",
-  "source_url": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
-  "tel_numbers": [
-    "312-920-0970"
-  ],
-  "tel_source": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
-  "socials": [],
-  "building": "Mallers Building",
-  "suite": "",
-  "trade_memberships": [],
-  "hooks": [
-    "diamond-buyer"
-  ],
-  "is_diamond_trade": true,
-  "scope_reason": "Listed as wholesale jeweler/manufacturer and diamond buyer at 5 S Wabash.",
-  "drop_reason": ""
+ "business": "Gregg Helfer Ltd",
+ "category_as_listed": "Jewelers-Wholesale & Manufacturers; Diamond Buyers",
+ "phone": "312-920-0970",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "\"Michael Helfer\" \"Gregg Helfer\" jeweler Chicago LinkedIn (extended) - no /in/ profile",
+ "contact_person": "Michael Helfer",
+ "role": "Owner",
+ "contact_source": "https://gregghelfer.com/pages/about-us",
+ "website": "https://gregghelfer.com",
+ "address": "5 S Wabash Ave",
+ "city": "Chicago",
+ "state": "IL",
+ "market": "Chicago, IL",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+ "tel_numbers": [
+  "312-920-0970"
+ ],
+ "tel_source": "https://www.yellowpages.com/chicago-il/diamonds-wholesale",
+ "socials": [
+  "https://instagram.com/gregghelferltd",
+  "https://facebook.com/gregghelferltd"
+ ],
+ "building": "Mallers Building",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1933",
+  "3rd-generation",
+  "importer",
+  "gia"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own About page: \"The Helfer family has been importing diamonds and making jewelry for three generations\"; first wholesale office in downtown Chicago 1933; GIA certified and lab-grown diamonds, custom casting.",
+ "drop_reason": "",
+ "enriched": true
 }

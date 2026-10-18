@@ -28,5 +28,6 @@
  "is_diamond_trade": false,
  "drop_reason": "retail-only",
  "scope_reason": "Own site: curated fine jewelry collection, repairs, custom design and appraisals for retail customers; no loose-diamond/wholesale line.",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

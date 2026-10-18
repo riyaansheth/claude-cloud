@@ -1,0 +1,44 @@
+{
+  "business": "Anschar Diamonds Inc",
+  "category_as_listed": "Diamonds, Jewelers-Wholesale & Manufacturers, Jewelers",
+  "phone": "(972) 233-1804",
+  "website": "http://anschardiamonds.com",
+  "address": "12900 Preston Rd",
+  "city": "Dallas",
+  "state": "TX",
+  "market": "Dallas, TX",
+  "rating": "4",
+  "reviews": "1",
+  "source_url": "https://www.yellowpages.com/dallas-tx/mip/anschar-diamonds-inc-1556745",
+  "lead_origin": "YellowPages",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/theo-schaars-50318717",
+  "linkedin_source": "WebSearch: \"Theo Schaars\" Anschar Diamonds LinkedIn (title: Theo Schaars - Owner - Anschar Diamonds, Inc)",
+  "contact_person": "Theo Schaars",
+  "role": "Owner",
+  "contact_source": "https://anschardiamonds.com/company/about-us/",
+  "tel_numbers": [
+    "(972) 233-1804",
+    "214-908-7678"
+  ],
+  "tel_source": "https://anschardiamonds.com/company/about-us/",
+  "socials": [
+    "https://www.facebook.com/anschardiamonds/",
+    "https://www.instagram.com/anschardiamonds/"
+  ],
+  "building": "",
+  "suite": "Ste 802",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "since-1982",
+    "gia-gg"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "YellowPages categories: Diamonds, Jewelers-Wholesale & Manufacturers, Jewelers",
+  "enriched": true,
+  "enrich_note": "214-908-7678 is the cell of staff member Phil (about-us page), not Theo"
+}

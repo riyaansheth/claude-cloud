@@ -6,9 +6,9 @@
   "email_source": "",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Liliya Lakmanchuk",
+  "role": "Principal",
+  "contact_source": "https://www.dnb.com/business-directory/company-profiles.aura_diamonds_llc.821bb93e3cbf6b8e1fe4d3f85f6af6d9.html",
   "website": "https://www.aura.diamonds",
   "address": "4201 Spring Valley Rd suite 530, Dallas, TX",
   "city": "Dallas",
@@ -31,5 +31,7 @@
   "is_diamond_trade": true,
   "scope_reason": "Listed as wholesale diamond dealer offering custom cutting of diamonds to client spec (Craft.co); poyst listing gives Suite 520.",
   "drop_reason": "",
-  "li_backfill": true
+  "li_backfill": true,
+  "li_note": "r13: no linkedin.com/in for Liliya Lakmanchuk found; Yelp reply signed Gary L., Business Owner",
+  "enriched": true
 }

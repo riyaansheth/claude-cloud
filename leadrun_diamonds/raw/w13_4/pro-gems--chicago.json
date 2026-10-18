@@ -34,8 +34,9 @@
   "gia-gg",
   "custom"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site (Professional Gems Jewelry): diamond and custom jewelry maker on Wabash that \"creates all of its jewelry by hand\"; staff incl. Samir Dhanani, Graduate Gemologist. Borderline manufacturer/bridal.",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

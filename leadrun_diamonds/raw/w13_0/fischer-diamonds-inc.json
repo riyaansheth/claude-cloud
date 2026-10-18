@@ -1,0 +1,45 @@
+{
+  "business": "Fischer Diamonds, Inc.",
+  "category_as_listed": "",
+  "phone": "212-869-1990",
+  "email": "sales@fischerdiamonds.com",
+  "email_source": "https://fischerdiamonds.com/",
+  "linkedin_url": "https://www.linkedin.com/in/jeff-fischer-4aaa3a7/",
+  "linkedin_source": "WebSearch: \"Jeffrey Fischer\" diamonds New York LinkedIn Fischer Diamonds CEO (result: Jeff Fischer - President at Fischer Diamonds, Inc.)",
+  "contact_person": "Jeff Fischer",
+  "role": "President",
+  "contact_source": "https://fischerdiamonds.com/",
+  "website": "https://www.fischerdiamonds.com",
+  "address": "580 Fifth Ave Suite 613",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://jvclegal.org/membership/directory/",
+  "tel_numbers": [
+    "212-869-1990",
+    "800-223-2244"
+  ],
+  "tel_source": "https://fischerdiamonds.com/",
+  "socials": [],
+  "building": "580 Fifth Avenue",
+  "suite": "Ste 613",
+  "trade_memberships": [
+    "JVC",
+    "DMIA",
+    "IDMA",
+    "GIA"
+  ],
+  "hooks": [
+    "manufacturer",
+    "natural",
+    "2nd-generation"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: traditional full-service diamond house with cutting technology, full range of shapes and sizes; President/CEO Jeff Fischer (past DMIA/IDMA president).",
+  "drop_reason": "",
+  "enriched": true,
+  "ceo_filing": "bizprofile.net lists Jeffrey H Fischer as CEO (https://www.bizprofile.net/ny/new-york/fischer-diamonds-inc)"
+}

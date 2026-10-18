@@ -31,8 +31,9 @@
  "hooks": [
   "loose-diamonds"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: \"We Offer GIA Certified Loose Diamonds\" plus custom design; YP Jewelers-Wholesale & Manufacturers (also sells gifts - borderline bridal/loose-stone dealer).",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

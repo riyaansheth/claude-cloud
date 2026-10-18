@@ -27,7 +27,7 @@
  "hooks": [
   "cutter"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Jewelers Center tenant; Manta classifies it as diamond cutting and polishing (lapidary).",
  "drop_reason": "",
  "enriched": true

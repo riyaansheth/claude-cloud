@@ -2,8 +2,8 @@
   "business": "Dharm International, LLC",
   "category_as_listed": "Diamonds",
   "phone": "(212) 398 7777",
-  "email": "",
-  "email_source": "",
+  "email": "usa@ddpl.com",
+  "email_source": "https://www.ddpl.com/main.b41bd162f43ffa9f.js",
   "linkedin_url": "https://www.linkedin.com/in/bhavesh-virani-2bb4bb49/",
   "linkedin_source": "WebSearch: \"Bhavesh Virani\" Dharm International DDPL New York LinkedIn (result: bhavesh virani - director at dharm international llc)",
   "contact_person": "Bhavesh Virani",
@@ -18,8 +18,10 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://idcany.org/member-directory-details/52",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "+1 212 398 7777"
+  ],
+  "tel_source": "https://www.ddpl.com/main.b41bd162f43ffa9f.js",
   "socials": [],
   "building": "International Gem Tower",
   "suite": "Ste 2100",
@@ -35,5 +37,6 @@
   "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'Diamonds'; contacts Bhavesh Virani / Rohit Jomadia.",
   "drop_reason": "",
   "idca_other_contacts": "Bhavesh Virani / Rohit Jomadia",
-  "enriched": true
+  "enriched": true,
+  "site_note": "Angular site; USA (Sales Affiliate) block in DDPL own JS bundle: Dharm International LLC, 50 West 47th street Suite #2100, Tel +1 212 398 7777-78, Fax +1 212 398 7775, Email usa@ddpl.com"
 }

@@ -29,7 +29,7 @@
  "hooks": [
   "gia"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "YP category Diamonds; owner Larry Nagel (GIA background) runs Gala Diamond & Watch, a diamond dealer office at 30555 Northwestern Hwy Ste 220. Scope from listing only (no website).",
  "drop_reason": "",
  "enriched": true

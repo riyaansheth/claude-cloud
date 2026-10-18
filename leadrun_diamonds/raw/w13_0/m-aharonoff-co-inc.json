@@ -1,0 +1,40 @@
+{
+  "business": "M. Aharonoff Co., Inc.",
+  "category_as_listed": "Diamond, Other; Estate Jewelry",
+  "phone": "212-869-8766",
+  "email": "haharonoff@gmail.com",
+  "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1171",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Haim Aharonoff",
+  "role": "VP",
+  "contact_source": "https://us-jeweler.com/company-m-aharonoff-co-in-new-york-ny-5555",
+  "website": "",
+  "address": "580 5th Ave., Rm. 1225",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1171",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "580 Fifth Avenue",
+  "suite": "Rm 1225",
+  "trade_memberships": [
+    "AGTA",
+    "RJC",
+    "DDC"
+  ],
+  "hooks": [
+    "gia",
+    "large-stones",
+    "fancy-color"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "AGTA directory: GIA-certified diamonds 0.30-20 ct, fancy colored diamonds, fine emeralds, estate jewelry; Haim Aharonoff also on DDC board (nyddc.com).",
+  "drop_reason": "",
+  "enriched": true
+}

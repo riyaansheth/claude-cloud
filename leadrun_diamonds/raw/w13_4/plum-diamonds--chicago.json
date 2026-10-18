@@ -4,11 +4,11 @@
  "phone": "(312) 302-8630",
  "email": "hello@plumdiamonds.com",
  "email_source": "https://www.plumdiamonds.com/pages/contact-us",
- "linkedin_url": "",
- "linkedin_source": "\"Plum Diamonds\" Chicago founder LinkedIn lab grown (extended) - only company page, no /in/ URL",
+ "linkedin_url": "https://www.linkedin.com/in/kristycullinane/",
+ "linkedin_source": "WebSearch extended: \"Kristy Cullinane\" Plum Diamonds LinkedIn -> \"Kristy Cullinane - Plum Diamonds\" (CoFounder @ Plum Diamonds, Greater Chicago Area)",
  "contact_person": "Kristy Cullinane",
  "role": "Founder",
- "contact_source": "https://medium.com/authority-magazine/kristy-cullinane-of-plum-diamonds-5-things-i-wish-someone-told-me-before-i-became-a-founder-32aa496e950d",
+ "contact_source": "https://www.linkedin.com/in/kristycullinane/",
  "website": "https://www.plumdiamonds.com",
  "address": "5 S Wabash Ave Suite 704B",
  "city": "Chicago",
@@ -33,7 +33,7 @@
   "lab-grown",
   "manufacturer"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: lab-grown diamond ring brand \"crafting fine custom jewelry as manufacturers in our own sustainable facilities for decades\"; Jewelers Center tenant Ste 704B.",
  "drop_reason": "",
  "enriched": true

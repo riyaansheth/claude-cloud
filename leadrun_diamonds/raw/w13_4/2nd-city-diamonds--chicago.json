@@ -32,7 +32,7 @@
   "loose-diamonds",
   "wholesale"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: Jewelers Row diamond seller that \"sells its gemstones at the low wholesale prices given to us by our importer\" (diamonds and jewelry at wholesale prices).",
  "drop_reason": "",
  "enriched": true

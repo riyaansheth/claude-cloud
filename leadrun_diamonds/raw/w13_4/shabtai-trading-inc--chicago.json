@@ -28,7 +28,7 @@
   "diamond-importer-dealer",
   "estate"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Jewelers Center directory lists Shabtai Trading under diamond-importers-dealers, appraisers-buyers, estate jewelry; BBB category Wholesale Jewelry (president Yossi Miller, prior experience Olam Diamonds).",
  "drop_reason": "",
  "enriched": true

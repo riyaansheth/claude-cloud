@@ -4,11 +4,11 @@
  "phone": "(863) 266-2660",
  "email": "sales@eltasadorinc.com",
  "email_source": "https://el-tasador-inc.com/",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Juan Leiva",
- "role": "CEO",
- "contact_source": "https://el-tasador-inc.com/ (Our TEAM: Juan Leiva CEO; Matias Leiva Co-Founder; Jacqueline Queipo General Manager)",
+ "linkedin_url": "https://www.linkedin.com/in/jacqueline-queipo-429aaa93/",
+ "linkedin_source": "WebSearch (linkedin.com) \"Juan Leiva El Tasador joyeria CEO\" -> \"jacqueline queipo - Joyeria El Tasador\"",
+ "contact_person": "Jacqueline Queipo",
+ "role": "Manager",
+ "contact_source": "https://el-tasador-inc.com/ (Our TEAM: Jacqueline Queipo General Manager; Juan Leiva CEO; Matias Leiva Co-Founder)",
  "website": "https://el-tasador-inc.com",
  "address": "19275 Biscayne Blvd, Booth 43",
  "city": "Aventura",
@@ -37,5 +37,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "JIS exhibitor 'We design, manufacture and reproduce most of our pieces'; lists fancy-cut and natural fancy-color diamonds; own site: 50+ years in jewelry, founded in Argentina, gemologists on staff.",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

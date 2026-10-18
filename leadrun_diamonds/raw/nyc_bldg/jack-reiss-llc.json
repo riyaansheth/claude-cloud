@@ -1,16 +1,16 @@
 {
   "business": "Jack Reiss LLC",
   "category_as_listed": "",
-  "phone": "",
-  "email": "",
-  "email_source": "",
+  "phone": "212-840-9500",
+  "email": "efraim@jackreiss.com",
+  "email_source": "https://www.jackreiss.com/assets/index-BQ0-5l8V.js",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
-  "website": "",
-  "address": "580 Fifth Avenue, New York, NY 10036",
+  "contact_person": "Efraim Reiss",
+  "role": "CEO",
+  "contact_source": "https://www.youtube.com/watch?v=cr1JJJExFYU",
+  "website": "https://www.jackreiss.com",
+  "address": "580 5th Avenue, Suite 1212",
   "city": "New York",
   "state": "NY",
   "market": "New York, NY",
@@ -18,11 +18,13 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://commercialobserver.com/2011/05/extells-20-west-47th-loses-diamond-maker-to-580-fifth/",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "+12128409500"
+  ],
+  "tel_source": "https://www.jackreiss.com/",
   "socials": [],
   "building": "580 Fifth Ave (World Diamond Tower)",
-  "suite": "",
+  "suite": "Ste 1212",
   "trade_memberships": [
     "RJC"
   ],
@@ -35,5 +37,11 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Diamond cutter/manufacturer; took 3,600 sf at 580 Fifth in 2011 (10-yr lease; current tenancy unconfirmed); NY Social Diary: third generation manufacturers and dealers of fine diamonds; RJC member since June 2009 (responsiblejewellery.com).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "other_emails": [
+    "shia@jackreiss.com",
+    "customerservice@jackreiss.com"
+  ],
+  "site_note": "React site; contacts read from the site's own JS bundle (Contact One Of Our Specialists Directly: Efraim Reiss, Shia Reiss, Greg Kasten)",
+  "enriched": true
 }

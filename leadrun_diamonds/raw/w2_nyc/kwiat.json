@@ -2,8 +2,8 @@
   "business": "Kwiat",
   "category_as_listed": "",
   "phone": "",
-  "email": "",
-  "email_source": "",
+  "email": "concierge@kwiat.com",
+  "email_source": "https://kwiat.com/contact",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Russell Kwiat",
@@ -36,5 +36,6 @@
   "scope_reason": "Fourth-generation family diamond jewelry house founded 1907; COO Russell Kwiat sources large diamonds, runs Mine to Shine traceability; DMIA secretary. No personal LinkedIn surfaced.",
   "drop_reason": "",
   "li_note": "no linkedin.com/in result tied to person; Russell Kwiat profiles found are an IRS manager (different person). DMIA bio: COO of Kwiat and Fred Leighton.",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

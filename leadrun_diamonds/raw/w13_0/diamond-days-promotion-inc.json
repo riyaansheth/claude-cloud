@@ -4,10 +4,10 @@
   "phone": "(212) 221 7665",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/nicky-mehta-92b65b17/",
+  "linkedin_source": "WebSearch: \"Nicky Mehta\" Diamond Days Promotion loose diamonds LinkedIn (result: NICKY MEHTA - PRESIDENT/CHIEF MARKETING OFFICER at DIAMOND DAYS PROMOTIONS INC.)",
   "contact_person": "Nicky Mehta",
-  "role": "Member",
+  "role": "President",
   "contact_source": "https://idcany.org/member-directory-details/58",
   "website": "",
   "address": "580 Fifth Avenue Suite # 1720",
@@ -24,9 +24,13 @@
   "building": "580 Fifth Avenue",
   "suite": "Ste 1720",
   "trade_memberships": [
-    "IDCA"
+    "IDCA",
+    "AGS"
   ],
-  "hooks": [],
+  "hooks": [
+    "since-1972",
+    "natural"
+  ],
   "is_diamond_trade": true,
   "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'Loose Diamonds'; contacts Nicky Mehta / Malti Mehta.",
   "drop_reason": "",

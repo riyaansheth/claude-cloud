@@ -8,8 +8,8 @@
   "linkedin_source": "",
   "contact_person": "Alon Mor",
   "role": "Owner",
-  "contact_source": "https://modernjeweler.com/find/?p=1079",
-  "website": "https://the-diamond-oak.yolasite.com",
+  "contact_source": "https://thediamondoak.com/pages/about",
+  "website": "https://thediamondoak.com",
   "address": "62 West 47th Street, Suite 401",
   "city": "New York",
   "state": "NY",
@@ -18,11 +18,17 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://norfolkdailynews.com/online_features/press_releases/the-diamond-oak-relocates-to-new-office/article_ec389867-4bf7-58f6-99e4-4185824e6172.html",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "+1 212 799-7153",
+    "+1 646 956-5766",
+    "+1 (917) 842-7273"
+  ],
+  "tel_source": "https://thediamondoak.com/pages/contact",
   "socials": [
     "https://www.1stdibs.com/dealers/the-diamond-oak/",
-    "https://www.chairish.com/shop/thediamondoak"
+    "https://www.chairish.com/shop/thediamondoak",
+    "https://www.facebook.com/TheDiamondOak",
+    "https://www.instagram.com/thediamondoak/"
   ],
   "building": "",
   "suite": "Ste 401",
@@ -35,5 +41,6 @@
   "scope_reason": "47th St diamond & estate dealer run by Alon Mor (family of Abe Mor Diamond Cutters, in trade since 1951); engagement rings, estate & branded pre-owned pieces - borderline estate/retail.",
   "drop_reason": "",
   "li_note": "no linkedin.com/in result tied to person",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

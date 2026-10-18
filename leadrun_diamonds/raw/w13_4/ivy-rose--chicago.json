@@ -35,8 +35,9 @@
   "loose-diamonds",
   "lab-grown"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: made-in-Chicago engagement ring maker on Jewelers Row selling loose diamonds (natural and lab) and offering a Wholesale program; founder Ilya Kunin is 3rd generation in the jewelry trade.",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

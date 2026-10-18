@@ -28,5 +28,6 @@
  "is_diamond_trade": false,
  "drop_reason": "retail-only",
  "scope_reason": "Own site: \"Michigan's largest independent jeweler\" retail chain of stores selling Pandora/Swarovski/Movado; not trade.",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

@@ -34,7 +34,7 @@
   "lab-grown",
   "natural"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: \"Importers and Manufacturers of Diamonds and Fine Jewelry\" with member login, natural and lab-grown diamonds.",
  "drop_reason": "",
  "enriched": true

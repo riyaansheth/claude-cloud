@@ -2,8 +2,8 @@
  "business": "Neon Gems, Inc.",
  "category_as_listed": "Diamonds, Loose Diamonds",
  "phone": "(213) 627-0433",
- "email": "",
- "email_source": "",
+ "email": "neongemsinc@yahoo.com",
+ "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=27463",
  "linkedin_url": "https://www.linkedin.com/in/nirmal-jain-592a5b29/",
  "linkedin_source": "\"Nirmal Jain\" Neon Gems LinkedIn",
  "contact_person": "Nirmal Jain",
@@ -25,12 +25,14 @@
  "suite": "Suite 1300",
  "trade_memberships": [
   "Bourse",
-  "DCWC"
+  "DCWC",
+  "AGTA"
  ],
  "hooks": [],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Loose Diamonds); secondary: Jewelry: One of A kind Jewelry Pieces/ Gemstones",
  "drop_reason": "",
  "li_note": "pass2: cofounder (with Neena Jain) per Centurion exhibitor page; linkedin profile titled nirmal jain - NEON GEMS, INC. (Los Angeles)",
- "li_backfill": true
+ "li_backfill": true,
+ "enriched": true
 }

@@ -8,7 +8,7 @@
  "linkedin_source": "WebSearch (linkedin.com) \"Wish Fine Jewelry Key Biscayne founder\" -> \"Maria emilia Lage - Founder na Wish fine jewelry\", location Key Biscayne",
  "contact_person": "Maria Emilia Lage",
  "role": "Founder",
- "contact_source": "https://www.linkedin.com/in/maria-emilia-lage-bb0490168/",
+ "contact_source": "https://www.linkedin.com/in/maria-emilia-lage-bb0490168/ ; FL filing Manager Maria Emilia Antunes Lage per https://florida.intercreditreport.com/company/wish-fine-jewelry-llc-l19000291747",
  "website": "https://www.wishfinejewelry.com",
  "address": "200 Crandon Blvd, Suite 102",
  "city": "Key Biscayne",
@@ -34,5 +34,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "JIS Fall exhibitor: 'Miami-based fine jewelry brand specializing in distinctive diamond and gemstone pieces... We thoughtfully curate and manufacture each collection' (diamond jewelry manufacturer).",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }

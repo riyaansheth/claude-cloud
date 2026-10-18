@@ -6,9 +6,9 @@
  "email_source": "https://risingstardiamond.com/pages/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Markos Akyol",
+ "role": "Manager",
+ "contact_source": "https://www.bizprofile.net/ca/los-angeles/rising-star-diamonds-llc",
  "website": "https://risingstardiamond.com",
  "address": "550 South Hill Street, Suite 750, Los Angeles, California, United States, 90013",
  "city": "Los Angeles",
@@ -29,7 +29,9 @@
   "Bourse",
   "DCWC"
  ],
- "hooks": [],
+ "hooks": [
+  "natural"
+ ],
  "is_diamond_trade": true,
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (Diamonds)",
  "drop_reason": "",

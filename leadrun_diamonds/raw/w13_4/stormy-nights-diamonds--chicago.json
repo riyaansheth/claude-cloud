@@ -35,7 +35,7 @@
   "manufacturer",
   "wholesale"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: \"unique wholesale diamond buying experience\", \"large selection of Loose Diamonds\", manufacturing on Jewelers Row; address from MapQuest listing 29 E Madison St Ste 1510.",
  "drop_reason": "",
  "enriched": true

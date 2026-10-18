@@ -2,7 +2,7 @@
   "business": "Shoshana Diamonds inc",
   "category_as_listed": "Diamonds-Wholesale, Jewelry Designers",
   "phone": "(713) 787-9777",
-  "website": "http://www.shoshanadiamonds.com",
+  "website": "https://diamondsoncredit.com",
   "address": "6222 Richmond Ave Ste 125",
   "city": "Houston",
   "state": "TX",
@@ -11,24 +11,33 @@
   "reviews": "1",
   "source_url": "https://www.yellowpages.com/houston-tx/mip/shoshana-diamonds-inc-19382127",
   "lead_origin": "YellowPages",
-  "email": "",
-  "email_source": "",
+  "email": "jewelryandcompany@aol.com",
+  "email_source": "https://diamondsoncredit.com/pages/contact-us",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "",
   "role": "",
   "contact_source": "",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "832-707-7068",
+    "800-345-6821"
+  ],
+  "tel_source": "https://diamondsoncredit.com/",
+  "socials": [
+    "https://www.facebook.com/JewelryandCompany/"
+  ],
   "building": "",
   "suite": "Ste 125",
   "trade_memberships": [],
-  "hooks": [],
+  "hooks": [
+    "since-1991"
+  ],
   "is_diamond_trade": true,
   "drop_reason": "",
   "scope_reason": "unverified: shoshanadiamonds.com redirects to another company's site (Jewelry And Company Inc / Nissim Gold & Diamonds, diamondsoncredit.com)",
   "verified": false,
   "li_note": "site now shows \"Jewelry And Company Inc by Nissim Gold & Diamonds\"; no owner name found",
-  "li_backfill": true
+  "li_backfill": true,
+  "enrich_note": "shoshanadiamonds.com redirects to diamondsoncredit.com (Jewelry and Company), same address 6222 Richmond Ave Suite 125",
+  "enriched": true
 }

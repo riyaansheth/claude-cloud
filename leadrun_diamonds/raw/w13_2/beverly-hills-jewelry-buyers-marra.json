@@ -1,0 +1,37 @@
+{
+ "business": "Beverly Hills Jewelry Buyers / Marra",
+ "category_as_listed": "Appraisers; Diamond, Other; Estate Jewelry; Natural Gemstones",
+ "phone": "310-288-0709",
+ "email": "td@bhgem.com",
+ "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1025848",
+ "linkedin_url": "https://www.linkedin.com/in/tony-david-317b7b6/",
+ "linkedin_source": "WebSearch extended: Tony David Beverly Hills Jewelry Buyers LinkedIn (result title: Tony David - Beverly Hills Jewelry Buyers)",
+ "contact_person": "Tony David",
+ "role": "Member",
+ "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1025848",
+ "website": "",
+ "address": "301 N. Canon Dr., Ste. 204, Beverly Hills, CA 90210",
+ "city": "Beverly Hills",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1025848",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "Ste. 204",
+ "trade_memberships": [
+  "AGTA"
+ ],
+ "hooks": [
+  "estate",
+  "diamond-buyer"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "AGTA trade member listed under 'Diamond, Other' and 'Estate Jewelry' — estate diamond/jewelry buyer (site domain bhgem.com redirects to beverlyhillsjewelrybuyers.com, unreachable: TLS mismatch)",
+ "drop_reason": "",
+ "enriched": true
+}

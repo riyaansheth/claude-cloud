@@ -34,7 +34,7 @@
   "manufacturer",
   "gia"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: \"manufactures most of their 14k, 18k, and platinum jewelry on the premises\", owner has relationships \"with a vast array of diamond cutters and brokers\", GIA-trained diamond expert on premises; Jewelers Center lists it under diamond-importers-dealers.",
  "drop_reason": "",
  "enriched": true

@@ -34,5 +34,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site (Carats and Cut): diamond wholesaler, \"a family of three generations\" with \"factories located in Mumbai and offices in Chicago, Antwerp, and New York\"; testimonials compare them to \"other diamond wholesalers\".",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }
