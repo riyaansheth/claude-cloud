@@ -4,11 +4,11 @@
  "phone": "(212) 997-9195",
  "email": "bhcusa@bhcdiamonds.com",
  "email_source": "https://www.bhcdiamonds.com/contact.html",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "Chirag Gandhi",
- "role": "Founder",
- "contact_source": "https://www.bhcdiamonds.com/leadership.html",
+ "linkedin_url": "https://www.linkedin.com/in/bhadresh-shah-35333b110/",
+ "linkedin_source": "\"Chirag Gandhi\" BHC Diamonds New York LinkedIn",
+ "contact_person": "Bhadresh Shah",
+ "role": "Manager",
+ "contact_source": "https://www.linkedin.com/in/bhadresh-shah-35333b110/ (title: Bhadresh Shah - Sales Manager - BHC Diamonds (USA) Inc.)",
  "website": "https://www.bhcdiamonds.com",
  "address": "529 Fifth Avenue, Suite #1701, New York, NY 10017",
  "city": "New York",
@@ -34,5 +34,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "Site: \"Natural Polish Diamonds, Melee\"; US arm founded by Chirag Gandhi in 1998, Thai cutting company.",
- "drop_reason": ""
+ "drop_reason": "",
+ "notes": "Founder of the US company per site leadership page: Chirag Gandhi (founded 1998)."
 }

@@ -10,7 +10,7 @@
  "role": "",
  "contact_source": "",
  "website": "https://www.sabanonyx.com",
- "address": "",
+ "address": "37 W 46th Street 3rd Floor, New York, NY 10036",
  "city": "New York",
  "state": "NY",
  "market": "New York, NY",
@@ -18,8 +18,10 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://www.responsiblejewellery.com/member/saban-onyx-inc/",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "(212)997-4040"
+ ],
+ "tel_source": "https://www.sabanonyx.com/contact-us",
  "socials": [],
  "building": "",
  "suite": "",

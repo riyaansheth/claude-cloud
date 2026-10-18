@@ -6,11 +6,11 @@
  "email_source": "https://absolutebrilliance.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Harvey Lisker",
+ "role": "President",
+ "contact_source": "https://www.zoominfo.com/c/absolute-brilliance-inc/343656518",
  "website": "https://absolutebrilliance.com",
- "address": "",
+ "address": "581 5th Ave, Fl 5, New York, NY 10017",
  "city": "New York",
  "state": "NY",
  "market": "New York, NY",
@@ -27,7 +27,8 @@
  "suite": "",
  "trade_memberships": [
   "DMIA",
-  "RJC"
+  "RJC",
+  "AGS"
  ],
  "hooks": [
   "natural",

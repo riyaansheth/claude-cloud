@@ -1,7 +1,7 @@
 {
  "business": "MWI Eloquence (Eloquence Corporation)",
  "category_as_listed": "DMIA Member (Honorary) / RJC member",
- "phone": "212-869-5945",
+ "phone": "1-800-223-7390",
  "email": "info@mwiny.com",
  "email_source": "http://www.mwieloquence.com/contact.aspx",
  "linkedin_url": "",
@@ -10,7 +10,7 @@
  "role": "Founder",
  "contact_source": "http://www.mwieloquence.com/about.aspx",
  "website": "http://www.mwieloquence.com",
- "address": "",
+ "address": "35 West 45th Street, New York, NY 10036",
  "city": "New York",
  "state": "NY",
  "market": "New York, NY",
@@ -19,8 +19,7 @@
  "reviews": "",
  "source_url": "https://dmia.diamonds/members/",
  "tel_numbers": [
-  "212-869-5945",
-  "800-223-7390"
+  "1-800-223-7390"
  ],
  "tel_source": "http://www.mwieloquence.com/contact.aspx",
  "socials": [],
@@ -28,7 +27,8 @@
  "suite": "",
  "trade_memberships": [
   "DMIA",
-  "RJC"
+  "RJC",
+  "De Beers Sightholder"
  ],
  "hooks": [
   "since-1954",
@@ -40,5 +40,6 @@
  ],
  "is_diamond_trade": true,
  "scope_reason": "Site: \"family-owned and operated diamond and jewelry manufacturer. Founded in 1954\", natural white/fancy color and lab-grown diamonds for retail partners.",
- "drop_reason": ""
+ "drop_reason": "",
+ "notes": "212-869-5945 is fax per contact page. Address per De Beers customer directory (gss.debeersgroup.com/customer-directory/eloquence-corporation); De Beers Sightholder."
 }

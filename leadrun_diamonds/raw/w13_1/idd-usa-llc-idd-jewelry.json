@@ -7,8 +7,8 @@
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "Alok Mehta",
- "role": "Featured On About Page",
- "contact_source": "https://plumbclub.com/member/idd/",
+ "role": "Owner",
+ "contact_source": "https://southernjewelrynews.com/featured-article/retail-jewelry-business-featured/idds-mission-help-independent-retailers-succeed-in-todays-environment/",
  "website": "https://iddjewelry.com",
  "address": "545 Fifth Avenue, 10th Floor, New York, NY 10017",
  "city": "New York",
@@ -34,6 +34,7 @@
   "Plumb Club"
  ],
  "hooks": [
+  "since-1984",
   "manufacturer",
   "natural",
   "lab-grown",
