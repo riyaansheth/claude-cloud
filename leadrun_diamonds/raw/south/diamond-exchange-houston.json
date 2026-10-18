@@ -2,13 +2,13 @@
   "business": "Diamond Exchange Houston",
   "category_as_listed": "",
   "phone": "",
-  "email": "",
-  "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "email": "diamondexchangehouston@gmail.com",
+  "email_source": "https://diamondexchangehouston.com/contact-us/",
+  "linkedin_url": "https://www.linkedin.com/in/gili-mor-50b185134/",
+  "linkedin_source": "WebSearch: \"Gili Mor\" Diamond Exchange Houston LinkedIn (title: Gili Mor - Gili Mor Diamonds; same 4306 Yoakum Blvd Ste 305; press release names Mor founder of Diamond Exchange Houston)",
+  "contact_person": "Gili Mor",
+  "role": "Owner",
+  "contact_source": "https://www.bbb.org/us/tx/houston/profile/jewelry-stores/diamond-exchange-houston-0915-90074776",
   "website": "https://diamondexchangehouston.com",
   "address": "4306 Yoakum Blvd, Ste 305, Houston, TX 77006",
   "city": "Houston",
@@ -18,9 +18,13 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://diamondexchangehouston.com/",
-  "tel_numbers": [],
-  "tel_source": "",
-  "socials": [],
+  "tel_numbers": [
+    "281-623-1105"
+  ],
+  "tel_source": "https://diamondexchangehouston.com/",
+  "socials": [
+    "https://www.facebook.com/diamondexchangehouston"
+  ],
   "building": "",
   "suite": "Ste 305",
   "trade_memberships": [],
@@ -34,5 +38,6 @@
   "scope_reason": "Wholesale loose diamond dealer (natural GIA and lab-grown), open to public.",
   "drop_reason": "",
   "li_note": "no owner on site; USPTO trademark owner 'Hoover, Nic' (unconfirmed as owner, not set)",
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true
 }

@@ -13,11 +13,11 @@
   "lead_origin": "YellowPages",
   "email": "jd.houtexas@gmail.com",
   "email_source": "https://www.jewelrydepothouston.com/pages/about-us",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Boryana Farkas",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/shimonfarkas/",
+  "linkedin_source": "WebSearch: Jewelry Depot Houston \"Shimon Farkas\" LinkedIn (title: Shimon Farkas - Jewelry Depot Inc.; Houston jeweler, 40 years)",
+  "contact_person": "Shimon Farkas",
+  "role": "Owner",
+  "contact_source": "https://www.bbb.org/us/tx/houston/profile/jewelry-stores/jewelry-depot-0915-16001798",
   "tel_numbers": [
     "+1-713-789-7977"
   ],
@@ -41,6 +41,7 @@
   "drop_reason": "",
   "scope_reason": "About page: 'Since 1973, Jewelry Depot Houston has been manufacturing exquisite, unique diamond jewelry for retail stores around the world' and 'began as a manufacturing facility and wholesale entity that supported retailers', founders rooted in diamond cutting; now also sells wholesale to public.",
   "verified": true,
-  "li_note": "Manta names Boryana Farkas owner (6222 Richmond Ave Ste 100); Yelp reviews mention Shimon and Boryana Farkas. No linkedin.com/in result tied to person.",
-  "li_backfill": true
+  "li_note": "BBB: Mr. Shimon Farkus, Owner; Trustpilot: Boryana Farkas owner of showroom. Second profile /in/jewelrydepothouston (business slug) not used",
+  "li_backfill": true,
+  "enriched": true
 }

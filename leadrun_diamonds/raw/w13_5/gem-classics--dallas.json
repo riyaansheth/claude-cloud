@@ -11,8 +11,8 @@
   "reviews": "",
   "source_url": "https://www.yellowpages.com/dallas-tx/mip/gem-classics-569264547",
   "lead_origin": "YellowPages",
-  "email": "",
-  "email_source": "",
+  "email": "becky@gemclassics.com",
+  "email_source": "https://www.gemclassics.com/contact-us",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Rebecca Romo",
@@ -33,6 +33,7 @@
   "hooks": [],
   "is_diamond_trade": true,
   "drop_reason": "",
-  "scope_reason": "YellowPages categories: Jewelers-Wholesale & Manufacturers, Jewelry Repairing, Watches",
-  "enriched": true
+  "scope_reason": "YellowPages: Jewelers-Wholesale & Manufacturers; site: Diamond Inventory, GIA diamond grading, custom bridal, mountings",
+  "enriched": true,
+  "email_note": "Cloudflare-protected mailto decoded from page; also gabe@gemclassics.com"
 }
