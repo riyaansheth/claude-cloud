@@ -1,0 +1,44 @@
+{
+ "business": "Sagar Star Corp",
+ "category_as_listed": "DMIA Member",
+ "phone": "212-730-7100",
+ "email": "sales@sagarstar.com",
+ "email_source": "https://www.sagarstar.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.sagarstar.com",
+ "address": "",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://dmia.diamonds/members/",
+ "tel_numbers": [
+  "212-730-7100"
+ ],
+ "tel_source": "https://www.sagarstar.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "DMIA",
+  "RJC"
+ ],
+ "hooks": [
+  "since-1991",
+  "3rd-generation",
+  "family-owned",
+  "natural",
+  "lab-grown",
+  "wholesale"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: 'Established in 1991, Sagar Star Corp is a third generation family-owned business ... premium diamonds', natural and lab-grown wholesale; RJC trader/cutter/polisher.",
+ "drop_reason": "",
+ "notes": "(416) number on site appears to be a Canadian office; 347-206-0476 belongs to the web developer, not recorded."
+}
