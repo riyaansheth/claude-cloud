@@ -37,7 +37,7 @@
   "lab-grown",
   "natural"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own About page: began as \"a small, one-man manufacturing operation\" on Jewelers Row, client base \"expanded from supplying wholesale accounts\"; sells GIA certified loose stones.",
  "drop_reason": "",
  "enriched": true

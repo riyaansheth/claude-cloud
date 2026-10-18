@@ -6,11 +6,11 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Praveen Dukkipati",
+ "role": "President",
+ "contact_source": "https://www.zoominfo.com/c/atlantic-diamond-co/347702983 (President); Chicago business license owners D. Vidyadhara Rao, Praveen V. Dukkipati, D. Prameela Rao; BBB owner Mr. D V Rao",
  "website": "https://www.atlanticdiamond.net",
- "address": "111 N Wabash Ave",
+ "address": "111 N Wabash Ave., Suite 1909",
  "city": "Chicago",
  "state": "IL",
  "market": "Chicago, IL",
@@ -28,7 +28,7 @@
   "https://www.instagram.com/atlantic_diamond/"
  ],
  "building": "",
- "suite": "",
+ "suite": "Suite 1909",
  "trade_memberships": [
   "GIA",
   "AGS",
@@ -38,8 +38,9 @@
   "loose-diamonds",
   "wholesale"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: loose-diamond search by GIA/AGS/IGI cert with \"Open an Account\" trade login and Account Managers; Trade Affiliations page.",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

@@ -34,8 +34,9 @@
   "loose-diamonds",
   "family-owned"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: \"offers high quality certified loose diamonds\" with craftsmanship \"at wholesale prices ... without a retail mark-up\"; expertise \"spans three generations\". (Yelp shows 2514 N Halsted St; YP lists 1 N Wabash.)",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

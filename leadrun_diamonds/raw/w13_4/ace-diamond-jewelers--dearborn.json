@@ -28,5 +28,6 @@
  "is_diamond_trade": false,
  "drop_reason": "retail-only",
  "scope_reason": "Own site: \"Trusted Jewelers in Dearborn, MI\" since 1978 serving the local community with jewelry and repairs; no trade/loose-diamond line.",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

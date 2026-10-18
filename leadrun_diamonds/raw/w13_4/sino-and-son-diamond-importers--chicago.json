@@ -27,7 +27,7 @@
  "hooks": [
   "importer"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "YP category Diamonds; business name states diamond importer, 67 E Madison Ste 1613. No website found.",
  "drop_reason": "",
  "enriched": true

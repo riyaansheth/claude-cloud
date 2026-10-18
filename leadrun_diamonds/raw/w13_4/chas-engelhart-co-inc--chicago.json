@@ -31,8 +31,9 @@
   "memo",
   "wholesale"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site (Pedigree Diamonds, trademark of Chas. Engelhart Company): \"Diamonds when you need them - stock - memo - special calls - studs - bracelets\" (trade diamond supplier).",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

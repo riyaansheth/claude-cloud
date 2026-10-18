@@ -35,5 +35,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Own site: \"National Diamond Syndicate has been an industry leader since 1953\" providing \"loose diamonds as well as manufactured jewelry\" (YP kill-list hit on Jewelry Supply category was a false positive).",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

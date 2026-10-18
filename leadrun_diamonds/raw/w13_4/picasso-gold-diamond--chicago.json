@@ -34,8 +34,9 @@
   "natural",
   "loose-diamonds"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: sells loose certified (IGI/GCAL/GIA) natural and lab-grown diamonds and handcrafted rings; family in the jewelry trade 23 years. Bridal specialist with own loose stones.",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

@@ -25,7 +25,7 @@
  "suite": "Ste 835",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "YP category Diamonds (only), 55 E Washington Ste 835 (Pittsfield Bldg jewelry offices), ~32 years in business. No website found.",
  "drop_reason": "",
  "enriched": true

@@ -34,8 +34,9 @@
   "lab-grown",
   "large-stones"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: wholly owned by Patrick Fay, \"an internationally known and highly respected wholesale diamond dealer\" in the business since 1978 (Patrick Fay Diamonds Inc); specializes in clarity-enhanced and lab-grown diamonds. YP: Big Diamonds USA, 29 E Madison Ste 1510.",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

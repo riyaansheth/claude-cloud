@@ -33,8 +33,9 @@
   "2nd-generation",
   "manufacturer"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own site: custom jewelry manufacturer \"Serving over 400 independent jewelry retailers nationwide\" (trade casting/manufacturing house); YP lists it as Tommy Ho Jewelers, 5 S Wabash, (312) 368-8593.",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

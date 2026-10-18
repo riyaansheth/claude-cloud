@@ -28,5 +28,6 @@
  "is_diamond_trade": false,
  "scope_reason": "Listed website parasdiamondco.com sells industrial diamond dressers/indenters/PCD tools, not gem diamonds.",
  "drop_reason": "other",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

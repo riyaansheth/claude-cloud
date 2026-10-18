@@ -37,8 +37,9 @@
   "loose-diamonds",
   "gia-gg"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "Own About page: \"As a direct importer of diamonds\" with \"considerable loose diamond inventory\" hand picked by the owner; on Jeweler's Row since 1986; on-site GIA Graduate Gemologist.",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

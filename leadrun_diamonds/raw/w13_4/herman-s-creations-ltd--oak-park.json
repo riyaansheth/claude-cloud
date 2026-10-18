@@ -36,8 +36,9 @@
   "since-1974",
   "manufacturer"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "YP Jewelers-Wholesale & Manufacturers in the 21700 Greenfield jewelry building; own site: workshop/atelier manufacturing jewelry since 1974 (borderline manufacturer).",
  "drop_reason": "",
- "enriched": true
+ "enriched": true,
+ "verified": true
 }

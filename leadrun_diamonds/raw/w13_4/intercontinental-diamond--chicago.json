@@ -25,7 +25,7 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "YP: Intercontinental Diamond, 67 E Madison (Jewelers Row diamond office, jewelry buyer); own site unreachable - scope from listing only.",
  "drop_reason": "",
  "enriched": true

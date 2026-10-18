@@ -1,0 +1,45 @@
+{
+ "business": "Charlie the Jeweler",
+ "category_as_listed": "",
+ "phone": "+17347759300",
+ "email": "charliesalah@mac.com",
+ "email_source": "https://www.charliethejeweler.com/",
+ "linkedin_url": "https://www.linkedin.com/in/charlie-salah-3a387265/",
+ "linkedin_source": "raw_people/p_3/charlie-salah-charlie-the-jeweler.json (people worker WebSearch: \"GIA Graduate Gemologist\" Southfield OR Troy OR \"Bloomfield Hills\" OR Birmingham Michigan diamonds LinkedIn -> Charlie Salah, Owner, Charlie the Jeweler)",
+ "contact_person": "Charlie Salah",
+ "role": "Owner",
+ "contact_source": "https://www.charliethejeweler.com/pages/about-us",
+ "website": "https://www.charliethejeweler.com",
+ "address": "",
+ "city": "Livonia",
+ "state": "MI",
+ "market": "Southfield, MI",
+ "lead_origin": "LinkedIn",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.charliethejeweler.com/pages/about-us",
+ "tel_numbers": [
+  "+17347759300"
+ ],
+ "tel_source": "https://www.charliethejeweler.com/",
+ "socials": [
+  "https://www.facebook.com/CharlieTheJeweler",
+  "https://www.instagram.com/charlie_the_jeweler/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "gia-gg",
+  "lab-grown",
+  "natural",
+  "loose-diamonds",
+  "by-appointment"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: appointment-only private jeweler, GIA graduate gemologist owner; offers certified earth-mined and lab-grown diamonds and \"Rare Stones sourced directly from Antwerp, Belgium\" (bridal specialist sourcing own stones).",
+ "drop_reason": "",
+ "enriched": true
+}

@@ -28,7 +28,7 @@
   "wholesale",
   "manufacturer"
  ],
- "is_diamond_trade": "",
+ "is_diamond_trade": true,
  "scope_reason": "YP lists HNS Diamond Co Inc under Diamonds at the 23077 Greenfield jewelry building; directories describe it as a wholesale and manufacturing jeweler.",
  "drop_reason": "",
  "enriched": true
