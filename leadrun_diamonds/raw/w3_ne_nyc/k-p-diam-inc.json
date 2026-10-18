@@ -6,9 +6,9 @@
   "email_source": "",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Swetal Prakash Varaiya",
+  "role": "Principal",
+  "contact_source": "https://idcany.org/member-directory-details/115",
   "website": "",
   "address": "50 W 47th St, New York, NY 10036",
   "city": "New York",
@@ -21,13 +21,16 @@
   "tel_numbers": [],
   "tel_source": "",
   "socials": [],
-  "building": "International Gem Tower, 50 W 47th St",
-  "suite": "",
-  "trade_memberships": [],
+  "building": "International Gem Tower",
+  "suite": "Ste 2004",
+  "trade_memberships": [
+    "IDCA"
+  ],
   "hooks": [
     "wholesale"
   ],
   "is_diamond_trade": true,
   "scope_reason": "YP category Diamonds-Wholesale in International Gem Tower, 50 W 47th St.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

@@ -1,0 +1,37 @@
+{
+  "business": "Diamond Sculptures LLC",
+  "category_as_listed": "Melee Diamonds & Certified Stones",
+  "phone": "(646) 416 3364",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Sanket Kothari",
+  "role": "Member",
+  "contact_source": "https://idcany.org/member-directory-details/61",
+  "website": "",
+  "address": "580 Fifth Avenue Suite 1105",
+  "city": "New York",
+  "state": "NY",
+  "market": "New York, NY",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://idcany.org/member-directory-details/61",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "580 Fifth Avenue",
+  "suite": "Ste 1105",
+  "trade_memberships": [
+    "IDCA"
+  ],
+  "hooks": [
+    "melee"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'Melee Diamonds & Certified Stones'; contacts Sanket Kothari.",
+  "drop_reason": "",
+  "idca_other_contacts": "Sanket Kothari",
+  "enriched": true
+}
