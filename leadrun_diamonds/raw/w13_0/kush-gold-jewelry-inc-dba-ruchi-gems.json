@@ -4,11 +4,11 @@
   "phone": "(212) 730 7426",
   "email": "kushgoldandjewelry@gmail.com",
   "email_source": "https://www.ruchigems.com/contact-us",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Pareh Vedawala",
-  "role": "Member",
-  "contact_source": "https://idcany.org/member-directory-details/123",
+  "linkedin_url": "https://www.linkedin.com/in/paresh-vedawala-907a1b27/",
+  "linkedin_source": "WebSearch: \"Pareh Vedawala\" OR \"Sangita Vedawala\" Ruchi Gems Kush Gold LinkedIn (result: Paresh Vedawala - Ruchi Gems, Kush Gold Inc)",
+  "contact_person": "Paresh Vedawala",
+  "role": "Owner",
+  "contact_source": "https://www.siliconindia.com/profiles/paresh-vedawala-cNGRPfA4.html",
   "website": "https://www.ruchigems.com",
   "address": "580 Fifth Avenue Suite # 602",
   "city": "New York",
@@ -33,5 +33,6 @@
   "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'Diamonds, Jewelery & Gold'; contacts Pareh Vedawala / Sangita Vedawala.",
   "drop_reason": "",
   "idca_other_contacts": "Pareh Vedawala / Sangita Vedawala",
-  "enriched": true
+  "enriched": true,
+  "name_note": "IDCA directory spells Pareh Vedawala"
 }

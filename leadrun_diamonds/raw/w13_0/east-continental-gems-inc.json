@@ -4,11 +4,11 @@
   "phone": "(212) 575 0944",
   "email": "info@eastcontinentalgems.com",
   "email_source": "https://eastcontinentalgems.com/",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/elimirzoeff/",
+  "linkedin_source": "WebSearch: \"Eli Mirzoeff\" OR \"Adam Mirzoeff\" East Continental Gems LinkedIn (result: Eli Mirzoeff - East Continental Gems)",
   "contact_person": "Eli Mirzoeff",
-  "role": "Member",
-  "contact_source": "https://idcany.org/member-directory-details/70",
+  "role": "Owner",
+  "contact_source": "https://about.me/EliMirzoeff",
   "website": "https://eastcontinentalgems.com",
   "address": "580 Fifth Avenue Suite # 1115",
   "city": "New York",
@@ -33,7 +33,10 @@
   "trade_memberships": [
     "IDCA"
   ],
-  "hooks": [],
+  "hooks": [
+    "since-1972",
+    "natural"
+  ],
   "is_diamond_trade": true,
   "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'Loose Diamonds, Rubies, Sapphires, Emeralds & Fine Jewelry'; contacts Eli Mirzoeff / Adam Mirzoeff.",
   "drop_reason": "",

@@ -4,10 +4,10 @@
   "phone": "(212) 398 7777",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/bhavesh-virani-2bb4bb49/",
+  "linkedin_source": "WebSearch: \"Bhavesh Virani\" Dharm International DDPL New York LinkedIn (result: bhavesh virani - director at dharm international llc)",
   "contact_person": "Bhavesh Virani",
-  "role": "Member",
+  "role": "Director",
   "contact_source": "https://idcany.org/member-directory-details/52",
   "website": "https://www.ddpl.com",
   "address": "50 West 47th Street Suite 2100",
@@ -24,9 +24,13 @@
   "building": "International Gem Tower",
   "suite": "Ste 2100",
   "trade_memberships": [
-    "IDCA"
+    "IDCA",
+    "De Beers Sightholder (DDPL group)"
   ],
-  "hooks": [],
+  "hooks": [
+    "natural",
+    "sightholder"
+  ],
   "is_diamond_trade": true,
   "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'Diamonds'; contacts Bhavesh Virani / Rohit Jomadia.",
   "drop_reason": "",

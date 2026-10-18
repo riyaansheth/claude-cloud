@@ -9,7 +9,7 @@
   "contact_person": "Rajesh Zalavadiya",
   "role": "Member",
   "contact_source": "https://idcany.org/member-directory-details/80",
-  "website": "https://www.fancydiamdiamondgroup.com",
+  "website": "https://www.fancydiamondgroup.com",
   "address": "580 Fifth Avenue Suite# 2903",
   "city": "New York",
   "state": "NY",
@@ -24,9 +24,13 @@
   "building": "580 Fifth Avenue",
   "suite": "Ste 2903",
   "trade_memberships": [
-    "IDCA"
+    "IDCA",
+    "AGTA"
   ],
-  "hooks": [],
+  "hooks": [
+    "fancy-color",
+    "natural"
+  ],
   "is_diamond_trade": true,
   "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'All Fancy Natural Color Diamonds'; contacts Rajesh Zalavadiya.",
   "drop_reason": "",

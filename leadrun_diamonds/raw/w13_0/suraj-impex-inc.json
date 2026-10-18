@@ -20,13 +20,18 @@
   "source_url": "https://idcany.org/member-directory-details/210",
   "tel_numbers": [],
   "tel_source": "",
-  "socials": [],
+  "socials": [
+    "https://www.instagram.com/surajimpexinc/"
+  ],
   "building": "580 Fifth Avenue",
   "suite": "Ste 603A",
   "trade_memberships": [
     "IDCA"
   ],
-  "hooks": [],
+  "hooks": [
+    "manufacturer",
+    "2nd-generation"
+  ],
   "is_diamond_trade": true,
   "scope_reason": "IDCA (Indian Diamond & Colorstone Assn, NY) member directory: 'Diamonds - Rounds & Fancy Shapes, Melle to 3 cts, GIA & Non GIA'; contacts Urvish Shah / Karnav Shah.",
   "drop_reason": "",
