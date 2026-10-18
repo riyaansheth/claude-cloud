@@ -1,0 +1,37 @@
+{
+ "business": "Nader Kash",
+ "category_as_listed": "AGS Partner: Diamonds",
+ "phone": "646.998.8111",
+ "email": "requests@naderkash.com",
+ "email_source": "https://www.naderkash.com/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.naderkash.com",
+ "address": "515 Madison Ave, 40th Fl, New York, NY 10022",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.americangemsociety.org/partner/nader-kash/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "AGS"
+ ],
+ "hooks": [
+  "loose-diamonds",
+  "natural",
+  "member-login"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site sections: Loose Diamonds, Fine Jewelry, member login; AGS partner under Diamonds.",
+ "drop_reason": ""
+}

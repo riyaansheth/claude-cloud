@@ -1,0 +1,39 @@
+{
+ "business": "Quantum Jewelry",
+ "category_as_listed": "AGS Partner: Diamonds, Bridal, Finished Jewelry",
+ "phone": "917-371-3293",
+ "email": "online@quantumjewelry.com",
+ "email_source": "https://www.quantumjewelry.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.quantumjewelry.com",
+ "address": "22W 48th Street, Suite 504, New York, NY 10036",
+ "city": "New York",
+ "state": "NY",
+ "market": "New York, NY",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.americangemsociety.org/partner/quantum-jewelry/",
+ "tel_numbers": [
+  "917-371-3293"
+ ],
+ "tel_source": "https://www.quantumjewelry.com/",
+ "socials": [],
+ "building": "22 W 48th St",
+ "suite": "Suite 504",
+ "trade_memberships": [
+  "AGS"
+ ],
+ "hooks": [
+  "loose-diamonds",
+  "custom",
+  "manufacturer"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: \"your loose diamond and\" custom jewelry source, loose diamonds section, trade login.",
+ "drop_reason": ""
+}
