@@ -1,0 +1,38 @@
+{
+ "business": "French Jewelry Inc.",
+ "category_as_listed": "Loose Stones & Diamonds",
+ "phone": "415 864 4770",
+ "email": "frenchjewelryinc@gmail.com",
+ "email_source": "https://www.frenchjewelryinc.com/contact-us/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Serge Kazandjian",
+ "role": "Owner",
+ "contact_source": "https://www.frenchjewelryinc.com/about-us/",
+ "website": "https://www.frenchjewelryinc.com",
+ "address": "888 Brannan St Ste 151",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "lead_origin": "Building Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://sfgcjm.com/tenant/french-jewelry-inc/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.instagram.com/frenchjewelryinc/",
+  "https://www.facebook.com/FrenchJewelry"
+ ],
+ "building": "SF Gift Center & Jewelry Mart",
+ "suite": "Ste 151",
+ "trade_memberships": [],
+ "hooks": [
+  "loose-diamonds",
+  "cad"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Directory/own site: custom design with loose diamond selection; 'Message from the owners ... Serge Kazandjian & Vicken Kazandjian'",
+ "drop_reason": "",
+ "enriched": true
+}

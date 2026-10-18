@@ -1,0 +1,41 @@
+{
+ "business": "MCM Supply Inc.",
+ "category_as_listed": "Loose Stones & Diamonds",
+ "phone": "415.863.0288",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.mcmsupply.com",
+ "address": "888 Brannan St Ste 189",
+ "city": "San Francisco",
+ "state": "CA",
+ "market": "San Francisco, CA",
+ "lead_origin": "Building Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://sfgcjm.com/tenant/mcm-supply-inc/",
+ "tel_numbers": [
+  "(415) 863-0288",
+  "(415) 863-3635"
+ ],
+ "tel_source": "https://www.mcmsupply.com/",
+ "socials": [
+  "https://www.instagram.com/mcmsupply/",
+  "https://www.facebook.com/mcmsupply"
+ ],
+ "building": "SF Gift Center & Jewelry Mart",
+ "suite": "Ste 189",
+ "trade_memberships": [],
+ "hooks": [
+  "wholesale",
+  "30-years"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: 'Wholesale and Retailer of Fine Jewelry' supplying brick-and-mortar retailers for 30+ years; directory lists Loose Stones & Diamonds",
+ "drop_reason": "",
+ "enriched": true
+}
