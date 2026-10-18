@@ -2,8 +2,8 @@
  "business": "Varsha Diamonds",
  "category_as_listed": "Diamonds, From melees to 25 carat GIA/ EGLUSA/ AGS and price point stones, studs and solitaire program",
  "phone": "(213) 683-0848",
- "email": "",
- "email_source": "",
+ "email": "jay@varshadiamonds.com",
+ "email_source": "https://varshadiamonds.com/contact",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "Pankaj Mehta",
@@ -19,9 +19,10 @@
  "reviews": "",
  "source_url": "https://diamondclubwestcoast.com/company-directory-2/",
  "tel_numbers": [
-  "+1 213-683-0848"
+  "+1 213-683-0848",
+  "+12136830848"
  ],
- "tel_source": "https://varshadiamonds.com/, https://varshadiamonds.com/about-us, https://varshadiamonds.com/about-us/, https://varshadiamonds.com/contact, https://varshadiamonds.com/contact-us",
+ "tel_source": "https://varshadiamonds.com/contact",
  "socials": [
   "https://www.instagram.com/varshadiamonds"
  ],
@@ -41,5 +42,6 @@
  "scope_reason": "DCWC (Diamond Club West Coast bourse) member, Wholesale; primary specialty: Diamonds (From melees to 25 carat GIA/ EGLUSA/ AGS and price point stones, studs and solitaire program); secondary: Jewelry/ Custom Jewelry",
  "drop_reason": "",
  "li_note": "no linkedin found",
- "li_backfill": true
+ "li_backfill": true,
+ "enriched": true
 }

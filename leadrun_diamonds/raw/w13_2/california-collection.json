@@ -1,0 +1,38 @@
+{
+ "business": "California Collection",
+ "category_as_listed": "Designers; Diamond, Other; Jewelry Manufacturing",
+ "phone": "213-810-2339",
+ "email": "californiacollection@gmail.com",
+ "email_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1013735",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Sunny Jain",
+ "role": "Member",
+ "contact_source": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1013735",
+ "website": "",
+ "address": "607 S. Hill St., Ste. 844, Los Angeles, CA 90014",
+ "city": "Los Angeles",
+ "state": "CA",
+ "market": "Los Angeles, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.members.agta.org/assnfe/CompanySearch.asp?MODE=DETAIL&COID=1013735",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "California Jewelry Mart",
+ "suite": "Ste. 844",
+ "trade_memberships": [
+  "AGTA"
+ ],
+ "hooks": [
+  "manufacturer",
+  "rose-cut",
+  "drilled-diamonds"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "AGTA listing: 'Fancy drilled Diamonds, drilled Diamond chains & jewelry... Rose cut Diamond jewelry'; Jewelry Manufacturing 18K gold",
+ "drop_reason": "",
+ "enriched": true
+}
