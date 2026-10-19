@@ -1,0 +1,38 @@
+{
+  "business": "Something Fine",
+  "category_as_listed": "Jewelry Designers, Jewelers",
+  "phone": "(562) 596-5105",
+  "email": "somethingfineinc@gmail.com",
+  "email_source": "https://www.somethingfinejewelry.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.somethingfinejewelry.com",
+  "address": "218 Main St",
+  "city": "Seal Beach",
+  "state": "CA",
+  "market": "Long Beach, CA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/seal-beach-ca/mip/something-fine-13125255",
+  "tel_numbers": [
+    "(562) 596-5105"
+  ],
+  "tel_source": "https://www.somethingfinejewelry.com/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "custom"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'When my partner and I first started this business, we had a small manufacturing and repair shop that was strictly a wholesale business'; still casts and stone-sets its own custom pieces. Partners not named on site.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}
