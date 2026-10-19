@@ -1,12 +1,48 @@
 {
  "business": "Venus Jewelers",
- "source_url": "https://www.yellowpages.com/somerset-nj/mip/venus-jewelers-545745",
- "drop_reason": "",
- "scope_reason": "Own site: 'Shop Loose Diamonds', natural & lab-grown diamonds, Design A Ring; principal owner Dr. Peter Stavrianidis is GIA GG and AGS Certified Gemologist Appraiser; co-founder Dorothy Fount. YP: Diamonds, Jewelers-Wholesale & Manufacturers.",
- "market": "Princeton, NJ",
- "is_diamond_trade": "",
+ "category_as_listed": "Diamonds, Jewelers-Wholesale & Manufacturers, Watches",
  "phone": "(732) 247-4454",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/peter-stavrianidis-ph-d-mba-gg-cga-411a1637/",
+ "linkedin_source": "WebSearch extended: \"Peter Stavrianidis\" Venus Jewelers LinkedIn -> \"Peter Stavrianidis, Ph.D, MBA, GG, CGA - Venus Jewelers\"",
+ "contact_person": "Peter Stavrianidis",
+ "role": "Owner",
+ "contact_source": "https://www.venusjewelers.com/pages/about-us",
  "website": "https://www.venusjewelers.com",
+ "address": "1024 Easton Ave",
  "city": "Somerset",
- "state": "NJ"
+ "state": "NJ",
+ "market": "Princeton, NJ",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/somerset-nj/mip/venus-jewelers-545745",
+ "tel_numbers": [
+  "(732) 247-4454"
+ ],
+ "tel_source": "https://www.venusjewelers.com/contact",
+ "socials": [
+  "https://www.instagram.com/venusjewelers/",
+  "https://www.facebook.com/VenusJewelers",
+  "https://www.instagram.com/jasonthegemologist/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA",
+  "AGS"
+ ],
+ "hooks": [
+  "gia-gg",
+  "ags-cga",
+  "loose-diamonds",
+  "natural",
+  "lab-grown",
+  "family-owned"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: 'Shop Loose Diamonds', natural & lab-grown diamonds, Design A Ring; principal owner Dr. Peter Stavrianidis is GIA GG and AGS Certified Gemologist Appraiser; co-founder Dorothy Fount. YP: Diamonds, Jewelers-Wholesale & Manufacturers.",
+ "drop_reason": "",
+ "verified": true
 }

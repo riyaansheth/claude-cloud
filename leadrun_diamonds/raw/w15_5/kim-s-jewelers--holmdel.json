@@ -1,12 +1,44 @@
 {
  "business": "Kim's Jewelers",
- "source_url": "https://www.yellowpages.com/holmdel-nj/mip/kims-jewelers-532981363",
- "drop_reason": "",
- "scope_reason": "Own site: GIA Graduate Gemologist on staff guides diamond selection; certified diamonds 'GIA, EGL, and IGI'; lab-grown diamonds; artisan jeweler. Bridal/diamond specialist.",
- "market": "Red Bank, NJ",
- "is_diamond_trade": "",
+ "category_as_listed": "Jewelers",
  "phone": "(732) 223-9191",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
  "website": "https://kimsjewelers.com",
+ "address": "",
  "city": "Holmdel",
- "state": "NJ"
+ "state": "NJ",
+ "market": "Red Bank, NJ",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/holmdel-nj/mip/kims-jewelers-532981363",
+ "tel_numbers": [
+  "(732) 275-9191"
+ ],
+ "tel_source": "https://kimsjewelers.com/contact/",
+ "socials": [
+  "https://www.instagram.com/kimsjewelers/",
+  "https://www.facebook.com/Kims-Jewelers-319985752087239"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "gia-gg",
+  "lab-grown",
+  "natural",
+  "gia-igi-certified"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: GIA Graduate Gemologist on staff guides diamond selection; certified diamonds 'GIA, EGL, and IGI'; lab-grown diamonds; artisan jeweler. Bridal/diamond specialist.",
+ "drop_reason": "",
+ "verified": true
 }
