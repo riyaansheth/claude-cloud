@@ -4,11 +4,11 @@
   "phone": "(504) 525-4855",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/tom-whisnant-955a3118/",
+  "linkedin_source": "\"Tom Whisnant\" Wellington New Orleans jeweler gemologist LinkedIn (result title: Tom Whisnant - Wellington & Company Fine Jewelry)",
+  "contact_person": "Tom Whisnant",
+  "role": "Owner",
+  "contact_source": "https://www.theadvocate.com/gambit/new_orleans/cue_magazine/wellington-co-fine-jewelry/article_16fdeed3-7707-5162-b4f0-20bb4db9ae70.html",
   "website": "https://store.wcjewelry.com",
   "address": "505 Royal St",
   "city": "New Orleans",
@@ -28,7 +28,10 @@
   ],
   "building": "",
   "suite": "",
-  "trade_memberships": [],
+  "trade_memberships": [
+    "GIA",
+    "JA"
+  ],
   "hooks": [
     "since-1998",
     "family-owned",
