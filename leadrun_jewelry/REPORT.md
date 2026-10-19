@@ -1,6 +1,6 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-20T02:57:47+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-20T02:59:27+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
@@ -11,7 +11,7 @@ Generated 2026-10-20T02:57:47+05:30 by `python3 run.py build`. Every number belo
 | Qualified (2 of 3) → `jewelry_qualified.csv` | 733 |
 | Qualification rate | 2.2% |
 | Websites crawled OK / attempted | 29058 / 34797 |
-| Listings with an owner/decision-maker name | 5540 |
+| Listings with an owner/decision-maker name | 5551 |
 | LinkedIn searches by outcome | ambiguous: 391, match: 223, none: 757, reject: 156 |
 
 ## Fill rate per field
@@ -24,8 +24,8 @@ Generated 2026-10-20T02:57:47+05:30 by `python3 run.py build`. Every number belo
 | 4 | Phone | 30903 (93.9%) | 717 (97.8%) |
 | 5 | Email | 7462 (22.7%) | 718 (98.0%) |
 | 6 | LinkedIn Profile | 201 (0.6%) | 193 (26.3%) |
-| 7 | Contact Person | 2768 (8.4%) | 349 (47.6%) |
-| 8 | Role | 2768 (8.4%) | 349 (47.6%) |
+| 7 | Contact Person | 2774 (8.4%) | 350 (47.7%) |
+| 8 | Role | 2774 (8.4%) | 350 (47.7%) |
 | 9 | Website | 25227 (76.7%) | 733 (100.0%) |
 | 10 | Address | 31571 (95.9%) | 723 (98.6%) |
 | 11 | Real City | 26190 (79.6%) | 616 (84.0%) |
@@ -66,11 +66,11 @@ Generated 2026-10-20T02:57:47+05:30 by `python3 run.py build`. Every number belo
 
 | Market | Listings | Businesses | Email | Owner name | LinkedIn | Qualified |
 |---|---|---|---|---|---|---|
-| New York, NY | 1440 | 1166 | 266 | 85 | 13 | 33 |
-| Los Angeles, CA | 1278 | 998 | 229 | 73 | 9 | 29 |
-| Chicago, IL | 988 | 674 | 153 | 60 | 5 | 17 |
+| New York, NY | 1440 | 1166 | 266 | 86 | 13 | 33 |
+| Los Angeles, CA | 1278 | 998 | 229 | 75 | 9 | 29 |
+| Chicago, IL | 988 | 674 | 153 | 61 | 5 | 17 |
 | Houston, TX | 1029 | 692 | 143 | 57 | 5 | 21 |
-| Dallas, TX | 719 | 472 | 88 | 57 | 5 | 7 |
+| Dallas, TX | 719 | 472 | 88 | 58 | 5 | 7 |
 | Miami, FL | 1024 | 719 | 158 | 65 | 5 | 33 |
 | Atlanta, GA | 735 | 506 | 122 | 55 | 13 | 23 |
 | Philadelphia, PA | 759 | 535 | 88 | 26 | 4 | 10 |
@@ -179,7 +179,7 @@ Generated 2026-10-20T02:57:47+05:30 by `python3 run.py build`. Every number belo
 | White Plains, NY | 340 | 212 | 42 | 11 | 0 | 3 |
 | Irvine, CA | 566 | 373 | 90 | 21 | 1 | 7 |
 | Anaheim, CA | 411 | 241 | 43 | 7 | 0 | 2 |
-| Pasadena, CA | 821 | 571 | 106 | 6 | 0 | 13 |
+| Pasadena, CA | 821 | 571 | 106 | 7 | 0 | 13 |
 | Sherman Oaks, CA | 435 | 294 | 49 | 7 | 0 | 4 |
 | Plano, TX | 401 | 247 | 58 | 7 | 0 | 4 |
 | Schaumburg, IL | 425 | 278 | 71 | 11 | 0 | 5 |
@@ -217,7 +217,7 @@ Generated 2026-10-20T02:57:47+05:30 by `python3 run.py build`. Every number belo
 | Santa Rosa, CA | 172 | 91 | 18 | 5 | 0 | 1 |
 | Rancho Cucamonga, CA | 181 | 108 | 25 | 4 | 0 | 2 |
 | Temecula, CA | 135 | 81 | 28 | 2 | 0 | 0 |
-| Palm Desert, CA | 198 | 102 | 24 | 5 | 0 | 1 |
+| Palm Desert, CA | 200 | 102 | 24 | 5 | 0 | 1 |
 | Wellesley, MA | 341 | 206 | 62 | 9 | 0 | 5 |
 | Westport, CT | 148 | 78 | 22 | 3 | 0 | 0 |
 | Wilmington, DE | 229 | 117 | 35 | 3 | 0 | 2 |
@@ -236,12 +236,12 @@ Generated 2026-10-20T02:57:47+05:30 by `python3 run.py build`. Every number belo
 
 | Source | Listings | Businesses (as base row) | Qualified |
 |---|---|---|---|
-| Google Maps | 15795 | 7455 | 264 |
-| YellowPages | 30815 | 21808 | 320 |
+| Google Maps | 15795 | 7456 | 264 |
+| YellowPages | 30815 | 21807 | 320 |
 | BBB | 4564 | 2144 | 128 |
-| OpenStreetMap | 3107 | 1501 | 21 |
+| OpenStreetMap | 3109 | 1501 | 21 |
 
-Discovery tasks completed: bbb=1879, gmaps=1065, osm=151, yp=4256
+Discovery tasks completed: bbb=1879, gmaps=1065, osm=152, yp=4256
 
 ## dropped_out_of_scope
 
@@ -270,10 +270,10 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 8682 | bbb:041e21befdeeed50: appraiser-lab-insurer |
+| builder | final-kill | 8800 | bbb:041e21befdeeed50: appraiser-lab-insurer |
 | bbb | blocked | 332 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
-| osm | error | 172 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
+| osm | error | 173 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
 | osm | http-500 | 144 | https://overpass.kumi.systems/api/interpreter |
 | yp | soft-block-503 | 58 | https://www.yellowpages.com/search?search_terms=custom+jewelry&geo_location_terms=Anaheim%2C+CA&page=5 |
 | osm | http-504 | 41 | https://maps.mail.ru/osm/tools/overpass/api/interpreter |
