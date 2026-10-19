@@ -4,11 +4,11 @@
   "phone": "(504) 469-1961",
   "email": "info@goldmanus.com",
   "email_source": "https://www.goldmanus.com/",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/syed-farrukh-ijaz-5514aa1a/",
+  "linkedin_source": "Goldman Fine Jewelers Kenner owner Goldman family LinkedIn (result title: SYED FARRUKH IJAZ - Owner at Goldman fine jewelers)",
+  "contact_person": "Syed Farrukh Ijaz",
+  "role": "Owner",
+  "contact_source": "https://www.goldmanus.com/about-3",
   "website": "https://www.goldmanus.com",
   "address": "3315 Williams Blvd",
   "city": "Kenner",
@@ -37,5 +37,5 @@
   "drop_reason": "",
   "verified": true,
   "enriched": true,
-  "notes": "site also lists Ridgeland MS store 601-956-6550 (other location, not a direct line - excluded from tel_numbers)"
+  "notes": "site also lists Ridgeland MS store 601-956-6550 (other location, not a direct line - excluded from tel_numbers); site: Farrukh 'Jazz' Ijaz took over Mr. Goldman Jewelers in 2010"
 }
