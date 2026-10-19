@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Greg Emirzyan",
+ "role": "Owner",
+ "contact_source": "https://bloomingrings.tumblr.com/aboutus",
  "tel_numbers": [
   "(213) 222-8868"
  ],
@@ -37,5 +37,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "About page: 'a designer and manufacturer of unique engagement ring settings... Located in the heart of the Los Angeles diamond district' (handmade diamond rings; also sells Lustour 'diamond alternative' stones).",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

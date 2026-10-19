@@ -28,12 +28,15 @@
  ],
  "building": "",
  "suite": "",
- "trade_memberships": [],
+ "trade_memberships": [
+  "AGS"
+ ],
  "hooks": [
   "since-1979",
   "3rd-generation",
   "manufacturer",
-  "bridal"
+  "bridal",
+  "ags-partner"
  ],
  "is_diamond_trade": true,
  "scope_reason": "Site: '3rd Generation \u2022 Established 1979', engagement ring collections and 'Authorized Dealers' page -> bridal diamond jewelry manufacturer selling through retailers (Montrose, Glendale 91020).",
