@@ -1,66 +1,66 @@
 # Jewelry retail lead run — REPORT
 
-Generated 2026-10-20T01:45:16+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
+Generated 2026-10-20T02:12:00+05:30 by `python3 run.py build`. Every number below is computed from `progress.sqlite3` and the CSVs written in the same pass.
 
 ## Headline
 
 | Metric | Count |
 |---|---|
-| Listings in research pool (in scope after discovery) | 52089 |
-| Businesses researched (after dedupe) → `jewelry_all.csv` | 31912 |
-| Qualified (2 of 3) → `jewelry_qualified.csv` | 716 |
+| Listings in research pool (in scope after discovery) | 53431 |
+| Businesses researched (after dedupe) → `jewelry_all.csv` | 32626 |
+| Qualified (2 of 3) → `jewelry_qualified.csv` | 723 |
 | Qualification rate | 2.2% |
-| Websites crawled OK / attempted | 27542 / 33008 |
-| Listings with an owner/decision-maker name | 5399 |
+| Websites crawled OK / attempted | 28357 / 33998 |
+| Listings with an owner/decision-maker name | 5462 |
 | LinkedIn searches by outcome | ambiguous: 391, match: 223, none: 757, reject: 156 |
 
 ## Fill rate per field
 
 | # | Column | all.csv | qualified.csv |
 |---|---|---|---|
-| 1 | Business | 31912 (100.0%) | 716 (100.0%) |
-| 2 | Segment | 31912 (100.0%) | 716 (100.0%) |
-| 3 | Category (as listed) | 31843 (99.8%) | 715 (99.9%) |
-| 4 | Phone | 29981 (93.9%) | 700 (97.8%) |
-| 5 | Email | 7085 (22.2%) | 701 (97.9%) |
-| 6 | LinkedIn Profile | 201 (0.6%) | 193 (27.0%) |
-| 7 | Contact Person | 2706 (8.5%) | 348 (48.6%) |
-| 8 | Role | 2706 (8.5%) | 348 (48.6%) |
-| 9 | Website | 24465 (76.7%) | 716 (100.0%) |
-| 10 | Address | 30644 (96.0%) | 707 (98.7%) |
-| 11 | Real City | 25636 (80.3%) | 605 (84.5%) |
-| 12 | Real State | 25740 (80.7%) | 604 (84.4%) |
-| 13 | Market | 31912 (100.0%) | 716 (100.0%) |
-| 14 | Lead Origin | 31912 (100.0%) | 716 (100.0%) |
-| 15 | Rating | 10875 (34.1%) | 434 (60.6%) |
-| 16 | Reviews | 10875 (34.1%) | 434 (60.6%) |
-| 17 | Source | 31912 (100.0%) | 716 (100.0%) |
-| 18 | Signals | 31912 (100.0%) | 716 (100.0%) |
-| 19 | Match Type | 31912 (100.0%) | 716 (100.0%) |
-| 20 | Email Source | 7085 (22.2%) | 701 (97.9%) |
-| 21 | LinkedIn Source | 205 (0.6%) | 193 (27.0%) |
-| 22 | Found At | 31912 (100.0%) | 716 (100.0%) |
-| 23 | Also Listed As | 4123 (12.9%) | 216 (30.2%) |
-| 24 | Other Markets | 1668 (5.2%) | 142 (19.8%) |
-| 25 | Merged Listings | 7528 (23.6%) | 351 (49.0%) |
-| 26 | Flags | 4198 (13.2%) | 160 (22.3%) |
-| 27 | Mobile Candidates | 753 (2.4%) | 539 (75.3%) |
-| 28 | Socials | 6517 (20.4%) | 626 (87.4%) |
+| 1 | Business | 32626 (100.0%) | 723 (100.0%) |
+| 2 | Segment | 32626 (100.0%) | 723 (100.0%) |
+| 3 | Category (as listed) | 32555 (99.8%) | 722 (99.9%) |
+| 4 | Phone | 30664 (94.0%) | 707 (97.8%) |
+| 5 | Email | 7310 (22.4%) | 708 (97.9%) |
+| 6 | LinkedIn Profile | 201 (0.6%) | 193 (26.7%) |
+| 7 | Contact Person | 2744 (8.4%) | 347 (48.0%) |
+| 8 | Role | 2744 (8.4%) | 347 (48.0%) |
+| 9 | Website | 25056 (76.8%) | 723 (100.0%) |
+| 10 | Address | 31328 (96.0%) | 713 (98.6%) |
+| 11 | Real City | 26160 (80.2%) | 610 (84.4%) |
+| 12 | Real State | 26264 (80.5%) | 609 (84.2%) |
+| 13 | Market | 32626 (100.0%) | 723 (100.0%) |
+| 14 | Lead Origin | 32626 (100.0%) | 723 (100.0%) |
+| 15 | Rating | 11196 (34.3%) | 436 (60.3%) |
+| 16 | Reviews | 11196 (34.3%) | 436 (60.3%) |
+| 17 | Source | 32626 (100.0%) | 723 (100.0%) |
+| 18 | Signals | 32626 (100.0%) | 723 (100.0%) |
+| 19 | Match Type | 32626 (100.0%) | 723 (100.0%) |
+| 20 | Email Source | 7310 (22.4%) | 708 (97.9%) |
+| 21 | LinkedIn Source | 205 (0.6%) | 193 (26.7%) |
+| 22 | Found At | 32626 (100.0%) | 723 (100.0%) |
+| 23 | Also Listed As | 4224 (12.9%) | 216 (29.9%) |
+| 24 | Other Markets | 1739 (5.3%) | 144 (19.9%) |
+| 25 | Merged Listings | 7702 (23.6%) | 353 (48.8%) |
+| 26 | Flags | 4294 (13.2%) | 159 (22.0%) |
+| 27 | Mobile Candidates | 762 (2.3%) | 546 (75.5%) |
+| 28 | Socials | 6676 (20.5%) | 632 (87.4%) |
 
 ## Qualification components
 
 | Signal | Businesses | Rate |
 |---|---|---|
-| email | 7085 | 22.2% |
+| email | 7310 | 22.4% |
 | linkedin | 201 | 0.6% |
-| direct-line | 753 | 2.4% |
-| role-email | 2700 | 8.5% |
-| gia | 1599 | 5.0% |
-| ags | 222 | 0.7% |
-| ja | 135 | 0.4% |
-| bench | 1119 | 3.5% |
-| custom-design | 4545 | 14.2% |
-| since-yyyy | 4895 | 15.3% |
+| direct-line | 762 | 2.3% |
+| role-email | 2761 | 8.5% |
+| gia | 1627 | 5.0% |
+| ags | 230 | 0.7% |
+| ja | 136 | 0.4% |
+| bench | 1146 | 3.5% |
+| custom-design | 4652 | 14.3% |
+| since-yyyy | 4964 | 15.2% |
 
 ## Per market
 
@@ -71,11 +71,11 @@ Generated 2026-10-20T01:45:16+05:30 by `python3 run.py build`. Every number belo
 | Chicago, IL | 988 | 674 | 153 | 60 | 5 | 17 |
 | Houston, TX | 1029 | 692 | 143 | 57 | 5 | 21 |
 | Dallas, TX | 719 | 472 | 88 | 57 | 5 | 7 |
-| Miami, FL | 1024 | 721 | 159 | 66 | 5 | 33 |
-| Atlanta, GA | 735 | 511 | 124 | 56 | 13 | 24 |
-| Philadelphia, PA | 759 | 537 | 90 | 27 | 4 | 12 |
+| Miami, FL | 1024 | 720 | 159 | 66 | 5 | 33 |
+| Atlanta, GA | 735 | 506 | 122 | 55 | 13 | 23 |
+| Philadelphia, PA | 759 | 536 | 89 | 27 | 4 | 11 |
 | San Francisco, CA | 731 | 436 | 121 | 65 | 4 | 12 |
-| Boston, MA | 569 | 340 | 109 | 54 | 7 | 18 |
+| Boston, MA | 561 | 337 | 108 | 53 | 7 | 17 |
 | Seattle, WA | 583 | 336 | 89 | 64 | 2 | 8 |
 | Las Vegas, NV | 691 | 398 | 72 | 74 | 3 | 10 |
 | Phoenix, AZ | 730 | 456 | 92 | 57 | 0 | 12 |
@@ -85,11 +85,11 @@ Generated 2026-10-20T01:45:16+05:30 by `python3 run.py build`. Every number belo
 | Detroit, MI | 550 | 353 | 78 | 42 | 5 | 15 |
 | Minneapolis, MN | 531 | 242 | 63 | 91 | 6 | 10 |
 | Charlotte, NC | 350 | 204 | 47 | 39 | 2 | 4 |
-| Nashville, TN | 338 | 173 | 44 | 49 | 4 | 4 |
+| Nashville, TN | 338 | 170 | 44 | 48 | 4 | 4 |
 | Scottsdale, AZ | 263 | 146 | 35 | 25 | 1 | 5 |
 | Naples, FL | 274 | 150 | 45 | 21 | 1 | 5 |
-| Greenwich, CT | 141 | 79 | 27 | 6 | 1 | 5 |
-| Palm Beach, FL | 445 | 251 | 64 | 23 | 2 | 7 |
+| Greenwich, CT | 141 | 78 | 27 | 6 | 1 | 5 |
+| Palm Beach, FL | 444 | 249 | 64 | 23 | 2 | 7 |
 | Beverly Hills, CA | 622 | 454 | 110 | 29 | 1 | 13 |
 | Austin, TX | 458 | 238 | 80 | 37 | 1 | 6 |
 | San Antonio, TX | 502 | 301 | 52 | 42 | 2 | 6 |
@@ -98,7 +98,7 @@ Generated 2026-10-20T01:45:16+05:30 by `python3 run.py build`. Every number belo
 | Sacramento, CA | 372 | 205 | 37 | 38 | 2 | 7 |
 | Portland, OR | 515 | 278 | 70 | 55 | 2 | 4 |
 | Salt Lake City, UT | 445 | 237 | 65 | 71 | 8 | 10 |
-| Kansas City, MO | 447 | 256 | 71 | 75 | 5 | 9 |
+| Kansas City, MO | 447 | 256 | 72 | 75 | 5 | 9 |
 | St. Louis, MO | 522 | 257 | 71 | 51 | 3 | 6 |
 | Columbus, OH | 238 | 132 | 41 | 20 | 2 | 4 |
 | Cleveland, OH | 335 | 201 | 54 | 9 | 0 | 2 |
@@ -134,8 +134,8 @@ Generated 2026-10-20T01:45:16+05:30 by `python3 run.py build`. Every number belo
 | Fresno, CA | 232 | 122 | 25 | 6 | 1 | 2 |
 | Bakersfield, CA | 158 | 83 | 12 | 1 | 0 | 1 |
 | Long Beach, CA | 522 | 350 | 73 | 7 | 1 | 7 |
-| Oakland, CA | 339 | 219 | 48 | 8 | 1 | 4 |
-| Riverside, CA | 290 | 187 | 36 | 2 | 0 | 1 |
+| Oakland, CA | 339 | 218 | 48 | 8 | 1 | 4 |
+| Riverside, CA | 290 | 187 | 36 | 2 | 0 | 0 |
 | Colorado Springs, CO | 168 | 99 | 28 | 2 | 0 | 1 |
 | Spokane, WA | 148 | 80 | 12 | 5 | 0 | 1 |
 | Wichita, KS | 167 | 96 | 20 | 4 | 0 | 2 |
@@ -156,8 +156,8 @@ Generated 2026-10-20T01:45:16+05:30 by `python3 run.py build`. Every number belo
 | Dayton, OH | 136 | 76 | 12 | 4 | 1 | 2 |
 | Lexington, KY | 140 | 73 | 23 | 3 | 0 | 1 |
 | Syracuse, NY | 123 | 55 | 11 | 3 | 1 | 1 |
-| Worcester, MA | 168 | 91 | 21 | 10 | 0 | 3 |
-| New Haven, CT | 203 | 117 | 20 | 6 | 0 | 1 |
+| Worcester, MA | 167 | 91 | 21 | 10 | 0 | 3 |
+| New Haven, CT | 202 | 117 | 20 | 6 | 0 | 1 |
 | Allentown, PA | 196 | 112 | 26 | 6 | 0 | 1 |
 | Harrisburg, PA | 141 | 84 | 11 | 1 | 0 | 0 |
 | Durham, NC | 114 | 58 | 21 | 4 | 0 | 1 |
@@ -173,25 +173,25 @@ Generated 2026-10-20T01:45:16+05:30 by `python3 run.py build`. Every number belo
 | Fort Wayne, IN | 104 | 45 | 15 | 1 | 0 | 0 |
 | Garden City, NY | 912 | 677 | 113 | 16 | 1 | 6 |
 | Huntington, NY | 339 | 205 | 51 | 7 | 0 | 4 |
-| Hackensack, NJ | 977 | 750 | 116 | 11 | 0 | 10 |
+| Hackensack, NJ | 977 | 749 | 115 | 10 | 0 | 9 |
 | Newark, NJ | 873 | 612 | 123 | 15 | 1 | 13 |
 | Edison, NJ | 487 | 305 | 60 | 6 | 1 | 9 |
 | White Plains, NY | 340 | 212 | 42 | 11 | 0 | 3 |
 | Irvine, CA | 566 | 373 | 90 | 21 | 1 | 7 |
 | Anaheim, CA | 411 | 242 | 43 | 7 | 0 | 2 |
 | Pasadena, CA | 821 | 571 | 106 | 6 | 0 | 13 |
-| Sherman Oaks, CA | 435 | 296 | 50 | 7 | 0 | 4 |
+| Sherman Oaks, CA | 435 | 294 | 49 | 7 | 0 | 4 |
 | Plano, TX | 401 | 247 | 58 | 7 | 0 | 4 |
 | Schaumburg, IL | 425 | 278 | 71 | 11 | 0 | 5 |
 | Northbrook, IL | 194 | 117 | 23 | 7 | 1 | 1 |
 | Bethesda, MD | 378 | 237 | 55 | 8 | 0 | 4 |
 | Fairfax, VA | 317 | 203 | 40 | 5 | 0 | 3 |
-| King of Prussia, PA | 341 | 198 | 51 | 8 | 1 | 3 |
+| King of Prussia, PA | 341 | 197 | 51 | 7 | 1 | 3 |
 | Alpharetta, GA | 338 | 220 | 46 | 7 | 1 | 5 |
 | Troy, MI | 377 | 225 | 51 | 6 | 2 | 4 |
 | Fort Myers, FL | 231 | 119 | 28 | 3 | 0 | 1 |
 | Sarasota, FL | 330 | 199 | 45 | 12 | 0 | 3 |
-| Stamford, CT | 100 | 56 | 19 | 6 | 1 | 3 |
+| Stamford, CT | 100 | 58 | 19 | 6 | 1 | 3 |
 | Morristown, NJ | 183 | 112 | 17 | 2 | 0 | 0 |
 | Princeton, NJ | 253 | 144 | 39 | 4 | 0 | 0 |
 | Red Bank, NJ | 221 | 126 | 33 | 2 | 0 | 3 |
@@ -211,37 +211,37 @@ Generated 2026-10-20T01:45:16+05:30 by `python3 run.py build`. Every number belo
 | Tacoma, WA | 299 | 212 | 31 | 4 | 0 | 3 |
 | Boulder, CO | 216 | 96 | 35 | 6 | 1 | 2 |
 | Carmel, IN | 90 | 38 | 13 | 5 | 0 | 2 |
-| Palo Alto, CA | 218 | 107 | 20 | 2 | 0 | 0 |
-| Santa Barbara, CA | 75 | 44 | 15 | 3 | 0 | 0 |
-| Thousand Oaks, CA | 125 | 84 | 22 | 4 | 0 | 2 |
-| Santa Rosa, CA | 91 | 70 | 13 | 3 | 0 | 0 |
-| Rancho Cucamonga, CA | 102 | 78 | 1 | 0 | 0 | 0 |
-| Temecula, CA | 133 | 80 | 13 | 1 | 0 | 0 |
-| Palm Desert, CA | 125 | 0 | 0 | 0 | 0 | 0 |
-| Wellesley, MA | 151 | 0 | 0 | 0 | 0 | 0 |
-| Westport, CT | 0 | 0 | 0 | 0 | 0 | 0 |
-| Wilmington, DE | 0 | 0 | 0 | 0 | 0 | 0 |
-| Lancaster, PA | 197 | 97 | 22 | 5 | 0 | 0 |
-| Ann Arbor, MI | 68 | 51 | 11 | 0 | 0 | 1 |
-| Chesterfield, MO | 109 | 63 | 17 | 6 | 0 | 0 |
-| Overland Park, KS | 67 | 39 | 2 | 3 | 0 | 1 |
-| Fort Collins, CO | 60 | 43 | 1 | 0 | 0 | 0 |
-| Asheville, NC | 185 | 104 | 22 | 4 | 0 | 1 |
-| Murfreesboro, TN | 42 | 0 | 0 | 0 | 0 | 0 |
-| Huntsville, AL | 62 | 0 | 0 | 0 | 0 | 0 |
-| Tallahassee, FL | 69 | 0 | 0 | 0 | 0 | 0 |
-| Jupiter, FL | 0 | 0 | 0 | 0 | 0 | 0 |
+| Palo Alto, CA | 218 | 110 | 25 | 4 | 0 | 0 |
+| Santa Barbara, CA | 169 | 86 | 31 | 6 | 0 | 0 |
+| Thousand Oaks, CA | 208 | 113 | 23 | 4 | 0 | 2 |
+| Santa Rosa, CA | 91 | 70 | 14 | 4 | 0 | 0 |
+| Rancho Cucamonga, CA | 99 | 74 | 14 | 4 | 0 | 0 |
+| Temecula, CA | 130 | 79 | 28 | 2 | 0 | 0 |
+| Palm Desert, CA | 198 | 104 | 24 | 5 | 0 | 1 |
+| Wellesley, MA | 342 | 209 | 55 | 8 | 0 | 5 |
+| Westport, CT | 93 | 48 | 10 | 1 | 0 | 0 |
+| Wilmington, DE | 107 | 76 | 1 | 1 | 0 | 0 |
+| Lancaster, PA | 200 | 102 | 23 | 5 | 0 | 0 |
+| Ann Arbor, MI | 160 | 79 | 16 | 1 | 0 | 0 |
+| Chesterfield, MO | 135 | 69 | 17 | 6 | 0 | 0 |
+| Overland Park, KS | 67 | 39 | 15 | 4 | 0 | 2 |
+| Fort Collins, CO | 58 | 41 | 14 | 2 | 0 | 1 |
+| Asheville, NC | 181 | 96 | 40 | 7 | 0 | 2 |
+| Murfreesboro, TN | 123 | 50 | 6 | 5 | 0 | 0 |
+| Huntsville, AL | 111 | 62 | 15 | 2 | 0 | 2 |
+| Tallahassee, FL | 68 | 56 | 13 | 2 | 0 | 2 |
+| Jupiter, FL | 41 | 30 | 5 | 1 | 0 | 0 |
 
 ## Per source (Lead Origin)
 
 | Source | Listings | Businesses (as base row) | Qualified |
 |---|---|---|---|
-| Google Maps | 14426 | 6934 | 252 |
-| YellowPages | 30508 | 21325 | 312 |
-| BBB | 4564 | 2157 | 130 |
-| OpenStreetMap | 3082 | 1496 | 22 |
+| Google Maps | 15028 | 7145 | 255 |
+| YellowPages | 30815 | 21840 | 319 |
+| BBB | 4564 | 2148 | 128 |
+| OpenStreetMap | 3082 | 1493 | 21 |
 
-Discovery tasks completed: bbb=1879, gmaps=920, osm=147, yp=4084
+Discovery tasks completed: bbb=1879, gmaps=984, osm=148, yp=4256
 
 ## dropped_out_of_scope
 
@@ -249,36 +249,36 @@ Kill-list and scope drops, by reason and by the stage that caught them (discover
 
 | Reason | discovery | site-check | builder | Total |
 |---|---|---|---|---|
-| appraiser-lab-insurer | 356 | 0 | 28 | 384 |
-| beads-craft | 1682 | 111 | 14 | 1807 |
-| chain | 8372 | 0 | 0 | 8372 |
-| coin-currency | 1059 | 13 | 0 | 1072 |
-| costume-fashion | 1637 | 461 | 124 | 2222 |
-| diamond-trade | 279 | 46 | 11 | 336 |
-| gold-buyer | 683 | 137 | 39 | 859 |
+| appraiser-lab-insurer | 360 | 0 | 28 | 388 |
+| beads-craft | 1703 | 115 | 14 | 1832 |
+| chain | 8442 | 0 | 0 | 8442 |
+| coin-currency | 1082 | 13 | 0 | 1095 |
+| costume-fashion | 1687 | 481 | 130 | 2298 |
+| diamond-trade | 281 | 46 | 11 | 338 |
+| gold-buyer | 695 | 141 | 40 | 876 |
 | kiosk-battery | 36 | 0 | 0 | 36 |
-| no-segment | 0 | 0 | 5270 | 5270 |
-| pawn | 2462 | 116 | 29 | 2607 |
-| piercing-tattoo | 1878 | 124 | 21 | 2023 |
-| simulants | 11 | 56 | 9 | 76 |
-| thrift-consignment | 544 | 0 | 0 | 544 |
+| no-segment | 0 | 0 | 5517 | 5517 |
+| pawn | 2489 | 121 | 29 | 2639 |
+| piercing-tattoo | 1922 | 130 | 21 | 2073 |
+| simulants | 11 | 57 | 9 | 77 |
+| thrift-consignment | 585 | 0 | 0 | 585 |
 | trade-association | 4 | 0 | 0 | 4 |
-| wholesale-manufacturer | 177 | 19 | 2 | 198 |
-| **all** | | | | **25810** |
+| wholesale-manufacturer | 179 | 19 | 3 | 201 |
+| **all** | | | | **26401** |
 
 ## What blocked the run
 
 | Stage | Kind | Count | Example |
 |---|---|---|---|
-| builder | final-kill | 8328 | bbb:041e21befdeeed50: appraiser-lab-insurer |
+| builder | final-kill | 8446 | bbb:041e21befdeeed50: appraiser-lab-insurer |
 | bbb | blocked | 332 | http-200 or challenge page at https://www.bbb.org/search?find_country=USA&find_text=Jewelry+Stores&find_loc=New+York%2C+NY&find_type=Categor |
 | crawl | egress-blocked | 237 | https://3dnailspa.com: egress-blocked 3dnailspa.com: HTTPSConnectionPool(host='3dnailspa.com', port=443): Max retries exceeded with url: / ( |
-| osm | error | 163 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
+| osm | error | 167 | https://overpass-api.de/api/interpreter: https://overpass-api.de/api/interpreter: ('Connection aborted.', ConnectionResetError(104, 'Connect |
 | osm | http-500 | 144 | https://overpass.kumi.systems/api/interpreter |
-| yp | soft-block-503 | 56 | https://www.yellowpages.com/search?search_terms=custom+jewelry&geo_location_terms=Anaheim%2C+CA&page=5 |
-| osm | http-504 | 39 | https://maps.mail.ru/osm/tools/overpass/api/interpreter |
+| yp | soft-block-503 | 58 | https://www.yellowpages.com/search?search_terms=custom+jewelry&geo_location_terms=Anaheim%2C+CA&page=5 |
+| osm | http-504 | 40 | https://maps.mail.ru/osm/tools/overpass/api/interpreter |
 | linkedin | blocked | 37 | http-200 or challenge page at https://www.google.com/search?q=%22Lorraine+Tunca%22+Liberty+Lake+linkedin&hl=en&num=10 |
-| osm | http-406 | 34 | https://overpass-api.de/api/interpreter |
+| osm | http-406 | 35 | https://overpass-api.de/api/interpreter |
 | trade | blocked | 2 | http-403 or challenge page at https://www.americangemsociety.org/find-a-jeweler/?location=Los+Angeles%2C+CA |
 | yp | soft-block-404 | 2 | https://www.yellowpages.com/search?search_terms=jewelers&geo_location_terms=Los+Angeles%2C+CA&page=30 |
 
