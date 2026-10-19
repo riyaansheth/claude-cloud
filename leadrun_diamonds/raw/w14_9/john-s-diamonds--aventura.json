@@ -20,15 +20,18 @@
   "source_url": "https://bizakq.com/hubs/aventura/",
   "tel_numbers": [],
   "tel_source": "",
-  "socials": [],
+  "socials": [
+    "https://www.facebook.com/JOHNSDIAMONDS/"
+  ],
   "building": "International Jewelers Exchange (Aventura)",
   "suite": "Booth 44",
   "trade_memberships": [],
   "hooks": [
+    "manufacturer",
     "special-orders"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Exchange booth dealer listed under Diamonds; directory: special orders and fine diamond jewelry, 'Serving south Florida for over 20 years' - diamond dealer booth (trade status not confirmed on own site).",
+  "scope_reason": "Facebook page: 'specialize in custom design and manufacturing wholesale/retail diamond and gold'; Aventura Exchange Booth 44 listed under Diamonds.",
   "drop_reason": "",
   "enriched": false
 }
