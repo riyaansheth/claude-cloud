@@ -1,0 +1,39 @@
+{
+  "business": "Goldpoint Jewelry",
+  "category_as_listed": "",
+  "phone": "(347) 607-3090",
+  "email": "hello@goldpointbk.com",
+  "email_source": "https://www.goldpointbk.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Olivia Michaels",
+  "role": "Founder",
+  "contact_source": "https://www.goldpointbk.com/pages/about-us",
+  "website": "https://www.goldpointbk.com",
+  "address": "568 Manhattan Ave",
+  "city": "Brooklyn",
+  "state": "NY",
+  "market": "Brooklyn, NY",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.goldpointbk.com/pages/about-us",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://instagram.com/goldpointbk",
+    "https://www.facebook.com/goldpointjewelry"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "lab-grown",
+    "natural",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: owner-designers (Olivia Michaels & Sunim Choi, co-owners/founders) hand-make engagement rings in Greenpoint using lab grown diamonds and vintage/post-consumer natural diamonds — bridal maker sourcing its own stones (small studio).",
+  "drop_reason": "",
+  "enriched": true
+}
