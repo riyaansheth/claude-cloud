@@ -1,0 +1,40 @@
+{
+  "business": "Haimov Jewelers",
+  "category_as_listed": "Wholesale Jewelry",
+  "phone": "305.760.8600",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "searched '\"Igal Haimov\" Haimov Jewelers LinkedIn' (extended): only a profile tied to The Haimov Group (real-estate firm), not the jewelry business - not recorded",
+  "contact_person": "Igal Haimov",
+  "role": "President",
+  "contact_source": "https://www.bbb.org/us/fl/miami/profile/wholesale-jewelry/haimov-jewelers-inc-0633-90508934",
+  "website": "https://haimov.com",
+  "address": "33 NE 1st St",
+  "city": "Miami",
+  "state": "FL",
+  "market": "Aventura, FL",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://haimov.com/pages/jewelers-aventura",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://instagram.com/haimovjewelers",
+    "https://www.facebook.com/haimovjewelry/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "natural",
+    "lab-grown",
+    "gia-certified"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "BBB category 'Wholesale Jewelry'; site: 'Igal Haimov, owner and designer ... manufactures everything in house'; sells loose diamonds and GIA-certified pieces.",
+  "drop_reason": "",
+  "enriched": true
+}
