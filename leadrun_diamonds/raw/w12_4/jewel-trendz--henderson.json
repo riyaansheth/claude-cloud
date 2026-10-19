@@ -1,15 +1,15 @@
 {
  "business": "Jewel Trendz",
  "category_as_listed": "Jewelry Stores",
- "phone": "",
+ "phone": "(702) 643-3479",
  "email": "",
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "website": "",
+ "contact_person": "Avo Ounjian",
+ "role": "Owner",
+ "contact_source": "https://jeweltrendz.com/about",
+ "website": "https://jeweltrendz.com",
  "address": "10600 S. Eastern Ave., Suites B and C",
  "city": "Henderson",
  "state": "NV",
@@ -18,20 +18,29 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://hoodline.com/2020/01/henderson-s-3-best-spots-to-indulge-in-jewelry/",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "702-643-3479",
+  "702-778-5080"
+ ],
+ "tel_source": "https://jeweltrendz.com/",
+ "socials": [
+  "https://www.facebook.com/JTrendz",
+  "https://www.instagram.com/jeweltrendzlv"
+ ],
  "building": "",
  "suite": "Suites B and C",
  "trade_memberships": [],
  "hooks": [
-  "manufacturer",
+  "diamond-setter",
   "family-owned",
-  "gia-diamond-grader"
+  "gia-diamond-grader",
+  "in-house",
+  "manufacturer",
+  "since-2005"
  ],
  "is_diamond_trade": true,
- "scope_reason": "Hoodline/Yelp description (via WebSearch): 'family owned and operated fine jewelry store and manufacturing company' with goldsmiths, GIA certified diamond grader and master diamond setters. Website unreachable; owner not found.",
+ "scope_reason": "Own site: 'family-owned, full-service fine jewelry store in Henderson and Las Vegas / Summerlin-South, serving the community since 2005'; 'All Work Done In-House \u2013 No Outsourcing'; co-owner Hovig Ounjian 'has been manufacturing jewelry and setting diamonds since the age of 11'; 'Meet the Owners Avo Ounjian'. BBB lists Avo Ounjian as managing member. 702-778-5080 is its Las Vegas (Tropicana) location line.",
  "drop_reason": "",
- "verified": false,
+ "verified": true,
  "enriched": true
 }

@@ -1,0 +1,42 @@
+{
+ "business": "9th and 9th Jewelers",
+ "category_as_listed": "",
+ "phone": "(801) 244 4756",
+ "email": "9thand9thjeweler@gmail.com",
+ "email_source": "https://www.9thand9thjewelers.com/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.9thand9thjewelers.com",
+ "address": "872 E 900 S",
+ "city": "Salt Lake City",
+ "state": "UT",
+ "market": "Salt Lake City, UT",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.9thand9thjewelers.com/information",
+ "tel_numbers": [
+  "(801) 244 4756"
+ ],
+ "tel_source": "https://www.9thand9thjewelers.com/contact",
+ "socials": [
+  "https://www.instagram.com/9thand9thjewelers/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "lab-grown",
+  "since-1989",
+  "family-owned",
+  "made-to-order"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Found via WebSearch (Utah lab-grown query): site says it prides itself on being Utah's premier Lab Grown diamond jeweler, made-to-order, 'Salt Lake's favorite family ran jeweler since 1989'. Address from search summary of its Information page.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}
