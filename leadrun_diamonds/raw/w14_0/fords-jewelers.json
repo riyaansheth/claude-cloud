@@ -1,0 +1,8 @@
+{
+ "business": "Fords Jewelers",
+ "source_url": "https://fordsjewelers.com/",
+ "market": "Iselin, NJ",
+ "is_diamond_trade": false,
+ "scope_reason": "Retail jeweler: \"we proudly sell GIA Certified Diamonds\"; watches, no wholesale/trade evidence.",
+ "drop_reason": "retail-only"
+}

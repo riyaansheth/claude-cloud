@@ -1,0 +1,46 @@
+{
+ "business": "Heller Jewelers",
+ "category_as_listed": "Jewelers, Watches, Jewelry Repairing",
+ "phone": "(925) 904-0200",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Scott Heller",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/ca/san-ramon/profile/jewelry-stores/heller-jewelers-1116-77416",
+ "website": "https://www.hellerjewelers.com",
+ "address": "6000 Bollinger Canyon Rd",
+ "city": "San Ramon",
+ "state": "CA",
+ "market": "Oakland, CA",
+ "lead_origin": "YellowPages",
+ "rating": "5",
+ "reviews": "5",
+ "source_url": "https://www.yellowpages.com/san-ramon-ca/mip/heller-jewelers-570192913",
+ "tel_numbers": [
+  "9259040200"
+ ],
+ "tel_source": "https://www.hellerjewelers.com/",
+ "socials": [
+  "https://www.facebook.com/hellerjewelers/",
+  "https://www.instagram.com/hellerjewelers/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "JA",
+  "GIA"
+ ],
+ "hooks": [
+  "since-1988",
+  "gia-gg",
+  "manufacturer",
+  "custom-design"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: Scott Heller owner/graduate gemologist, custom design and manufacturing; Jewelers of America member listing (jewelers.org)",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

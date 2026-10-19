@@ -1,0 +1,39 @@
+{
+ "business": "Sams Jewelers",
+ "category_as_listed": "Jewelers",
+ "phone": "(510) 781-0803",
+ "email": "samsjewelersca@gmail.com",
+ "email_source": "https://www.samjewelers.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.samjewelers.com",
+ "address": "401 Southland Mall",
+ "city": "Hayward",
+ "state": "CA",
+ "market": "Oakland, CA",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "25",
+ "source_url": "https://www.yellowpages.com/hayward-ca/mip/sams-jewelers-547503024",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.facebook.com/Samjewelers",
+  "https://www.instagram.com/sam_jewelers/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1996",
+  "lab-grown"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: diamond jeweler since 1996 selling natural and lab-grown diamond engagement rings",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

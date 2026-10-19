@@ -15,9 +15,9 @@
  "email_source": "https://www.kingofjewelry.com/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Elie Sabouhi",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ca/los-angeles/profile/jewelry-stores/king-of-jewelry-1216-13201358",
  "tel_numbers": [
   "8883498299"
  ],
@@ -44,5 +44,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "King of Jewelry (550 South Hill Street Office #710, \"Est. 1999\", \"Crafted In USA\") sells loose earth-mined, fancy-color and lab-grown diamonds \"at wholesale prices\", \"hand-selecting every diamond\".",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

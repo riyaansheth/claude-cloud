@@ -1,0 +1,33 @@
+{
+ "business": "A James Ltd",
+ "category_as_listed": "Jewelers-Wholesale",
+ "phone": "(909) 548-2991",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Anthony Vela",
+ "role": "Owner",
+ "contact_source": "https://us-jeweler.com/company-james-ltd-in-chino-ca-22439",
+ "website": "",
+ "address": "3817 Grand Ave, #B-219",
+ "city": "Chino",
+ "state": "CA",
+ "market": "Riverside, CA",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://us-jeweler.com/company-james-ltd-in-chino-ca-22439",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "#B-219",
+ "trade_memberships": [],
+ "hooks": [
+  "wholesale"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "us-jeweler.com directory: category 'Jewelers-Wholesale', owner Anthony Vela; no own website - unverified.",
+ "drop_reason": ""
+}

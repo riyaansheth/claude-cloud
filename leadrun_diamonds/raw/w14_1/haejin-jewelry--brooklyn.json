@@ -1,0 +1,38 @@
+{
+  "business": "Haejin Jewelry",
+  "category_as_listed": "",
+  "phone": "917-909-0249",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://haejinjewelry.com",
+  "address": "123 Skillman Ave",
+  "city": "Brooklyn",
+  "state": "NY",
+  "market": "Brooklyn, NY",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://haejinjewelry.com/pages/about-us",
+  "tel_numbers": [
+    "+19179090249"
+  ],
+  "tel_source": "https://haejinjewelry.com/pages/contact",
+  "socials": [
+    "https://instagram.com/haejinjewelry"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "lab-grown"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: custom lab-grown diamond engagement ring studio in Williamsburg; 'Every lab-grown diamond at Haejin is IGI-certified' — bridal specialist sourcing its own certified stones. Founder named only as 'Sue'.",
+  "drop_reason": "",
+  "enriched": true
+}

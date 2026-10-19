@@ -1,0 +1,39 @@
+{
+ "business": "Unique Design Jewelers",
+ "category_as_listed": "Jewelers",
+ "phone": "(941) 925-7100",
+ "email": "uniquedesign@verizon.net",
+ "email_source": "https://unique-design-jewelers.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Rob Akyan",
+ "role": "Owner",
+ "contact_source": "https://willyou.net/jewelers/unique-design-jewelers-sarasota-fl",
+ "website": "http://www.unique-design-jewelers.com",
+ "address": "8491 S Tamiami Trl",
+ "city": "Sarasota",
+ "state": "FL",
+ "market": "Sarasota, FL",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/sarasota-fl/mip/unique-design-jewelers-9366164",
+ "tel_numbers": [
+  "9419257100"
+ ],
+ "tel_source": "https://unique-design-jewelers.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "custom-design",
+  "in-house",
+  "estate"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: custom design jeweler with in-house work, diamonds and estate jewelry",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

@@ -15,9 +15,9 @@
  "email_source": "http://chromagem.com/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Marcus Fuchs",
+ "role": "Manager",
+ "contact_source": "https://www.jckonline.com/magazine-article/black-by-popular-demand/",
  "tel_numbers": [
   "212-575-5887"
  ],
@@ -37,5 +37,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Listed site Chromagem: \"We, at Chromagem, have been coloring diamonds since 1974 ... we recut and repair broken or old cut diamonds; we laser drill and do clarity enhancement\" (site also carries injected casino spam).",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

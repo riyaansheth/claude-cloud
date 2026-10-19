@@ -1,0 +1,38 @@
+{
+ "business": "Honeymoon Diamonds & Co",
+ "category_as_listed": "Jewelers",
+ "phone": "(347) 666-1500",
+ "email": "sales@honeymoondiamonds.com",
+ "email_source": "https://www.honeymoondiamonds.com/pages/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.honeymoondiamonds.com",
+ "address": "1162 E Putnam Ave",
+ "city": "Riverside",
+ "state": "CT",
+ "market": "Stamford, CT",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/stamford-ct/jewelers",
+ "tel_numbers": [
+  "+01-347-666-1500"
+ ],
+ "tel_source": "https://www.honeymoondiamonds.com/pages/contact",
+ "socials": [
+  "https://www.instagram.com/honeymoon_diamonds",
+  "https://www.instagram.com/jewelry_honeymoon_diamonds/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "loose-diamonds"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site sells \"Loose Diamonds & Gemstones\" (50 items) and engagement jewelry; site largely template text, scope weakly evidenced.",
+ "drop_reason": ""
+}

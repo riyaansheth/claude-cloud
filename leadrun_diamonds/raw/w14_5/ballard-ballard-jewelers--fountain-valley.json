@@ -1,0 +1,37 @@
+{
+ "business": "Ballard & Ballard Jewelers",
+ "category_as_listed": "Jewelry Retailer",
+ "phone": "(714) 962-0088",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.ballardgem.com",
+ "address": "18400 Brookhurst St",
+ "city": "Fountain Valley",
+ "state": "CA",
+ "market": "Irvine, CA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://local.yahoo.com/info-21071399-ballard-ballard-jewelers-fountain-valley/",
+ "tel_numbers": [
+  "7149620088"
+ ],
+ "tel_source": "https://www.ballardgem.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "loose-diamonds",
+  "lab-grown",
+  "custom"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: Loose Diamonds / In-Stock Diamonds / Diamond Search, custom bridal design.",
+ "drop_reason": ""
+}

@@ -1,0 +1,45 @@
+{
+  "business": "Aloni Diamonds Ltd",
+  "category_as_listed": "Diamond Buyers, Diamonds, Diamonds-Wholesale",
+  "phone": "(212) 391-1767",
+  "website": "https://www.alonidiamonds.com",
+  "address": "36 W 47th St",
+  "city": "New York",
+  "state": "NY",
+  "market": "Fort Lee, NJ",
+  "rating": "",
+  "reviews": "48",
+  "source_url": "https://www.yellowpages.com/new-york-ny/mip/aloni-diamonds-ltd-468226934",
+  "lead_origin": "YellowPages",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Jacob Brownwasser",
+  "role": "Manager",
+  "contact_source": "https://alonidiamonds.com/about.php",
+  "tel_numbers": [
+    "212-391-1767",
+    "800-223-2432"
+  ],
+  "tel_source": "https://www.alonidiamonds.com",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "DDC",
+    "Bourse"
+  ],
+  "hooks": [
+    "importer",
+    "cutter",
+    "rough",
+    "since-1979",
+    "large-stones"
+  ],
+  "is_diamond_trade": true,
+  "drop_reason": "",
+  "scope_reason": "About page: imports finished stones and polishes rough, offices NY/Tel Aviv/Antwerp, polishing facility in Israel; principals members of New York Diamond Exchange and Tel Aviv Diamond Exchange",
+  "verified": true,
+  "enriched": true
+}

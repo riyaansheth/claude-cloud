@@ -1,0 +1,38 @@
+{
+  "business": "Jolie Designs",
+  "category_as_listed": "Jewelry Designers, Jewelers",
+  "phone": "(310) 546-6080",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://joliedesigns.com",
+  "address": "6414 West Wilkinson Blvd. Suite 217",
+  "city": "Belmont",
+  "state": "NC",
+  "market": "Torrance, CA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/manhattan-beach-ca/mip/jolie-designs-inc-22356619",
+  "tel_numbers": [
+    "(310) 546-6080"
+  ],
+  "tel_source": "https://joliedesigns.com/pages/contact",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "custom"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'We are a full service wholesale jewelry manufacturing company with our own factory providing microscope setting, custom gemstone cutting, CAD design, model making'. YP still lists 1201 Manhattan Ave, Manhattan Beach, but the site's contact page now gives Belmont, NC (Yelp marks the Manhattan Beach shop closed). CEO names conflict across directories - not recorded.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

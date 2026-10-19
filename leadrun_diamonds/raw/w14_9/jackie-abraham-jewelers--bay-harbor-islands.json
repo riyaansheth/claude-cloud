@@ -1,0 +1,45 @@
+{
+  "business": "Jackie Abraham Jewelers",
+  "category_as_listed": "Jewelry Buyers",
+  "phone": "305-868-4336",
+  "email": "sales@jackieabraham.com",
+  "email_source": "https://www.jackieabraham.com/contact",
+  "linkedin_url": "https://www.linkedin.com/in/jackieabraham/",
+  "linkedin_source": "WebSearch (extended): \"Jackie Abraham\" jeweler Bay Harbor Islands LinkedIn -> 'Jackie Abraham - Owner at Jackie Abraham Jewelers'",
+  "contact_person": "Jackie Abraham",
+  "role": "Owner",
+  "contact_source": "https://www.jackieabraham.com/",
+  "website": "https://www.jackieabraham.com",
+  "address": "1027 Kane Concourse",
+  "city": "Bay Harbor Islands",
+  "state": "FL",
+  "market": "Aventura, FL",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.jackieabraham.com/sell-your-jewelry-aventura",
+  "tel_numbers": [
+    "305-868-4336"
+  ],
+  "tel_source": "https://www.jackieabraham.com/contact",
+  "socials": [
+    "https://www.facebook.com/JackieAbrahamJewelers",
+    "https://www.instagram.com/jackie_abraham_jewelers/",
+    "https://twitter.com/jackie_abraham"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "gia",
+    "4th-generation",
+    "since-1998",
+    "estate",
+    "natural",
+    "loose-diamond-buyer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Fine & estate jeweler/trade buyer: 'we purchase loose diamonds (including GIA certified diamonds) and luxury timepieces'; 'GIA-trained gemologists, including our owner Jackie Abraham, a third generation jeweler'; four generations in the trade.",
+  "drop_reason": "",
+  "enriched": true
+}

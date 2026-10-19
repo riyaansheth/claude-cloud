@@ -1,0 +1,46 @@
+{
+ "business": "The Diamond Ring Company",
+ "category_as_listed": "Diamonds, Jewelers",
+ "phone": "(925) 251-0699",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.thediamondring.com",
+ "address": "2015 Stoneridge Mall Rd",
+ "city": "Pleasanton",
+ "state": "CA",
+ "market": "Oakland, CA",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/pleasanton-ca/mip/the-diamond-ring-company-505636221",
+ "tel_numbers": [
+  "4082446200",
+  "4082255200",
+  "4082627300",
+  "5107869200"
+ ],
+ "tel_source": "https://www.thediamondring.com/",
+ "socials": [
+  "https://www.facebook.com/thediamondringco/",
+  "https://www.instagram.com/thediamondringco/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-2003",
+  "loose-diamonds",
+  "lab-grown",
+  "custom-design"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: loose diamond search (natural & lab-grown), in-house custom design; multi-store Bay Area diamond jeweler since 2003",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

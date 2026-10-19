@@ -11,13 +11,13 @@
  "reviews": "28",
  "source_url": "https://www.yellowpages.com/new-york-ny/mip/kgk-diamonds-475008674",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "miq.torrente@kgkmail.com",
+ "email_source": "https://www.gia.edu/diamond-origin-service-participating-manufacturer-wholesaler-retailer",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
+ "contact_person": "Miq Torrente",
  "role": "",
- "contact_source": "",
+ "contact_source": "https://www.gia.edu/diamond-origin-service-participating-manufacturer-wholesaler-retailer",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -30,5 +30,7 @@
  "scope_reason": "unverified: YP website link points to an unrelated domain (gcalusa.com, GCAL gem lab)",
  "verified": false,
  "li_note": "pass2: no owner name found for Iselin NJ office; KGK Group leadership (Kothari family) is HQ-level, not confirmed for US entity; listed website gcalusa.com is GCAL (separate NYC grading lab), not KGK",
- "li_backfill": true
+ "li_backfill": true,
+ "enrich_note": "GIA Diamond Origin participant list: KGK International, Miq Torrente, miq.torrente@kgkmail.com, Tel +1 212 279 1312, 20 W. 47th St., Suite 1101, New York (KGK group NY office; YP listing shows older 36 W 44th St address)",
+ "enriched": true
 }

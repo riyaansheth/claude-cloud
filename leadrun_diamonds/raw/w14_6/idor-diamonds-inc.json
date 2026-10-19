@@ -1,0 +1,41 @@
+{
+ "business": "Idor Diamonds Inc.",
+ "category_as_listed": "",
+ "phone": "(312) 960-1818",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "\"Dorian Levi\" diamonds Chicago LinkedIn - only profile is an LA permits firm, not recorded",
+ "contact_person": "Dorian Levi",
+ "role": "President",
+ "contact_source": "https://www.manta.com/c/mmqkjbt/idor-diamonds-inc (via search result: President Dorian Levi)",
+ "website": "https://www.idordiamonds.com",
+ "address": "29 E Madison St, Suite 1317",
+ "city": "Chicago",
+ "state": "IL",
+ "market": "Naperville, IL",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.idordiamonds.com/",
+ "tel_numbers": [
+  "(888) 960-1818"
+ ],
+ "tel_source": "https://www.idordiamonds.com/",
+ "socials": [],
+ "building": "29 E Madison",
+ "suite": "Ste 1317",
+ "trade_memberships": [],
+ "hooks": [
+  "importer",
+  "exporter",
+  "family-owned",
+  "0.05ct-10ct",
+  "natural"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: \"Idor Diamonds is a family owned diamond wholesale business that focuses on the import and export of fine make diamonds ... loose diamonds in all shapes and sizes ranging from 0.05ct - 10ct\"; address/phone from Manta/Buzzfile search results",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

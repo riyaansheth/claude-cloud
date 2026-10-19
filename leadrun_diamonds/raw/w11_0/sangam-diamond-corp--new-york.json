@@ -15,9 +15,9 @@
   "email_source": "https://sdcdesigns.com/",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "Dinesh Saveri",
-  "role": "CEO",
-  "contact_source": "https://data.ny.gov/resource/n9v6-gdp6.json?dos_id=314615",
+  "contact_person": "Abhay Javeri",
+  "role": "Founder",
+  "contact_source": "https://diamondsdogood.com/about-us/",
   "tel_numbers": [
     "212-599-4240"
   ],
@@ -34,5 +34,7 @@
   "drop_reason": "",
   "scope_reason": "Same phone/address (529 Fifth Ave, 212-599-4240) as SDC Jewelry Group (sdcdesigns.com), which says it specializes in \"jewelry manufacturing, design & technology\" (brands incl. Penny Preville); NY DOS lists Sangam Diamonds Corp (filed 1971) with CEO Dinesh Saveri (directories spell it Javeri); no personal LinkedIn found.",
   "verified": true,
-  "enriched": true
+  "enriched": true,
+  "prior_contact": "Dinesh Saveri (CEO) per https://data.ny.gov/resource/n9v6-gdp6.json?dos_id=314615",
+  "li_note": "No personal LinkedIn found for Abhay Javeri (query: \"Abhay Javeri\" SDC Designs LinkedIn); JCK confirms 'Abhay Javeri, CEO of SDC Designs' (jckonline.com/editorial-article/def-adds-two-new-board-members/)."
 }

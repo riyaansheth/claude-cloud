@@ -15,9 +15,9 @@
  "email_source": "https://www.ovadiadiamonds.com/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Ovadia Yosef",
+ "role": "Founder",
+ "contact_source": "https://www.diamondworld.net/news/11925",
  "tel_numbers": [
   "(212) 319-8840"
  ],
@@ -35,5 +35,6 @@
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Ovadia's site calls itself 'your premier source for wholesale and retail diamonds', offering 'Wholesale and Retail Sales of high-quality, GIA-certified diamonds' since 1998.",
- "verified": true
+ "verified": true,
+ "enriched": true
 }

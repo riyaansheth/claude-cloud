@@ -1,0 +1,40 @@
+{
+ "business": "Michael & Co Jewelers",
+ "category_as_listed": "Jewelers",
+ "phone": "(941) 349-2748",
+ "email": "info@michaelandcojewelers.com",
+ "email_source": "https://michaelandcojewelers.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "http://www.michaelandcojewelers.com",
+ "address": "5221 Ocean Blvd",
+ "city": "Sarasota",
+ "state": "FL",
+ "market": "Sarasota, FL",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "38",
+ "source_url": "https://www.yellowpages.com/sarasota-fl/mip/michael-co-jewelers-2305316",
+ "tel_numbers": [
+  "9412163097"
+ ],
+ "tel_source": "https://michaelandcojewelers.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "loose-diamonds",
+  "custom-design",
+  "lab-grown",
+  "gia"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site offers loose diamonds, custom engagement rings and in-house custom design (GIA, lab-grown)",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

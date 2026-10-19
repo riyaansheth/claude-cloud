@@ -1,0 +1,45 @@
+{
+ "business": "S & L Gem Co",
+ "category_as_listed": "Jewelers",
+ "phone": "(510) 259-1288",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.sandlgemco.com",
+ "address": "1 Southland Mall",
+ "city": "Hayward",
+ "state": "CA",
+ "market": "Oakland, CA",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "23",
+ "source_url": "https://www.yellowpages.com/hayward-ca/mip/s-l-gem-co-538429361",
+ "tel_numbers": [
+  "6505833158",
+  "5102591288",
+  "6509934752",
+  "4086228543",
+  "9164184904"
+ ],
+ "tel_source": "https://www.sandlgemco.com/contact-us/",
+ "socials": [
+  "https://www.facebook.com/sandlgemco",
+  "https://www.instagram.com/sandlgemco/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-2005",
+  "loose-diamonds"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: founded 2005, sells loose diamonds and diamond jewelry across Bay Area store locations",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

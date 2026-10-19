@@ -1,0 +1,46 @@
+{
+ "business": "Oaks Jewelers",
+ "category_as_listed": "Jewelers, Watch Repair",
+ "phone": "(510) 526-7563",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "http://www.oaksjewelers.com",
+ "address": "1783 Solano Ave",
+ "city": "Berkeley",
+ "state": "CA",
+ "market": "Oakland, CA",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "78",
+ "source_url": "https://www.yellowpages.com/berkeley-ca/mip/oaks-jewelers-16595585",
+ "tel_numbers": [
+  "5105267563"
+ ],
+ "tel_source": "https://www.oaksjewelers.com/",
+ "socials": [
+  "http://www.facebook.com/Oaks.Jewelers",
+  "https://www.instagram.com/oaksjewelers/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "since-1948",
+  "loose-diamonds",
+  "lab-grown",
+  "gia-gg",
+  "custom-design"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: family-owned since 1948; loose diamonds (natural & lab-grown), graduate gemologist, custom design",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

@@ -1,0 +1,41 @@
+{
+  "business": "The Diamond Factory",
+  "category_as_listed": "Diamonds, Jewelers, Jewelry Repairing",
+  "phone": "(310) 833-8605",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://diamondfactoryinc.com",
+  "address": "28370 S Western Ave",
+  "city": "Rancho Palos Verdes",
+  "state": "CA",
+  "market": "Torrance, CA",
+  "lead_origin": "YellowPages",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yellowpages.com/rancho-palos-verdes-ca/mip/the-diamond-factory-9589687",
+  "tel_numbers": [
+    "310-833-8605"
+  ],
+  "tel_source": "https://diamondfactoryinc.com/contact",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "since-1977",
+    "gia-gg",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'in business since 1977. We have a GIA Graduate gemologist in the premises. We design and manufacture most of their own jewelry.' No email or owner name published.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

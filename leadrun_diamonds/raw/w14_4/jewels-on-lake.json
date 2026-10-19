@@ -1,0 +1,39 @@
+{
+ "business": "Jewels On Lake",
+ "category_as_listed": "Jewelers-Wholesale & Manufacturers, Diamonds, Jewelry Buyers",
+ "phone": "(626) 356-4242",
+ "email": "info@jewelsonlake.com",
+ "email_source": "https://jewelsonlake.com/contact (Cloudflare data-cfemail decoded from page HTML)",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://jewelsonlake.com",
+ "address": "415 S Lake Ave Ste 101",
+ "city": "Pasadena",
+ "state": "CA",
+ "market": "Pasadena, CA",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/pasadena-ca/mip/jewels-on-lake-453590145",
+ "tel_numbers": [
+  "(626) 356-4242"
+ ],
+ "tel_source": "https://jewelsonlake.com/contact",
+ "socials": [],
+ "building": "",
+ "suite": "Ste 101",
+ "trade_memberships": [],
+ "hooks": [
+  "manufacturer",
+  "diamond-buyer",
+  "50-years"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: 'Custom jewelry Designed and created in house'; 'Licensed gold and diamond buyer'; owner 'Sam' (no surname) 50+ years in the jewelry business, engagement ring specialist. (626) 356-4004 on the contact page is labelled Fax, so not recorded as a line.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

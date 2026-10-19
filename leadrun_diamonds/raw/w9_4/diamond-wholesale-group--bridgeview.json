@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Rami Zayed",
+ "role": "Principal",
+ "contact_source": "https://www.dnb.com/business-directory/company-profiles/diamond-wholesale-group-inc.3e66165014e0cb45f23d29459739f57f (Key Principal, via search result)",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,5 +27,6 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: OpenCorporates shows DIAMOND WHOLESALE GROUP, INC. (IL CORP_67732421) active, but nothing shows it deals in diamonds."
+ "scope_reason": "unverified: OpenCorporates shows DIAMOND WHOLESALE GROUP, INC. (IL CORP_67732421) active, but nothing shows it deals in diamonds.",
+ "enriched": true
 }

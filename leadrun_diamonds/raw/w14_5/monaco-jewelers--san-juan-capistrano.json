@@ -1,0 +1,39 @@
+{
+ "business": "Monaco Jewelers",
+ "category_as_listed": "",
+ "phone": "949-489-3510",
+ "email": "sales@monacojewelers.com",
+ "email_source": "https://www.monacojewelers.com/pages/contact-us",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.monacojewelers.com",
+ "address": "33955 Doheny Park Road",
+ "city": "San Juan Capistrano",
+ "state": "CA",
+ "market": "Irvine, CA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "118",
+ "source_url": "https://stonealgo.com/local-jewelers/mission-viejo-ca",
+ "tel_numbers": [
+  "+19494893510"
+ ],
+ "tel_source": "https://www.monacojewelers.com/pages/contact-us",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "40-years",
+  "loose-diamonds",
+  "lab-grown",
+  "natural",
+  "estate-buyer"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site sells loose diamonds (natural and lab-grown, IGI certified) and buys diamonds/jewelry for 40+ years; also offers jewelry-collateral loans (pawn-like). Borderline.",
+ "drop_reason": ""
+}

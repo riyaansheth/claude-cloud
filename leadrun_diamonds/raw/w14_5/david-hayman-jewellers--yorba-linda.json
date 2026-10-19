@@ -1,0 +1,41 @@
+{
+ "business": "David Hayman Jewellers",
+ "category_as_listed": "Jewelry Retailer",
+ "phone": "(714) 996-9032",
+ "email": "contactus@davidhaymanjewellers.com",
+ "email_source": "https://www.davidhaymanjewellers.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "David Hayman",
+ "role": "CEO",
+ "contact_source": "https://www.bbb.org/us/ca/yorba-linda/profile/jewelry-stores/david-hayman-jewellers-1126-13169463 (Mr. David Hayman, CEO); Jessica Hayman GG on own site",
+ "website": "https://www.davidhaymanjewellers.com",
+ "address": "18250 Imperial Hwy",
+ "city": "Yorba Linda",
+ "state": "CA",
+ "market": "Irvine, CA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://local.yahoo.com/info-197399119-david-hayman-jewellers-yorba-linda/",
+ "tel_numbers": [
+  "7149969032"
+ ],
+ "tel_source": "https://www.davidhaymanjewellers.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "gia-gg",
+  "manufacturer",
+  "custom",
+  "estate",
+  "2nd-generation"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: designs and manufactures custom pieces, GIA Graduate Gemologist, estate and certified diamonds. Borderline.",
+ "drop_reason": ""
+}

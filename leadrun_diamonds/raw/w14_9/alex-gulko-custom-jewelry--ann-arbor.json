@@ -1,0 +1,38 @@
+{
+  "business": "Alex Gulko Custom Jewelry",
+  "category_as_listed": "Jewelry Designers",
+  "phone": "(734) 741-0652",
+  "email": "AlexGulko@sbcglobal.net",
+  "email_source": "https://www.alexgulko.com/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "searched '\"Alex Gulko\" jeweler Ann Arbor LinkedIn' (extended) - no profile found",
+  "contact_person": "Alex Gulko",
+  "role": "Owner",
+  "contact_source": "https://mjsa.org/publications/online-library/i-wish-i-knew-then-alex-gulko",
+  "website": "https://www.alexgulko.com",
+  "address": "2651 Plymouth Rd",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "market": "Ann Arbor, MI",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.alexgulko.com/services-find-gems/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/alexgulkojewelry/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "natural",
+    "gia-certified-diamonds"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Custom jewelry maker/goldsmith; site: 'sources ... ideal cut GIA certified diamonds. Our global network of gem merchants provides us with gems' - sources own loose stones for custom bridal.",
+  "drop_reason": "",
+  "enriched": true
+}
