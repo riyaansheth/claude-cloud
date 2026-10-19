@@ -1,0 +1,40 @@
+{
+ "business": "Sell My Diamond",
+ "category_as_listed": "Jewelers",
+ "phone": "212-221-2666",
+ "email": "hello@sellmydiamond.com",
+ "email_source": "http://sellmydiamond.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "http://sellmydiamond.com",
+ "address": "98 Cuttermill Rd",
+ "city": "Great Neck",
+ "state": "NY",
+ "market": "Manhasset, NY",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.superpages.com/great-neck-ny/bpp/sell-my-diamonds-564900882",
+ "tel_numbers": [
+  "(212) 221-2666"
+ ],
+ "tel_source": "http://sellmydiamond.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "diamond-buyer",
+  "loose-diamonds",
+  "large-stones"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: buys \"all diamond stones larger than 1 Carat ... and even loose diamonds\"; claims GIA/AGL credentials as quality buyers of loose diamonds. Trade estate-diamond buyer. Superpages address 98 Cuttermill Rd, Great Neck.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true,
+ "category_source": "Superpages: https://www.superpages.com/great-neck-ny/jewelers?page=2"
+}
