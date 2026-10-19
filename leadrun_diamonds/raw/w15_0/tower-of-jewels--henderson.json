@@ -31,15 +31,16 @@
  "suite": "",
  "trade_memberships": [],
  "hooks": [
-  "since-1964",
-  "manufacturer",
-  "importer",
   "cutter",
+  "family-owned",
+  "importer",
   "lab-grown",
-  "family-owned"
+  "manufacturer",
+  "since-1964",
+  "wholesale-division"
  ],
  "is_diamond_trade": true,
- "scope_reason": "Own site: 'Founder and president, Jack Weinstein, created Nevada's largest manufacturing jeweler, diamond importer, and gem cutter'; site title 'Premier Fine Jeweler in Henderson & Anthem'; Henderson store at 3019 Saint Rose Pkwy per Yelp. YP mip (896 E Sahara Ave, Las Vegas) https://www.yellowpages.com/las-vegas-nv/mip/tower-of-jewels-21902124 \u2014 news reports the Sahara store closing. BBB lists Sean Langdon, President.",
+ "scope_reason": "Own site: 'Founder and president, Jack Weinstein, created Nevada's largest manufacturing jeweler, diamond importer, and gem cutter'; site title 'Premier Fine Jeweler in Henderson & Anthem'; Henderson store at 3019 Saint Rose Pkwy per Yelp. YP mip (896 E Sahara Ave, Las Vegas) https://www.yellowpages.com/las-vegas-nv/mip/tower-of-jewels-21902124 \u2014 news reports the Sahara store closing. BBB lists Sean Langdon, President. Search result (Roadtrippers/official site): 'family-run manufacturing jewelry plant ... and a thriving wholesale division'; site says 'Now located in Henderson'.",
  "drop_reason": "",
  "verified": true,
  "enriched": true

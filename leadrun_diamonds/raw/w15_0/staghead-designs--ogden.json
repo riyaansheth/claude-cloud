@@ -18,8 +18,10 @@
  "rating": "",
  "reviews": "15",
  "source_url": "https://www.yellowpages.com/ogden-ut/mip/staghead-designs-549918317",
- "tel_numbers": [],
- "tel_source": "",
+ "tel_numbers": [
+  "801-890-6413"
+ ],
+ "tel_source": "https://stagheaddesigns.com/pages/contact-us",
  "socials": [
   "https://www.facebook.com/stagheaddesigns/",
   "https://www.instagram.com/stagheaddesigns/",
