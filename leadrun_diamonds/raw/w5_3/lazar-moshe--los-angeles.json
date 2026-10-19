@@ -2,8 +2,8 @@
  "business": "Lazar Moshe",
  "category_as_listed": "Diamonds-Wholesale",
  "phone": "(213) 629-9036",
- "website": "",
- "address": "550 S Hill St Ste 1317",
+ "website": "https://www.lazardiamonds.com",
+ "address": "550 S Hill St Suite 1175",
  "city": "Los Angeles",
  "state": "CA",
  "market": "Glendale, CA",
@@ -11,21 +11,35 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/los-angeles-ca/mip/lazar-moshe-541044873",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
+ "email": "hello@lazardiamonds.com",
+ "email_source": "https://www.lazardiamonds.com/pages/contact",
+ "linkedin_url": "https://www.linkedin.com/in/ahron-lazar-a40ba12b/",
+ "linkedin_source": "WebSearch extended: \"Moshe Lazar\" Lazar Diamonds Los Angeles LinkedIn (result 'Ahron Lazar - Lazar Diamonds LTD.', Los Angeles)",
+ "contact_person": "Ahron Lazar",
  "role": "",
- "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "contact_source": "https://www.zoominfo.com/c/lazar-diamonds-inc/347278211 (key contact; title listed as Sales Professional)",
+ "tel_numbers": [
+  "800-553-5133",
+  "213-629-9036"
+ ],
+ "tel_source": "https://www.lazardiamonds.com/pages/contact",
+ "socials": [
+  "https://www.instagram.com/lazar_diamonds/"
+ ],
  "building": "",
- "suite": "Ste 1317",
- "trade_memberships": [],
- "hooks": [],
+ "suite": "Ste 1175",
+ "trade_memberships": [
+  "DCWC"
+ ],
+ "hooks": [
+  "40-years",
+  "fancy-color",
+  "large-stones",
+  "natural"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "YellowPages categories: Diamonds-Wholesale"
+ "scope_reason": "Diamond Club West Coast member 'Lazar Diamonds - Wholesale - Diamonds, Larger, White and Fancy Colors of All Shapes' (same (213) 629-9036 line); site: 'over 40 years in business, specializing in large, rare white and fancy-colored diamonds'; contact page lists 213-488-0678 as Fax (not recorded).",
+ "verified": true,
+ "enriched": true
 }

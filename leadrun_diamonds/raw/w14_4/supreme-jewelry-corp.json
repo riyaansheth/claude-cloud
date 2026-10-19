@@ -2,8 +2,8 @@
  "business": "Supreme Jewelry, Corp",
  "category_as_listed": "Jewelers-Wholesale & Manufacturers, Jewelers",
  "phone": "(818) 369-7402",
- "email": "",
- "email_source": "",
+ "email": "supreme@supremejewelry.net",
+ "email_source": "https://www.supremejewelry.net/privacy-policy/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "Jirair Kiladjian",
@@ -32,14 +32,15 @@
   "AGS"
  ],
  "hooks": [
-  "since-1979",
   "3rd-generation",
-  "manufacturer",
+  "ags-partner",
   "bridal",
-  "ags-partner"
+  "gia-trained-family",
+  "manufacturer",
+  "since-1979"
  ],
  "is_diamond_trade": true,
- "scope_reason": "Site: '3rd Generation \u2022 Established 1979', engagement ring collections and 'Authorized Dealers' page -> bridal diamond jewelry manufacturer selling through retailers (Montrose, Glendale 91020).",
+ "scope_reason": "Site: '3rd Generation \u2022 Established 1979', engagement ring collections and 'Authorized Dealers' page -> bridal diamond jewelry manufacturer selling through retailers (Montrose, Glendale 91020). History page (https://www.supremejewelry.net/company/about-us/ per search): Jirair's son and daughter Mardo and Taleena Kiladjian, GIA-trained gemologists, joined in 2012.",
  "drop_reason": "",
  "verified": true,
  "enriched": true
