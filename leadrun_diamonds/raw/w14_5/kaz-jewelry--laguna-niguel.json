@@ -1,0 +1,37 @@
+{
+ "business": "Kaz Jewelry",
+ "category_as_listed": "Jewelry Retailer",
+ "phone": "(949) 545-7557",
+ "email": "info@kazjewelry.com",
+ "email_source": "https://kazjewelry.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://kazjewelry.com",
+ "address": "30211 Golden Lantern, Ste B",
+ "city": "Laguna Niguel",
+ "state": "CA",
+ "market": "Irvine, CA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://local.yahoo.com/info-238688339-kaz-jewelry-laguna-niguel/",
+ "tel_numbers": [
+  "+19495457557"
+ ],
+ "tel_source": "https://kazjewelry.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1989",
+  "manufacturer",
+  "custom"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: independent fine jewelry studio founded 1989 - custom creation and restoration (bench/manufacturing), diamonds. Borderline.",
+ "drop_reason": ""
+}

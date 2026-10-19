@@ -1,0 +1,38 @@
+{
+ "business": "Wilsons Jewelers",
+ "category_as_listed": "Jewelry Retailer",
+ "phone": "(949) 215-3574",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.wilsonsjeweler.com",
+ "address": "85 Argonaut, Ste 110-H",
+ "city": "Aliso Viejo",
+ "state": "CA",
+ "market": "Irvine, CA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://local.yahoo.com/info-67263651-wilsons-jewelers-aliso-viejo/",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "Ste 110-H",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "loose-diamonds",
+  "recutting",
+  "manufacturer",
+  "custom"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: 'specialties include GIA and EGL certified loose diamonds, custom bridal rings'; services include custom design/manufacturing and diamond repair and recutting.",
+ "drop_reason": ""
+}
