@@ -6,9 +6,9 @@
  "email_source": "https://alexanderbeverlyhills.com/password",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Alex Boyadjian",
+ "role": "Founder",
+ "contact_source": "https://alexanderbeverlyhills.com/about-us/ (seen in WebSearch result: Alexander of Beverly Hills is Alex Boyadjian ... GIA Graduate Gemologist program)",
  "website": "https://alexanderbeverlyhills.com",
  "address": "9454 Wilshire Blvd Ste 803",
  "city": "Beverly Hills",
@@ -27,15 +27,19 @@
  ],
  "building": "",
  "suite": "Ste 803",
- "trade_memberships": [],
+ "trade_memberships": [
+  "GIA"
+ ],
  "hooks": [
   "gia-certified",
   "loose-stones",
   "fancy-color",
   "natural",
-  "estate"
+  "estate",
+  "gia-gg"
  ],
  "is_diamond_trade": true,
  "scope_reason": "Sells GIA/HRD-certified loose diamonds (e.g. GIA 2.20ct radiant fancy yellow VS1) in the loose-gemstones section of its 1stdibs dealer shop (https://www.1stdibs.com/dealers/alexander-of-beverly-hills/shop/jewelry/loose-gemstones, seen in WebSearch); YP category Diamonds; own site is a coming-soon page listing email and phone.",
- "drop_reason": ""
+ "drop_reason": "",
+ "enriched": true
 }
