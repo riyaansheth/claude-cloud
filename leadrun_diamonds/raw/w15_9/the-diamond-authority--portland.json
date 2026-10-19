@@ -1,0 +1,44 @@
+{
+  "business": "The Diamond Authority",
+  "category_as_listed": "",
+  "phone": "(971) 458-4001",
+  "email": "david@thediamondauthority.com",
+  "email_source": "https://thediamondauthority.com/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "David Rogoway",
+  "role": "Owner",
+  "contact_source": "https://instoremag.com/no-store-no-employees-3500-in-inventory-and-1-5-million-in-first-year-sales/ ('Former LaRog Brothers store co-owner David Rogoway convinced his longtime colleague Jeremy Lloyd to open an appointment-only operation called The Diamond Authority'); https://thediamondauthority.com/about-us/",
+  "website": "https://thediamondauthority.com",
+  "address": "10260 SW Greenburg Rd, Suite 400",
+  "city": "Portland",
+  "state": "OR",
+  "market": "Portland, OR",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://thediamondauthority.com/about-us/",
+  "tel_numbers": [
+    "(971) 458-4001"
+  ],
+  "tel_source": "https://thediamondauthority.com/contact/",
+  "socials": [
+    "https://www.instagram.com/thediamond_authority/",
+    "https://www.facebook.com/profile.php?id=61569118616264"
+  ],
+  "building": "",
+  "suite": "Suite 400",
+  "trade_memberships": [],
+  "hooks": [
+    "appointment-only diamond office",
+    "natural",
+    "lab-grown",
+    "partner Jeremy Lloyd FGA (jeremy@thediamondauthority.com)",
+    "ex-LaRog Brothers (family jeweler since 1896)",
+    "since-2024"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Appointment-only diamond office: 'our new concept lets clients buy like we buy, direct'; natural and lab-grown diamonds sourced to order with minimal owned inventory (INSTORE).",
+  "drop_reason": "",
+  "enriched": true
+}
