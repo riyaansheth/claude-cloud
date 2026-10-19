@@ -2,7 +2,7 @@
  "business": "The Diamond Broker",
  "category_as_listed": "Diamonds-Wholesale, Gold, Silver & Platinum Buyers & Dealers, Jewelers",
  "phone": "(972) 490-6060",
- "website": "http://www.thediamondbroker.net",
+ "website": "https://gooddiamond.co",
  "address": "11930 Preston Rd Ste 120",
  "city": "Dallas",
  "state": "TX",
@@ -15,8 +15,8 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "\"Seymour Wolchuck\" The Diamond Broker LinkedIn (no confirmed linkedin.com/in/ result for him)",
- "contact_person": "Seymour Wolchuck",
- "role": "Founder",
+ "contact_person": "Ray Johnson",
+ "role": "Partner",
  "contact_source": "https://gooddiamond.co/about/",
  "tel_numbers": [
   "972-490-6060"
@@ -35,12 +35,18 @@
   "loose diamonds at broker-direct prices",
   "buys diamonds",
   "appointment only",
-  "current partner 'Ray' (surname not shown)"
+  "current partner 'Ray' (surname not shown)",
+  "now Good Diamond Co.",
+  "3 decades",
+  "broker-direct",
+  "lab-grown",
+  "natural"
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
  "scope_reason": "Site (now Good Diamond Co.) says it was 'one of the first diamond stores in the Dallas Fort Worth Metroplex to sell diamond engagement rings and loose diamonds to the public at broker-direct wholesale prices' and also buys diamonds ('Sell a Diamond').",
  "verified": true,
- "li_note": "no linkedin found; business now Good Diamond Co. per gooddiamond.co/about",
- "li_backfill": true
+ "li_note": "r11-6: no linkedin.com/in for Ray Johnson tied to Good Diamond Co found",
+ "li_backfill": true,
+ "enriched": true
 }

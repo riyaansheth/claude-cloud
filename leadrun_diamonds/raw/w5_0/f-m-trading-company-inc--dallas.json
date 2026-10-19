@@ -2,8 +2,8 @@
  "business": "F M Trading Company Inc",
  "category_as_listed": "Diamonds-Wholesale, Jewelers, Jewelers-Wholesale & Manufacturers",
  "phone": "(972) 239-4900",
- "website": "http://www.movietradingcompany.com",
- "address": "12900 Preston Rd",
+ "website": "https://fmtrading.net",
+ "address": "12900 Preston Rd #625",
  "city": "Dallas",
  "state": "TX",
  "market": "Fort Worth, TX",
@@ -11,24 +11,38 @@
  "reviews": "25",
  "source_url": "https://www.yellowpages.com/dallas-tx/mip/f-m-trading-company-inc-464848714",
  "lead_origin": "YellowPages",
- "email": "",
- "email_source": "",
+ "email": "info@fmtrading.net",
+ "email_source": "https://fmtrading.net/contact-us/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "",
  "role": "",
  "contact_source": "",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "972-239-4900",
+  "1-866-239-4900",
+  "972-239-0877"
+ ],
+ "tel_source": "https://fmtrading.net/contact-us/",
+ "socials": [
+  "https://www.facebook.com/fmtradingco/",
+  "https://www.instagram.com/fmtrading/?hl=en"
+ ],
  "building": "",
- "suite": "",
+ "suite": "Ste 625",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "third-generation",
+  "GIA-graded natural diamonds",
+  "wholesale to independent jewelers",
+  "35+ years",
+  "manufacturer"
+ ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable (listed site movietradingcompany.com is Vintage Stock, a video game/movie retailer, not this business's own site; no own site found)",
+ "scope_reason": "Own site: \"Wholesale Natural Diamonds & Ready-to-Ship Fine Jewelry - Trusted by independent jewelers nationwide for over 35 years\"; old YP website (movietradingcompany.com) was wrong, fmtrading.net found via search",
  "verified": false,
  "li_note": "pass2: no owner name found; listed website (movietradingcompany.com) unrelated; only an FM Trading in Dallas (Datanyze) surfaced, not confirmed same as Fort Worth entity",
- "li_backfill": true
+ "li_backfill": true,
+ "enriched": true
 }

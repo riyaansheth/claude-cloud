@@ -1,0 +1,43 @@
+{
+ "business": "Ethan Lord Jewelers",
+ "category_as_listed": "",
+ "phone": "312 443 1401",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/kristycullinane/",
+ "linkedin_source": "\"Kristy Cullinane\" LinkedIn jewelry Chicago (profile listed among Ethan Lord Jewelers company page employees)",
+ "contact_person": "Kristy Cullinane",
+ "role": "President",
+ "contact_source": "https://www.bbb.org/us/il/chicago/profile/jewelry-stores/ethan-lord-jewelers-0654-88350623 (BBB Business Management: Mrs. Kristy Cullinane, President, via search result); own site https://www.ethanlord.com/pages/about lists Kristy as President",
+ "website": "https://www.ethanlord.com",
+ "address": "5 S Wabash Ave #208",
+ "city": "Chicago",
+ "state": "IL",
+ "market": "Naperville, IL",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.ethanlord.com/pages/about",
+ "tel_numbers": [
+  "312 443 1401"
+ ],
+ "tel_source": "https://www.ethanlord.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/ethanlordjewelers/",
+  "https://www.instagram.com/ethanlord_jewelers/"
+ ],
+ "building": "5 S Wabash (Mallers Building)",
+ "suite": "Ste 208",
+ "trade_memberships": [],
+ "hooks": [
+  "subsidiary of Casting House (manufacturer)",
+  "GIA-certified diamonds",
+  "bridal",
+  "custom"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own about page: \"As a subsidiary of a leading jewelry manufacturer\" (Casting House per BBB related businesses); sources GIA-certified loose diamonds for custom engagement rings",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}
