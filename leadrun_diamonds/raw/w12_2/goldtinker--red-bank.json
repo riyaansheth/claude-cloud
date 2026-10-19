@@ -2,14 +2,14 @@
  "business": "Goldtinker",
  "category_as_listed": "Diamonds, Jewelers, Jewelry Appraisers",
  "phone": "(732) 531-8787",
- "email": "",
- "email_source": "",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
- "website": "",
+ "email": "goldtinkerjewelers@gmail.com",
+ "email_source": "https://www.goldtinker.com/contact",
+ "linkedin_url": "https://www.linkedin.com/in/joe-romanowski-63b89a10/",
+ "linkedin_source": "WebSearch extended: \"Joe Romanowski\" Goldtinker jeweler LinkedIn -> \"Joe Romanowski - Owner - Goldtinker Inc.\"",
+ "contact_person": "Joe Romanowski",
+ "role": "Owner",
+ "contact_source": "https://www.redbankgreen.com/2013/11/red-bank-goldtinker-consolidating/",
+ "website": "https://www.goldtinker.com",
  "address": "24 Broad St",
  "city": "Red Bank",
  "state": "NJ",
@@ -18,15 +18,26 @@
  "rating": "",
  "reviews": "",
  "source_url": "https://www.yellowpages.com/red-bank-nj/mip/goldtinker-496230702",
- "tel_numbers": [],
- "tel_source": "",
- "socials": [],
+ "tel_numbers": [
+  "1-732-531-8787"
+ ],
+ "tel_source": "https://www.goldtinker.com/contact",
+ "socials": [
+  "https://www.facebook.com/goldtinker/",
+  "https://www.instagram.com/goldtinkerjewelry/"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [],
- "hooks": [],
+ "hooks": [
+  "manufacturer",
+  "own-designs",
+  "gia-certified",
+  "custom-bridal"
+ ],
  "is_diamond_trade": true,
- "scope_reason": "unverified: no own website (YP link is a placeholder); kept on YP category 'Diamonds, Jewelers, Jewelry Appraisers'",
+ "scope_reason": "Own site goldtinker.com: 'Custom Diamond Engagement Rings', handcrafted fine diamond jewelry, GIA certified diamonds; Red Bank Green: makes own jewelry from own designs. Founder/owner Joe Romanowski (LinkedIn: Owner, Goldtinker Inc.).",
  "drop_reason": "",
- "verified": false
+ "verified": true,
+ "enriched": true
 }
