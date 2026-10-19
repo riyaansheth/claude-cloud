@@ -1,0 +1,44 @@
+{
+  "business": "Wellington & Co Fine Jewelers",
+  "category_as_listed": "Jeweler",
+  "phone": "(504) 525-4855",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://store.wcjewelry.com",
+  "address": "505 Royal St",
+  "city": "New Orleans",
+  "state": "LA",
+  "market": "New Orleans, LA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://store.wcjewelry.com/pages/gold-diamond-estate-buying",
+  "tel_numbers": [
+    "5045254855"
+  ],
+  "tel_source": "https://store.wcjewelry.com/",
+  "socials": [
+    "https://www.facebook.com/WellingtonAndCo",
+    "https://www.instagram.com/wellingtonandco/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1998",
+    "family-owned",
+    "estate",
+    "diamond-buyer",
+    "loose-diamonds"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: sells 'loose diamonds', 'flawless antique diamonds', estate/vintage; 'Gold, Diamond & Estate' buying page says it purchases diamonds and antique jewelry; 'direct-from-the-source pricing'.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

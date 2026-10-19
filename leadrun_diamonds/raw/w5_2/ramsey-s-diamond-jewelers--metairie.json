@@ -11,8 +11,8 @@
   "reviews": "68",
   "source_url": "https://www.yellowpages.com/metairie-la/mip/ramseys-diamond-jewelers-465046455?lid=1001797804379",
   "lead_origin": "YellowPages",
-  "email": "",
-  "email_source": "",
+  "email": "bobby@ramseys.com",
+  "email_source": "https://gnoea.com/member-listing/rramsey/",
   "linkedin_url": "",
   "linkedin_source": "\"Robert Ramsey\" Ramsey's Diamond Jewelers LinkedIn",
   "contact_person": "Robert Ramsey",
@@ -44,5 +44,7 @@
   "drop_reason": "",
   "scope_reason": "Diamond-focused bridal retailer sourcing its own stones: \"1998 Robert and Lori focus entirely on diamonds ... Worldwide diamond sourcing begins\"; bills itself \"Louisiana's Largest Diamond Store\" selling natural and lab-grown diamonds (also repair and gold buying); founder's 1958 B & J Manufacturing Jewelers made jewelry for other jewelers.",
   "verified": true,
-  "li_backfill": true
+  "li_backfill": true,
+  "enriched": true,
+  "notes": "email is Bobby Ramsey (Robert Ramsey III, VP/Principal per ramseys.com team page & BBB) listed on GNOEA member page"
 }

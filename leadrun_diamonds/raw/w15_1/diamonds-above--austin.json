@@ -1,0 +1,44 @@
+{
+  "business": "Diamonds Above",
+  "category_as_listed": "Jeweler",
+  "phone": "(512) 206-4156",
+  "email": "help@diamondsabove.com",
+  "email_source": "https://www.diamondsabove.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.diamondsabove.com",
+  "address": "4101 Guadalupe St, Suite 600",
+  "city": "Austin",
+  "state": "TX",
+  "market": "Austin, TX",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.diamondsabove.com/about",
+  "tel_numbers": [
+    "5122064156"
+  ],
+  "tel_source": "https://www.diamondsabove.com/",
+  "socials": [
+    "https://www.facebook.com/DiamondsAbove/",
+    "https://www.instagram.com/diamondsabove/"
+  ],
+  "building": "",
+  "suite": "Suite 600",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1986",
+    "family-owned",
+    "lab-grown",
+    "natural",
+    "gia-certified-stones"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Custom-engagement-ring jeweler that selects its own loose stones: 'Browse our curated inventory of GIA-certified natural and lab-grown diamonds, hand-selected'; 'Every diamond is GIA or IGI certified'. Also watches/estate.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}
