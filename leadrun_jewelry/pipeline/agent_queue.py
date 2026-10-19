@@ -42,7 +42,9 @@ def export(max_batches=8, log=print):
                           "source_url": res["about_url"], "text": res["about_text"][:5000]})
             break  # one per domain is enough
     n_batches = 0
-    start = len(list(config.AGENT_DIR.glob("names_*.jsonl")))
+    nums = [int(m.group(1)) for f in config.AGENT_DIR.glob("names_*.jsonl")
+            if (m := re.fullmatch(r"names_(\d+)", f.stem))]
+    start = max(nums, default=-1) + 1
     for i in range(0, min(len(items), max_batches * BATCH), BATCH):
         p = config.AGENT_DIR / f"names_{start + n_batches:03d}.jsonl"
         p.write_text("\n".join(json.dumps(x) for x in items[i:i + BATCH]) + "\n")
