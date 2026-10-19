@@ -1,0 +1,39 @@
+{
+  "business": "Hidden Treasures Jewelry",
+  "category_as_listed": "",
+  "phone": "305-467-1751",
+  "email": "hernan@sanitoba.com",
+  "email_source": "https://www.miamijaws.com/php-includes/exhibitor-details.php?id=10",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Hernan Terramagra",
+  "role": "Member",
+  "contact_source": "https://www.miamijaws.com/php-includes/exhibitor-details.php?id=10",
+  "website": "",
+  "address": "",
+  "city": "Pembroke Pines",
+  "state": "FL",
+  "market": "Weston, FL",
+  "lead_origin": "Trade Show",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.miamijaws.com/php-includes/exhibitor-details.php?id=10",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.instagram.com/thehiddentreasurejewelry/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "estate-dealer",
+    "antique",
+    "antique-show-exhibitor"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Antique/estate jewelry dealer exhibiting at Miami JAWS and OMBAS (Hidden Treasures Jewelry, Inc.); trade-show write-up: booth of antique jewelry 'mostly sourced from estates'. City: JAWS lists Pembroke Pines, OMBAS lists Aventura. Role inferred as owner (sole named contact).",
+  "drop_reason": "",
+  "enriched": true,
+  "verified": true
+}

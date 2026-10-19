@@ -6,15 +6,15 @@
   "email_source": "https://www.benchmarkofpalmbeach.com/contact-us",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Ken Burns",
+  "role": "President",
+  "contact_source": "https://www.bbb.org/us/fl/palm-beach/profile/jewelry-stores/benchmark-of-palm-beach-0633-90559984 (Ken Burns, President; Sara Burns, Secretary) ; https://www.miamijaws.com/php-includes/exhibitor-details.php?id=25 (Name: Ken Burns)",
   "website": "https://www.benchmarkofpalmbeach.com",
   "address": "205 Worth Ave Ste 315",
   "city": "Palm Beach",
   "state": "FL",
   "market": "West Palm Beach, FL",
-  "lead_origin": "Web Search",
+  "lead_origin": "Trade Show",
   "rating": "",
   "reviews": "",
   "source_url": "https://www.benchmarkofpalmbeach.com/about",
@@ -22,7 +22,9 @@
     "(561) 855-8551"
   ],
   "tel_source": "https://www.benchmarkofpalmbeach.com/contact-us",
-  "socials": [],
+  "socials": [
+    "https://www.facebook.com/Benchmark-of-Palm-Beach-234338159580"
+  ],
   "building": "",
   "suite": "Ste 315",
   "trade_memberships": [
