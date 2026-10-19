@@ -1,0 +1,40 @@
+{
+ "business": "Spitz Jewelers",
+ "category_as_listed": "Jewelers",
+ "phone": "(510) 350-5101",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.spitzjewelers.com",
+ "address": "501 14th St Ste 140",
+ "city": "Oakland",
+ "state": "CA",
+ "market": "Oakland, CA",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/oakland-ca/mip/spitz-jewelers-3286158",
+ "tel_numbers": [
+  "9259328877"
+ ],
+ "tel_source": "https://www.spitzjewelers.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1946",
+  "certified-diamonds",
+  "manufacturer",
+  "estate-buyer"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: family-owned since 1946 (founded Oakland, now Walnut Creek); certified diamonds, custom design/manufacturing, gold & diamond buying",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}
