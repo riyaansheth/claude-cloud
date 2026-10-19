@@ -1,0 +1,40 @@
+{
+ "business": "The 14 Karats",
+ "category_as_listed": "Diamonds, Jewelers-Wholesale & Manufacturers, Watches",
+ "phone": "(510) 644-1640",
+ "email": "jon@14karats.com",
+ "email_source": "https://www.14karats.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.14karats.com",
+ "address": "2910 College Ave",
+ "city": "Berkeley",
+ "state": "CA",
+ "market": "Oakland, CA",
+ "lead_origin": "YellowPages",
+ "rating": "5",
+ "reviews": "1",
+ "source_url": "https://www.yellowpages.com/berkeley-ca/mip/14-karats-475319862",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "http://www.instagram.com/the14karats",
+  "https://www.facebook.com/the14karats/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "custom-engagement",
+  "in-house",
+  "manufacturer"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "YP: Diamonds, Jewelers-Wholesale & Manufacturers; site: custom engagement rings crafted in-house at their Berkeley workshop, 48+ years",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}
