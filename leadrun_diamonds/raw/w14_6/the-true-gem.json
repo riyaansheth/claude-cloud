@@ -1,0 +1,44 @@
+{
+ "business": "The True Gem",
+ "category_as_listed": "",
+ "phone": "214-253-2991",
+ "email": "hello@thetruegem.com",
+ "email_source": "https://www.thetruegem.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.thetruegem.com",
+ "address": "2626 Cole Ave, Suite 800",
+ "city": "Dallas",
+ "state": "TX",
+ "market": "Fort Worth, TX",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.thetruegem.com/pages/contact",
+ "tel_numbers": [
+  "214-253-2991"
+ ],
+ "tel_source": "https://www.thetruegem.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/thetruegemcompany",
+  "https://www.instagram.com/thetruegemcompany/"
+ ],
+ "building": "",
+ "suite": "Ste 800",
+ "trade_memberships": [],
+ "hooks": [
+  "manufacturer",
+  "in-house manufacturing",
+  "lab-grown",
+  "custom engagement rings",
+  "also sells moissanite"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Job listing (blog.esslinger.com, via search): \"Dallas TX based jewelry brand specializing in custom jewelry design and in-house manufacturing ... diamond and gemstone jewelry\"; own site sells lab-grown diamond engagement rings and loose stones (also carries loose moissanite). Owner named only as \"Lynne\" on own blog; trademark owner Armstrong Diamonds, LLC (justia, via search)",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}
