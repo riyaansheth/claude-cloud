@@ -5,7 +5,7 @@
  "email": "info@diabellajewelry.com",
  "email_source": "https://diabellajewelry.com/contact_us",
  "linkedin_url": "",
- "linkedin_source": "WebSearch extended \"Isaak Nassimi\" Diabella LinkedIn — none",
+ "linkedin_source": "WebSearch extended \"Isaak Nassimi\" Diabella LinkedIn; Diabella jewelry Great Neck Nassimi LinkedIn — none (AGS partner listing americangemsociety.org/partner/diabella-inc/)",
  "contact_person": "Isaak Nassimi",
  "role": "Founder",
  "contact_source": "https://diabellajewelry.com/about-us",
@@ -25,7 +25,9 @@
  "socials": [],
  "building": "",
  "suite": "",
- "trade_memberships": [],
+ "trade_memberships": [
+  "AGS"
+ ],
  "hooks": [
   "manufacturer",
   "bridal",
