@@ -1,0 +1,40 @@
+{
+ "business": "Wayne & Co Goldsmiths",
+ "category_as_listed": "Jewelers",
+ "phone": "(859) 671-0975",
+ "email": "info@waynegoldsmiths.com",
+ "email_source": "https://waynegoldsmiths.com/",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://waynegoldsmiths.com",
+ "address": "635 Monmouth St",
+ "city": "Newport",
+ "state": "KY",
+ "market": "Cincinnati, OH",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.yellowpages.com/newport-ky/mip/wayne-co-goldsmiths-582328048",
+ "tel_numbers": [
+  "859-671-0975"
+ ],
+ "tel_source": "https://waynegoldsmiths.com/contact/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "to-the-trade",
+  "fabrication",
+  "setting",
+  "loose-diamonds"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: 'Repair, Setting, & Fabrication' goldsmiths providing 'jewelry repair and restoration services to the esteemed family jewelry stores of greater Cincinnati' (trade shop); also sells diamonds/engagement rings.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

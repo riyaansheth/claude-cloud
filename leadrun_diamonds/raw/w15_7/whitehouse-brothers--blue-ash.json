@@ -1,6 +1,6 @@
 {
  "business": "Whitehouse Brothers",
- "category_as_listed": "Jewelers-Wholesale & Manufacturers, Jewelers Supplies & Findings",
+ "category_as_listed": "",
  "phone": "(513) 621-2307",
  "email": "",
  "email_source": "",
@@ -14,10 +14,10 @@
  "city": "Blue Ash",
  "state": "OH",
  "market": "Cincinnati, OH",
- "lead_origin": "YellowPages",
+ "lead_origin": "Web Search",
  "rating": "",
  "reviews": "128",
- "source_url": "https://www.yellowpages.com/blue-ash-oh/mip/whitehouse-brothers-469706595",
+ "source_url": "https://www.whitehousebrothers.com/about/our-story.html",
  "tel_numbers": [
   "+1-800-543-1070"
  ],
@@ -37,7 +37,7 @@
   "loose-diamonds"
  ],
  "is_diamond_trade": true,
- "scope_reason": "Own site: founded 1898, 'grew to become the largest jewelry manufacturer in America'; handcrafted platinum filigree rings; natural and lab-grown loose diamonds by shape.",
+ "scope_reason": "Own site: founded 1898, 'grew to become the largest jewelry manufacturer in America'; handcrafted platinum filigree rings; natural and lab-grown loose diamonds by shape. (Found via YP listing https://www.yellowpages.com/blue-ash-oh/mip/whitehouse-brothers-469706595, categories 'Jewelers-Wholesale & Manufacturers, Jewelers Supplies & Findings', phone (513) 621-2307; recorded with own site as source because it is a manufacturer, not a findings/craft supplier.)",
  "drop_reason": "",
  "enriched": true,
  "verified": true
