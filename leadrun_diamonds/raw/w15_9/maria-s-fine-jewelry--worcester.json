@@ -1,0 +1,44 @@
+{
+  "business": "Maria's Fine Jewelry",
+  "category_as_listed": "",
+  "phone": "(508) 795-0201",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Maria Buduo",
+  "role": "Owner",
+  "contact_source": "https://www.mariasfinejewelry.com/company/about-us/ ('- Maria Buduo (Owner)')",
+  "website": "https://www.mariasfinejewelry.com",
+  "address": "269 Plantation St",
+  "city": "Worcester",
+  "state": "MA",
+  "market": "Worcester, MA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.mariasfinejewelry.com/company/about-us/",
+  "tel_numbers": [
+    "(508) 795-0201"
+  ],
+  "tel_source": "https://www.mariasfinejewelry.com/",
+  "socials": [
+    "https://www.facebook.com/mariasfinejewelry",
+    "https://www.instagram.com/marias_finejewelry"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1982",
+    "family-owned",
+    "natural",
+    "lab-grown",
+    "gold & diamond buying",
+    "custom design / on-site jeweler"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Borderline: family-owned bridal jeweler with on-site craftsman; site lists natural and lab-grown diamonds by shape, custom design and 'Gold & Diamond Buying'.",
+  "drop_reason": "",
+  "enriched": true
+}
