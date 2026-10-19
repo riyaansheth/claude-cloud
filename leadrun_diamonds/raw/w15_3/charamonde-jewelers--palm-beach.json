@@ -1,0 +1,39 @@
+{
+  "business": "Charamonde Jewelers",
+  "category_as_listed": "",
+  "phone": "(561) 451-8330",
+  "email": "charamonde@aol.com",
+  "email_source": "https://www.miamijaws.com/php-includes/exhibitor-details.php?id=150",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Kris Charamonde",
+  "role": "President",
+  "contact_source": "https://www.bbb.org/us/fl/palm-beach/profile/jewelry-stores/charamonde-inc-0633-90575367",
+  "website": "",
+  "address": "205 Worth Ave",
+  "city": "Palm Beach",
+  "state": "FL",
+  "market": "West Palm Beach, FL",
+  "lead_origin": "Trade Show",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.miamijaws.com/php-includes/exhibitor-details.php?id=150",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.instagram.com/charamonde_jewelers/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "estate-dealer",
+    "signed-pieces",
+    "antique-show-exhibitor"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Charamonde Inc./Charamonde Jewelers exhibits signed estate jewelry at Miami JAWS, the Original Miami Beach Antique Show and the Palm Beach Show (dealer gallery) - estate jewelry dealer; phone from Buzzfile listing.",
+  "drop_reason": "",
+  "enriched": true,
+  "verified": true
+}
