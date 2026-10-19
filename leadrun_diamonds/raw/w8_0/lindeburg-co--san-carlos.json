@@ -15,9 +15,9 @@
  "email_source": "",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Vera Lindeburg",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/ca/san-carlos/profile/jewelry-stores/lindeburg-and-company-1116-539016",
  "tel_numbers": [],
  "tel_source": "",
  "socials": [],
@@ -27,7 +27,7 @@
  "hooks": [],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "unverified: site unreachable (lindeburg.com returns 403 Forbidden on every page); no confirming source found",
+ "scope_reason": "unverified: site unreachable (lindeburg.com returns 403 Forbidden on every page); no confirming source found | r11: Yelp lists Lindeburg and Company (758 Industrial Rd) as CLOSED; no LinkedIn found for owner",
  "verified": false,
  "enriched": true
 }
