@@ -1,0 +1,41 @@
+{
+  "business": "Goldman Fine Jewelers",
+  "category_as_listed": "Jeweler",
+  "phone": "(504) 469-1961",
+  "email": "info@goldmanus.com",
+  "email_source": "https://www.goldmanus.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.goldmanus.com",
+  "address": "3315 Williams Blvd",
+  "city": "Kenner",
+  "state": "LA",
+  "market": "New Orleans, LA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.goldmanus.com/",
+  "tel_numbers": [
+    "504-469-1961"
+  ],
+  "tel_source": "https://www.goldmanus.com/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1985",
+    "natural",
+    "lab-grown",
+    "monogram"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Kenner jeweler since 1985 selling natural & lab-grown diamonds and own monogram gold line; second store in Ridgeland MS (601 number is that store, not a direct line). Borderline trade.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true,
+  "notes": "site also lists Ridgeland MS store 601-956-6550 (other location, not a direct line - excluded from tel_numbers)"
+}
