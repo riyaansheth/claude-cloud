@@ -2,7 +2,7 @@
  "business": "Belgium Diamond Inc",
  "category_as_listed": "Diamonds-Wholesale, Jewelers-Wholesale & Manufacturers, Jewelers",
  "phone": "(212) 937-8715",
- "website": "http://belgiumdiamond.net",
+ "website": "https://www.belgiumny.com",
  "address": "15 W 47th St",
  "city": "New York",
  "state": "NY",
@@ -37,7 +37,7 @@
  ],
  "is_diamond_trade": true,
  "drop_reason": "",
- "scope_reason": "Listed belgiumdiamond.net is a parked ad page; belgiumny.com (Belgium NY, 20 W 47th St Suite 500, same +1 (212) 937-8715) is a wholesale loose-diamond trading portal ('Wholesale Diamonds', 'Certified Diamonds', 'Fancy Diamonds') listing RapNet member ID 61666. [verdict carried from raw/w5_3/belgium-diamond-inc--new-york.json]",
+ "scope_reason": "Listed belgiumdiamond.net is a parked ad page; belgiumny.com (Belgium NY, 20 W 47th St Suite 500, same +1 (212) 937-8715) is a wholesale loose-diamond trading portal ('Wholesale Diamonds', 'Certified Diamonds', 'Fancy Diamonds') listing RapNet member ID 61666. [verdict carried from raw/w5_3/belgium-diamond-inc--new-york.json] [w15_5: listed belgiumdiamond.net is parked; website set to belgiumny.com, whose own JS bundle shows \"+1 (212) 937-8715\" and \"+1 (347) 701-0415\" (wa.me/13477010415) and info@belgiumgroup.net]",
  "verified": true,
  "enriched": true,
  "carried_from": "raw/w5_3/belgium-diamond-inc--new-york.json"

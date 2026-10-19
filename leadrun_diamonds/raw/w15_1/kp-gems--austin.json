@@ -1,0 +1,49 @@
+{
+  "business": "KP Gems",
+  "category_as_listed": "Diamond Dealer",
+  "phone": "(512) 666-3111",
+  "email": "kenny@kpgems.com",
+  "email_source": "https://kpgems.com/sell-jewelry-austin/",
+  "linkedin_url": "",
+  "linkedin_source": "\"Kenny Phillips\" KP Gems Austin gemologist LinkedIn (no /in/ URL surfaced)",
+  "contact_person": "Kenny Phillips",
+  "role": "Founder",
+  "contact_source": "https://kpgems.com/about-kenny-phillips/",
+  "website": "https://kpgems.com",
+  "address": "5511 Parkcrest Dr, Suite 105",
+  "city": "Austin",
+  "state": "TX",
+  "market": "Austin, TX",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://kpgems.com/kenny-phillips-diamond-dealer/",
+  "tel_numbers": [
+    "5126663111",
+    "512.837.6008",
+    "512.834.6177"
+  ],
+  "tel_source": "https://kpgems.com/appointments/ https://kpgems.com/we-buy-gold-in-austin/ https://kpgems.com/terms-and-conditions/",
+  "socials": [
+    "https://www.facebook.com/KPGemsTX",
+    "https://www.instagram.com/kpgems/"
+  ],
+  "building": "",
+  "suite": "Suite 105",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "gia-gg",
+    "4th-generation",
+    "estate-buyer",
+    "natural",
+    "since-2008"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: 'Kenny Phillips is a fourth-generation diamond dealer and GIA Graduate Gemologist ... sourcing and selling diamonds at wholesale prices'; taps 'international network of diamond dealers and cutting houses'; buys diamonds/estate jewelry.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true,
+  "notes": "512.837.6008 (we-buy-gold page) and 512.834.6177 (terms page) are page-specific 'Call' numbers on kpgems.com - possibly call-tracking lines rather than personal direct lines; info@kpgems.com also on terms page"
+}

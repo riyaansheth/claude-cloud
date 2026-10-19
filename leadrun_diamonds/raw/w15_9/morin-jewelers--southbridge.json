@@ -1,0 +1,46 @@
+{
+  "business": "Morin Jewelers",
+  "category_as_listed": "",
+  "phone": "(508) 764-7250",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Robert L. Morin",
+  "role": "Owner",
+  "contact_source": "https://www.morinjewelers.com/pages/ourstore",
+  "website": "https://www.morinjewelers.com",
+  "address": "409 Main St",
+  "city": "Southbridge",
+  "state": "MA",
+  "market": "Worcester, MA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.morinjewelers.com/",
+  "tel_numbers": [
+    "(508) 764-7250"
+  ],
+  "tel_source": "https://www.morinjewelers.com/contact",
+  "socials": [
+    "https://www.facebook.com/morin.jewelers",
+    "https://www.instagram.com/morinjewelers/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA",
+    "AGS"
+  ],
+  "hooks": [
+    "since-1920",
+    "3rd-generation",
+    "natural",
+    "lab-grown",
+    "cast and set in-house"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: natural & lab-grown diamonds, 'Cast, set, and hand-finished on our own bench by a GIA-trained goldsmith'; listed in jewelers.org (AGS) member directory.",
+  "drop_reason": "",
+  "enriched": true
+}

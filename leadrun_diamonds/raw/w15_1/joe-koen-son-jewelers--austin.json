@@ -1,0 +1,44 @@
+{
+  "business": "Joe Koen & Son Jewelers",
+  "category_as_listed": "Jeweler (Jewelers of America member)",
+  "phone": "(512) 478-2595",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "\"Bill Koen\" Joe Koen & Son Jewelers Austin LinkedIn (no /in/ URL surfaced)",
+  "contact_person": "Bill Koen",
+  "role": "Owner",
+  "contact_source": "https://preview-prod.w.houstonchronicle.com/news/history/article/austin-oldest-business-joe-koen-jewelers-21271873.php",
+  "website": "https://www.joekoenjewelers.com",
+  "address": "611 Congress Ave",
+  "city": "Austin",
+  "state": "TX",
+  "market": "Austin, TX",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/joe-koen-son-jewelers-0002867",
+  "tel_numbers": [
+    "5124782595"
+  ],
+  "tel_source": "https://www.joekoenjewelers.com/",
+  "socials": [
+    "https://www.facebook.com/joekoenjewelers/",
+    "https://www.instagram.com/joekoenjewelers/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "JA"
+  ],
+  "hooks": [
+    "since-1883",
+    "4th-generation",
+    "custom"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Family jeweler since 1883 (4 generations), custom wedding/engagement rings; JA member. Mainly retail - borderline trade.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

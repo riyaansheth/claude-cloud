@@ -1,0 +1,45 @@
+{
+  "business": "Friend & Company Fine Jewelers",
+  "category_as_listed": "Jeweler (Jewelers of America member)",
+  "phone": "(504) 866-5433",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "\"Ken Friend\" Friend & Company jewelers New Orleans LinkedIn (profiles found not clearly tied to this business - not recorded)",
+  "contact_person": "Ken Friend",
+  "role": "Owner",
+  "contact_source": "https://friendandcompany.com/about-us/",
+  "website": "https://friendandcompany.com",
+  "address": "7713 Maple Street",
+  "city": "New Orleans",
+  "state": "LA",
+  "market": "New Orleans, LA",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/friend-and-company-fine-jewelry-0508020",
+  "tel_numbers": [
+    "5048665433"
+  ],
+  "tel_source": "https://friendandcompany.com/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA",
+    "JA"
+  ],
+  "hooks": [
+    "since-1976",
+    "2nd-generation",
+    "estate",
+    "custom",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Founded 1976 by GIA GG Patricia Friend; antique & estate jewelry, bridal & engagement, custom design; listing mentions in-house manufacturing. Owners Ken and Nina Friend.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true,
+  "notes": "site also shows a malformed tel: 420-866-5433 (typo of 504 number) - excluded"
+}

@@ -1,0 +1,46 @@
+{
+  "business": "ABC Jewelry Company",
+  "category_as_listed": "Diamond Buyers",
+  "phone": "(503) 227-2521",
+  "email": "info@abcjewelry.net",
+  "email_source": "https://abcjewelry.com/pages/contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://abcjewelry.com",
+  "address": "534 SW 3rd Ave, Suite 500",
+  "city": "Portland",
+  "state": "OR",
+  "market": "Portland, OR",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://abcjewelry.com/pages/contact",
+  "tel_numbers": [
+    "(503) 227-2521",
+    "(503) 329-9890"
+  ],
+  "tel_source": "https://abcjewelry.com/pages/contact",
+  "socials": [
+    "https://www.facebook.com/ABCJewelryCo/",
+    "https://www.instagram.com/abcjewelrypdx/",
+    "https://twitter.com/ABCJewelryCo/"
+  ],
+  "building": "Willamette Building (534 SW 3rd Ave)",
+  "suite": "Ste 500",
+  "trade_memberships": [],
+  "hooks": [
+    "40+ years in Portland",
+    "natural",
+    "lab-grown",
+    "custom engagement rings",
+    "text line 503-329-9890",
+    "owner unconfirmed (RocketReach: Ali Sima; Yelp: Hossein S.)"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "5th-floor office in Portland's SW 3rd Ave diamond building (with Northwest Diamonds and Tel Aviv Diamond); YP lists it as Diamond Buyers; site sells loose natural and lab-grown diamonds by shape and builds custom engagement rings.",
+  "drop_reason": "",
+  "enriched": true
+}

@@ -1,0 +1,44 @@
+{
+  "business": "M. Pope & Co. Fine Jewelers",
+  "category_as_listed": "",
+  "phone": "(508) 304-8833",
+  "email": "info@popejewelers.com",
+  "email_source": "https://popejewelers.com/contact/",
+  "linkedin_url": "https://www.linkedin.com/in/michael-pope-872524109/",
+  "linkedin_source": "WebSearch extended: \"Michael Pope\" M. Pope & Co Fine Jewelers Worcester LinkedIn (result title 'Michael Pope - M.Pope & Co. Fine Jewelers')",
+  "contact_person": "Michael Pope",
+  "role": "Owner",
+  "contact_source": "https://popejewelers.com/about/",
+  "website": "https://popejewelers.com",
+  "address": "365 Shrewsbury St",
+  "city": "Worcester",
+  "state": "MA",
+  "market": "Worcester, MA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://popejewelers.com/about/",
+  "tel_numbers": [
+    "(508) 304-8833"
+  ],
+  "tel_source": "https://popejewelers.com/contact/",
+  "socials": [
+    "https://www.facebook.com/popejewelers",
+    "https://www.instagram.com/mpopefinejewelers/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "gia-gg",
+    "since-2014",
+    "custom engagement rings",
+    "buys diamonds (popejewelers.com/sell-your-jewelry/)"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "About page: Michael is 'a graduate of the Gemological Institute of America' and designer; owner-run custom engagement-ring house that also buys diamonds.",
+  "drop_reason": "",
+  "enriched": true
+}

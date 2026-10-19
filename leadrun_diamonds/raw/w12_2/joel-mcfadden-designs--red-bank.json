@@ -2,13 +2,13 @@
  "business": "Joel McFadden Designs",
  "category_as_listed": "Diamonds, Jewelers, Jewelers-Wholesale & Manufacturers",
  "phone": "(732) 747-8877",
- "email": "",
- "email_source": "",
+ "email": "JMDJewelry@gmail.com",
+ "email_source": "https://www.jmdjewelry.com/about-us.html",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "Joel McFadden",
  "role": "Owner",
- "contact_source": "https://redbankpulse.com/2017/09/joel-mcfadden-designs-the-art-of-jewelry/",
+ "contact_source": "https://www.jmdjewelry.com/about-us.html",
  "website": "http://www.jmdjewelry.com",
  "address": "32 White St",
  "city": "Red Bank",
@@ -20,7 +20,10 @@
  "source_url": "https://www.yellowpages.com/red-bank-nj/mip/joel-mcfadden-designs-11055099",
  "tel_numbers": [],
  "tel_source": "",
- "socials": [],
+ "socials": [
+  "https://www.facebook.com/JMDjewelry/",
+  "https://www.youtube.com/channel/UCnfsG2lemuvX3iMWmv60_Tw"
+ ],
  "building": "",
  "suite": "",
  "trade_memberships": [
@@ -34,7 +37,7 @@
   "working-studio"
  ],
  "is_diamond_trade": true,
- "scope_reason": "Working custom jewelry studio (YP: Jewelers-Wholesale & Manufacturers, Diamonds); site nav shows \"The Diamond Ring Portfolio\"; Red Bank Pulse: head designer and owner Joel McFadden, jeweler since 1972. Site rate-limited (429) so no email/tel read.",
+ "scope_reason": "Working custom jewelry studio (YP: Jewelers-Wholesale & Manufacturers, Diamonds); site nav shows \"The Diamond Ring Portfolio\"; Red Bank Pulse: head designer and owner Joel McFadden, jeweler since 1972. Site rate-limited (429) so no email/tel read. [w15_5: own About page (Cloudflare-protected mailto decoded: JMDJewelry@gmail.com) now says \"Based out of the JMD Studio in Holly Springs, NC\" — Joel McFadden, Mentor Class Master Goldsmith & Co-Owner; Red Bank address may be stale.]",
  "drop_reason": "",
  "verified": true,
  "enriched": true

@@ -1,0 +1,42 @@
+{
+ "business": "George the Jeweler",
+ "category_as_listed": "Jewelers of America member",
+ "phone": "(248) 968-1212",
+ "email": "Georgekhalife@gmail.com",
+ "email_source": "https://georgethejeweler.com/pages/contact (store customerServiceEmail in page data)",
+ "linkedin_url": "https://www.linkedin.com/in/george-khalife-06355a116/",
+ "linkedin_source": "WebSearch extended: \"George Khalife\" George the Jeweler Detroit LinkedIn (title \"George Khalife - George The Jeweler\")",
+ "contact_person": "George Khalife",
+ "role": "Founder",
+ "contact_source": "https://georgethejeweler.com/pages/about (\"George Khalife, better known as George The Jeweler... designs, manufactures and distributes his own line of fine jewelry\")",
+ "website": "https://georgethejeweler.com",
+ "address": "21600 Greenfield Rd",
+ "city": "Oak Park",
+ "state": "MI",
+ "market": "Detroit, MI",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/george-the-jeweler-1012002",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.facebook.com/georgethejeweler",
+  "https://www.instagram.com/georgethejeweler/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "JA"
+ ],
+ "hooks": [
+  "manufacturer",
+  "designer-line",
+  "family-wholesale-since-1976",
+  "celebrity-jeweler"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: George \"designs, manufactures and distributes his own line of fine jewelry\"; 144 of 250 catalogue items are diamond pieces; JCK/Etsy note family wholesale & retail jewelry business in Oak Park since 1976",
+ "drop_reason": "",
+ "enriched": true
+}

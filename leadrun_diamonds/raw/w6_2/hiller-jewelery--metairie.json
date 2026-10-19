@@ -6,7 +6,7 @@
   "address": "433 Metairie Road",
   "city": "Metairie",
   "state": "LA",
-  "market": "Baton Rouge, LA",
+  "market": "New Orleans, LA",
   "rating": "",
   "reviews": "73",
   "source_url": "https://www.yellowpages.com/metairie-la/mip/hiller-jewelery-5110747",
@@ -41,5 +41,6 @@
   "verified": true,
   "enriched": true,
   "li_note": "no linkedin.com/in result tied to person (joe-biderman-045052ab is a retired judge, not the jeweler)",
-  "li_backfill": true
+  "li_backfill": true,
+  "notes": " market corrected: Metairie is New Orleans metro; Yelp/Facebook report the store as closed (unconfirmed); Lisa Biderman 4th-gen owner per myneworleans.com - no LinkedIn surfaced"
 }

@@ -1,0 +1,46 @@
+{
+  "business": "Alchemy Jeweler",
+  "category_as_listed": "",
+  "phone": "(503) 227-8373",
+  "email": "hello@alchemyjeweler.com",
+  "email_source": "https://alchemyjeweler.com/pages/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Laura Mapes",
+  "role": "Founder",
+  "contact_source": "https://nationaljeweler.com/articles/2035-50-jewelers-50-states-oregon ('David Iler and Laura Mapes opened Alchemy Jeweler in Portland, Oregon in 2005'); alchemyjeweler.com carries an 'In Memoriam: David Fred Iler' tribute",
+  "website": "https://alchemyjeweler.com",
+  "address": "1022 NW Lovejoy St",
+  "city": "Portland",
+  "state": "OR",
+  "market": "Portland, OR",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://alchemyjeweler.com/pages/aboutus",
+  "tel_numbers": [
+    "(503) 227-8373"
+  ],
+  "tel_source": "https://alchemyjeweler.com/pages/contact-us",
+  "socials": [
+    "https://www.facebook.com/alchemyjeweler/",
+    "https://www.instagram.com/alchemyjeweler/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "AGS"
+  ],
+  "hooks": [
+    "since-1990",
+    "manufacturer",
+    "casting services for the trade",
+    "natural",
+    "lab-grown",
+    "AGS member"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "About page (search): 'Alchemy's journey began in 1990 as a manufacturing trade shop, specializing in custom jewelry designs, expert casting services, and various repairs for the jewelry industry'; sells natural and lab-grown diamonds; AGS member.",
+  "drop_reason": "",
+  "enriched": true
+}

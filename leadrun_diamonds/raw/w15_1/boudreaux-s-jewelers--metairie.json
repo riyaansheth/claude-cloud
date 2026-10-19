@@ -1,0 +1,41 @@
+{
+  "business": "Boudreaux's Jewelers",
+  "category_as_listed": "Jeweler (Jewelers of America member)",
+  "phone": "(504) 831-2602",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Brian Boudreaux",
+  "role": "President",
+  "contact_source": "https://www.boudreauxsjewelers.com/meet-the-family/",
+  "website": "https://www.boudreauxsjewelers.com",
+  "address": "701 Metairie Road",
+  "city": "Metairie",
+  "state": "LA",
+  "market": "New Orleans, LA",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/boudreauxs-jewelers-0006218",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "JA"
+  ],
+  "hooks": [
+    "since-1933",
+    "4th-generation",
+    "manufacturer",
+    "in-house-design"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Founded 1933 by Gilmore Boudreaux Sr. as a jewelry repair and manufacturing shop; press: 'known for its in-house designs and manufacturing'; 3 locations (Metairie, Mandeville, Baton Rouge). Own site returns 403 to scripted fetch - details from JA listing and search results.",
+  "drop_reason": "",
+  "verified": false,
+  "enriched": true,
+  "notes": "Brandon Boudreaux named COO in 2025 press (opportunitylouisiana.gov)"
+}

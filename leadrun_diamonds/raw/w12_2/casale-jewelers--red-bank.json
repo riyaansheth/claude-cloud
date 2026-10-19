@@ -2,13 +2,13 @@
  "business": "Casale Jewelers",
  "category_as_listed": "Diamonds, Jewelry Engravers, Watches",
  "phone": "(732) 370-6777",
- "email": "",
- "email_source": "",
+ "email": "cory@casalejewelry.com",
+ "email_source": "https://www.casalejewelers.net/company/our-team/cory-schifter/",
  "linkedin_url": "",
  "linkedin_source": "",
  "contact_person": "Cory Schifter",
  "role": "Owner",
- "contact_source": "https://www.casalejewelers.net/company/our-team/",
+ "contact_source": "https://www.casalejewelers.net/company/our-team/cory-schifter/",
  "website": "https://www.casalejewelers.net",
  "address": "157 Broad St",
  "city": "Red Bank",
@@ -19,9 +19,11 @@
  "reviews": "",
  "source_url": "https://www.yellowpages.com/red-bank-nj/mip/casale-jewelers-569548993",
  "tel_numbers": [
-  "(718) 351-8300"
+  "(718) 351-8300",
+  "(732) 370-6777",
+  "(718) 710-4090"
  ],
- "tel_source": "https://www.casalejewelers.net/",
+ "tel_source": "https://www.casalejewelers.net/about-us/financing/",
  "socials": [
   "https://www.facebook.com/casalejewelers",
   "https://www.instagram.com/casalejewelers/"
@@ -35,10 +37,12 @@
   "loose-diamond-search",
   "lab-grown",
   "natural",
-  "forevermark"
+  "forevermark",
+  "since-1986",
+  "debeers-trained"
  ],
  "is_diamond_trade": true,
- "scope_reason": "Site: \"40 Years of Custom Engagement Ring Expertise in Staten Island & Red Bank, NJ\"; natural and lab-grown loose diamond search; also gold/diamond buyer. Bridal specialist (borderline). Owner Cory Schifter per Our Team page; no personal LinkedIn URL surfaced.",
+ "scope_reason": "Site: \"40 Years of Custom Engagement Ring Expertise in Staten Island & Red Bank, NJ\"; natural and lab-grown loose diamond search; also gold/diamond buyer. Bridal specialist (borderline). Owner Cory Schifter per Our Team page; no personal LinkedIn URL surfaced. [w15_5: Cory Schifter team page lists cory@casalejewelry.com, \"Works At: Red Bank, NJ / Staten Island\"; About page: owner Cory Schifter, DeBeers-trained, since 1986.]",
  "drop_reason": "",
  "verified": true,
  "enriched": true

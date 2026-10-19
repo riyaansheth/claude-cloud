@@ -1,0 +1,44 @@
+{
+  "business": "Smith & Bevill Jewelers",
+  "category_as_listed": "",
+  "phone": "(503) 644-1333",
+  "email": "sales@smithandbevill.com",
+  "email_source": "https://www.smithandbevill.com/pages/contact-us",
+  "linkedin_url": "https://www.linkedin.com/in/gina-bevill-529b7317/",
+  "linkedin_source": "WebSearch extended: \"Gina Bevill\" OR \"Angela Bevill\" Smith Bevill Jewelers LinkedIn (result title 'Gina Bevill - Smith & Bevill Jewelers'; also https://www.linkedin.com/in/angie-bevill-83454116/ 'Angie Bevill - Smith & Bevill Jewelers')",
+  "contact_person": "Gina Bevill",
+  "role": "Owner",
+  "contact_source": "https://www.smithandbevill.com/pages/about-us ('Bill and Kathleen are joined in the store by their daughters Angela and Gina'); https://www.yelp.com/biz/smith-and-bevill-jewelers-beaverton (search snippet: photo of Bill and daughter Gina labeled business owner); BBB: Bill Bevill, President",
+  "website": "https://www.smithandbevill.com",
+  "address": "9875 SW Beaverton Hillsdale Hwy",
+  "city": "Beaverton",
+  "state": "OR",
+  "market": "Portland, OR",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.smithandbevill.com/pages/about-us",
+  "tel_numbers": [
+    "(503) 644-1333"
+  ],
+  "tel_source": "https://www.smithandbevill.com/pages/contact-us",
+  "socials": [
+    "https://www.facebook.com/smithandbevill/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "AGS"
+  ],
+  "hooks": [
+    "since-1957",
+    "family-owned",
+    "manufacturer",
+    "in-house manufacturing facility",
+    "AGS accredited lab"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "About page: '7000 square foot showroom and state of the art manufacturing facility', gem setters and master metal smiths, AGS member with AGS accredited lab; carries loose diamonds.",
+  "drop_reason": "",
+  "enriched": true
+}

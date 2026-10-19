@@ -1,0 +1,39 @@
+{
+ "business": "Goldesign Inc",
+ "category_as_listed": "Jewelers, Jewelry Designers",
+ "phone": "(937) 399-7818",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Ben Beatty",
+ "role": "President",
+ "contact_source": "https://www.scrapmonster.com/company/goldesign-inc/48897",
+ "website": "",
+ "address": "2200 N Limestone St Ste 110",
+ "city": "Springfield",
+ "state": "OH",
+ "market": "Dayton, OH",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "46",
+ "source_url": "https://www.yellowpages.com/springfield-oh/mip/goldesign-inc-979674",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "custom-design",
+  "diamond-setting",
+  "gia-gg",
+  "bench-jeweler"
+ ],
+ "is_diamond_trade": false,
+ "scope_reason": "Directory text (scrapmonster company listing): Goldesign, Inc., Springfield OH - President Ben Beatty, 40 years at the bench, Ohio Jewelers Association design awards; Mary Beatty GIA Graduate Gemologist (1995); custom design, diamond setting, all repairs on premises. No website found; borderline custom bench jeweler. Yelp ('GOLDESIGN JEWELERS - CLOSED') and MapQuest ('Permanently closed') mark it closed.",
+ "drop_reason": "other",
+ "enriched": true
+}

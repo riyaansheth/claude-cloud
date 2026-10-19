@@ -1,0 +1,44 @@
+{
+  "business": "Eliza Page",
+  "category_as_listed": "Jeweler (Jewelers of America member)",
+  "phone": "(512) 474-6500",
+  "email": "store@elizapage.com",
+  "email_source": "https://www.elizapage.com/pages/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Elizabeth Gibson",
+  "role": "Owner",
+  "contact_source": "https://www.elizapage.com/pages/about-us-our-story",
+  "website": "https://www.elizapage.com",
+  "address": "229 W 2nd St",
+  "city": "Austin",
+  "state": "TX",
+  "market": "Austin, TX",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.jewelers.org/buying-jewelry/shop-with-a-member-jeweler/find-a-jeweler/eliza-page-1001499",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/elizapagejewelry/",
+    "https://www.instagram.com/elizapagejewelry/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA",
+    "JA"
+  ],
+  "hooks": [
+    "since-2004",
+    "natural",
+    "lab-grown",
+    "custom-engagement"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: 'Our GIA-certified team specializes in unique, custom engagement rings', sources from 'Accredited, conflict-free diamond & gemstone dealers'; in-stock natural and lab-grown diamonds. Largely a designer-jewelry boutique.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

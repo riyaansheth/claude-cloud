@@ -1,0 +1,41 @@
+{
+  "business": "Q&T Jewelry",
+  "category_as_listed": "Jeweler",
+  "phone": "(512) 733-9120",
+  "email": "qtjeweler@yahoo.com",
+  "email_source": "https://qtjewelry.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Peter Nguyen",
+  "role": "Owner",
+  "contact_source": "https://www.bbb.org/us/tx/round-rock/profile/jewelry-stores/q-t-jewelry-0825-60824",
+  "website": "https://qtjewelry.com",
+  "address": "220 Sundance Pkwy",
+  "city": "Round Rock",
+  "state": "TX",
+  "market": "Austin, TX",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://qtjewelry.com/",
+  "tel_numbers": [
+    "5127339120"
+  ],
+  "tel_source": "https://qtjewelry.com/pages/contact",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-2001",
+    "family-owned",
+    "custom",
+    "gia-certified-stones"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: family-owned (founded 2001 by Peter & Le per search), 'GIA & EGL Certified Bridal Rings', custom bridal. Mainly retail - borderline trade.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true,
+  "notes": "BBB: Peter Nguyen, Owner; Allbiz lists Hanh Le as CEO"
+}

@@ -1,0 +1,45 @@
+{
+ "business": "White Diamonds",
+ "category_as_listed": "Diamonds, Jewelers, Jewelry Designers",
+ "phone": "(801) 782-3531",
+ "email": "sales@whitediamondsutah.com",
+ "email_source": "https://whitediamondsutah.com/pages/contact",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://whitediamondsutah.com",
+ "address": "1638 N Washington Blvd Ste 202",
+ "city": "North Ogden",
+ "state": "UT",
+ "market": "Salt Lake City, UT",
+ "lead_origin": "YellowPages",
+ "rating": "5",
+ "reviews": "1",
+ "source_url": "https://www.yellowpages.com/ogden-ut/mip/white-diamonds-480706495",
+ "tel_numbers": [
+  "801-782-3531"
+ ],
+ "tel_source": "https://whitediamondsutah.com/pages/contact",
+ "socials": [
+  "https://www.facebook.com/WhiteDiamondsUtah/",
+  "https://www.instagram.com/_whitediamonds_/"
+ ],
+ "building": "",
+ "suite": "Ste 202",
+ "trade_memberships": [],
+ "hooks": [
+  "diamond-dealer",
+  "wholesale",
+  "manufacturer",
+  "exporter",
+  "by-appointment",
+  "bridal"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site 'What We Do' lists: Diamond Dealer, Jewelry Exporter, Jewelry Manufacturer, Wholesale Jeweler; private jeweler by appointment where 'custom jewelry can be made and sourced specifically for you'. Owner name not found.",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}

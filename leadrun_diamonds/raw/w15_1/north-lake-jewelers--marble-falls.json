@@ -1,0 +1,43 @@
+{
+  "business": "North Lake Jewelers",
+  "category_as_listed": "Custom Jewelry Shop",
+  "phone": "(830) 693-7771",
+  "email": "northlake1016@verizon.net",
+  "email_source": "https://northlakejewelers.net/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://northlakejewelers.net",
+  "address": "1016 FM 1431",
+  "city": "Marble Falls",
+  "state": "TX",
+  "market": "Austin, TX",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://northlakejewelers.net/",
+  "tel_numbers": [
+    "8306937771"
+  ],
+  "tel_source": "https://northlakejewelers.net/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "gia-gg",
+    "family-owned",
+    "custom",
+    "lapidary",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: family-owned, 'Graduate Gemologist at the helm', custom design, fabrication, lapidary. Marble Falls is ~50 mi NW of Austin (Highland Lakes), outside Austin MSA.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}

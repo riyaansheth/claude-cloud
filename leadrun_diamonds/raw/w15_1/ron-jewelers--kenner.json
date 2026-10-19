@@ -1,0 +1,42 @@
+{
+  "business": "Ron Jewelers",
+  "category_as_listed": "Jeweler",
+  "phone": "(504) 405-5121",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Tauqeer Imran",
+  "role": "Owner",
+  "contact_source": "https://www.ronjewelers.com/company/about-us/",
+  "website": "https://www.ronjewelers.com",
+  "address": "",
+  "city": "Kenner",
+  "state": "LA",
+  "market": "New Orleans, LA",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.ronjewelers.com/",
+  "tel_numbers": [
+    "5044055121"
+  ],
+  "tel_source": "https://www.ronjewelers.com/",
+  "socials": [
+    "https://www.facebook.com/Rons-Jeweler-1437602343023408/",
+    "https://www.instagram.com/ronsjeweler/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1988",
+    "loose-diamonds",
+    "family-owned"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: 'Shop Loose Diamonds' by shape with diamond search; independently owned since 1988; owner operates five stores in LA/TX (small regional group).",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}
