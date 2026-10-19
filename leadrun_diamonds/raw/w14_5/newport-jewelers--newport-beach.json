@@ -1,0 +1,41 @@
+{
+ "business": "Newport Jewelers",
+ "category_as_listed": "Diamonds Engagement Rings Jewelry",
+ "phone": "(949) 781-1979",
+ "email": "info@newportjewelers.com",
+ "email_source": "https://newportjewelers.com/contact-us",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://newportjewelers.com",
+ "address": "2043 Westcliff Dr Suite #101",
+ "city": "Newport Beach",
+ "state": "CA",
+ "market": "Irvine, CA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "114",
+ "source_url": "https://stonealgo.com/local-jewelers/irvine-ca",
+ "tel_numbers": [
+  "(949) 781-1979"
+ ],
+ "tel_source": "https://newportjewelers.com/contact-us",
+ "socials": [
+  "https://www.facebook.com/p/Newport-Jewelers-61554392543824/",
+  "https://www.instagram.com/newport.jewelers/"
+ ],
+ "building": "",
+ "suite": "Suite #101",
+ "trade_memberships": [],
+ "hooks": [
+  "lab-grown",
+  "natural",
+  "gia-certified",
+  "custom"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site sells 'Certified Lab Grown Diamond' and 'GIA Natural Certified Diamond' loose stones plus custom engagement rings; also large watch-repair business. Borderline.",
+ "drop_reason": ""
+}

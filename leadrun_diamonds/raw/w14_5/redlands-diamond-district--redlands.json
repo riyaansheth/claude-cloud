@@ -1,0 +1,33 @@
+{
+ "business": "Redlands Diamond District",
+ "category_as_listed": "Fine Jewelry",
+ "phone": "909-793-8393",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "",
+ "address": "405 W Redlands Blvd",
+ "city": "Redlands",
+ "state": "CA",
+ "market": "Riverside, CA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://aboutredlands.com/categories/fine-jewelry",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "custom"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "AboutRedlands listing: full-service jewelry store specializing in custom design, engagement rings, diamond & gemstone jewelry; site unreachable - unverified.",
+ "drop_reason": ""
+}

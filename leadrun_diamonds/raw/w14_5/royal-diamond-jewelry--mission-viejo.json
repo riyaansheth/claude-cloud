@@ -1,0 +1,44 @@
+{
+ "business": "Royal Diamond Jewelry",
+ "category_as_listed": "",
+ "phone": "(949) 588-5808",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "https://www.royaldiamondjewelry.com/about (GIA Graduate Gemologist 'Rosette' - no surname)",
+ "website": "https://www.royaldiamondjewelry.com",
+ "address": "27772 Vista del Lago, Suite B-17",
+ "city": "Mission Viejo",
+ "state": "CA",
+ "market": "Irvine, CA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.royaldiamondjewelry.com/about",
+ "tel_numbers": [
+  "(949) 588-5808",
+  "(949) 581-8683"
+ ],
+ "tel_source": "https://www.royaldiamondjewelry.com/contacts",
+ "socials": [
+  "https://www.facebook.com/pages/Royal-Diamond-Jewelry/169611409716429"
+ ],
+ "building": "",
+ "suite": "Suite B-17",
+ "trade_memberships": [
+  "GIA"
+ ],
+ "hooks": [
+  "since-1976",
+  "family-owned",
+  "2nd-generation",
+  "gia-gg",
+  "loose-diamonds"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own About page: family owned since 1976, 'We carry certified loose diamonds and colored gemstones', owners design in-house, GIA Graduate Gemologist on staff. (Site email is Cloudflare-obfuscated - not reconstructed.)",
+ "drop_reason": ""
+}
