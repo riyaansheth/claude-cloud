@@ -1,0 +1,37 @@
+{
+ "business": "Torosi Inc",
+ "category_as_listed": "Jewelry Retailer",
+ "phone": "",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.torosi.com",
+ "address": "940 The Shops at Mission Viejo",
+ "city": "Mission Viejo",
+ "state": "CA",
+ "market": "Irvine, CA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://local.yahoo.com/info-236177500-torosi-inc-mission-viejo/",
+ "tel_numbers": [
+  "(888)224-1556"
+ ],
+ "tel_source": "https://www.torosi.com/",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "manufacturer",
+  "loose-diamonds",
+  "fancy-color"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site: 'Our jewelry is designed and manufactured in California'; bridal line plus Loose Diamonds and fancy-color diamond education.",
+ "drop_reason": ""
+}
