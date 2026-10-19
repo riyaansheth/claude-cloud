@@ -1,0 +1,42 @@
+{
+  "business": "Midas Manufacturing Jewelers",
+  "category_as_listed": "Manufacturing Jewelers",
+  "phone": "(512) 467-7075",
+  "email": "midasmfg@gmail.com",
+  "email_source": "https://midasmanufacturing.com/",
+  "linkedin_url": "",
+  "linkedin_source": "\"Charles Kirkpatrick\" Midas Manufacturing Jewelers Austin LinkedIn (only company page lists him as Owner; no /in/ URL surfaced)",
+  "contact_person": "Charles Kirkpatrick",
+  "role": "Owner",
+  "contact_source": "https://midasmanufacturing.com/",
+  "website": "https://midasmanufacturing.com",
+  "address": "5555 N Lamar Blvd, Ste K120",
+  "city": "Austin",
+  "state": "TX",
+  "market": "Austin, TX",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://midasmanufacturing.com/",
+  "tel_numbers": [
+    "5124677075"
+  ],
+  "tel_source": "https://midasmanufacturing.com/",
+  "socials": [],
+  "building": "",
+  "suite": "Ste K120",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1978",
+    "manufacturer",
+    "platinum-casting",
+    "diamond-buyer",
+    "cad"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: manufacturer since 1978 with casting, hand fabrication, in-house CAD/3-D printing; creates pieces 'for customers and local jewelry stores'; owner 'a skilled diamond buyer, having purchased quality diamonds and colored gems for the past three decades'.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true,
+  "notes": "Same building/suite area as YP 'Lam Inc' (5555 N Lamar Blvd, 512-467-0831) - possibly related, not merged"
+}
