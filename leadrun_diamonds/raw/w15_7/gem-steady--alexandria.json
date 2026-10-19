@@ -4,11 +4,11 @@
  "phone": "(859) 609-1083",
  "email": "brittanyc@gemsteady.com",
  "email_source": "https://gemsteady.com/contact",
- "linkedin_url": "",
- "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "linkedin_url": "https://www.linkedin.com/in/brittany-stadtmiller-94017575/",
+ "linkedin_source": "WebSearch extended: \"Brittany Stadtmiller\" Gem Steady LinkedIn (result title \"Brittany Stadtmiller - Owner/Designer at Gem Steady\")",
+ "contact_person": "Brittany Stadtmiller",
+ "role": "Owner",
+ "contact_source": "https://gemsteady.com/contact",
  "website": "https://gemsteady.com",
  "address": "300 Washington St",
  "city": "Alexandria",
@@ -35,5 +35,6 @@
  "scope_reason": "Own site: 'Custom made fine rings and things using diamonds, rubies, emeralds, sapphires'; estate pieces; makers Brittany and Robert. Borderline small custom maker.",
  "drop_reason": "",
  "enriched": true,
- "verified": true
+ "verified": true,
+ "li_note": "Own site links a legacy LinkedIn /pub/ URL https://www.linkedin.com/pub/brittany-stadtmiller/75/175/940 (not an /in/ URL, so not recorded as linkedin_url)."
 }

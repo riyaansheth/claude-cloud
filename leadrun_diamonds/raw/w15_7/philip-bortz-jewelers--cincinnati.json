@@ -6,9 +6,9 @@
  "email_source": "https://philipbortzjewelers.com/pages/contact-us",
  "linkedin_url": "",
  "linkedin_source": "",
- "contact_person": "",
- "role": "",
- "contact_source": "",
+ "contact_person": "Marie Bortz",
+ "role": "Owner",
+ "contact_source": "https://www.bbb.org/us/oh/cincinnati/profile/jewelry-stores/philip-bortz-co-0292-3000956",
  "website": "https://philipbortzjewelers.com",
  "address": "700 Walnut St",
  "city": "Cincinnati",
@@ -38,5 +38,6 @@
  "scope_reason": "Own site: Cincinnati fine jeweler since 1976; 'We offer custom made Bridal Designs as well as custom Jewelry'; buys estates; YP categories include Diamonds and Jewelers-Wholesale & Manufacturers. Main (513) 469-8697, downtown (513) 621-4441. Borderline.",
  "drop_reason": "",
  "verified": true,
- "enriched": true
+ "enriched": true,
+ "li_note": "Only a LinkedIn profile with business-name slug (linkedin.com/in/bortz-jewelers-027b231a) seen - not recorded."
 }
