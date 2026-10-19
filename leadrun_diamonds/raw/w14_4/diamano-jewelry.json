@@ -1,0 +1,44 @@
+{
+ "business": "Diamano Jewelry",
+ "category_as_listed": "",
+ "phone": "",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://www.diamanojewelry.com",
+ "address": "642 E Colorado Blvd",
+ "city": "Pasadena",
+ "state": "CA",
+ "market": "Pasadena, CA",
+ "lead_origin": "Web Search",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.diamanojewelry.com/",
+ "tel_numbers": [
+  "(626) 449-0020"
+ ],
+ "tel_source": "https://www.diamanojewelry.com/",
+ "socials": [
+  "https://twitter.com/Diamano_Jewelry",
+  "https://www.facebook.com/DiamanoFineJewelry/",
+  "https://www.instagram.com/diamanojewelry/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-2007",
+  "3rd-generation",
+  "manufacturer",
+  "loose-diamonds"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Site: 'Since 2007'; 'owned by a third-generation jeweler with 25 years' experience, not only selling jewelry, but making it'; 'products we design and produce locally'; sells loose diamonds by shape. Address 642 E Colorado Blvd per Yelp/MapQuest search results; founded in the DTLA Jewelry District, moved to Pasadena (Yelp).",
+ "drop_reason": "",
+ "verified": true,
+ "enriched": true
+}
