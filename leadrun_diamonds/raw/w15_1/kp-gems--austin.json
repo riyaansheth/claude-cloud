@@ -19,9 +19,11 @@
   "reviews": "",
   "source_url": "https://kpgems.com/kenny-phillips-diamond-dealer/",
   "tel_numbers": [
-    "5126663111"
+    "5126663111",
+    "512.837.6008",
+    "512.834.6177"
   ],
-  "tel_source": "https://kpgems.com/appointments/",
+  "tel_source": "https://kpgems.com/appointments/ https://kpgems.com/we-buy-gold-in-austin/ https://kpgems.com/terms-and-conditions/",
   "socials": [
     "https://www.facebook.com/KPGemsTX",
     "https://www.instagram.com/kpgems/"
@@ -42,5 +44,6 @@
   "scope_reason": "Site: 'Kenny Phillips is a fourth-generation diamond dealer and GIA Graduate Gemologist ... sourcing and selling diamonds at wholesale prices'; taps 'international network of diamond dealers and cutting houses'; buys diamonds/estate jewelry.",
   "drop_reason": "",
   "verified": true,
-  "enriched": true
+  "enriched": true,
+  "notes": "512.837.6008 (we-buy-gold page) and 512.834.6177 (terms page) are page-specific 'Call' numbers on kpgems.com - possibly call-tracking lines rather than personal direct lines; info@kpgems.com also on terms page"
 }

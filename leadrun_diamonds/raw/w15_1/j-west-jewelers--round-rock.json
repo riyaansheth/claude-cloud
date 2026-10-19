@@ -1,0 +1,39 @@
+{
+  "business": "J. West Jewelers",
+  "category_as_listed": "Jeweler",
+  "phone": "(512) 733-5006",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.jwestjewelers.com",
+  "address": "",
+  "city": "Round Rock",
+  "state": "TX",
+  "market": "Austin, TX",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.jwestjewelers.com/",
+  "tel_numbers": [
+    "5127335006"
+  ],
+  "tel_source": "https://www.jwestjewelers.com/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-2000",
+    "family-owned",
+    "custom"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: 'local, family-owned jeweler proudly serving Round Rock ... since 2000' - fine jewelry, diamonds & engagement rings, custom design. Mainly retail - borderline trade.",
+  "drop_reason": "",
+  "verified": true,
+  "enriched": true
+}
