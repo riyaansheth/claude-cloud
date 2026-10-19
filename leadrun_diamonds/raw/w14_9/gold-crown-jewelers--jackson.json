@@ -1,0 +1,41 @@
+{
+  "business": "Gold Crown Jewelers",
+  "category_as_listed": "Custom Jewelry",
+  "phone": "517-789-5454",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "searched '\"Ricco DeCola\" Gold Crown Jewelers LinkedIn' (extended) - none found",
+  "contact_person": "Ricco DeCola",
+  "role": "Owner",
+  "contact_source": "https://www.goldcrownjewelers.com/jewelrybusiness",
+  "website": "https://www.goldcrownjewelers.com",
+  "address": "1214 Wildwood Ave",
+  "city": "Jackson",
+  "state": "MI",
+  "market": "Ann Arbor, MI",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.goldcrownjewelers.com/jewelrybusiness",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/profile.php?id=100001029604384",
+    "https://www.instagram.com/goldcrownjewelers1/",
+    "https://twitter.com/517goldcrown"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "gia",
+    "family-owned",
+    "since-2007"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: 'We specialize in creating custom jewelry and one of a kind bridal settings' using 'hand selected GIA certified diamonds'; master jeweler on staff - custom bridal maker sourcing its own GIA stones (also buys/sells gold).",
+  "drop_reason": "",
+  "enriched": true
+}
