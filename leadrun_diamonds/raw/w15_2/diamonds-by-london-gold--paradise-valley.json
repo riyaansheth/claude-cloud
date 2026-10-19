@@ -1,0 +1,48 @@
+{
+ "business": "Diamonds by London Gold",
+ "category_as_listed": "Jewelers, Jewelers-Wholesale & Manufacturers, Jewelry Buyers",
+ "phone": "(480) 367-1717",
+ "website": "https://www.londongold.com",
+ "address": "10441 N Scottsdale Rd",
+ "city": "Paradise Valley",
+ "state": "AZ",
+ "market": "Scottsdale, AZ",
+ "rating": "5",
+ "reviews": "1",
+ "source_url": "https://www.yellowpages.com/paradise-valley-az/mip/diamonds-by-london-gold-463663618",
+ "lead_origin": "YellowPages",
+ "email": "",
+ "email_source": "",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "tel_numbers": [],
+ "tel_source": "",
+ "socials": [
+  "https://www.facebook.com/LondonGoldAZ",
+  "https://instagram.com/londongoldaz/",
+  "https://twitter.com/londongoldaz"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "lab-grown",
+  "natural",
+  "GIA",
+  "loose diamonds",
+  "in-house artisans"
+ ],
+ "is_diamond_trade": true,
+ "drop_reason": "",
+ "scope_reason": "Borderline: own site sells 'loose diamonds in a wide range of shapes' (GIA-certified natural + lab-grown) and says 'a family of passionate artisans dedicated to crafting exquisite pieces'; multi-store retail jeweler, YP lists 'Jewelers-Wholesale & Manufacturers'.",
+ "verified": true,
+ "enriched": true,
+ "other_store_numbers": [
+  "(480) 705-4191",
+  "(623) 979-4445"
+ ],
+ "other_store_numbers_note": "Listed on https://www.londongold.com/ alongside the main 480-367-1717; these appear to be other London Gold store locations, not direct lines, so not put in tel_numbers."
+}
