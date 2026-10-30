@@ -1,0 +1,44 @@
+{
+  "business": "Banco Diamanti",
+  "category_as_listed": "Compro Diamanti / valutazione diamanti",
+  "phone": "800 926 095",
+  "email": "info@bancodiamanti.com",
+  "email_source": "https://www.bancodiamanti.com/contattaci/",
+  "linkedin_url": "https://www.linkedin.com/in/andrea-barbi-7b8804/",
+  "linkedin_source": "WebSearch extended: \"Andrea Barbi\" \"Diamanti Anversa\" LinkedIn (result title: \"Andrea Barbi - www.diamantianversa.com www.bancodiamanti.com\")",
+  "contact_person": "Andrea Barbi",
+  "role": "Founder",
+  "contact_source": "https://www.diamantianversa.com/andrea-barbi/ (founder of sister company Diamanti Anversa; his LinkedIn headline lists bancodiamanti.com)",
+  "website": "https://www.bancodiamanti.com",
+  "address": "Via Pasquale Stanislao Mancini 7, 00196 Roma (also Hoveniersstraat 30, 2018 Antwerp)",
+  "city": "Rome",
+  "state": "RM",
+  "market": "Rome, IT",
+  "lead_origin": "LinkedIn",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bancodiamanti.com/contattaci/",
+  "tel_numbers": [
+    "+39 393 388 9754",
+    "800 926 095"
+  ],
+  "tel_source": "https://www.bancodiamanti.com/contattaci/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA",
+    "HRD",
+    "IGI"
+  ],
+  "hooks": [
+    "estate-diamond-buyer",
+    "antwerp-office",
+    "gemologists-GIA-HRD-IGI",
+    "appointment-only",
+    "broker"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: 'si occupa di compravendita e valutazione di diamanti'; buys used diamonds and resells into an international trade circuit (commission paid by buyer); Rome office + Antwerp Hoveniersstraat office. Also buys gold/watches, so diamond-focused estate buyer/broker, not a plain compro oro.",
+  "drop_reason": ""
+}

@@ -1,0 +1,40 @@
+{
+  "business": "TrePi Srl",
+  "category_as_listed": "Jewellery and watch manufacturer and/or wholesaler",
+  "phone": "+39 06 68136770",
+  "email": "info@trepisrl.com",
+  "email_source": "https://trepisrl.com/contatti/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://trepisrl.com",
+  "address": "Via Monte del Gallo, 26/A, 00165 Roma",
+  "city": "Rome",
+  "state": "RM",
+  "market": "Rome, IT",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/tre-pi-srl/",
+  "tel_numbers": [
+    "+39 06 68136770"
+  ],
+  "tel_source": "https://trepisrl.com/contatti/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "manufacturer",
+    "high-jewelry-contract",
+    "stone-setting-pave",
+    "titanium-carbon"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "RJC-certified high-jewelry manufacturing lab; site lists in-house stone setting (pavé etc.). Diamond use implied, not explicit. Owner not named on site.",
+  "drop_reason": ""
+}

@@ -15,6 +15,10 @@ for u in sys.argv[2:]:
             elif any(x in h for x in ['facebook.com','instagram.com','linkedin.com']): soc.add(h)
             links.append(h)
         txt=s.get_text(' ',strip=True)
+        for c in re.findall(r'data-cfemail="([0-9a-f]+)"',r.text):
+            k=int(c[:2],16); mails.add('CF:'+''.join(chr(int(c[i:i+2],16)^k) for i in range(2,len(c),2)))
+        for c in re.findall(r'/cdn-cgi/l/email-protection#([0-9a-f]+)',r.text):
+            k=int(c[:2],16); mails.add('CF:'+''.join(chr(int(c[i:i+2],16)^k) for i in range(2,len(c),2)))
         mails|=set(re.findall(r'[\w.+-]+@[\w-]+\.[\w.]+',txt))
         ph=set(re.findall(r'(?:\+39[\s.]?)?(?:0\d{1,3}|3\d{2})[\s./-]?\d{3,4}[\s./-]?\d{2,5}',txt))
         print('MAIL',mails);print('TEL',tels);print('PHTXT',list(ph)[:12]);print('SOC',soc)

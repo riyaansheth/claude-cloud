@@ -1,0 +1,50 @@
+{
+  "business": "Diamanti Anversa",
+  "category_as_listed": "Atelier del Diamante",
+  "phone": "+39 327 3764799",
+  "email": "info@diamantianversa.com",
+  "email_source": "https://www.diamantianversa.com/contatti/ (Cloudflare-protected mailto, decoded from page HTML)",
+  "linkedin_url": "https://www.linkedin.com/in/andrea-barbi-7b8804/",
+  "linkedin_source": "WebSearch extended: \"Andrea Barbi\" \"Diamanti Anversa\" LinkedIn",
+  "contact_person": "Andrea Barbi",
+  "role": "Founder",
+  "contact_source": "https://www.diamantianversa.com/team/",
+  "website": "https://www.diamantianversa.com",
+  "address": "Via Nizza, 118, 00198 Roma (foreign office: Hoveniersstraat 30, 2018 Antwerp)",
+  "city": "Rome",
+  "state": "RM",
+  "market": "Rome, IT",
+  "lead_origin": "LinkedIn",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.diamantianversa.com/team/",
+  "tel_numbers": [
+    "+39 327 3764799"
+  ],
+  "tel_source": "https://www.diamantianversa.com/contatti/",
+  "socials": [
+    "https://www.facebook.com/diamantanversa",
+    "https://www.instagram.com/diamanti.anversa/",
+    "https://www.linkedin.com/company/diamanti-anversa/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Antwerp Diamond Bourse (operates directly)",
+    "GIA",
+    "IGI",
+    "HRD"
+  ],
+  "hooks": [
+    "antwerp-office",
+    "bourse-direct",
+    "certified-GIA-IGI-HRD",
+    "bridal",
+    "rapaport-pricing",
+    "co-founder-Riccardo-Castellani",
+    "since-2011"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Team page: 'La nostra scelta di operare direttamente presso la Borsa dei Diamanti di Anversa'; sells loose certified natural diamonds priced off Rapaport plus own-production jewelry; Antwerp office. Only phone is the mobile main line (no separate direct line).",
+  "drop_reason": ""
+}
