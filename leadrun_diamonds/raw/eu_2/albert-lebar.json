@@ -1,0 +1,33 @@
+{
+  "business": "Albert Lebar",
+  "category_as_listed": "Bespoke Jeweller",
+  "phone": "07376003131",
+  "email": "lebarltd@gmail.com",
+  "email_source": "https://londondiamondbourse.com/directory/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Albert Lebar",
+  "role": "Member",
+  "contact_source": "https://londondiamondbourse.com/directory/",
+  "website": "",
+  "address": "100 Hatton Garden, London EC1N 8NX",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "London Diamond Bourse, 100 Hatton Garden",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse"
+  ],
+  "hooks": [],
+  "is_diamond_trade": true,
+  "scope_reason": "LDB member at 100 Hatton Garden (listed 'Bespoke Jeweller'); no website - scope from Bourse membership only.",
+  "drop_reason": ""
+}

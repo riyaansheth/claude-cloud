@@ -1,0 +1,42 @@
+{
+  "business": "Salazar & Bermúdez",
+  "category_as_listed": "Compraventa de joyas antiguas, diamantes y relojes",
+  "phone": "+34 910 706 538",
+  "email": "info@salazarybermudez.com",
+  "email_source": "https://salazarybermudez.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://salazarybermudez.com",
+  "address": "C. de José Ortega y Gasset, 19, 28006 Madrid",
+  "city": "Madrid",
+  "state": "ES",
+  "market": "Madrid, Spain",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://salazarybermudez.com/servicios/diamantes/",
+  "tel_numbers": [
+    "+34910706538",
+    "+34633448737"
+  ],
+  "tel_source": "https://salazarybermudez.com/contacto/",
+  "socials": [
+    "https://www.facebook.com/joyasantiguassb",
+    "https://www.instagram.com/joyasantiguassb/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "estate-diamonds",
+    "natural",
+    "buyer",
+    "appraisal"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Expertos en compraventa de joyas antiguas, diamantes y relojes'; dedicated Diamantes service page — team buys and sells loose diamonds and precious stones from two Madrid shops (Ortega y Gasset 19; Ribera de Curtidores 12).",
+  "drop_reason": ""
+}

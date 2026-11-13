@@ -1,0 +1,42 @@
+{
+  "business": "Eurodiam S.r.l.",
+  "category_as_listed": "grossista diamanti Valenza",
+  "phone": "+39 0131 954361",
+  "email": "info@eurodiam.it",
+  "email_source": "https://www.eurodiam.it/2/contatti",
+  "linkedin_url": "https://www.linkedin.com/in/andrea-pasquarelli-798082130/",
+  "linkedin_source": "WebSearch extended: Eurodiam Valenza amministratore LinkedIn",
+  "contact_person": "Andrea Pasquarelli",
+  "role": "CEO",
+  "contact_source": "https://www.linkedin.com/in/andrea-pasquarelli-798082130/",
+  "website": "https://www.eurodiam.it",
+  "address": "",
+  "city": "Valenza",
+  "state": "IT",
+  "market": "Valenza, Italy",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.eurodiam.it/7/chi-siamo",
+  "tel_numbers": [
+    "+39 0131 954361"
+  ],
+  "tel_source": "https://www.eurodiam.it/2/contatti",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Antwerp Diamond Bourse",
+    "IGI",
+    "HRD"
+  ],
+  "hooks": [
+    "wholesale",
+    "loose-diamonds",
+    "natural",
+    "sightholder-sourcing"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "'opera come grossista in diamanti tagliati', buys direct from Sightholder cutters; MD is Antwerp bourse member.",
+  "drop_reason": ""
+}

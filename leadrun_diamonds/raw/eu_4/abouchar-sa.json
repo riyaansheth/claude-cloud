@@ -1,0 +1,43 @@
+{
+  "business": "Abouchar SA",
+  "category_as_listed": "Diamonds - Coloured Diamonds - Emeralds - Rubies - Sapphires - Coloured Stones",
+  "phone": "+41 22 318 66 55",
+  "email": "info@aboucharsa.ch",
+  "email_source": "https://www.aboucharsa.ch/en/contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Michel Abouchar",
+  "role": "Partner",
+  "contact_source": "https://www.aboucharsa.ch/fr/la-maison-abouchar (Charles Abouchar founded 1979; joined by son Michel since 2013)",
+  "website": "https://www.aboucharsa.ch",
+  "address": "Rue du Marché 18, 1204 Geneva",
+  "city": "Geneva",
+  "state": "CH",
+  "market": "Geneva, Switzerland",
+  "lead_origin": "Trade Show",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://gemgeneve.com/exposant/abouchar-sa/",
+  "tel_numbers": [
+    "+41 22 318 66 55"
+  ],
+  "tel_source": "https://www.aboucharsa.ch/en/contact",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC",
+    "GemGenève",
+    "Inhorgenta"
+  ],
+  "hooks": [
+    "since-1979",
+    "3rd-generation",
+    "calibrated-small-stones",
+    "supplies-jewellery-and-watch-industry",
+    "diamonds-and-coloured-stones"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "GemGenève: 'Swiss company supplying diamonds, rubies, emeralds, sapphires… specialised in small calibrated stones'; serves jewellery and watch industry; RJC trader forum.",
+  "drop_reason": ""
+}

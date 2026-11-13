@@ -1,0 +1,38 @@
+{
+  "business": "Yosi Glick Diamonds (Antwerp office)",
+  "category_as_listed": "Industrial Sightholders",
+  "phone": "+32 3 232 6496",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Aron Hoffman",
+  "role": "Manager",
+  "contact_source": "https://gss.debeersgroup.com/customer-directory/yosi-glick-diamonds-ltd (Antwerp sales office contact)",
+  "website": "https://www.glickdiamonds.com",
+  "address": "Hoveniersstraat 2, Antwerp Diamond Centre, Suite 329, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://gss.debeersgroup.com/customer-directory/yosi-glick-diamonds-ltd",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "Suite 329",
+  "trade_memberships": [
+    "De Beers Industrial Sightholder"
+  ],
+  "hooks": [
+    "rough",
+    "preparer",
+    "industrial",
+    "sightholder"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "De Beers industrial sightholder, one of the largest rough preparers; Antwerp sales office (GSS also lists mobile +32 484 959 413 for the contact).",
+  "drop_reason": ""
+}

@@ -1,0 +1,38 @@
+{
+  "business": "Yashvi Diamonds BV",
+  "category_as_listed": "RJC Member (Yashvi Diam BV)",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Chirag Shah",
+  "role": "CEO",
+  "contact_source": "https://yashvi.be/ ('Founded by Chirag Shah'); AWDC board page lists Chirag Shah, Yashvi Diamonds",
+  "website": "https://yashvi.be",
+  "address": "Schupstraat 1-7 bus 47, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/yashvi-diam-bv/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC",
+    "AWDC board"
+  ],
+  "hooks": [
+    "certified",
+    "polished",
+    "founded-2014"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Yashvi | Polished Diamonds' offering certified diamonds, HQ Schupstraat Antwerp; CEO is AWDC Vice President.",
+  "drop_reason": ""
+}

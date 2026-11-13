@@ -1,0 +1,37 @@
+{
+  "business": "Victor Diamonds",
+  "category_as_listed": "diamonds",
+  "phone": "+32 3 226 24 92",
+  "email": "info@victordiamonds.com",
+  "email_source": "https://victordiamonds.com/Home/Contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://victordiamonds.com",
+  "address": "Antwerp Diamond House, Hoveniersstraat 30, suite 024, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bsearch.be/en/diamonds/",
+  "tel_numbers": [
+    "+32 3 226 24 92"
+  ],
+  "tel_source": "https://victordiamonds.com/Home/Contact",
+  "socials": [],
+  "building": "Antwerp Diamond House",
+  "suite": "Suite 024",
+  "trade_memberships": [],
+  "hooks": [
+    "rough",
+    "3rd-generation",
+    "tender-platform"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: third-generation company specialised in sourcing and trading rough diamonds, single-stone tender platform.",
+  "drop_reason": ""
+}

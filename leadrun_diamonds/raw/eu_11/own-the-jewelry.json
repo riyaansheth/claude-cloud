@@ -1,0 +1,36 @@
+{
+  "business": "Own The Jewelry",
+  "category_as_listed": "Diamond Jewellery Companies (Turkish Jewellery Exporters Association directory)",
+  "phone": "+90 212 512 9710",
+  "email": "info@ownthejewelry.com",
+  "email_source": "https://www.turkishjewellery.org/ownthejewelry",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Yomi Azar",
+  "role": "",
+  "contact_source": "https://www.turkishjewellery.org/ownthejewelry",
+  "website": "",
+  "address": "Molla Fenari Mahallesi, Adem Yavuz Sokak, Ali Bey Han No:13 / 301 ,Fatih, İstanbul",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.turkishjewellery.org/ownthejewelry",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "JTR (Türkiye Jewellery Exporters Association)"
+  ],
+  "hooks": [
+    "manufacturer",
+    "exporter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Türkiye Jewellery Exporters Association (turkishjewellery.org) under DIAMOND JEWELLERY COMPANIES - Istanbul diamond jewellery manufacturer/exporter. About: ",
+  "drop_reason": ""
+}

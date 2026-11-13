@@ -1,0 +1,41 @@
+{
+  "business": "Victoria James Jewellers",
+  "category_as_listed": "",
+  "phone": "0121 515 1161",
+  "email": "info@victoria-james.co.uk",
+  "email_source": "https://www.victoria-james.co.uk/info/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.victoria-james.co.uk",
+  "address": "39 Vyse Street, Birmingham B18 6JY",
+  "city": "Birmingham",
+  "state": "GB",
+  "market": "Birmingham, United Kingdom",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.thejewelleryquarter.org/business/victoria-james-jewellers/",
+  "tel_numbers": [
+    "0121 515 1161"
+  ],
+  "tel_source": "https://www.victoria-james.co.uk/info/contact/",
+  "socials": [
+    "https://twitter.com/VJjewellery",
+    "https://www.facebook.com/victoriajamesjewellers/",
+    "https://www.instagram.com/victoriajamesdecojewellery/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "family",
+    "british-made"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'family run, manufacturing' jewellers - 'We make all our own rings, pendants and earrings'; diamond engagement rings.",
+  "drop_reason": ""
+}

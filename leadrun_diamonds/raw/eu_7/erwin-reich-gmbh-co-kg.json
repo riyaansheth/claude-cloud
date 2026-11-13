@@ -1,0 +1,38 @@
+{
+  "business": "Erwin Reich GmbH & Co KG",
+  "category_as_listed": "Jewellery brand made in Germany",
+  "phone": "+49 (0) 7231 20020",
+  "email": "info@erwinreich.de",
+  "email_source": "https://www.erwinreich.de/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Kristina Reich-Simmons",
+  "role": "CEO",
+  "contact_source": "https://www.erwinreich.de/impressum/",
+  "website": "https://www.erwinreich.de",
+  "address": "Fraunhoferstraße 13, 75173 Pforzheim",
+  "city": "Pforzheim",
+  "state": "DE",
+  "market": "Pforzheim, Germany",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://watches-jewellery-germany.com/en/marken/erwin-reich/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "BV Schmuck+Uhren (Made in Germany)"
+  ],
+  "hooks": [
+    "manufacturer",
+    "since-1893",
+    "3rd-generation",
+    "kimberley-process"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "BV profile: Pforzheim manufactory since 1893 that 'selects its diamonds exclusively from conflict-free sources in accordance with the Kimberley Process'. Impressum Geschäftsführer: Kristina Reich-Simmons.",
+  "drop_reason": ""
+}

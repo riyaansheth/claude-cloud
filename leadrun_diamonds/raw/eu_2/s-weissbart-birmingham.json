@@ -1,0 +1,42 @@
+{
+  "business": "S Weissbart (Birmingham)",
+  "category_as_listed": "",
+  "phone": "0121 236 0043",
+  "email": "birmingham@diamonddealers.co.uk",
+  "email_source": "https://www.weissbart.co.uk",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "David Weissbart",
+  "role": "Partner",
+  "contact_source": "https://www.weissbart.co.uk/our-story",
+  "website": "https://www.weissbart.co.uk",
+  "address": "",
+  "city": "Birmingham",
+  "state": "GB",
+  "market": "Birmingham, United Kingdom",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.weissbart.co.uk",
+  "tel_numbers": [
+    "+441212360043",
+    "+442072423288"
+  ],
+  "tel_source": "https://www.weissbart.co.uk",
+  "socials": [
+    "https://www.facebook.com/s.weissbart/",
+    "https://www.instagram.com/s.weissbart/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse"
+  ],
+  "hooks": [
+    "family",
+    "diamond-dealers"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Family-owned diamond dealer (LDB member) with a Birmingham Jewellery Quarter branch; Birmingham email/phone from own site.",
+  "drop_reason": ""
+}

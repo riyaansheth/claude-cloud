@@ -1,0 +1,47 @@
+{
+  "business": "R & P Diamonds Trading",
+  "category_as_listed": "diamonds",
+  "phone": "+32 3 226 20 76",
+  "email": "edsarkis@rp-diamonds.com",
+  "email_source": "https://www.rp-diamonds.com/index2f8a.html?contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Ed Sarkis",
+  "role": "Manager",
+  "contact_source": "https://www.rp-diamonds.com/index2f8a.html?contact ('Ed Sarkis - Manager'; history page: 'R&P Diamonds is now run by Ed Sarkis')",
+  "website": "https://www.rp-diamonds.com",
+  "address": "Hoveniersstraat 40, 2nd floor, Room A25-A26, Bus 12, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bsearch.be/en/diamonds/",
+  "tel_numbers": [
+    "+32 (0)3 226 20 76",
+    "+32 (0)475 853 933"
+  ],
+  "tel_source": "https://www.rp-diamonds.com/index2f8a.html?contact",
+  "socials": [],
+  "building": "",
+  "suite": "Room A25-A26",
+  "trade_memberships": [
+    "Antwerpsche Diamantkring",
+    "GIA",
+    "HRD"
+  ],
+  "hooks": [
+    "2nd-generation",
+    "since-1947",
+    "importer",
+    "rough",
+    "manufacturer",
+    "large-stones",
+    "polisher",
+    "gsm-mobile"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: imports rough from Africa/Brazil, manufactures in Antwerp (0.5ct and up), cut diamonds; member of Diamond Kring.",
+  "drop_reason": ""
+}

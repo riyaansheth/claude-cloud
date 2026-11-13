@@ -1,0 +1,47 @@
+{
+  "business": "Nikos Koulis Jewels",
+  "category_as_listed": "Κοσμήματα",
+  "phone": "+30 210 723 3783",
+  "email": "athens@nikoskoulis.com",
+  "email_source": "https://www.nikoskoulis.com/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Nikos Koulis",
+  "role": "Founder",
+  "contact_source": "https://www.nikoskoulis.com/about/",
+  "website": "https://www.nikoskoulis.com",
+  "address": "Plateia Filikis Etaireias 15, Kolonaki, 10674",
+  "city": "Athens",
+  "state": "GR",
+  "market": "Athens, Greece",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.vrisko.gr/dir/kosmimata/athina/?page=5",
+  "tel_numbers": [
+    "+30 210-3388983",
+    "+30 210-7233783",
+    "+30 22890-28688",
+    "+30 6974049205",
+    "+30 6987720757"
+  ],
+  "tel_source": "https://www.nikoskoulis.com/contact/",
+  "socials": [
+    "https://www.facebook.com/nikoskoulisjewels",
+    "https://www.instagram.com/nikoskoulisjewels/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "gia-trained",
+    "high-jewellery",
+    "manufacturer",
+    "own-workshops",
+    "since-2006",
+    "large-stones"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: own workshops and 'access to exquisite stones in unique cuts from around the world', GIA gemology studies; thisisathens.org: 'Working first as a diamond supplier'. High-jewellery house sourcing its own stones.",
+  "drop_reason": ""
+}

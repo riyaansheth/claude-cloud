@@ -1,0 +1,41 @@
+{
+  "business": "Luminas BV",
+  "category_as_listed": "diamonds",
+  "phone": "+32 3 233 23 43",
+  "email": "info@luminas.be",
+  "email_source": "https://luminas.be/contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://luminas.be",
+  "address": "Antwerp Diamond Club, Office 210, Pelikaanstraat 62, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bsearch.be/diamanthandelaars/",
+  "tel_numbers": [
+    "+32 3 2310207"
+  ],
+  "tel_source": "https://luminas.be/contact",
+  "socials": [],
+  "building": "Diamantclub van Antwerpen",
+  "suite": "Office 210",
+  "trade_memberships": [
+    "RJC",
+    "Diamond Club of Antwerp"
+  ],
+  "hooks": [
+    "manufacturer",
+    "wholesale",
+    "natural",
+    "polished"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Natural Diamond manufacturers and wholesalers', wholesaler of polished natural diamonds; associated with Orion Forever (Mumbai).",
+  "drop_reason": ""
+}

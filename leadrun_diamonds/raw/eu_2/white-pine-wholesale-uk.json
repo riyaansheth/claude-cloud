@@ -1,0 +1,39 @@
+{
+  "business": "White Pine Wholesale UK",
+  "category_as_listed": "",
+  "phone": "0121 638 0135",
+  "email": "uk@whitepinediamonds.com",
+  "email_source": "https://www.whitepinediamonds.com/contact-us.html",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.whitepinediamonds.com",
+  "address": "212 JQ Modern, 120 Vyse St, Birmingham B18 6ND",
+  "city": "Birmingham",
+  "state": "GB",
+  "market": "Birmingham, United Kingdom",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.whitepinediamonds.com/contact-us.html",
+  "tel_numbers": [
+    "0121 638 0135"
+  ],
+  "tel_source": "https://www.whitepinediamonds.com/contact-us.html",
+  "socials": [],
+  "building": "JQ Modern",
+  "suite": "212",
+  "trade_memberships": [],
+  "hooks": [
+    "diamond-buyer",
+    "melee",
+    "gia-certified",
+    "recycled-diamonds",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: wholesale buyer/seller of loose diamonds and melee (natural only) with UK selling appointments at JQ Modern, Birmingham; US parent in NYC.",
+  "drop_reason": ""
+}

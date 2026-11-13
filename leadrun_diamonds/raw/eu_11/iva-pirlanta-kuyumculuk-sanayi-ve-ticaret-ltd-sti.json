@@ -1,0 +1,39 @@
+{
+  "business": "IVA PIRLANTA KUYUMCULUK SANAYİ VE TİCARET LTD. ŞTİ.",
+  "category_as_listed": "Borsa İstanbul - authorised trader, Kıymetli Madenler ve Kıymetli Taşlar Piyasası (Gerçek/Tüzel Kişi Kuyumcular)",
+  "phone": "+90 212 528 80 00",
+  "email": "info@ivadiamond.com",
+  "email_source": "https://www.ivadiamond.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.ivadiamond.com",
+  "address": "",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://borsaistanbul.com/uye-listesi/yetki-verilenlere-iliskin-bilgiler?authId=10",
+  "tel_numbers": [
+    "+905325295278"
+  ],
+  "tel_source": "https://www.ivadiamond.com/",
+  "socials": [
+    "https://www.instagram.com/ivapirlantacom/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Borsa Istanbul"
+  ],
+  "hooks": [
+    "borsa-istanbul-diamond-market"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Borsa İstanbul as an authorised trader on its precious metals & precious stones (diamond) market (operation code WU0); trade name contains PIRLANTA/DIAMOND/DEĞERLİ TAŞ.",
+  "drop_reason": ""
+}

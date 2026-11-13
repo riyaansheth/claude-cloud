@@ -1,0 +1,40 @@
+{
+  "business": "Sauraj Diamonds NV",
+  "category_as_listed": "RJC Member",
+  "phone": "+32 3 233 78 91",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/sohil-jhaveri-0584b540/",
+  "linkedin_source": "WebSearch extended: \"Sauraj Diamonds\" Antwerp LinkedIn",
+  "contact_person": "Sohil Jhaveri",
+  "role": "Director",
+  "contact_source": "LinkedIn result title \"Sohil Jhaveri - Director - Sauraj Diamonds\" (Antwerp)",
+  "website": "https://saurajdiamonds.com",
+  "address": "Hoveniersstraat 2, Room 348, P.B. 316, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/sauraj-diamonds-nv/",
+  "tel_numbers": [
+    "+32 3 233 78 91"
+  ],
+  "tel_source": "https://saurajdiamonds.com/",
+  "socials": [],
+  "building": "Hoveniersstraat 2",
+  "suite": "Room 348",
+  "trade_memberships": [
+    "RJC",
+    "KP",
+    "WDC SoW"
+  ],
+  "hooks": [
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: Antwerp diamond trading company, certified RJC member, KP/WDC compliant, discloses diamond quality (weight, clarity, colour).",
+  "drop_reason": "",
+  "enriched": true
+}

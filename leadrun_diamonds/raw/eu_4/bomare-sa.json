@@ -1,0 +1,44 @@
+{
+  "business": "Bomare SA",
+  "category_as_listed": "Diamonds and coloured gemstones trader, cutter and/or polisher",
+  "phone": "+41 22 732 09 66",
+  "email": "contact@bomare.ch",
+  "email_source": "http://bomare.ch/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Marc Boghossian",
+  "role": "Founder",
+  "contact_source": "http://bomare.ch/ ('Marc Boghossian… founded Bomare in 1997')",
+  "website": "http://bomare.ch",
+  "address": "Rue de la Rôtisserie 6, 1204 Geneva",
+  "city": "Geneva",
+  "state": "CH",
+  "market": "Geneva, Switzerland",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/bomare-sa/",
+  "tel_numbers": [
+    "+41 22 732 09 66"
+  ],
+  "tel_source": "http://bomare.ch/contact/",
+  "socials": [
+    "https://www.instagram.com/bomaregeneve/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC",
+    "ASNP"
+  ],
+  "hooks": [
+    "coloured-diamonds",
+    "since-1997",
+    "6-generations-family",
+    "GIA-AGL-SSEF-certified",
+    "supplies-jewellery-houses"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: 'We specialize in high end, responsibly sourced coloured diamonds and precious stones' supplied to the jewelry industry; RJC trader/cutter forum.",
+  "drop_reason": ""
+}

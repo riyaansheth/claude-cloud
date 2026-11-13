@@ -1,0 +1,35 @@
+{
+  "business": "Geert Lens",
+  "category_as_listed": "SBD member (Syndicate of the Belgian Diamond Industry)",
+  "phone": "+32 474 20 46 43",
+  "email": "petra.vanlooy@outlook.com",
+  "email_source": "https://sbd.be/en/leden/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Geert Lens",
+  "role": "Member",
+  "contact_source": "https://sbd.be/en/leden/",
+  "website": "",
+  "address": "",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://sbd.be/en/leden/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "SBD"
+  ],
+  "hooks": [
+    "cutter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "SBD (Belgian diamond manufacturers' syndicate) member list: 'member listed without description (diamond manufacturing syndicate)'",
+  "drop_reason": ""
+}

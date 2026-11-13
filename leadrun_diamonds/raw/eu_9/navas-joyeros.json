@@ -1,0 +1,42 @@
+{
+  "business": "Navas Joyeros",
+  "category_as_listed": "Fabricantes de alta joyería - diamantes de inversión",
+  "phone": "+34 676 467 433",
+  "email": "clientes@navasjoyeros.com",
+  "email_source": "https://navasjoyeros.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Raúl Martín Pascual",
+  "role": "Founder",
+  "contact_source": "https://www.cupones.es/navasjoyeros",
+  "website": "https://navasjoyeros.com",
+  "address": "",
+  "city": "Madrid",
+  "state": "ES",
+  "market": "Madrid, Spain",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://navasjoyeros.com/contact",
+  "tel_numbers": [
+    "+34 676 467 433"
+  ],
+  "tel_source": "https://navasjoyeros.com/",
+  "socials": [
+    "https://instagram.com/navasjoyeros",
+    "https://twitter.com/Navas_joyeros",
+    "https://www.facebook.com/Navas.Joyeros.Joyeria.Online/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "investment-diamonds",
+    "natural",
+    "importer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Somos fabricantes de alta joyería', sells 'Diamantes de inversión' (loose stones); permanent showroom in its Madrid offices. LinkedIn company: 'Navas Joyeros Importadores S.L.', Madrid; Europages lists it as diamond manufacturer/producer.",
+  "drop_reason": ""
+}

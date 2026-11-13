@@ -1,0 +1,44 @@
+{
+  "business": "Diamitaly S.r.l.",
+  "category_as_listed": "Specialisti in Anelli di Fidanzamento con Diamanti",
+  "phone": "+39 02 8736 6823",
+  "email": "info@diamitaly.it",
+  "email_source": "https://www.diamitaly.it/contatti/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.diamitaly.it",
+  "address": "Via Victor Hugo 1, Milano",
+  "city": "Milan",
+  "state": "IT",
+  "market": "Milan, Italy",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.diamitaly.it/chi-siamo/",
+  "tel_numbers": [
+    "+390287366823",
+    "+393348705927"
+  ],
+  "tel_source": "https://www.diamitaly.it/contatti/",
+  "socials": [
+    "https://www.facebook.com/diamitaly.milano",
+    "https://www.instagram.com/diamitaly/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "bridal",
+    "loose-diamonds",
+    "importer",
+    "natural",
+    "certified",
+    "since-1960"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Bridal specialist: 'Importiamo i diamanti certificati direttamente dalla fonte'; clients select their own loose stone.",
+  "drop_reason": ""
+}

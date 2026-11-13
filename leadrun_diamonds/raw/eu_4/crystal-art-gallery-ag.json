@@ -1,0 +1,10 @@
+{
+  "business": "Crystal Art Gallery AG",
+  "source_url": "https://www.crystalart.ch/",
+  "drop_reason": "other",
+  "scope_reason": "Crystal/mineral art gallery, not diamond trade.",
+  "market": "Zurich, Switzerland",
+  "is_diamond_trade": false,
+  "city": "Zurich",
+  "state": "CH"
+}

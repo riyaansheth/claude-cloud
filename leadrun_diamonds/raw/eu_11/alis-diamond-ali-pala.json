@@ -1,0 +1,42 @@
+{
+  "business": "ALİS DIAMOND - ALİ PALA",
+  "category_as_listed": "Borsa İstanbul - authorised trader, Kıymetli Madenler ve Kıymetli Taşlar Piyasası (Gerçek/Tüzel Kişi Kuyumcular)",
+  "phone": "+90 212 514 64 71",
+  "email": "info@alisdiamonds.com",
+  "email_source": "https://www.alisdiamonds.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Ali Pala",
+  "role": "Owner",
+  "contact_source": "https://borsaistanbul.com/uye-listesi/yetki-verilenlere-iliskin-bilgiler?authId=10",
+  "website": "https://www.alisdiamonds.com",
+  "address": "",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://borsaistanbul.com/uye-listesi/yetki-verilenlere-iliskin-bilgiler?authId=10",
+  "tel_numbers": [
+    "0533 596 0998"
+  ],
+  "tel_source": "https://www.alisdiamonds.com/",
+  "socials": [
+    "https://www.facebook.com/profile.php?id=100086380856437",
+    "https://www.instagram.com/alis_diamonds/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Borsa Istanbul"
+  ],
+  "hooks": [
+    "borsa-istanbul-diamond-market",
+    "gia",
+    "certified-stones"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Borsa İstanbul as an authorised trader on its precious metals & precious stones (diamond) market (operation code W3F); trade name contains PIRLANTA/DIAMOND/DEĞERLİ TAŞ. Sole proprietorship registered in the owner's name (Ali Pala). Site sells GIA-certified solitaire diamonds.",
+  "drop_reason": ""
+}

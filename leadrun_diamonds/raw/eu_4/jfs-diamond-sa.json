@@ -1,0 +1,38 @@
+{
+  "business": "JFS Diamond SA",
+  "category_as_listed": "Diamonds and coloured gemstones trader, cutter and/or polisher",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "Carouge (Geneva)",
+  "city": "Carouge",
+  "state": "CH",
+  "market": "Geneva, Switzerland",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/jfs-diamond-sa/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "polished-diamonds",
+    "family-owned",
+    "since-2014",
+    "diamond-consulting"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "RJC news release (via search): 'Swiss family-owned company founded in Geneva in 2014. Our main activity is the purchase and sale of polished diamonds and jewels'; trading office in Carouge. No website/phone found.",
+  "drop_reason": ""
+}

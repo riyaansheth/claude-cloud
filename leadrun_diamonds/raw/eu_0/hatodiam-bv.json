@@ -1,0 +1,36 @@
+{
+  "business": "Hatodiam BV",
+  "category_as_listed": "SBD member (Syndicate of the Belgian Diamond Industry)",
+  "phone": "+32 475 64 72 04",
+  "email": "janfranckx@telenet.be",
+  "email_source": "https://sbd.be/en/leden/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Jan Franckx",
+  "role": "Member",
+  "contact_source": "https://sbd.be/en/leden/",
+  "website": "",
+  "address": "",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://sbd.be/en/leden/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "SBD",
+    "RJC"
+  ],
+  "hooks": [
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "SBD (Belgian diamond manufacturers' syndicate) member list: 'High quality goods'",
+  "drop_reason": ""
+}

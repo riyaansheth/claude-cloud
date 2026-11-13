@@ -1,0 +1,33 @@
+{
+  "business": "S AND A DIAMONDS GREEK BRANCH",
+  "category_as_listed": "Εμπόριο Διαμαντιών",
+  "phone": "+30 210 322 7444",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "Gazi Anthimou 9, 10561",
+  "city": "Athens",
+  "state": "GR",
+  "market": "Athens, Greece",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.vrisko.gr/dir/polytimoi-lithoi/athina/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "diamond-trading"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "vrisko.gr lists it as 'Εμπόριο Διαμαντιών' (diamond trade). No website found.",
+  "drop_reason": ""
+}

@@ -1,0 +1,41 @@
+{
+  "business": "AMC-Choron",
+  "category_as_listed": "SBD member (Syndicate of the Belgian Diamond Industry)",
+  "phone": "+32 473 86 63 20",
+  "email": "peter@amcdiamonds.be",
+  "email_source": "https://sbd.be/en/leden/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Peter De Deyne",
+  "role": "Member",
+  "contact_source": "https://sbd.be/en/leden/",
+  "website": "https://www.amcdiamonds.be",
+  "address": "",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://sbd.be/en/leden/",
+  "tel_numbers": [
+    "+32 3 226 40 44",
+    "+32 3 232 05 44"
+  ],
+  "tel_source": "https://www.amcdiamonds.be/contact-us-en",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "SBD"
+  ],
+  "hooks": [
+    "manufacturer",
+    "cutter",
+    "natural",
+    "since-1988"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "SBD member list: 'round & fancy shapes (all sizes), fancy colors, hearts & arrows'; amcdiamonds.be: 'Headquartered in Antwerp since 1988, AMC is a manufacturer of a range of quality diamonds'",
+  "drop_reason": ""
+}

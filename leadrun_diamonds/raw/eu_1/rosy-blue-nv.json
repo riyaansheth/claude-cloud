@@ -1,0 +1,47 @@
+{
+  "business": "Rosy Blue NV",
+  "category_as_listed": "Sightholders",
+  "phone": "+32 3 206 16 00",
+  "email": "antwerp@rosyblue.com",
+  "email_source": "https://www.rosyblue.com/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Ravi Bhansali",
+  "role": "Managing Director",
+  "contact_source": "https://gss.debeersgroup.com/customer-directory/rosy-blue-nv (Antwerp sales contact); MD of Rosy Blue NV per theorg.com search result; AWDC board VP (https://www.awdc.be/board-directors)",
+  "website": "https://www.rosyblue.com",
+  "address": "Hoveniersstraat 53, Box 127, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://gss.debeersgroup.com/customer-directory/rosy-blue-nv",
+  "tel_numbers": [
+    "+32 3 206 16 00",
+    "+32 3 206 16 01"
+  ],
+  "tel_source": "https://www.rosyblue.com/contact/",
+  "socials": [
+    "https://www.facebook.com/rosybluediamonds",
+    "https://www.instagram.com/_rosyblue/"
+  ],
+  "building": "Diamond Exchange, Hoveniersstraat 53",
+  "suite": "Box 127",
+  "trade_memberships": [
+    "De Beers Sightholder"
+  ],
+  "hooks": [
+    "since-1960",
+    "rough",
+    "manufacturer",
+    "polished",
+    "jewellery-manufacturer",
+    "sightholder"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: rough trading, diamond manufacturing, polished diamonds and jewellery manufacturing for prestigious brands; Antwerp HQ.",
+  "drop_reason": "",
+  "enriched": true
+}

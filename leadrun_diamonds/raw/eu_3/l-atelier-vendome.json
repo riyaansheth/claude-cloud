@@ -1,0 +1,37 @@
+{
+  "business": "L'Atelier Vendôme",
+  "category_as_listed": "Jewellery and watch manufacturer and/or wholesaler",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.lateliervendome.com",
+  "address": "",
+  "city": "Paris",
+  "state": "FR",
+  "market": "Paris, France",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/latelier-vendome/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "manufacturer",
+    "haute-joaillerie",
+    "since-2011"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "RJC-certified high-jewellery workshop since 2011 serving the Grandes Maisons; run by Frédéric and Eric (former workshop heads of a major French house) — surnames not given; site has contact form only.",
+  "drop_reason": ""
+}

@@ -1,0 +1,43 @@
+{
+  "business": "S Weissbart",
+  "category_as_listed": "Bespoke Jeweller",
+  "phone": "020 7242 3288",
+  "email": "sales@diamonddealers.co.uk",
+  "email_source": "https://www.weissbart.co.uk",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Jonathan Weissbart",
+  "role": "Partner",
+  "contact_source": "https://www.weissbart.co.uk/our-story",
+  "website": "https://www.weissbart.co.uk",
+  "address": "86 Hatton Garden, London EC1N 8QQ",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [
+    "+442072423288",
+    "+441212360043"
+  ],
+  "tel_source": "https://www.weissbart.co.uk",
+  "socials": [
+    "https://www.facebook.com/s.weissbart/",
+    "https://www.instagram.com/s.weissbart/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse"
+  ],
+  "hooks": [
+    "family",
+    "diamond-dealers",
+    "since-1950s"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Family-owned diamond dealing business (founder Saul Weissbart, diamond polisher, LDB member) in Hatton Garden and Birmingham JQ; partners David & Jonathan Weissbart.",
+  "drop_reason": ""
+}

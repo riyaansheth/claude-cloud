@@ -1,0 +1,41 @@
+{
+  "business": "Premier Diamonds",
+  "category_as_listed": "",
+  "phone": "0121 212 9330",
+  "email": "sales@premierdiamonds.co.uk",
+  "email_source": "https://www.premierdiamonds.co.uk/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Matthew James Twigge",
+  "role": "Director",
+  "contact_source": "https://find-and-update.company-information.service.gov.uk/company/06772472/officers",
+  "website": "https://www.premierdiamonds.co.uk",
+  "address": "Suite 3206, Branston Court, Branston St, Birmingham B18 6BA",
+  "city": "Birmingham",
+  "state": "GB",
+  "market": "Birmingham, United Kingdom",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.thejewelleryquarter.org/business/premier-diamonds/",
+  "tel_numbers": [
+    "0121 212 9330"
+  ],
+  "tel_source": "https://www.premierdiamonds.co.uk/contact-us",
+  "socials": [
+    "https://twitter.com/premierdiamonds",
+    "https://www.facebook.com/PremierDiamondsLtd",
+    "https://www.instagram.com/premier.diamonds/"
+  ],
+  "building": "Branston Court",
+  "suite": "Suite 3206",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1980",
+    "manufacturer",
+    "family"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Manufacturing Diamond Jewellers Since 1980... family run diamond jewellery manufacturing and retail business'.",
+  "drop_reason": ""
+}

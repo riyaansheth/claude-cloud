@@ -1,0 +1,40 @@
+{
+  "business": "Diarough (Geneva) Ltd / Diarough Suisse Sàrl",
+  "category_as_listed": "Diamonds",
+  "phone": "+41 22 735 72 14",
+  "email": "info@ch.diarough.com",
+  "email_source": "https://diarough.com/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Tommaso Corsani",
+  "role": "Manager",
+  "contact_source": "https://gemgeneve.com/exposant/diarough/",
+  "website": "https://diarough.com",
+  "address": "4-6 Rue de la Scie, 1207 Geneva",
+  "city": "Geneva",
+  "state": "CH",
+  "market": "Geneva, Switzerland",
+  "lead_origin": "Trade Show",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://gemgeneve.com/exposant/diarough/",
+  "tel_numbers": [
+    "+41 22 7357214"
+  ],
+  "tel_source": "https://diarough.com/contact-us",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "manufacturer",
+    "rough-to-polished",
+    "antwerp-hq",
+    "global-supplier"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Geneva office of Diarough, a large diamond manufacturer (Antwerp HQ) supplying luxury brands and manufacturers; GemGenève contact Tommaso Corsani.",
+  "drop_reason": ""
+}

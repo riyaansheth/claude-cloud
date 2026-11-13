@@ -1,0 +1,37 @@
+{
+ "business": "Louis Vaugoin GmbH & Co KG",
+ "category_as_listed": "Juwelen, Gold- u Silberwaren / Erzeugung u Großhandel",
+ "phone": "+43 1 58766420",
+ "email": "office@louisvaugoin.com",
+ "email_source": "https://louisvaugoin.com/impressum.html",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "",
+ "role": "",
+ "contact_source": "",
+ "website": "https://louisvaugoin.com",
+ "address": "Esterhazygasse 21, 1060 Wien",
+ "city": "Vienna",
+ "state": "AT",
+ "market": "Vienna, Austria",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.herold.at/gelbe-seiten/wien/KlFMR/louis-vaugoin-gmbh-und-co-kg/",
+ "tel_numbers": [
+  "+43-1 587 66 42"
+ ],
+ "tel_source": "https://louisvaugoin.com/impressum.html",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "importer",
+  "wholesale",
+  "diamond-jewellery"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Import and wholesale of jewellery to retailers; own site shows a Brillantkollektion ('mindestens Steine der Farbstufe H/G und der Reinheit Vs bzw. Vvs') and 'Young Diamonds' collection.",
+ "drop_reason": ""
+}

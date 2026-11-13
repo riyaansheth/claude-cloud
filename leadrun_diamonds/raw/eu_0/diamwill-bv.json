@@ -1,0 +1,42 @@
+{
+  "business": "Diamwill BV",
+  "category_as_listed": "SBD member (Syndicate of the Belgian Diamond Industry)",
+  "phone": "+32 477 54 45 29",
+  "email": "paul@diamwill.com",
+  "email_source": "https://sbd.be/en/leden/",
+  "linkedin_url": "https://www.linkedin.com/in/paul-chieveley-williams-153803a7/",
+  "linkedin_source": "WebSearch extended: \"Paul Chieveley-Williams\" Diamwill LinkedIn (result title 'Paul Chieveley-Williams - Chief Executive Officer - Diamwill')",
+  "contact_person": "Paul Chieveley-Williams",
+  "role": "CEO",
+  "contact_source": "https://sbd.be/en/leden/",
+  "website": "https://diamwill.com",
+  "address": "",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://sbd.be/en/leden/",
+  "tel_numbers": [
+    "+32 3 233 47 00"
+  ],
+  "tel_source": "https://diamwill.com/contact/",
+  "socials": [
+    "https://www.instagram.com/diamwill"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "SBD",
+    "RJC"
+  ],
+  "hooks": [
+    "manufacturer",
+    "natural",
+    "fancy-color"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "SBD (Belgian diamond manufacturers' syndicate) member list: 'manufacturing and wholesale in polished colored diamonds'",
+  "drop_reason": ""
+}

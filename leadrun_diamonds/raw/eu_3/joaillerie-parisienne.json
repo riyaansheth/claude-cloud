@@ -1,0 +1,38 @@
+{
+  "business": "Joaillerie Parisienne",
+  "category_as_listed": "Jewellery and watch manufacturer and/or wholesaler",
+  "phone": "+33 1 42 85 02 02",
+  "email": "contact@joaillerieparisienne.com",
+  "email_source": "https://www.joaillerieparisienne.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Amélie Lacassin",
+  "role": "President",
+  "contact_source": "https://www.societe.com/societe/joaillerie-parisienne-529427379.html",
+  "website": "https://www.joaillerieparisienne.com",
+  "address": "",
+  "city": "Paris",
+  "state": "FR",
+  "market": "Paris, France",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/joaillerie-parisienne/",
+  "tel_numbers": [
+    "+33 1 42 85 02 02"
+  ],
+  "tel_source": "https://www.joaillerieparisienne.com/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "manufacturer",
+    "haute-joaillerie"
+  ],
+  "is_diamond_trade": false,
+  "scope_reason": "RJC-certified Paris high-jewellery manufacturer ('conseil, création et fabrication haute joaillerie'), member since 2015. Verif lists parent company Compagnie Financière Richemont SA (captive workshop of a global brand group) — dropped per brief's global-brand rule.",
+  "drop_reason": "chain"
+}

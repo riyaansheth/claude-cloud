@@ -1,0 +1,41 @@
+{
+  "business": "Hans D. Krieger GmbH & Co. KG",
+  "category_as_listed": "Diamantschleiferei / Schmuckmanufaktur",
+  "phone": "+49 6781 9490-0",
+  "email": "info@kriegernet.com",
+  "email_source": "https://www.kriegernet.com/impressum",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Andreas Krieger",
+  "role": "CEO",
+  "contact_source": "https://www.kriegernet.com/impressum",
+  "website": "https://www.kriegernet.com",
+  "address": "Hauptstrasse 128, 55743 Idar-Oberstein",
+  "city": "Idar-Oberstein",
+  "state": "DE",
+  "market": "Idar-Oberstein, Germany",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://bv-edelsteine-diamanten.de/mitgliederverzeichnis/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.instagram.com/hansdkrieger"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Diamant- und Edelsteinbörse Idar-Oberstein",
+    "Bundesverband der Edelstein- und Diamantindustrie"
+  ],
+  "hooks": [
+    "manufacturer",
+    "4th-generation",
+    "natural-colour-diamonds",
+    "diamond-jewellery"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "BV portrait: 'Die Schmuckmanufaktur Hans D. Krieger ist auf hochwertigen Diamantschmuck „Made in Germany“ spezialisiert, insbesondere mit naturfarbenen Diamanten'; Gelbe Seiten lists as Diamantschleiferei. Impressum Geschäftsführer: Andreas Krieger.",
+  "drop_reason": ""
+}

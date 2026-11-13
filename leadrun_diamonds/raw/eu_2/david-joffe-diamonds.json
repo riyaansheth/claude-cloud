@@ -1,0 +1,35 @@
+{
+  "business": "David Joffe Diamonds",
+  "category_as_listed": "Bespoke Jeweller",
+  "phone": "07802266093",
+  "email": "joffdiam@btinternet.com",
+  "email_source": "https://londondiamondbourse.com/directory/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "David Joffe",
+  "role": "Principal",
+  "contact_source": "https://londondiamondbourse.com/our-story/",
+  "website": "",
+  "address": "100 Hatton Garden, London EC1N 8NX",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "London Diamond Bourse, 100 Hatton Garden",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse"
+  ],
+  "hooks": [
+    "bourse-past-treasurer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "London Diamond Bourse member diamond firm; David Joffe listed as Bourse Past Treasurer.",
+  "drop_reason": ""
+}

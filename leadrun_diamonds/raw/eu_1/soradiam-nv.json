@@ -1,0 +1,39 @@
+{
+  "business": "Soradiam NV",
+  "category_as_listed": "RJC Member",
+  "phone": "+32 3 234 24 59",
+  "email": "concern@soradiam.com",
+  "email_source": "https://soradiam.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Shehul Zaveri",
+  "role": "Featured On About Page",
+  "contact_source": "https://soradiam.com/ (name shown on company page)",
+  "website": "https://soradiam.com",
+  "address": "Hoveniersstraat 2, Box 223, Room 448, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/soradiam-nv/",
+  "tel_numbers": [
+    "+32 3 234 24 59"
+  ],
+  "tel_source": "https://soradiam.com/",
+  "socials": [],
+  "building": "Hoveniersstraat 2",
+  "suite": "Room 448",
+  "trade_memberships": [
+    "RJC",
+    "KP",
+    "WDC SoW"
+  ],
+  "hooks": [
+    "rjc-certified-since-2012"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "RJC-certified Antwerp diamond business (KP & WDC System of Warranties compliance, conflict-diamond due diligence) at Hoveniersstraat 2. Email is a supply-chain concern address.",
+  "drop_reason": ""
+}

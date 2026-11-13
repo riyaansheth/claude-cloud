@@ -1,0 +1,42 @@
+{
+  "business": "Adiam NV",
+  "category_as_listed": "Diamonds Manufacturer",
+  "phone": "+32499388849",
+  "email": "adiam@skynet.be",
+  "email_source": "https://www.adiam.be/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.adiam.be",
+  "address": "Hoveniersstraat 30 bus 718/719, 2018 Antwerpen",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/files/RJC-Certifies_Adiam-NV_02.03.124.pdf",
+  "tel_numbers": [
+    "+32 3 201 17 40",
+    "+32 3 226 10 92"
+  ],
+  "tel_source": "https://www.adiam.be/",
+  "socials": [],
+  "building": "Hoveniersstraat 30",
+  "suite": "718/719",
+  "trade_memberships": [
+    "RJC",
+    "AWDC"
+  ],
+  "hooks": [
+    "since-1986",
+    "manufacturer",
+    "rough",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "RJC certification release: Adiam NV 'trades in and manufactures rough and polished diamonds' (Antwerp); AWDC directory lists fancy colour specialty",
+  "drop_reason": ""
+}

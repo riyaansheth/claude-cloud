@@ -1,0 +1,42 @@
+{
+  "business": "Prominence Diamonds",
+  "category_as_listed": "",
+  "phone": "02078673943",
+  "email": "ebrahim@prominencediamonds.com",
+  "email_source": "https://londondiamondbourse.com/directory/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Ebrahim Casim Patel",
+  "role": "Director",
+  "contact_source": "https://find-and-update.company-information.service.gov.uk/company/12229018/officers",
+  "website": "https://www.prominencediamonds.com",
+  "address": "100 Hatton Garden, London EC1N 8NX",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [
+    "+442078673943"
+  ],
+  "tel_source": "https://www.prominencediamonds.com",
+  "socials": [
+    "http://instagram.com/prominencediamonds",
+    "http://www.facebook.com/prominencediamonds"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse"
+  ],
+  "hooks": [
+    "gia-certified",
+    "loose-diamonds",
+    "trade-customers"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site title 'Diamond Wholesale', sources from diamond manufacturers worldwide, has 'Trade Customers' section; own-site email info@prominencediamonds.com.",
+  "drop_reason": ""
+}

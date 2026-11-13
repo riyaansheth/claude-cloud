@@ -1,0 +1,42 @@
+{
+  "business": "Taché Company NV",
+  "category_as_listed": "Sightholders",
+  "phone": "+32 3 234 18 18",
+  "email": "antwerp@groupetache.com",
+  "email_source": "https://www.awdc.be/antwerp-diamond-suppliers?page=1",
+  "linkedin_url": "https://www.linkedin.com/in/claude-beller-104a6773/",
+  "linkedin_source": "WebSearch extended: \"Claude Tache\" diamonds Antwerp LinkedIn (result \"Claude Beller - Taché Diamonds\", Belgium; theorg.com lists him VP Sales)",
+  "contact_person": "Claude Beller",
+  "role": "Vice President of Sales",
+  "contact_source": "https://theorg.com/org/tache-diamonds (search result)",
+  "website": "https://groupetache.com",
+  "address": "Hoveniersstraat 53, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.awdc.be/antwerp-diamond-suppliers?page=1",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "Diamond Exchange, Hoveniersstraat 53",
+  "suite": "",
+  "trade_memberships": [
+    "De Beers Sightholder",
+    "RJC"
+  ],
+  "hooks": [
+    "since-1957",
+    "manufacturer",
+    "melee",
+    "certified",
+    "exceptional-stones",
+    "sightholder",
+    "family-owned"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "AWDC Polished in Antwerp directory + De Beers sightholder; own site: melee 0.001-0.29ct, certified and exceptional diamonds, factories in Belgium/Botswana.",
+  "drop_reason": ""
+}

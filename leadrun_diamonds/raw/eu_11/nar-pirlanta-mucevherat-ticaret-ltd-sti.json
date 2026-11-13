@@ -1,0 +1,45 @@
+{
+  "business": "NAR PIRLANTA MÜCEVHERAT TİCARET LTD. ŞTİ.",
+  "category_as_listed": "Borsa İstanbul - authorised trader, Kıymetli Madenler ve Kıymetli Taşlar Piyasası (Gerçek/Tüzel Kişi Kuyumcular)",
+  "phone": "+90 505 624 84 00",
+  "email": "destek@bluediamond.com.tr",
+  "email_source": "https://www.bluediamond.com.tr/iletisim",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.bluediamond.com.tr",
+  "address": "Merkez Mah. 29 Ekim Caddesi Ladin Sokak No:34 Kat:4 Elmas Kule Bahçelievler İstanbul",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://borsaistanbul.com/uye-listesi/yetki-verilenlere-iliskin-bilgiler?authId=11",
+  "tel_numbers": [
+    "0212 514 66 55",
+    "+902125146660",
+    "0539 455 54 09"
+  ],
+  "tel_source": "https://www.bluediamond.com.tr/ https://www.bluediamond.com.tr/iletisim",
+  "socials": [
+    "https://www.facebook.com/bluediamondtr",
+    "https://www.instagram.com/bluediamondtr/",
+    "https://www.linkedin.com/company/bluediamond",
+    "https://x.com/bluediamondtr"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Borsa Istanbul"
+  ],
+  "hooks": [
+    "borsa-istanbul-diamond-market",
+    "exporter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Borsa İstanbul as an authorised trader on its precious metals & precious stones (diamond) market (operation code WS2); trade name contains PIRLANTA/DIAMOND/DEĞERLİ TAŞ. Site (bluediamond.com.tr): 'Blue Diamond, Türkiye'nin en büyük pırlanta ihracatçısıdır. Merkezi İstanbul'dadır.'",
+  "drop_reason": ""
+}

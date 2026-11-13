@@ -1,0 +1,38 @@
+{
+  "business": "Monnickendam Diamonds",
+  "category_as_listed": "",
+  "phone": "+44 020 7242 2333",
+  "email": "info@monnickendam.co.uk",
+  "email_source": "https://www.monnickendam.co.uk/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Arthur Monnickendam",
+  "role": "Director",
+  "contact_source": "https://find-and-update.company-information.service.gov.uk/company/03041702/officers",
+  "website": "https://www.monnickendam.co.uk",
+  "address": "9 Ely Place, London EC1N 6RY",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.monnickendam.co.uk/history/",
+  "tel_numbers": [
+    "+44 020 7242 2333"
+  ],
+  "tel_source": "https://www.monnickendam.co.uk/contact/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1890",
+    "loose-diamonds",
+    "certified-diamonds",
+    "importer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Experts in Loose and Certified Diamonds since 1890... one of the oldest and largest sellers of loose and certified diamonds in the UK'; head office Hatton Garden area.",
+  "drop_reason": ""
+}

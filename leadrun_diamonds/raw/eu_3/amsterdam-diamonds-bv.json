@@ -1,0 +1,48 @@
+{
+  "business": "Amsterdam Diamonds BV",
+  "category_as_listed": "Wholesale of watches and jewellery",
+  "phone": "020-369 40 50",
+  "email": "wim@amsterdamdiamonds.com",
+  "email_source": "https://shop.amsterdamdiamonds.com/en/contact-form",
+  "linkedin_url": "https://www.linkedin.com/in/wim-biesterveld-0682b494/",
+  "linkedin_source": "https://www.amsterdamdiamonds.com/ (linked from the business's own site footer)",
+  "contact_person": "Wim Biesterveld",
+  "role": "Owner",
+  "contact_source": "https://www.amsterdamdiamonds.com/",
+  "website": "https://www.amsterdamdiamonds.com",
+  "address": "Amsterdamse Diamantbeurs, Prof. W.H. Keesomlaan 12, 2e verd., 1183 DJ",
+  "city": "Amstelveen",
+  "state": "NL",
+  "market": "Amsterdam, Netherlands",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://shop.amsterdamdiamonds.com/en/contact-form",
+  "tel_numbers": [
+    "020-369 40 50",
+    "06-53 561 562"
+  ],
+  "tel_source": "https://www.amsterdamdiamonds.com/contact/",
+  "socials": [
+    "https://www.facebook.com/AmsterdamDiamonds"
+  ],
+  "building": "Amsterdamse Diamantbeurs",
+  "suite": "2e verdieping",
+  "trade_memberships": [
+    "Amsterdam Diamond Exchange",
+    "WFDB",
+    "GIA",
+    "HRD"
+  ],
+  "hooks": [
+    "5th-generation",
+    "since-1888",
+    "manufacturer",
+    "certified",
+    "natural",
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Member of the Amsterdamse Diamantbeurs and World Federation of Diamond Bourses; 5th-generation Biesterveld diamond family (since 1888), diamond cutting/setting, intermediary, own atelier, 'direct van de fabrikant', GIA & HRD certs. Owner Wim Biesterveld; mobile 06-53 561 562 differs from main line.",
+  "drop_reason": ""
+}

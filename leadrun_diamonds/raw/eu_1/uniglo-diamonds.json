@@ -1,0 +1,47 @@
+{
+  "business": "Uniglo Diamonds",
+  "category_as_listed": "RJC Member (Uniglo BV)",
+  "phone": "+32 3 500 91 07",
+  "email": "suraj@uniglodiamonds.com",
+  "email_source": "https://www.uniglodiamonds.com/about",
+  "linkedin_url": "https://www.linkedin.com/in/suraj-poddar-716b4657/",
+  "linkedin_source": "WebSearch extended: Uniglo Diamonds Antwerp Suraj founder LinkedIn (result title \"Suraj Poddar - Uniglo Diamonds\", Antwerp)",
+  "contact_person": "Suraj Poddar",
+  "role": "Founder",
+  "contact_source": "https://www.uniglojewels.com/our-story/ and uniglodiamonds.com (search results naming Suraj Poddar founder); suraj@ mailto on own site",
+  "website": "https://www.uniglodiamonds.com",
+  "address": "Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/uniglo-bv/",
+  "tel_numbers": [
+    "+32 3 500 91 07",
+    "+32 473 56 57 58"
+  ],
+  "tel_source": "https://www.uniglodiamonds.com/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC",
+    "RapNet",
+    "GIA",
+    "IGI"
+  ],
+  "hooks": [
+    "manufacturer",
+    "since-2001",
+    "lab-grown",
+    "natural",
+    "certified",
+    "wholesale",
+    "mobile"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: manufactures in own Antwerp facilities, sells certified natural and lab-grown diamonds wholesale/B2B, RapNet supplier.",
+  "drop_reason": ""
+}

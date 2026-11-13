@@ -1,0 +1,42 @@
+{
+  "business": "Pinkusewitz Diamond Traders",
+  "category_as_listed": "diamonds",
+  "phone": "+32 3 231 27 60",
+  "email": "info@pinkusewitz.com",
+  "email_source": "https://pinkusewitz.com/contact-us/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Eli Finkelstein",
+  "role": "Manager",
+  "contact_source": "https://gss.debeersgroup.com/customer-directory/dali-diamond-co (search result: contact for Pinkusewitz Diamond Traders NV); eli@selecteddiamond.com listed on https://pinkusewitz.com/contact-us/ for the HK affiliate",
+  "website": "https://pinkusewitz.com",
+  "address": "Diamond Bourse, Fifth floor, Pelikaanstraat 78, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bsearch.be/en/diamonds/",
+  "tel_numbers": [
+    "+32 3 231 27 60"
+  ],
+  "tel_source": "https://pinkusewitz.com/contact-us/",
+  "socials": [],
+  "building": "Beurs voor Diamanthandel",
+  "suite": "",
+  "trade_memberships": [
+    "RJC",
+    "DBGSS-certified"
+  ],
+  "hooks": [
+    "melee",
+    "small-rounds",
+    "rough-from-DTC-RioTinto",
+    "affiliate-Dali-Diamond-sightholder"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: Antwerp company specialising in small perfectly cut round diamonds, rough sourced from DTC/Rio Tinto; full range of assorted diamonds.",
+  "drop_reason": "",
+  "enriched": true
+}

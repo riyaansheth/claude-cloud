@@ -1,0 +1,46 @@
+{
+  "business": "Luc Vets Diamonds BV",
+  "category_as_listed": "RJC Member",
+  "phone": "+32 3 233 88 87",
+  "email": "info@lvdiamonds.net",
+  "email_source": "https://www.lvdiamonds.net/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Luc Vets",
+  "role": "Founder",
+  "contact_source": "https://www.lvdiamonds.net/company/ ('Luc Vets is a second generation diamantaire who founded his company'; contact page quote 'Luc Vets, Founder')",
+  "website": "https://www.lvdiamonds.net",
+  "address": "Diamantclub, Office 460, Pelikaanstraat 62, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/luc-vets-bv/",
+  "tel_numbers": [
+    "+32 3 233 88 87"
+  ],
+  "tel_source": "https://www.lvdiamonds.net/contact/",
+  "socials": [],
+  "building": "Diamantclub van Antwerpen",
+  "suite": "Office 460",
+  "trade_memberships": [
+    "RJC",
+    "Diamond Club of Antwerp"
+  ],
+  "hooks": [
+    "since-1970",
+    "2nd-generation",
+    "manufacturer",
+    "melee",
+    "single-cut",
+    "hearts-and-arrows",
+    "AGS-0",
+    "director-Wim-Ruythooren-email-wimruyt"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: Antwerp natural diamond manufacturer & supplier since 1970, rounds and single cuts .80mm to 1ct. Second address wimruyt@lvdiamonds.net also on contact page.",
+  "drop_reason": "",
+  "enriched": true
+}

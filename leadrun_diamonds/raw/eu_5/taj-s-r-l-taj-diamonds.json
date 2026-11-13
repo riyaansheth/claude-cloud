@@ -1,0 +1,41 @@
+{
+  "business": "Taj s.r.l. (Taj Diamonds)",
+  "category_as_listed": "",
+  "phone": "+39 0272093735",
+  "email": "info@tajdiamonds.it",
+  "email_source": "https://www.tajdiamonds.it/contatti",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.tajdiamonds.it",
+  "address": "Via Giuseppe Mazzini 16, 20123 Milano",
+  "city": "Milan",
+  "state": "IT",
+  "market": "Milan, Italy",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.europages.it/TAJ-SRL/SEAC005260368-001.html",
+  "tel_numbers": [
+    "+39 0272093735"
+  ],
+  "tel_source": "https://www.tajdiamonds.it/contatti",
+  "socials": [
+    "https://www.instagram.com/tajdiamonds/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "loose-diamonds",
+    "certified",
+    "buy-sell",
+    "valenza-office",
+    "vicenzaoro-exhibitor"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Buys and sells certified loose diamonds (Compra/Vendi/Catalogo/Misure pietre), Milan + Valenza (Via Mazzini 16) offices; Vicenzaoro exhibitor.",
+  "drop_reason": ""
+}

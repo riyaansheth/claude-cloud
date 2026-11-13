@@ -1,0 +1,40 @@
+{
+  "business": "Infinity Tree Diamonds",
+  "category_as_listed": "SBD member (Syndicate of the Belgian Diamond Industry)",
+  "phone": "+32 476/22 40 20",
+  "email": "info@infinitytreediamonds.be",
+  "email_source": "https://infinitytreediamonds.be/en/contact/",
+  "linkedin_url": "https://www.linkedin.com/in/johan-olieslagers-b2453554/",
+  "linkedin_source": "WebSearch extended: \"Johan Olieslagers\" diamond LinkedIn (result 'Johan Olieslagers - MANAGER Infinity Tree Group BV')",
+  "contact_person": "Johan Olieslagers",
+  "role": "Manager",
+  "contact_source": "https://sbd.be/en/leden/",
+  "website": "https://infinitytreediamonds.be",
+  "address": "",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://sbd.be/en/leden/",
+  "tel_numbers": [
+    "+32 476 22 40 20"
+  ],
+  "tel_source": "https://infinitytreediamonds.be/en/contact/",
+  "socials": [
+    "https://www.instagram.com/infinity_tree_diamonds/",
+    "https://www.facebook.com/profile.php?id=61552114180192"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "SBD"
+  ],
+  "hooks": [
+    "cutter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "SBD (Belgian diamond manufacturers' syndicate) member list: 'Fancy colors, repairs'",
+  "drop_reason": ""
+}

@@ -1,0 +1,45 @@
+{
+  "business": "BenGems SA",
+  "category_as_listed": "Expertises",
+  "phone": "+41 22 342 02 48",
+  "email": "emizrahi@bengems.com",
+  "email_source": "https://bengems.com/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Benjamin Mizrahi",
+  "role": "Founder",
+  "contact_source": "https://bengems.com/a-propos/creation-bijoux/",
+  "website": "https://bengems.com",
+  "address": "Rue du Marché 5, 1204 Genève",
+  "city": "Geneva",
+  "state": "CH",
+  "market": "Geneva, Switzerland",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.local.ch/fr/d/geneve/1204/expertises/bengems-sa-2YeprhhkqWdo4oaDJnpdIw",
+  "tel_numbers": [
+    "+41 22 342 02 48"
+  ],
+  "tel_source": "https://bengems.com/contact/",
+  "socials": [
+    "https://www.facebook.com/BengemsSa",
+    "https://www.instagram.com/bengems_jewelry",
+    "https://www.linkedin.com/company/bengems"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "HRD (trained)"
+  ],
+  "hooks": [
+    "gemologist-founder",
+    "bespoke",
+    "since-2011",
+    "in-house-workshop",
+    "diamonds-and-coloured-stones"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Gemologist-run Geneva atelier selling diamonds (white and coloured) and precious stones and making bespoke pieces in own workshop; local.ch also lists bmizrahi@bengems.com and mobile +41 79 247 08 58 (directory, not own site). LinkedIn /in/bengems/ seen but slug is the business name, so not recorded.",
+  "drop_reason": ""
+}

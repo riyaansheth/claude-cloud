@@ -1,0 +1,40 @@
+{
+  "business": "ROL PIRLANTA MÜCEVHERAT LTD. ŞTİ.",
+  "category_as_listed": "Borsa İstanbul - authorised trader, Kıymetli Madenler ve Kıymetli Taşlar Piyasası (Gerçek/Tüzel Kişi Kuyumcular)",
+  "phone": "+90 212 527 35 35",
+  "email": "info@rolpirlanta.com",
+  "email_source": "https://rolpirlanta.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://rolpirlanta.com",
+  "address": "",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://borsaistanbul.com/uye-listesi/yetki-verilenlere-iliskin-bilgiler?authId=10",
+  "tel_numbers": [
+    "+905411929502"
+  ],
+  "tel_source": "https://rolpirlanta.com/",
+  "socials": [
+    "https://www.instagram.com/rol.pirlanta/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Borsa Istanbul"
+  ],
+  "hooks": [
+    "borsa-istanbul-diamond-market",
+    "wholesale"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Borsa İstanbul as an authorised trader on its precious metals & precious stones (diamond) market (operation code W8D); trade name contains PIRLANTA/DIAMOND/DEĞERLİ TAŞ. Site (rolpirlanta.com/hakkimizda, per search result): supplies certified diamonds to jewellers across Turkey from its Kapalıçarşı/Nuruosmaniye office.",
+  "drop_reason": ""
+}

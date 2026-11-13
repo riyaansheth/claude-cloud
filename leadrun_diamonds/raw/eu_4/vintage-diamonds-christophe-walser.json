@@ -1,0 +1,39 @@
+{
+  "business": "Vintage Diamonds – Christophe Walser",
+  "category_as_listed": "Juweliergeschäft",
+  "phone": "+41 76 342 99 49",
+  "email": "walser@vintagediamonds.ch",
+  "email_source": "https://www.vintagediamonds.ch/contact/?lang=en",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Christophe Walser",
+  "role": "Owner",
+  "contact_source": "https://www.vintagediamonds.ch/?lang=en ('Christophe Walser, the owner, graduated from the GIA… Graduate Gemologist')",
+  "website": "https://www.vintagediamonds.ch",
+  "address": "",
+  "city": "Zurich",
+  "state": "CH",
+  "market": "Zurich, Switzerland",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.1stdibs.com/dealers/vintage-diamond-christophe-walser",
+  "tel_numbers": [
+    "+41 76 342 99 49"
+  ],
+  "tel_source": "https://www.vintagediamonds.ch/contact/?lang=en",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "gia-gg",
+    "estate-diamond-buyer",
+    "vintage-diamonds"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "GIA Graduate Gemologist owner who estimates and buys jewellery ('will estimate your jewellery and make you a fair offer') and sells vintage diamonds; appeared in Zurich diamond-dealer search (1stdibs dealer). Street address not shown on site.",
+  "drop_reason": ""
+}

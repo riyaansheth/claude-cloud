@@ -1,0 +1,44 @@
+{
+  "business": "Belgium Diamonds",
+  "category_as_listed": "Certified loose diamonds & jewellery (own site)",
+  "phone": "+32 475 50 01 95",
+  "email": "info@belgiumdiamonds.be",
+  "email_source": "https://belgiumdiamonds.be/contact-us/",
+  "linkedin_url": "https://www.linkedin.com/in/alain-zlayet-76072790/",
+  "linkedin_source": "WebSearch extended: \"Alain Zlayet\" Belgium Diamonds LinkedIn (profile lists 'Belgium Diamonds ceo Feb 2012 - Present')",
+  "contact_person": "Alain Zlayet",
+  "role": "CEO",
+  "contact_source": "https://belgiumdiamonds.be/belgium-diamonds-about-us/",
+  "website": "https://belgiumdiamonds.be",
+  "address": "Hoveniersstraat 2, ADC Building, office 322, 2018 Antwerpen",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://belgiumdiamonds.be/",
+  "tel_numbers": [
+    "+32 475 50 01 95",
+    "+32 485 24 28 65"
+  ],
+  "tel_source": "https://belgiumdiamonds.be/contact-us/",
+  "socials": [
+    "https://www.instagram.com/belgiumdiamonds/",
+    "https://www.facebook.com/share/1C8ipxcXkC/"
+  ],
+  "building": "Antwerpsche Diamantkring (ADC Building)",
+  "suite": "Office 322",
+  "trade_memberships": [
+    "AWDC",
+    "Antwerpsche Diamantkring"
+  ],
+  "hooks": [
+    "natural",
+    "certified",
+    "bourse"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "belgiumdiamonds.be: certified loose diamonds from ADC (rough bourse) building; owned by CEO Alain Zlayet, Executive Board Member of the Antwerp Rough Diamond Exchange",
+  "drop_reason": ""
+}

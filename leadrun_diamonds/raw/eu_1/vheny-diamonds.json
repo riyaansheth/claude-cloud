@@ -1,0 +1,45 @@
+{
+  "business": "VHENY Diamonds",
+  "category_as_listed": "diamonds",
+  "phone": "",
+  "email": "info@vheny.com",
+  "email_source": "https://vheny.com/company/contact/",
+  "linkedin_url": "https://www.linkedin.com/in/ben-auerbach-3668291a5/",
+  "linkedin_source": "WebSearch extended: \"Ben Auerbach\" Vheny diamonds Antwerp LinkedIn (result title \"Ben Auerbach - Director - VHENY Diamonds\", Antwerpen)",
+  "contact_person": "Ben Auerbach",
+  "role": "Founder",
+  "contact_source": "https://vheny.com/company/about/ ('Ben Auerbach Founder & Managing Director')",
+  "website": "https://vheny.com",
+  "address": "Hoveniersstraat 19, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bsearch.be/en/diamonds/",
+  "tel_numbers": [
+    "+32 (0) 477 88 90 19"
+  ],
+  "tel_source": "https://vheny.com/company/contact/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Antwerpsche Diamantkring",
+    "WFDB",
+    "GIA",
+    "HRD"
+  ],
+  "hooks": [
+    "fancy-colour",
+    "rough",
+    "polished",
+    "certified",
+    "wholesale-prices",
+    "whatsapp-mobile"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: independent Antwerp diamond house supplying polished and rough diamonds (GIA/HRD-certified fancy-colour and white), member of Antwerpsche Diamantkring and WFDB.",
+  "drop_reason": ""
+}

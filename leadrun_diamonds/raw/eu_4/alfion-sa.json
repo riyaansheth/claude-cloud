@@ -1,0 +1,33 @@
+{
+  "business": "Alfion SA",
+  "category_as_listed": "Taillerie de Pierres précieuses",
+  "phone": "+41 22 312 08 70",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "Rue Neuve-du-Molard 17, 1204 Genève",
+  "city": "Geneva",
+  "state": "CH",
+  "market": "Geneva, Switzerland",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.local.ch/fr/d/geneve/1204/taillerie-de-pierres-precieuses/alfion-sa-PJuq7IDYrYbY3uXujQ1hOQ",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "cutter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed as a precious-stone cutting works (taillerie) in Geneva; diamond line not confirmed (no website).",
+  "drop_reason": ""
+}

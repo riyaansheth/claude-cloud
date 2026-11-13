@@ -1,0 +1,45 @@
+{
+  "business": "J Shalev Diamonds",
+  "category_as_listed": "Antique",
+  "phone": "07900563551",
+  "email": "jacob@shalev.co.uk",
+  "email_source": "https://shalev.co.uk/contact/",
+  "linkedin_url": "https://www.linkedin.com/in/jacobmshalev/",
+  "linkedin_source": "https://www.shalev.co.uk (site link) + WebSearch extended: \"Jacob Shalev\" diamonds London LinkedIn",
+  "contact_person": "Jacob M Shalev",
+  "role": "Owner",
+  "contact_source": "https://www.linkedin.com/in/jacobmshalev/",
+  "website": "https://www.shalev.co.uk",
+  "address": "100 Hatton Garden, London EC1N 8NX",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [
+    "+44 7900 563 551",
+    "+44 207 404 4022"
+  ],
+  "tel_source": "https://www.shalev.co.uk",
+  "socials": [
+    "https://twitter.com/JShalevDiamonds",
+    "https://www.facebook.com/shalevdiamonds",
+    "https://www.instagram.com/jshalevdiamonds"
+  ],
+  "building": "London Diamond Bourse, 100 Hatton Garden",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse",
+    "WFDB"
+  ],
+  "hooks": [
+    "4th-generation",
+    "loose-diamonds",
+    "70-years"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'fourth generation family business... supplying diamonds to the finest diamond houses, jewellery designers and independent jewellers'; LDB & WFDB members.",
+  "drop_reason": ""
+}
