@@ -1,0 +1,41 @@
+{
+  "business": "Marlow's Diamonds",
+  "category_as_listed": "",
+  "phone": "01212364415",
+  "email": "hello@marlows-diamonds.co.uk",
+  "email_source": "https://marlows-diamonds.co.uk/visit-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://marlows-diamonds.co.uk",
+  "address": "46-47 Warstone Lane, Hockley, Birmingham B18 6JJ",
+  "city": "Birmingham",
+  "state": "GB",
+  "market": "Birmingham, United Kingdom",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.thejewelleryquarter.org/business/marlows-diamonds/",
+  "tel_numbers": [
+    "+44 (0) 121 236 4415",
+    "+44 7535 425059"
+  ],
+  "tel_source": "https://marlows-diamonds.co.uk/visit-us",
+  "socials": [
+    "https://www.facebook.com/MarlowsDiamonds",
+    "https://www.instagram.com/marlows_diamonds/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1951",
+    "gia-certified",
+    "3rd-generation"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: began as a diamond wholesaler in 1951; now GIA-certified diamond specialist with showrooms in Birmingham, London and Dubai.",
+  "drop_reason": ""
+}

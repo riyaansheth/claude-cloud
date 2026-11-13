@@ -1,0 +1,41 @@
+{
+  "business": "Classic Diamonds",
+  "category_as_listed": "",
+  "phone": "0121 554 8877",
+  "email": "sales@classicdiamonds.co.uk",
+  "email_source": "https://classicdiamonds.co.uk/pages/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Jon James Ross",
+  "role": "Director",
+  "contact_source": "https://find-and-update.company-information.service.gov.uk/company/04266227/officers",
+  "website": "https://classicdiamonds.co.uk",
+  "address": "16 Vyse Street, Birmingham B18 6LE",
+  "city": "Birmingham",
+  "state": "GB",
+  "market": "Birmingham, United Kingdom",
+  "lead_origin": "Building Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.thejewelleryquarter.org/business/classic-diamonds/",
+  "tel_numbers": [
+    "0121 554 8877"
+  ],
+  "tel_source": "https://classicdiamonds.co.uk/pages/contact-us",
+  "socials": [
+    "https://en-gb.facebook.com/classicdiamondsbirmingham/",
+    "https://www.instagram.com/classic_diamonds_birmingham/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "50-years",
+    "certificated-diamonds",
+    "family"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "JQ BID directory: family business 50+ years that 'specialise[s] in the manufacture and retail of diamond set jewellery and certificated diamond rings'.",
+  "drop_reason": ""
+}
