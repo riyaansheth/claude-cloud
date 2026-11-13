@@ -3,13 +3,13 @@
   "category_as_listed": "Diamond Jewellery Companies (Turkish Jewellery Exporters Association directory)",
   "phone": "+90212 519 16 57",
   "email": "info@diamera.net",
-  "email_source": "https://www.turkishjewellery.org/diamera",
+  "email_source": "https://diamera.net/",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Rafet Kazar",
   "role": "",
   "contact_source": "https://www.turkishjewellery.org/diamera",
-  "website": "",
+  "website": "https://diamera.net",
   "address": "",
   "city": "Istanbul",
   "state": "TR",
@@ -18,10 +18,13 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.turkishjewellery.org/diamera",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "+90 (212) 519 1657"
+  ],
+  "tel_source": "https://diamera.net/",
   "socials": [
-    "https://www.instagram.com/diamerajewellery"
+    "https://www.instagram.com/diamerajewellery",
+    "https://www.instagram.com/diamerajewellery/?hl=tr"
   ],
   "building": "",
   "suite": "",

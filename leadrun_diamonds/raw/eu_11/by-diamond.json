@@ -3,13 +3,13 @@
   "category_as_listed": "Diamond Jewellery Companies (Turkish Jewellery Exporters Association directory)",
   "phone": "+90 212 526 55 73",
   "email": "info@bydiamond.com.tr",
-  "email_source": "https://www.turkishjewellery.org/by-diamond",
+  "email_source": "https://bydiamond.com.tr/",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Tolga Yıldırımer",
   "role": "",
   "contact_source": "https://www.turkishjewellery.org/by-diamond",
-  "website": "",
+  "website": "https://bydiamond.com.tr",
   "address": "Molla Fenari Mah. Bab-ı Ali Cd. İstanbul Reklam Sitesi No:9 D:2 ,Fatih, İstanbul",
   "city": "Istanbul",
   "state": "TR",
@@ -18,10 +18,13 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.turkishjewellery.org/by-diamond",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "0549 619 89 79"
+  ],
+  "tel_source": "https://bydiamond.com.tr/",
   "socials": [
-    "https://www.instagram.com/bydiamondmucevherat"
+    "https://www.instagram.com/bydiamondmucevherat",
+    "https://www.instagram.com/bydiamondmucevherat/"
   ],
   "building": "",
   "suite": "",
