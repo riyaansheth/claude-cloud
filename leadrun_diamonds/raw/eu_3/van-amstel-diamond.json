@@ -2,8 +2,8 @@
   "business": "Van Amstel Diamond",
   "category_as_listed": "Groothandel in juwelen",
   "phone": "+31202447512",
-  "email": "contact@vanamsteldiamant.nl",
-  "email_source": "https://www.vanamsteldiamant.nl/contacts",
+  "email": "support@vanamsteldiamond.eu",
+  "email_source": "https://www.vanamsteldiamond.eu/contacts",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Niels van Amstel",
@@ -21,20 +21,22 @@
   "tel_numbers": [
     "+31202447512"
   ],
-  "tel_source": "https://www.vanamsteldiamant.nl/contacts",
+  "tel_source": "https://www.vanamsteldiamant.nl/contacts ; https://www.vanamsteldiamond.eu/contacts",
   "socials": [
     "https://www.facebook.com/vanamsteldiamond",
     "https://www.instagram.com/_vanamsteldiamond/"
   ],
   "building": "",
   "suite": "",
-  "trade_memberships": [],
+  "trade_memberships": [
+    "GIA"
+  ],
   "hooks": [
     "natural",
     "loose-diamonds",
     "manufacturer"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Described as a diamond trading company and jewellery manufacturer headquartered in Amsterdam; site sells loose natural diamonds and custom jewellery. Niels van Amstel named as key principal/director in D&B & trade article snippets.",
+  "scope_reason": "Described as a diamond trading company and jewellery manufacturer headquartered in Amsterdam; site sells loose natural diamonds and custom jewellery. Niels van Amstel named as key principal/director in D&B & trade article snippets. English site vanamsteldiamond.eu: GIA natural loose diamonds, viewings by appointment in Amsterdam and Zürich; Van Amstel Diamond BV, Herengracht 280, KvK 62680315; second email support@vanamsteldiamond.eu (contact@vanamsteldiamant.nl on the Dutch site).",
   "drop_reason": ""
 }
