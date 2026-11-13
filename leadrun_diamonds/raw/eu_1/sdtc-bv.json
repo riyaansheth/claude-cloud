@@ -1,0 +1,39 @@
+{
+  "business": "SDTC BV",
+  "category_as_listed": "Rio Tinto Select Diamantaire sales office (Dimexon group)",
+  "phone": "+32 3 226 70 27",
+  "email": "info@sdtc.be",
+  "email_source": "https://selectdiamantaire.com/diamantaires/dimexon-diamonds-ltd/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Olivier Azran",
+  "role": "Manager",
+  "contact_source": "https://selectdiamantaire.com/diamantaires/dimexon-diamonds-ltd/ ('SDTC BV Antwerp Mr. Olivier Azran')",
+  "website": "https://sdtc.be",
+  "address": "Hoveniersstraat 53, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://selectdiamantaire.com/diamantaires/dimexon-diamonds-ltd/",
+  "tel_numbers": [
+    "+32 3 226 70 27"
+  ],
+  "tel_source": "https://sdtc.be/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC",
+    "Rio Tinto Select Diamantaire"
+  ],
+  "hooks": [
+    "manufacturer-group",
+    "watch-and-jewellery-brands"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Antwerp sales office of Dimexon (one of the largest diamond manufacturers, supplying branded watch & jewellery industry); own site: RJC certified member.",
+  "drop_reason": ""
+}

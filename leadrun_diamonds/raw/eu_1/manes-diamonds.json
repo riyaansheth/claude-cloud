@@ -1,0 +1,37 @@
+{
+  "business": "Manes Diamonds",
+  "category_as_listed": "diamonds",
+  "phone": "+32 3 225 29 99",
+  "email": "info@manesdiamonds.com",
+  "email_source": "https://manesdiamonds.com/home/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://manesdiamonds.com",
+  "address": "Hoveniersstraat 50-52, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bsearch.be/en/diamonds/",
+  "tel_numbers": [
+    "+32 3 2252999"
+  ],
+  "tel_source": "https://manesdiamonds.com/home/contact-us",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "rough",
+    "natural",
+    "gem-and-industrial"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: Antwerp natural diamond company delivering rough natural stones for gem and industry clients worldwide.",
+  "drop_reason": ""
+}
