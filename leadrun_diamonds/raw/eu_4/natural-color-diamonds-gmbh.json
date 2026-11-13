@@ -1,0 +1,38 @@
+{
+  "business": "Natural Color Diamonds GmbH",
+  "category_as_listed": "Jewellery",
+  "phone": "+41 77 432 40 19",
+  "email": "info@naturalcolordiamonds.ch",
+  "email_source": "https://www.naturalcolordiamonds.ch/de/informationen/impressum",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.naturalcolordiamonds.ch",
+  "address": "Gewerbestrasse 9, 8132 Egg bei Zürich",
+  "city": "Egg bei Zürich",
+  "state": "CH",
+  "market": "Zurich, Switzerland",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.local.ch/en/d/egg-bei-zuerich/8132/jewellery/natural-color-diamonds-gmbh-x4oRU8oJjhapQrVMoaPDqQ",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.instagram.com/ncd_switzerland/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "natural-fancy-colour-diamonds",
+    "untreated",
+    "configurator",
+    "appointment-only"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: sells 'sehr seltene, einzigartige, unbehandelte, natürliche farbige Diamanten' with configurator; Zurich canton.",
+  "drop_reason": ""
+}

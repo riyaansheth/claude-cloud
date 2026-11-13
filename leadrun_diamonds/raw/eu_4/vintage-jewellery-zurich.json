@@ -1,0 +1,41 @@
+{
+  "business": "Vintage Jewellery (Hedley Prynn)",
+  "category_as_listed": "Jewellery",
+  "phone": "+41 79 675 75 54",
+  "email": "mail@vintage-jewellery.ch",
+  "email_source": "https://www.vintage-jewellery.ch/ (Cloudflare-protected, decoded from page HTML)",
+  "linkedin_url": "https://www.linkedin.com/in/hedley-prynn",
+  "linkedin_source": "https://www.local.ch/en/d/zurich/8001/jewellery/vintage-jewellery-obRHK4behLrc9yqO67ufJA (link on the business's directory listing)",
+  "contact_person": "Hedley Prynn",
+  "role": "Owner",
+  "contact_source": "https://www.vintage-jewellery.ch/about/ (review: 'advice from the owner, Hedley')",
+  "website": "https://www.vintage-jewellery.ch",
+  "address": "Fraumünsterstrasse 19, 8001 Zürich",
+  "city": "Zurich",
+  "state": "CH",
+  "market": "Zurich, Switzerland",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.local.ch/en/d/zurich/8001/jewellery/vintage-jewellery-obRHK4behLrc9yqO67ufJA",
+  "tel_numbers": [
+    "+41 44 210 48 81"
+  ],
+  "tel_source": "https://www.vintage-jewellery.ch/",
+  "socials": [
+    "https://www.facebook.com/vintagejewelleryzurich/",
+    "https://www.instagram.com/vintagejewelleryzurich/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "gemologist-owner",
+    "estate-diamond-buyer",
+    "vintage-engagement-rings",
+    "synthetic-detection-equipment"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Gemologist-run estate/vintage jewellery dealer that buys pieces from the public (reviews mention selling to Mr Prynn) and sells vintage diamond rings; tests for synthetic diamonds. Borderline retail; kept as estate-diamond buyer.",
+  "drop_reason": ""
+}
