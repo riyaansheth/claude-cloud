@@ -1,0 +1,36 @@
+{
+  "business": "Dev Jewels",
+  "category_as_listed": "WHOLESALE - IMPORT - EXPORT Rough & industrial diamonds",
+  "phone": "+32 3 22 66 817",
+  "email": "sales@dev-group.com",
+  "email_source": "https://www.dev-group.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Devendra Sanju Bhandari",
+  "role": "Manager",
+  "contact_source": "https://busibee.be/en/0436733887-dev-jewels",
+  "website": "https://www.dev-group.com",
+  "address": "Hoveniersstraat 2, Suite 723, Bus 505, 2018 Antwerpen",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://busibee.be/en/0436733887-dev-jewels",
+  "tel_numbers": [
+    "+32 3 22 66 817"
+  ],
+  "tel_source": "https://www.dev-group.com/",
+  "socials": [],
+  "building": "",
+  "suite": "Suite 723",
+  "trade_memberships": [],
+  "hooks": [
+    "rough",
+    "importer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "dev-group.com: DEV JEWELS B.V.B.A., Hoveniersstraat 2 Antwerp; Kompass: 'WHOLESALE - IMPORT - EXPORT Rough & industrial diamonds'",
+  "drop_reason": ""
+}

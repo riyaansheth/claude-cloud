@@ -2,15 +2,15 @@
   "business": "A.D.M. Antwerp BV",
   "category_as_listed": "SBD member (Syndicate of the Belgian Diamond Industry)",
   "phone": "+32 488 81 74 66",
-  "email": "gagik@live.be",
-  "email_source": "https://sbd.be/en/leden/",
+  "email": "info@admantwerp.com",
+  "email_source": "https://busibee.be/en/0798685627-avetisyan-diamond-manufacturing-antwerp",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Gagik Avetisyan",
-  "role": "Member",
+  "role": "Manager",
   "contact_source": "https://sbd.be/en/leden/",
   "website": "",
-  "address": "",
+  "address": "Pelikaanstraat 78 72, 2018 Antwerpen",
   "city": "Antwerp",
   "state": "BE",
   "market": "Antwerp, Belgium",
@@ -32,6 +32,6 @@
     "rough"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "SBD (Belgian diamond manufacturers' syndicate) member list: 'study, measurement, planning, polishing/repolishing of rough and polished diamonds (especially larger sizes)'",
+  "scope_reason": "SBD list: 'study, measurement, planning, polishing/repolishing of rough and polished diamonds (especially larger sizes)'; busibee: Avetisyan Diamond Manufacturing Antwerp, director Gagik Avetisyan",
   "drop_reason": ""
 }
