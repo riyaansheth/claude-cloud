@@ -4,11 +4,11 @@
   "phone": "+32 3 233 78 91",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/sohil-jhaveri-0584b540/",
+  "linkedin_source": "WebSearch extended: \"Sauraj Diamonds\" Antwerp LinkedIn",
+  "contact_person": "Sohil Jhaveri",
+  "role": "Director",
+  "contact_source": "LinkedIn result title \"Sohil Jhaveri - Director - Sauraj Diamonds\" (Antwerp)",
   "website": "https://saurajdiamonds.com",
   "address": "Hoveniersstraat 2, Room 348, P.B. 316, 2018 Antwerp",
   "city": "Antwerp",
@@ -35,5 +35,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: Antwerp diamond trading company, certified RJC member, KP/WDC compliant, discloses diamond quality (weight, clarity, colour).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

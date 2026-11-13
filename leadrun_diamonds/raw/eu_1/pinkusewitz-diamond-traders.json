@@ -6,9 +6,9 @@
   "email_source": "https://pinkusewitz.com/contact-us/",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Eli Finkelstein",
+  "role": "Manager",
+  "contact_source": "https://gss.debeersgroup.com/customer-directory/dali-diamond-co (search result: contact for Pinkusewitz Diamond Traders NV); eli@selecteddiamond.com listed on https://pinkusewitz.com/contact-us/ for the HK affiliate",
   "website": "https://pinkusewitz.com",
   "address": "Diamond Bourse, Fifth floor, Pelikaanstraat 78, 2018 Antwerp",
   "city": "Antwerp",
@@ -37,5 +37,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: Antwerp company specialising in small perfectly cut round diamonds, rough sourced from DTC/Rio Tinto; full range of assorted diamonds.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

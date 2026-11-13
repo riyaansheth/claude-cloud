@@ -4,11 +4,11 @@
   "phone": "+32 3 231 36 57",
   "email": "info@simonigems.com",
   "email_source": "https://www.simonigems.com/simoni-gems/contact-us.aspx",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/kalpesh-b-shah-a275827a/",
+  "linkedin_source": "WebSearch extended: \"Simoni Gems\" Antwerp LinkedIn",
+  "contact_person": "Kalpesh B. Shah",
+  "role": "Member",
+  "contact_source": "LinkedIn result title \"kalpesh.B. Shah - SIMONI GEMS\" (Antwerp; profile describes the firm's marquise/pear specialisation)",
   "website": "https://www.simonigems.com",
   "address": "Antwerp",
   "city": "Antwerp",
@@ -41,5 +41,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: major wholesaler of fancy shaped diamonds (marquise, pear, oval) .05-2ct, certified (GIA/IGI) and non-certified, to retailers worldwide.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

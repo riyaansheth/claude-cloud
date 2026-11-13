@@ -36,9 +36,11 @@
     "melee",
     "single-cut",
     "hearts-and-arrows",
-    "AGS-0"
+    "AGS-0",
+    "director-Wim-Ruythooren-email-wimruyt"
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: Antwerp natural diamond manufacturer & supplier since 1970, rounds and single cuts .80mm to 1ct. Second address wimruyt@lvdiamonds.net also on contact page.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

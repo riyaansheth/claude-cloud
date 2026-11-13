@@ -6,9 +6,9 @@
   "email_source": "http://mackiediamonds.com/",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Ali Mackie",
+  "role": "CEO",
+  "contact_source": "D&B key principal / clay.earth profile (search results: 'Ali Mackie ... CEO of Mackie Diamonds', Antwerp)",
   "website": "http://mackiediamonds.com",
   "address": "Hoveniersstraat 2, 2018 Antwerp",
   "city": "Antwerp",
@@ -29,5 +29,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Listed in AWDC 'Polished in Antwerp' supplier directory (diamonds polished in Antwerp).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

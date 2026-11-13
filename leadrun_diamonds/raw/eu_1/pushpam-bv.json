@@ -6,9 +6,9 @@
   "email_source": "https://www.pushpambvba.com/contact",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Stavan Shah",
+  "role": "Director",
+  "contact_source": "https://www.linkedin.com/company/pushpam-bvba (search result: company page lists Stavan Shah as Director)",
   "website": "https://www.pushpambvba.com",
   "address": "Suites 907-909, Hoveniersstraat 53, 2018 Antwerp",
   "city": "Antwerp",
@@ -37,5 +37,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: trusted diamond partner to diamond distribution houses, fine jewellery Maisons and watch brands; manufacturing and inventory pages; 40+ years.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

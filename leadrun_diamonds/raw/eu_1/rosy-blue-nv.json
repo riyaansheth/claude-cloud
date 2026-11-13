@@ -7,8 +7,8 @@
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Ravi Bhansali",
-  "role": "Manager",
-  "contact_source": "https://gss.debeersgroup.com/customer-directory/rosy-blue-nv (Antwerp sales office contact)",
+  "role": "Managing Director",
+  "contact_source": "https://gss.debeersgroup.com/customer-directory/rosy-blue-nv (Antwerp sales contact); MD of Rosy Blue NV per theorg.com search result; AWDC board VP (https://www.awdc.be/board-directors)",
   "website": "https://www.rosyblue.com",
   "address": "Hoveniersstraat 53, Box 127, 2018 Antwerp",
   "city": "Antwerp",
@@ -42,5 +42,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: rough trading, diamond manufacturing, polished diamonds and jewellery manufacturing for prestigious brands; Antwerp HQ.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

@@ -4,11 +4,11 @@
   "phone": "+32 475 71 03 90",
   "email": "anuj@shamasbvba.com",
   "email_source": "https://shamasbvba.com/ (schema.org LocalBusiness data)",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/anuj-sahny-2b13387a/",
+  "linkedin_source": "WebSearch extended: \"Shamas\" BV diamonds Antwerp Anuj LinkedIn (result title \"Anuj Sahny - Shamas bv\", Antwerp)",
+  "contact_person": "Anuj Sahny",
+  "role": "Owner",
+  "contact_source": "https://shamasbvba.com/ (anuj@ contact; search result: site says Anuj Sahny leads Shamas BV); LinkedIn \"Anuj Sahny - Shamas bv\"",
   "website": "https://shamasbvba.com",
   "address": "Hoveniersstraat 30, 2018 Antwerp",
   "city": "Antwerp",
@@ -37,5 +37,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "Own site: 'Antwerp-based B2B supplier of ethically sourced, traceable, conflict-free natural diamonds since 1980'.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }
