@@ -1,0 +1,39 @@
+{
+  "business": "Sauraj Diamonds NV",
+  "category_as_listed": "RJC Member",
+  "phone": "+32 3 233 78 91",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://saurajdiamonds.com",
+  "address": "Hoveniersstraat 2, Room 348, P.B. 316, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/sauraj-diamonds-nv/",
+  "tel_numbers": [
+    "+32 3 233 78 91"
+  ],
+  "tel_source": "https://saurajdiamonds.com/",
+  "socials": [],
+  "building": "Hoveniersstraat 2",
+  "suite": "Room 348",
+  "trade_memberships": [
+    "RJC",
+    "KP",
+    "WDC SoW"
+  ],
+  "hooks": [
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: Antwerp diamond trading company, certified RJC member, KP/WDC compliant, discloses diamond quality (weight, clarity, colour).",
+  "drop_reason": ""
+}

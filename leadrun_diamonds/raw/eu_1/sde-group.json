@@ -1,0 +1,49 @@
+{
+  "business": "SDE Group",
+  "category_as_listed": "RJC Member (SDE Group BVBA)",
+  "phone": "+32 486 222 005",
+  "email": "alon@sdegroup.com",
+  "email_source": "https://www.sdegroup.com/contact-us-en",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Alon",
+  "role": "",
+  "contact_source": "https://www.sdegroup.com/contact-us-en ('+32 486 222 005 (Alon in Belgium)')",
+  "website": "https://www.sdegroup.com",
+  "address": "Hoveniersstraat 2, Office 242, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/sde-group-bvba/",
+  "tel_numbers": [
+    "+32 486 222 005",
+    "+39 340 915 2275",
+    "+33 756810963"
+  ],
+  "tel_source": "https://www.sdegroup.com/contact-us-en",
+  "socials": [
+    "https://www.facebook.com/SDEGroup.Diamonds/",
+    "https://www.instagram.com/sde_group_diamonds_/"
+  ],
+  "building": "",
+  "suite": "Office 242",
+  "trade_memberships": [
+    "RJC",
+    "GIA",
+    "IGI",
+    "HRD"
+  ],
+  "hooks": [
+    "manufacturer",
+    "wholesale",
+    "certified",
+    "family-business",
+    "mobile"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: leading producer and distributor of polished diamonds, manufacturing centers worldwide, wholesale GIA/IGI/HRD certified diamonds to retailers.",
+  "drop_reason": ""
+}

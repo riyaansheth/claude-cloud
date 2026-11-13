@@ -1,0 +1,41 @@
+{
+  "business": "Shamas BV",
+  "category_as_listed": "RJC Member",
+  "phone": "+32 475 71 03 90",
+  "email": "anuj@shamasbvba.com",
+  "email_source": "https://shamasbvba.com/ (schema.org LocalBusiness data)",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://shamasbvba.com",
+  "address": "Hoveniersstraat 30, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/shamas-bv/",
+  "tel_numbers": [
+    "+32475710390"
+  ],
+  "tel_source": "https://shamasbvba.com/",
+  "socials": [
+    "https://www.instagram.com/shamasbvba/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "since-1980",
+    "natural",
+    "B2B"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Antwerp-based B2B supplier of ethically sourced, traceable, conflict-free natural diamonds since 1980'.",
+  "drop_reason": ""
+}
