@@ -6,9 +6,9 @@
   "email_source": "https://brilliantstar.be/contact-us/",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Anandkumar Dugar",
+  "role": "Manager",
+  "contact_source": "https://b2bhint.com/en/company/be/brilliant-star-bvba--0467.219.702",
   "website": "https://brilliantstar.be",
   "address": "Hoveniersstraat 2, Office 809, 2018 Antwerpen",
   "city": "Antwerp",
@@ -33,7 +33,9 @@
     "3rd-generation",
     "manufacturer",
     "importer",
-    "rough"
+    "rough",
+    "de-beers-sightholder",
+    "fancy-color"
   ],
   "is_diamond_trade": true,
   "scope_reason": "brilliantstar.be: 'We are the third generation diamond manufacturers'; importing, processing and exporting diamonds, rough sourced directly from the mines",
