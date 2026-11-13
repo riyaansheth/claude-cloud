@@ -4,11 +4,11 @@
   "phone": "+49 7231 1434-0",
   "email": "daniel.polito@egf.biz",
   "email_source": "https://www.egf.biz/kontakt/index.php",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Daniel Polito",
-  "role": "Manager",
-  "contact_source": "https://www.egf.biz/kontakt/index.php",
+  "linkedin_url": "https://www.linkedin.com/in/frank-walz-2216344b/",
+  "linkedin_source": "WebSearch extended: \"Frank Walz\" OR \"Stefan Schiffer\" egf Eduard G. Fidel LinkedIn (result title: Frank Walz - egf Manufaktur)",
+  "contact_person": "Frank Walz",
+  "role": "CEO",
+  "contact_source": "https://www.egf.biz/kontakt/impressum.php",
   "website": "https://www.egf.biz",
   "address": "Reutlinger Straße 8, 75179 Pforzheim",
   "city": "Pforzheim",
@@ -42,6 +42,6 @@
     "sells-via-jewellers"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Site: 'Die Spezialisten für Trauringe, Verlobungsringe und Memoireringe' (diamond memoire/engagement rings, 'Der blaue Brillant') made in Pforzheim and sold via partner jewellers. Daniel Polito is the Vertrieb (sales) contact with mobile +49 160 6916559; Impressum gesetzliche Vertreter: Frank Walz, Nick Binder, Stefan Schiffer.",
+  "scope_reason": "Site: 'Die Spezialisten für Trauringe, Verlobungsringe und Memoireringe' (diamond memoire/engagement rings, 'Der blaue Brillant') made in Pforzheim and sold via partner jewellers. Daniel Polito is the Vertrieb (sales) contact with mobile +49 160 6916559; Impressum gesetzliche Vertreter (contact_person): Frank Walz, Nick Binder, Stefan Schiffer.",
   "drop_reason": ""
 }

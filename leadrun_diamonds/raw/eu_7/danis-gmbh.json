@@ -1,0 +1,36 @@
+{
+  "business": "Danis GmbH",
+  "category_as_listed": "",
+  "phone": "07234-6106",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Haim Nissim",
+  "role": "Owner",
+  "contact_source": "https://www.springdiam.com/about-us",
+  "website": "",
+  "address": "Uhlandstr. 2, 75233 Tiefenbronn",
+  "city": "Tiefenbronn",
+  "state": "DE",
+  "market": "Pforzheim, Germany",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://diamant-edelstein-boerse.de/mitgliederverzeichnis-liste/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Diamant- und Edelsteinbörse Idar-Oberstein"
+  ],
+  "hooks": [
+    "dealer",
+    "50-years"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Bourse member 'Nissim, Haim - Danis GmbH, Tiefenbronn' (next to Pforzheim); Spring Diam site: 'Danis GmbH - A well-established diamond business located in Germany for over 50 years, owned by Mr. Haim Nissim'. No own website found.",
+  "drop_reason": ""
+}
