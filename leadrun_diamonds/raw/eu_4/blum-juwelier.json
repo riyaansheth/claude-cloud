@@ -1,0 +1,39 @@
+{
+  "business": "Blum Juwelier",
+  "category_as_listed": "Juwelier / Manufaktur",
+  "phone": "+41 44 211 05 83",
+  "email": "mail@blumjuwelier.ch",
+  "email_source": "https://www.blumjuwelier.ch/CMS/de-CH/Allgemein/Kontakt.aspx",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Bernhard Blum",
+  "role": "Owner",
+  "contact_source": "https://www.blumjuwelier.ch/ ('Bernhard Blum I Gemmologe GIA Blum Juwelier')",
+  "website": "https://www.blumjuwelier.ch",
+  "address": "Pelikanplatz 15, 8001 Zürich",
+  "city": "Zurich",
+  "state": "CH",
+  "market": "Zurich, Switzerland",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.blumjuwelier.ch/",
+  "tel_numbers": [
+    "+41 44 211 05 83"
+  ],
+  "tel_source": "https://www.blumjuwelier.ch/CMS/de-CH/Allgemein/Kontakt.aspx",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "gia-gg",
+    "own-manufaktur",
+    "bespoke-diamond-jewellery"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "GIA-gemologist-owned jeweller with own Manufaktur making individual diamond pieces (site lists e.g. '…ct TW VVS' creations); borderline retail, kept as maker sourcing own stones. 044 211 05 87 is fax.",
+  "drop_reason": ""
+}

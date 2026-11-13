@@ -1,0 +1,48 @@
+{
+  "business": "Diamond Online (Diamondonline House of Diamonds)",
+  "category_as_listed": "Diamonds at the stock exchange price",
+  "phone": "+41 78 692 78 78",
+  "email": "diamondonline.zurich@gmail.com",
+  "email_source": "https://diamondonline.com/en/",
+  "linkedin_url": "https://www.linkedin.com/in/nicolas-david-karouni-6a458996/",
+  "linkedin_source": "WebSearch extended: \"Nicolas Karouni\" OR \"Nicolas David Karouni\" diamonds Zurich LinkedIn (profile \"Nicolas David KAROUNI\", posts about Diamond Online)",
+  "contact_person": "Nicolas David Karouni",
+  "role": "CEO",
+  "contact_source": "https://diamondonline.com/en/ ('Our CEO and President Nicolas David Karouni has over 25 years of experience as a gemologist')",
+  "website": "https://diamondonline.com",
+  "address": "Kuttelgasse 4, 8001 Zürich",
+  "city": "Zurich",
+  "state": "CH",
+  "market": "Zurich, Switzerland",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://diamondonline.com/en/",
+  "tel_numbers": [
+    "+41 78 692 78 78",
+    "+41 44 222 27 77",
+    "+33 6 07 07 08 08",
+    "+33 1 45 74 21 99"
+  ],
+  "tel_source": "https://diamondonline.com/en/contact-us/",
+  "socials": [
+    "https://www.instagram.com/diamondonline__boutique/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA",
+    "HRD"
+  ],
+  "hooks": [
+    "bourse-prices",
+    "B2B-wholesale (Andkstone)",
+    "buys-diamonds",
+    "GIA-certified-only",
+    "gemologist-CEO",
+    "Paris-office"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: 'We also sell diamonds in wholesale to diamond dealers and small businesses (Andkstone, B2B)'; sells GIA-certified loose diamonds at bourse price and buys diamonds. Email is a Gmail address published by the business itself.",
+  "drop_reason": ""
+}
