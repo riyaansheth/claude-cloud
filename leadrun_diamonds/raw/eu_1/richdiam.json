@@ -1,0 +1,39 @@
+{
+  "business": "Richdiam",
+  "category_as_listed": "diamonds",
+  "phone": "03 232 93 12",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://richdiam.com",
+  "address": "Hoveniersstraat 30, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bsearch.be/en/diamonds/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://instagram.com/richdiam.inc"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "fancy-colour",
+    "since-1989",
+    "2nd-generation",
+    "family-owned",
+    "antwerp-newyork-hongkong"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: established 1989 in Antwerp as a diamond trading enterprise, expertise in natural fancy coloured diamonds, own GIA-certified polishers.",
+  "drop_reason": ""
+}
