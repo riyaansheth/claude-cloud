@@ -6,11 +6,11 @@
   "email_source": "https://www.calleghergioielli.com/contatti/",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Flaviano Callegher",
+  "role": "Owner",
+  "contact_source": "https://www.archiviorafivalenza.it/callegher",
   "website": "https://www.calleghergioielli.com",
-  "address": "",
+  "address": "Via Giovanni Valeriani 8, 15048 Valenza (AL)",
   "city": "Valenza",
   "state": "IT",
   "market": "Valenza, Italy",
@@ -19,10 +19,13 @@
   "reviews": "",
   "source_url": "https://www.responsiblejewellery.com/member/callegher-gioielli/",
   "tel_numbers": [
-    "0131 924446"
+    "0131 924446",
+    "+39 0131 951031"
   ],
-  "tel_source": "https://www.calleghergioielli.com/contatti/",
-  "socials": [],
+  "tel_source": "https://www.calleghergioielli.com/contatti/ https://valentina-callegher.com/contatti/",
+  "socials": [
+    "https://www.instagram.com/valentinacallegher/"
+  ],
   "building": "",
   "suite": "",
   "trade_memberships": [

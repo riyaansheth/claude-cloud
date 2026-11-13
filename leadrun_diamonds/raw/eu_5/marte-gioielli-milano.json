@@ -1,0 +1,39 @@
+{
+  "business": "Marte Gioielli Milano",
+  "category_as_listed": "Gioielleria",
+  "phone": "3332385008",
+  "email": "info@martegioielli.com",
+  "email_source": "https://martegioiellimilano.com/contattaci",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://martegioiellimilano.com",
+  "address": "Via C. Mangili 2, 20121 Milano",
+  "city": "Milan",
+  "state": "IT",
+  "market": "Milan, Italy",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.matrimonio.com/gioielleria/marte-gioielli--e400957",
+  "tel_numbers": [
+    "3332385008",
+    "3336597600"
+  ],
+  "tel_source": "https://martegioiellimilano.com/contattaci",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "importer",
+    "antwerp-bourse",
+    "bridal",
+    "55-plus-years"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Described (matrimonio.com) as a direct diamond importer based in Milan and at the Antwerp Diamond Bourse for over 55 years; sells diamond solitaires/eternity by carat online.",
+  "drop_reason": ""
+}
