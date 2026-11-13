@@ -7,9 +7,9 @@
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Metin Yalçınkaya",
-  "role": "",
-  "contact_source": "https://www.turkishjewellery.org/yilmazfinejewellery",
-  "website": "",
+  "role": "Founder",
+  "contact_source": "https://yilmazfinejewellery.com/",
+  "website": "https://yilmazfinejewellery.com",
   "address": "Beyazıt, Kalpakçılar Cd. No:142, 34126 Fatih/İstanbul ,Fatih, İstanbul",
   "city": "Istanbul",
   "state": "TR",
@@ -31,9 +31,11 @@
   ],
   "hooks": [
     "manufacturer",
-    "exporter"
+    "exporter",
+    "since-1960s",
+    "grand-bazaar"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Listed by Türkiye Jewellery Exporters Association (turkishjewellery.org) under DIAMOND JEWELLERY COMPANIES - Istanbul diamond jewellery manufacturer/exporter. About: YILMAZ FINE JEWELLERY Ours is the story of a half-century-old passion that has been passed on from father to son, growing from generation to generation. It all started in the 1960s with a small",
+  "scope_reason": "Listed by Türkiye Jewellery Exporters Association (turkishjewellery.org) under DIAMOND JEWELLERY COMPANIES - Istanbul diamond jewellery manufacturer/exporter. About: YILMAZ FINE JEWELLERY Ours is the story of a half-century-old passion that has been passed on from father to son, growing from generation to generation. It all started in the 1960s with a small | Site: Grand Bazaar family workshop since the 1960s, grew through Metin Yalçınkaya's passion for precious stones; 18K diamond jewellery, Ka",
   "drop_reason": ""
 }
