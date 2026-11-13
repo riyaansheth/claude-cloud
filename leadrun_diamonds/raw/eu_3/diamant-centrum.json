@@ -19,10 +19,11 @@
   "reviews": "",
   "source_url": "https://www.liza.nl/en/95723307/diamant-centrum",
   "tel_numbers": [
-    "+31 20 - 697 4418",
+    "+31 20 697 4418",
+    "+31 6 42 89 79 00",
     "+31621357062"
   ],
-  "tel_source": "https://www.diamondfactoryholland.nl/en/",
+  "tel_source": "https://www.diamondfactoryholland.nl/en/ ; https://diamantcentrumamsterdam.nl/pages/contact",
   "socials": [
     "https://www.facebook.com/DiamantCentrumAmstelveen/"
   ],
@@ -39,6 +40,6 @@
     "antique-diamonds"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Diamant Centrum BV (est. 1992, Keesomlaan 12 = Amsterdam Diamond Exchange) trading as Diamond Factory Holland: trades at the Amsterdam Diamond Bourse, carries WFDB mark, buys diamonds/gems/jewellery; 1stDibs 'Diamond Center Amsterdam' (Amstelveen 1183 DJ) shows same owner-manager text and sells antique Amsterdam-cut diamonds. WhatsApp +31621357062 differs from main line. Also buys old gold (secondary).",
+  "scope_reason": "Diamant Centrum BV (est. 1992, Keesomlaan 12 = Amsterdam Diamond Exchange) trading as Diamond Factory Holland: trades at the Amsterdam Diamond Bourse, carries WFDB mark, buys diamonds/gems/jewellery; 1stDibs 'Diamond Center Amsterdam' (Amstelveen 1183 DJ) shows same owner-manager text and sells antique Amsterdam-cut diamonds. WhatsApp +31621357062 differs from main line. Also buys old gold (secondary). Also trades online as Diamant Centrum Amsterdam (diamantcentrumamsterdam.nl, info@diamantcentrumamsterdam.nl, mobile +31 6 42 89 79 00).",
   "drop_reason": ""
 }

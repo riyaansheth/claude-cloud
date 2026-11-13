@@ -1,0 +1,41 @@
+{
+  "business": "The Mill Diamonds",
+  "category_as_listed": "Juwelier, diamant expert, goudsmid",
+  "phone": "+31(0)20-627 26 25",
+  "email": "info@milldiamonds.com",
+  "email_source": "https://milldiamonds.com/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://milldiamonds.com",
+  "address": "Rokin 123, 1012 KP",
+  "city": "Amsterdam",
+  "state": "NL",
+  "market": "Amsterdam, Netherlands",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://milldiamonds.com/contact/",
+  "tel_numbers": [
+    "+31(0)20-627 26 25",
+    "+31 6 53 34 25 73"
+  ],
+  "tel_source": "https://milldiamonds.com/contact/",
+  "socials": [
+    "https://www.instagram.com/mill_diamonds/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "loose-diamonds",
+    "manufacturer",
+    "goldsmith",
+    "bespoke"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Amsterdam diamond expert and goldsmith at Rokin 123: large stock of loose diamonds and coloured gemstones, designs and hand-makes jewellery in its own workshop (3D wax models). Mobile +31 6 53 34 25 73 on own contact page differs from main line.",
+  "drop_reason": ""
+}
