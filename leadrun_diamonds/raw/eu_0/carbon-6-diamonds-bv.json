@@ -6,11 +6,11 @@
   "email_source": "https://carbon6diamonds.com/",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Ori Siso",
+  "role": "Owner",
+  "contact_source": "https://www.linkedin.com/company/carbon-6-diamonds",
   "website": "https://carbon6diamonds.com",
-  "address": "Hoveniersstraat 53, 2018 Antwerpen",
+  "address": "Hoveniersstraat 51/91, 2018 Antwerpen",
   "city": "Antwerp",
   "state": "BE",
   "market": "Antwerp, Belgium",
@@ -27,10 +27,11 @@
     "RJC"
   ],
   "hooks": [
-    "natural",
-    "investment-diamonds"
+    "manufacturer",
+    "large-stones",
+    "since-2014"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "RJC member (diamonds trader); carbon6diamonds.com: Antwerp diamond company (Hoveniersstraat 53) selling investment diamonds, Hong Kong branch",
+  "scope_reason": "Carbon 6 Diamonds LinkedIn page: manufactures large high-end diamonds in all shapes and colours for the biggest jewellery houses; carbon6diamonds.com: established in partnership with Taché Diamonds",
   "drop_reason": ""
 }
