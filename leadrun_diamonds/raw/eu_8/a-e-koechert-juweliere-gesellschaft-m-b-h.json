@@ -1,0 +1,44 @@
+{
+ "business": "A.E. Köchert Juweliere Gesellschaft m.b.H.",
+ "category_as_listed": "Juwelenhandel",
+ "phone": "+43 1 512 58 28",
+ "email": "wolfgang@koechert.at",
+ "email_source": "https://koechert.com/kontakt/?lang=en",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Christoph Köchert",
+ "role": "Partner",
+ "contact_source": "https://koechert.com/kontakt/?lang=en",
+ "website": "https://koechert.com",
+ "address": "Neuer Markt 15, 1010 Wien",
+ "city": "Vienna",
+ "state": "AT",
+ "market": "Vienna, Austria",
+ "lead_origin": "Trade Directory",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://firmen.wko.at/-/wien/?firma=diamant",
+ "tel_numbers": [
+  "+43 1 40 29 440",
+  "+43 664 132 04 31",
+  "+43 1 512 58 28"
+ ],
+ "tel_source": "https://koechert.com/kontakt/?lang=en; https://koechert.com/impressum/",
+ "socials": [
+  "https://www.instagram.com/a.e.koechert/"
+ ],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "since-1814",
+  "6th-generation",
+  "high-jewellery",
+  "own-workshop",
+  "natural",
+  "gemologist-on-staff"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Former imperial court jeweller with own goldsmith workshop; impressum licence covers trade in Juwelen, Edelsteinen; sources diamonds/gemstones for bespoke pieces (Diamantenguide, 'je nach Verfügbarkeit und Preisentwicklung der Edelsteine'). Contact page lists Wolfgang, Christoph and Florian Köchert with personal emails (christoph@koechert.at, florian@koechert.at); Atelier Wollzeile 33/15 line differs from Neuer Markt main line.",
+ "drop_reason": ""
+}
