@@ -1,0 +1,37 @@
+{
+  "business": "A.D.M. Antwerp BV",
+  "category_as_listed": "SBD member (Syndicate of the Belgian Diamond Industry)",
+  "phone": "+32 488 81 74 66",
+  "email": "gagik@live.be",
+  "email_source": "https://sbd.be/en/leden/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Gagik Avetisyan",
+  "role": "Member",
+  "contact_source": "https://sbd.be/en/leden/",
+  "website": "",
+  "address": "",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://sbd.be/en/leden/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "SBD"
+  ],
+  "hooks": [
+    "cutter",
+    "large-stones",
+    "rough"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "SBD (Belgian diamond manufacturers' syndicate) member list: 'study, measurement, planning, polishing/repolishing of rough and polished diamonds (especially larger sizes)'",
+  "drop_reason": ""
+}

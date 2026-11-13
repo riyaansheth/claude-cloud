@@ -1,0 +1,35 @@
+{
+  "business": "DLP BV",
+  "category_as_listed": "Belgian diamond cutters and polishers (SBD prospect list)",
+  "phone": "+32 474 23 95 70",
+  "email": "peter.vervloet@outlook.com",
+  "email_source": "https://sbd.be/swfiles/files/2025-lijst-diamantentrepreneurs---toestemming-om-te-delen-met-prospecten-3.pdf",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Peter Vervloet",
+  "role": "Member",
+  "contact_source": "https://sbd.be/swfiles/files/2025-lijst-diamantentrepreneurs---toestemming-om-te-delen-met-prospecten-3.pdf",
+  "website": "",
+  "address": "",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://sbd.be/swfiles/files/2025-lijst-diamantentrepreneurs---toestemming-om-te-delen-met-prospecten-3.pdf",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "SBD"
+  ],
+  "hooks": [
+    "cutter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "SBD 2025 list of 'Belgian diamond cutters and polishers': specialty 'laser services' (diamond laser sawing/cutting service)",
+  "drop_reason": ""
+}

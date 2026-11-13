@@ -1,0 +1,40 @@
+{
+  "business": "HB Manufacturing",
+  "category_as_listed": "SBD member (Syndicate of the Belgian Diamond Industry)",
+  "phone": "03 283 07 07",
+  "email": "services@hbantwerp.com",
+  "email_source": "https://sbd.be/en/leden/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Oded Mansori",
+  "role": "Partner",
+  "contact_source": "https://hbantwerp.com/hb-antwerp/",
+  "website": "https://hbantwerp.com",
+  "address": "",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://sbd.be/en/leden/",
+  "tel_numbers": [
+    "+32 3 283 07 07"
+  ],
+  "tel_source": "https://hbantwerp.com/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "SBD"
+  ],
+  "hooks": [
+    "manufacturer",
+    "large-stones",
+    "since-2020",
+    "rough"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "SBD member list: '+3 carat polished'; hbantwerp.com: 'mastering the entire process, from rough to polished, in-house' (Managing partner Oded Mansori)",
+  "drop_reason": ""
+}

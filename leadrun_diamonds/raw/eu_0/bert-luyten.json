@@ -1,0 +1,36 @@
+{
+  "business": "Bert Luyten",
+  "category_as_listed": "Belgian diamond cutters and polishers (SBD prospect list)",
+  "phone": "0478 22 51 48",
+  "email": "bertluyten@icloud.com",
+  "email_source": "https://sbd.be/swfiles/files/lijst-diamantentrepreneurs---toestemming-om-te-delen-met-prospecten-1.pdf",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Albert Luyten",
+  "role": "Owner",
+  "contact_source": "https://sbd.be/swfiles/files/lijst-diamantentrepreneurs---toestemming-om-te-delen-met-prospecten-1.pdf",
+  "website": "",
+  "address": "",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://sbd.be/swfiles/files/lijst-diamantentrepreneurs---toestemming-om-te-delen-met-prospecten-1.pdf",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "SBD"
+  ],
+  "hooks": [
+    "cutter",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "SBD list of Belgian diamond cutters and polishers: 'recutting EXC, polishing diamonds, brilliant and fancy shapes, fancy colors.'",
+  "drop_reason": ""
+}
