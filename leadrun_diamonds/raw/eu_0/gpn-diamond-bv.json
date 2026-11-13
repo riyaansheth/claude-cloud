@@ -1,0 +1,40 @@
+{
+  "business": "GPN Diamond BV",
+  "category_as_listed": "Diamonds and coloured gemstones trader, cutter and/or polisher",
+  "phone": "+32 3 494 2646",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.gpndiamond.com",
+  "address": "Hoveniersstraat 30, Suite 228 - Bus 275, 2018 Antwerpen",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/gpn-diamond-bv/",
+  "tel_numbers": [
+    "+32 3 494 2646",
+    "+32 485 30 41 13"
+  ],
+  "tel_source": "https://www.gpndiamond.com/contact.html",
+  "socials": [],
+  "building": "",
+  "suite": "Suite 228",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "manufacturer",
+    "melee",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "gpndiamond.com: round brilliant cut and single cut diamonds; Antwerp office Hoveniersstraat 30 (RJC member, diamonds trader/cutter)",
+  "drop_reason": ""
+}

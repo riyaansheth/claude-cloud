@@ -1,0 +1,41 @@
+{
+  "business": "Kediam BV",
+  "category_as_listed": "Diamonds and coloured gemstones trader, cutter and/or polisher",
+  "phone": "+32 3 232 78 86",
+  "email": "info@kediam.com",
+  "email_source": "https://www.kediam.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Ketan Shah",
+  "role": "Founder",
+  "contact_source": "https://www.kediam.com/about-us.html",
+  "website": "https://www.kediam.com",
+  "address": "Hoveniersstraat 53, Suite 307, Box 73, 2018 Antwerpen",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/kediam-bv/",
+  "tel_numbers": [
+    "+32 3 232 78 86",
+    "+32 3 226 46 26"
+  ],
+  "tel_source": "https://www.kediam.com/",
+  "socials": [],
+  "building": "",
+  "suite": "Suite 307",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "since-1993",
+    "2nd-generation",
+    "rough",
+    "polished"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "kediam.com: 'Ketan Shah later founded Kediam B.V. in 1993... highly respectable rough and polished diamond' company (family firm J.K.D. Diamonds est. 1970)",
+  "drop_reason": ""
+}

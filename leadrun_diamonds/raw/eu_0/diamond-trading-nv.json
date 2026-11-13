@@ -1,0 +1,39 @@
+{
+  "business": "Diamond Trading NV",
+  "category_as_listed": "Diamonds and coloured gemstones trader, cutter and/or polisher",
+  "phone": "+32 (0)3 234 32 01",
+  "email": "info@diamondtradingnv.com",
+  "email_source": "http://www.diamondtradingnv.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Daniel De Belder",
+  "role": "Partner",
+  "contact_source": "http://www.diamondtradingnv.com/",
+  "website": "http://www.diamondtradingnv.com",
+  "address": "Pelikaanstraat 62, 2018 Antwerpen",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/diamond-trading-nv/",
+  "tel_numbers": [
+    "+32 (0)3 234 32 01"
+  ],
+  "tel_source": "http://www.diamondtradingnv.com/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "since-1875",
+    "family-owned",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "diamondtradingnv.com: 'family-owned business based in Antwerp... uninterrupted presence in the diamond trade since 1875'; executive directors Daniel De Belder and Jean-Louis Van Strydonck",
+  "drop_reason": ""
+}

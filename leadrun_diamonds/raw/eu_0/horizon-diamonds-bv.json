@@ -1,0 +1,39 @@
+{
+  "business": "Horizon Diamonds BV",
+  "category_as_listed": "Diamonds and coloured gemstones trader, cutter and/or polisher",
+  "phone": "+32 3 234 3464",
+  "email": "tej@horizondiamonds.com",
+  "email_source": "https://www.horizondiamonds.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.horizondiamonds.com",
+  "address": "Schupstraat 1-7, Room 507/510, 2018 Antwerpen",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/horizon-diamonds-bv/",
+  "tel_numbers": [
+    "+32 3 234 3464",
+    "+32 4 7560 3464"
+  ],
+  "tel_source": "https://www.horizondiamonds.com/",
+  "socials": [],
+  "building": "",
+  "suite": "Room 507/510",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "manufacturer",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "horizondiamonds.com: 'Since 45 years, Horizon Diamonds has built a unique team of craftsmen and diamantaires... state of the art manufacturing facility'",
+  "drop_reason": ""
+}

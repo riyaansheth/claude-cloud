@@ -24,7 +24,8 @@
   "building": "",
   "suite": "",
   "trade_memberships": [
-    "SBD"
+    "SBD",
+    "RJC"
   ],
   "hooks": [
     "manufacturer"
