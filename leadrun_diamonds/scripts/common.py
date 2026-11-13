@@ -92,7 +92,7 @@ def market_cc(market: str) -> str:
 
 def phone_digits(p: str, cc: str = "1") -> str:
     """US: 10-digit NANP number. Elsewhere: digits in international form, country code first."""
-    raw = (p or "").strip()
+    raw = re.sub(r"\(\s*0\s*\)", "", (p or "").strip())  # "+44 (0)20 ..." -> "+44 20 ..."
     d = re.sub(r"\D", "", raw)
     if cc == "1":
         if raw.startswith("+") and not d.startswith("1"):
@@ -137,6 +137,9 @@ def site_domain(url: str) -> str:
     if not h or any(h == p or h.endswith("." + p) for p in PLATFORM_HOSTS):
         return ""
     parts = h.split(".")
+    # two-level public suffixes such as co.uk, com.tr, org.uk: keep three labels
+    if len(parts) >= 3 and len(parts[-1]) == 2 and parts[-2] in ("co", "com", "org", "net", "ac", "gov", "ltd", "plc"):
+        return ".".join(parts[-3:])
     return ".".join(parts[-2:]) if len(parts) >= 2 else h
 
 
