@@ -1,0 +1,41 @@
+{
+  "business": "Carlo Barberis S.r.l.",
+  "category_as_listed": "Italian jewelery",
+  "phone": "0131 941611",
+  "email": "info@carlobarberis.com",
+  "email_source": "https://www.carlobarberis.com/en/contatti.php",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.carlobarberis.com",
+  "address": "Viale B. Cellini 57, 15048 Valenza (AL)",
+  "city": "Valenza",
+  "state": "IT",
+  "market": "Valenza, Italy",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.carlobarberis.com/en/storia.php",
+  "tel_numbers": [
+    "0131 941611"
+  ],
+  "tel_source": "https://www.carlobarberis.com/en/contatti.php",
+  "socials": [
+    "https://instagram.com/carlo_barberis_fine_jewellery/",
+    "https://www.facebook.com/carlobarberissrl"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "since-1929",
+    "valenza-mark-39",
+    "high-jewelry"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Valenza fine-jewellery workshop since 1929 (oldest Valenza trademark Nr 39); diamond and colour-gemstone jewels sold to jewellers.",
+  "drop_reason": ""
+}

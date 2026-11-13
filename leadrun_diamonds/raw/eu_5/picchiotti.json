@@ -1,0 +1,41 @@
+{
+  "business": "Picchiotti",
+  "category_as_listed": "Gioielli di lusso italiani",
+  "phone": "+39 0131 953081",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Giuseppe Picchiotti",
+  "role": "Founder",
+  "contact_source": "https://www.picchiotti.it/",
+  "website": "https://www.picchiotti.it",
+  "address": "Corso Giuseppe Garibaldi 137, 15048 Valenza (AL)",
+  "city": "Valenza",
+  "state": "IT",
+  "market": "Valenza, Italy",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.picchiotti.it/",
+  "tel_numbers": [
+    "+390131953081"
+  ],
+  "tel_source": "https://www.picchiotti.it/contattaci/",
+  "socials": [
+    "https://www.instagram.com/picchiotti_fine_jewellery/?hl=it",
+    "https://it-it.facebook.com/Picchiotti.fine.jewellery/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "high-jewelry",
+    "since-1967",
+    "in-house-production"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Valenza atelier founded 1967 by Giuseppe Picchiotti; diamond high jewellery produced only at the Valenza headquarters (email obfuscated on site).",
+  "drop_reason": ""
+}

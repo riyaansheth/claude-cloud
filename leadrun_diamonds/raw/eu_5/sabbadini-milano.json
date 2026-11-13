@@ -1,0 +1,40 @@
+{
+  "business": "Sabbadini Milano",
+  "category_as_listed": "Alta gioielleria",
+  "phone": "+39 02 76008228",
+  "email": "info@sabbadini.com",
+  "email_source": "https://www.sabbadini.com/contattaci/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.sabbadini.com",
+  "address": "Via Sant'Andrea 5, Milano",
+  "city": "Milan",
+  "state": "IT",
+  "market": "Milan, Italy",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.sabbadini.com/",
+  "tel_numbers": [
+    "+39 02 76008228"
+  ],
+  "tel_source": "https://www.sabbadini.com/contattaci/",
+  "socials": [
+    "https://www.instagram.com/sabbadini_jewels/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "high-jewelry",
+    "atelier",
+    "fancy-colour-diamonds",
+    "family-business"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Milan family maison with own atelier (Via Sant'Andrea 5): high jewellery collections in diamonds, fancy-colour diamonds, eternity/tennis.",
+  "drop_reason": ""
+}
