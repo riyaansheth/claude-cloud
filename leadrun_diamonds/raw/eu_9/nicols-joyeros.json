@@ -1,7 +1,7 @@
 {
   "business": "Nicols Joyeros",
   "category_as_listed": "Joyería - fabricación de joyas artesanales",
-  "phone": "",
+  "phone": "+34 915 776 663",
   "email": "contacto@nicols.es",
   "email_source": "https://www.nicols.es/es/",
   "linkedin_url": "https://www.linkedin.com/in/cinthya-nicolas-17711712/",
@@ -18,8 +18,12 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.nicols.es/es/content/14-historia-mejores-joyerias-de-espana",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "+34 915 776 663",
+    "+34 686 144 677",
+    "+34 618 130 773"
+  ],
+  "tel_source": "https://www.nicols.es/es/contactenos",
   "socials": [],
   "building": "",
   "suite": "",

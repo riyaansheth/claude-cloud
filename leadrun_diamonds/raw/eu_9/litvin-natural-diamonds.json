@@ -28,14 +28,19 @@
   ],
   "building": "",
   "suite": "",
-  "trade_memberships": [],
+  "trade_memberships": [
+    "Bourse",
+    "GIA",
+    "HRD"
+  ],
   "hooks": [
     "natural",
     "antwerp-sourcing",
     "25-years",
-    "bridal"
+    "bridal",
+    "bourse-member"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Own site: founder Natalia Litvinova, 25+ years in diamonds, 'Selecciono cada diamante directamente en Amberes ... sin intermediarios'; natural diamonds direct from Antwerp, bespoke jewellery boutique in Barcelona.",
+  "scope_reason": "Own site: founder Natalia Litvinova, 25+ years in diamonds, 'Selecciono cada diamante directamente en Amberes ... sin intermediarios'; natural diamonds direct from Antwerp, bespoke jewellery boutique in Barcelona. Instagram bio (via search): official member of the Diamond Exchange, GIA/HRD certified.",
   "drop_reason": ""
 }
