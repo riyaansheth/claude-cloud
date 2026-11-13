@@ -4,8 +4,8 @@
   "phone": "",
   "email": "",
   "email_source": "",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/lionel-goldstein-20804b6a/",
+  "linkedin_source": "WebSearch extended: \"Lionel Goldstein\" diamonds Antwerp LinkedIn (result 'Lionel Goldstein - E.Goldstein Diamonds')",
   "contact_person": "Lionel Goldstein",
   "role": "Manager",
   "contact_source": "https://busibee.be/en/0420958125-e-goldstein-diamonds",
@@ -20,13 +20,19 @@
   "source_url": "https://www.responsiblejewellery.com/member/e-goldstein-diamonds-bv/",
   "tel_numbers": [],
   "tel_source": "",
-  "socials": [],
+  "socials": [
+    "https://www.instagram.com/e.goldsteindiamonds/"
+  ],
   "building": "",
   "suite": "",
   "trade_memberships": [
     "RJC"
   ],
-  "hooks": [],
+  "hooks": [
+    "since-1980",
+    "family-owned",
+    "natural"
+  ],
   "is_diamond_trade": true,
   "scope_reason": "RJC member list: Head Office Belgium, forum 'Diamonds and coloured gemstones trader, cutter and/or polisher'. No own website/contact found (registry address from https://companyweb.be/en/0420958125/e-goldstein-diamonds)",
   "drop_reason": ""

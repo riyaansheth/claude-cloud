@@ -4,12 +4,12 @@
   "phone": "",
   "email": "nehal.mehta@fenixdiamonds.com",
   "email_source": "https://busibee.be/en/0765297534-fenix-jewellery-belgium",
-  "linkedin_url": "",
-  "linkedin_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/nehal-mehta-24440162/",
+  "linkedin_source": "WebSearch extended: \"Nehal Mehta\" Fenix Diamonds LinkedIn (result 'Nehal Mehta - Fenix Diamonds', Antwerp Metropolitan Area)",
   "contact_person": "Nehal Mehta",
   "role": "Manager",
   "contact_source": "https://busibee.be/en/0765297534-fenix-jewellery-belgium",
-  "website": "",
+  "website": "https://fenixdiamonds.com",
   "address": "Hoveniersstraat 30 216, 2018 Antwerpen",
   "city": "Antwerp",
   "state": "BE",
@@ -24,8 +24,12 @@
   "building": "",
   "suite": "",
   "trade_memberships": [],
-  "hooks": [],
+  "hooks": [
+    "lab-grown",
+    "cvd",
+    "manufacturer"
+  ],
   "is_diamond_trade": true,
-  "scope_reason": "busibee registry: Fenix Jewellery Belgium at Hoveniersstraat 30 216, 2018 Antwerpen, diamond wholesale/processing NACE code; founded March 17, 2021; email listed on registry profile",
+  "scope_reason": "busibee: Fenix Jewellery Belgium, Hoveniersstraat 30, represented by Fenix Diamonds Belgium (Nehal Mehta); Fenix Diamonds: 'gateway to top quality and consistent supply of CVD diamonds and lab created diamond jewelry'",
   "drop_reason": ""
 }
