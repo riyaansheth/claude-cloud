@@ -1,0 +1,35 @@
+{
+  "business": "Sell Your Diamond",
+  "category_as_listed": "Pre Owned Jewellery",
+  "phone": "02071015011",
+  "email": "info@sellyourdiamond.co.uk",
+  "email_source": "https://londondiamondbourse.com/directory/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.sellyourdiamond.co.uk",
+  "address": "2nd Floor, 10 St Cross Street, London EC1N 8UB",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse"
+  ],
+  "hooks": [
+    "diamond-buyer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "LDB member diamond-buying service ('Pre Owned Jewellery'); site unreachable from sandbox.",
+  "drop_reason": ""
+}

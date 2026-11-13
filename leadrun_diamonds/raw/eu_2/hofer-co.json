@@ -1,0 +1,42 @@
+{
+  "business": "Hofer & Co.",
+  "category_as_listed": "Bespoke Jeweller",
+  "phone": "020 7404 7899",
+  "email": "info@hoferandco.com",
+  "email_source": "https://hoferandco.com/contact-us",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://hoferandco.com",
+  "address": "London Diamond Bourse, 100 Hatton Garden, London EC1N 8NX",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [
+    "020 7404 7899"
+  ],
+  "tel_source": "https://hoferandco.com/contact-us",
+  "socials": [
+    "https://www.instagram.com/hoferandco/"
+  ],
+  "building": "London Diamond Bourse, 100 Hatton Garden",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse",
+    "GIA"
+  ],
+  "hooks": [
+    "gia-gg",
+    "bespoke",
+    "kimberley-process"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: bespoke fine jewellery with stone selection by a GIA G.G./Gem-A DGA gemmologist; purchases its own materials for manufacture.",
+  "drop_reason": ""
+}

@@ -1,0 +1,43 @@
+{
+  "business": "Dicky Diamonds",
+  "category_as_listed": "Antique",
+  "phone": "+447448344605",
+  "email": "wholesale@dickydiamonds.com",
+  "email_source": "https://dickydiamonds.com/pages/contact",
+  "linkedin_url": "https://www.linkedin.com/in/hadleyrichard/",
+  "linkedin_source": "https://dickydiamonds.com/ (site footer) + WebSearch extended: \"Dicky Diamonds\" Hatton Garden Richard Hadley LinkedIn",
+  "contact_person": "Richard Hadley",
+  "role": "Owner",
+  "contact_source": "https://londondiamondbourse.com/wp-content/uploads/2021/11/1842_LDB_Nov-Newsletter_A4_web.pdf",
+  "website": "https://dickydiamonds.com",
+  "address": "100 Hatton Garden, London EC1N 8NX",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [
+    "07448344605"
+  ],
+  "tel_source": "https://dickydiamonds.com/pages/contact",
+  "socials": [
+    "https://www.facebook.com/dickydiamondss/",
+    "https://www.instagram.com/dickydiamondss/"
+  ],
+  "building": "London Diamond Bourse, 100 Hatton Garden",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse",
+    "GIA"
+  ],
+  "hooks": [
+    "gia-gg",
+    "natural",
+    "gia-certified"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'London Diamond Bourse Member, GIA Graduate 2013', sources natural GIA-certified diamonds; wholesale@ address.",
+  "drop_reason": ""
+}

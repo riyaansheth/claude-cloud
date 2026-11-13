@@ -1,0 +1,35 @@
+{
+  "business": "Streeter & Co.",
+  "category_as_listed": "Jewellery Manufacturer",
+  "phone": "020 3151 0002",
+  "email": "jonathan@streeterandco.com",
+  "email_source": "https://streeterandco.com",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://streeterandco.com",
+  "address": "100 Hatton Garden, London EC1N 8NX",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "London Diamond Bourse, 100 Hatton Garden",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse"
+  ],
+  "hooks": [
+    "since-1868"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Founded in 1868... Jewellers & Gem Dealers, Dealers in rare jewels, diamonds and precious gemstones'.",
+  "drop_reason": ""
+}

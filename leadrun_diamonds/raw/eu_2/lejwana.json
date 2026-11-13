@@ -1,0 +1,41 @@
+{
+  "business": "Lejwana",
+  "category_as_listed": "Broker",
+  "phone": "+44 7778583097",
+  "email": "thoko@lejwana.com",
+  "email_source": "https://londondiamondbourse.com/directory/",
+  "linkedin_url": "https://www.linkedin.com/in/thoko-tshuma-acca-6b124310b",
+  "linkedin_source": "WebSearch extended: \"Thoko Tshuma\" Lejwana LinkedIn (URL in ZoomInfo result for Thoko Tshuma, Lejwana)",
+  "contact_person": "Thoko Tshuma",
+  "role": "Managing Director",
+  "contact_source": "https://www.lejwana.com/about/",
+  "website": "https://www.lejwana.com",
+  "address": "63-66 Hatton Garden, London EC1N 8LE",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [
+    "+44 203 105 1179",
+    "+44 203 807 2194",
+    "+267 73 253 160"
+  ],
+  "tel_source": "https://www.lejwana.com",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse"
+  ],
+  "hooks": [
+    "broker",
+    "natural",
+    "botswana-sourcing"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Polished Natural Diamond Brokerage & Trade', sources and trades provenanced polished diamonds from Southern Africa. Own-site emails: info@lejwana.com, b2b@lejwana.com.",
+  "drop_reason": ""
+}

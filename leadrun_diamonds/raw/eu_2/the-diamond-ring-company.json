@@ -1,0 +1,43 @@
+{
+  "business": "The Diamond Ring Company",
+  "category_as_listed": "Bespoke Jeweller",
+  "phone": "020 7404 6616",
+  "email": "sales@thediamondringcompany.co.uk",
+  "email_source": "https://londondiamondbourse.com/directory/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Michael O'Sullivan",
+  "role": "Founder",
+  "contact_source": "https://www.thediamondringcompany.co.uk/",
+  "website": "https://www.thediamondringcompany.co.uk",
+  "address": "Suite 124, 100 Hatton Garden, London EC1N 8NX",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [
+    "02074046616"
+  ],
+  "tel_source": "https://www.thediamondringcompany.co.uk/",
+  "socials": [
+    "https://twitter.com/diamondringuk",
+    "https://www.facebook.com/thediamondringcompany",
+    "https://www.instagram.com/the_diamond_ring_company"
+  ],
+  "building": "London Diamond Bourse, 100 Hatton Garden",
+  "suite": "Suite 124",
+  "trade_memberships": [
+    "London Diamond Bourse"
+  ],
+  "hooks": [
+    "loose-diamonds",
+    "10000-stones",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: stock of 10,000+ independently certificated loose diamonds; founder Michael O'Sullivan ran a trade workshop; at the Bourse.",
+  "drop_reason": ""
+}

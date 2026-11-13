@@ -1,0 +1,44 @@
+{
+  "business": "Lewis Malka London",
+  "category_as_listed": "Diamond Ring Supplier",
+  "phone": "07973626789",
+  "email": "lewis@lewismalka.com",
+  "email_source": "https://lewismalka.com/contact/",
+  "linkedin_url": "https://www.linkedin.com/in/lewismalka/",
+  "linkedin_source": "https://lewismalka.com (site link)",
+  "contact_person": "Lewis Malka",
+  "role": "Founder",
+  "contact_source": "https://lewismalka.com/about-lewis/",
+  "website": "https://lewismalka.com",
+  "address": "100 Hatton Garden, London EC1N 8NX",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [
+    "+44 (0)7973 626789",
+    "+44(0)20 7404 4022"
+  ],
+  "tel_source": "https://lewismalka.com/contact/",
+  "socials": [
+    "https://www.facebook.com/lewismalkalondon",
+    "https://www.instagram.com/lewismalka/"
+  ],
+  "building": "London Diamond Bourse, 100 Hatton Garden",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse"
+  ],
+  "hooks": [
+    "bespoke",
+    "engagement-rings",
+    "30-years",
+    "bourse-treasurer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "LDB 'Diamond Ring Supplier'; own site: bespoke diamond jeweller at Hatton Garden, 30+ years; Lewis Malka is LDB Treasurer ('Engagement Ring Specialist').",
+  "drop_reason": ""
+}

@@ -1,0 +1,40 @@
+{
+  "business": "L & R Josyfon Ltd",
+  "category_as_listed": "Fancy Colours",
+  "phone": "02072423478",
+  "email": "info@josyfon.com",
+  "email_source": "https://londondiamondbourse.com/directory/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Neil Anthony Josyfon",
+  "role": "Director",
+  "contact_source": "https://find-and-update.company-information.service.gov.uk/company/00686131/officers",
+  "website": "https://www.josyfon.com",
+  "address": "88-90 Hatton Garden, London EC1N 8PN",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse",
+    "RJC"
+  ],
+  "hooks": [
+    "since-1915",
+    "family-run",
+    "polished-diamonds",
+    "fancy-shapes",
+    "melee"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Established in London in 1915... specialise in the supply of high-quality polished diamonds to jewellers, designers and manufacturers'.",
+  "drop_reason": ""
+}

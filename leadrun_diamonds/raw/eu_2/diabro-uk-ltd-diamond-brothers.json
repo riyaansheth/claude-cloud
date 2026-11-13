@@ -1,0 +1,35 @@
+{
+  "business": "DIABRO UK LTD (Diamond Brothers)",
+  "category_as_listed": "Antique",
+  "phone": "0207 831 6200",
+  "email": "joseph@diabrobvba.com",
+  "email_source": "https://londondiamondbourse.com/directory/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Jozef Pappenheim",
+  "role": "Director",
+  "contact_source": "https://find-and-update.company-information.service.gov.uk/company/08498133/officers",
+  "website": "",
+  "address": "100 Hatton Garden, London EC1N 8NX",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://londondiamondbourse.com/directory/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "London Diamond Bourse, 100 Hatton Garden",
+  "suite": "",
+  "trade_memberships": [
+    "London Diamond Bourse"
+  ],
+  "hooks": [
+    "antwerp-link"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "LDB member 'Diamond Brothers' (UK arm of an Antwerp bvba per email domain), based at the Bourse.",
+  "drop_reason": ""
+}
