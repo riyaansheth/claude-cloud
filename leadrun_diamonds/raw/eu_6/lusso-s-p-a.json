@@ -4,11 +4,11 @@
   "phone": "+39 0575 350914",
   "email": "care@lussospa.it",
   "email_source": "https://www.lusso.gold/",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/ugo-franchini-b75178167/",
+  "linkedin_source": "WebSearch extended: Franchini Lusso S.p.A. Arezzo gioielli LinkedIn amministratore (result title \"Ugo Franchini - Lusso SpA\"; company page lists him as Directeur Commercial)",
+  "contact_person": "Ugo Franchini",
+  "role": "Manager",
+  "contact_source": "https://it.linkedin.com/company/lusso-spa",
   "website": "https://www.lusso.gold",
   "address": "Via Don Luigi Sturzo, 132, 52100 Arezzo",
   "city": "Arezzo",
@@ -37,5 +37,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "RJC-certified Arezzo maker run by the Franchini family (own site); OroArezzo 2026 categories 'Gioielli con diamanti naturali' and 'Gioielli con diamanti sintetici'.",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }

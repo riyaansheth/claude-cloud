@@ -1,14 +1,14 @@
 {
-  "business": "Nanis",
+  "business": "Nanis Italian Jewels",
   "category_as_listed": "Gioielleria in oro 18kt - Vicenza",
   "phone": "+39 327 3703909",
   "email": "customerservice@nanis.it",
   "email_source": "https://www.nanis.it/it-it/pages/contattaci",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/piero-marangon-697b5334/",
+  "linkedin_source": "WebSearch extended: \"Piero Marangon\" Nanis LinkedIn (result title \"Piero Marangon - NANIS ITALIAN JEWELS srl\"); co-founder Laura Bicego also at https://www.linkedin.com/in/laura-bicego-55333711/",
+  "contact_person": "Piero Marangon",
+  "role": "CEO",
+  "contact_source": "https://www.linkedin.com/company/nanis-italian-jewels-s-r-l-",
   "website": "https://www.nanis.it",
   "address": "",
   "city": "Vicenza",
@@ -30,10 +30,12 @@
   "suite": "",
   "trade_memberships": [],
   "hooks": [
+    "since-1990",
     "manufacturer",
     "natural"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Vicenza 18kt gold jewellery maker; own site: creations with 'pavé di diamanti' and natural stones. Brand-level contact only (customer service).",
-  "drop_reason": ""
+  "scope_reason": "Vicenza 18kt gold jewellery maker founded 1990 by Laura Bicego and Piero Marangon (CEO); own site: creations with 'pavé di diamanti' and natural stones.",
+  "drop_reason": "",
+  "enriched": true
 }

@@ -4,11 +4,11 @@
   "phone": "+39 0444 239294",
   "email": "info@rgs-vicenza.it",
   "email_source": "https://www.rgs-vicenza.com/contatti",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "linkedin_url": "https://www.linkedin.com/in/stefano-bedin-17a8852b/",
+  "linkedin_source": "WebSearch extended: \"Stefano Bedin\" RGS Vicenza LinkedIn (result title \"Stefano Bedin - RGS SRL\", location Vicenza)",
+  "contact_person": "Stefano Bedin",
+  "role": "CEO",
+  "contact_source": "https://it.linkedin.com/company/rgs-srl",
   "website": "https://www.rgs-vicenza.com",
   "address": "Via Ludovico Zamenhof, 397, 36100 Vicenza",
   "city": "Vicenza",
@@ -35,5 +35,6 @@
   ],
   "is_diamond_trade": true,
   "scope_reason": "RJC member; own site: integrated luxury jewellery manufacturer since 1972 with '22 Incastonatori specializzati' and a 'Pietre, Setting e Finiture' service (stone setting for luxury brands).",
-  "drop_reason": ""
+  "drop_reason": "",
+  "enriched": true
 }
