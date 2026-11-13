@@ -1,0 +1,33 @@
+{
+  "business": "Daniel Fehlmann SA",
+  "category_as_listed": "Diamantaire",
+  "phone": "+41 22 533 08 49",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "Place de Saint-Gervais 1, 1201 Genève",
+  "city": "Geneva",
+  "state": "CH",
+  "market": "Geneva, Switzerland",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://search.ch/tel/geneve/place-de-saint-gervais-1/daniel-fehlmann",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "diamantaire"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed under 'Diamantaire' (diamond dealer) on search.ch, Geneva. No website/email found; phone from search.ch directory.",
+  "drop_reason": ""
+}
