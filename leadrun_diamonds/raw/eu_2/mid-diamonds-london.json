@@ -1,0 +1,43 @@
+{
+  "business": "MID Diamonds London",
+  "category_as_listed": "",
+  "phone": "+44-207-404-6060",
+  "email": "london@middiamonds.com",
+  "email_source": "https://www.middiamonds.com/contact-us/mid-london/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.middiamonds.com",
+  "address": "100 Hatton Garden, STE 105, London EC1N 8NX",
+  "city": "London",
+  "state": "GB",
+  "market": "London, United Kingdom",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.middiamonds.com/contact-us/mid-london/",
+  "tel_numbers": [
+    "+44-207-404-6060",
+    "+44-78-55-66-1111"
+  ],
+  "tel_source": "https://www.middiamonds.com/contact-us/mid-london/",
+  "socials": [
+    "https://www.facebook.com/middiamonds",
+    "https://twitter.com/MIDDIAMONDS"
+  ],
+  "building": "London Diamond Bourse, 100 Hatton Garden",
+  "suite": "STE 105",
+  "trade_memberships": [],
+  "hooks": [
+    "wholesale",
+    "manufacturer",
+    "exporter",
+    "gia-certified",
+    "fancy-colours"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Loose Diamonds UK - Trusted Diamond Dealers in London'; wholesale white and fancy-coloured diamonds, diamond manufacturing; London office at 100 Hatton Garden.",
+  "drop_reason": ""
+}
