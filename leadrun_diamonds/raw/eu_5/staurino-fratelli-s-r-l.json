@@ -1,0 +1,42 @@
+{
+  "business": "Staurino Fratelli S.R.L",
+  "category_as_listed": "Jewellery and watch manufacturer and/or wholesaler",
+  "phone": "+39 0131 943137",
+  "email": "info@staurino.com",
+  "email_source": "https://www.staurino.com/contacts/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.staurino.com",
+  "address": "Viale Benvenuto Cellini 23, 15048 Valenza (AL)",
+  "city": "Valenza",
+  "state": "IT",
+  "market": "Valenza, Italy",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/staurino-fratelli-s-r-l/",
+  "tel_numbers": [
+    "+39 0131 943137",
+    "+39 0131 952908"
+  ],
+  "tel_source": "https://www.staurino.com/contacts/ https://www.staurino.com/impressum/",
+  "socials": [
+    "https://www.facebook.com/staurinofratelli/",
+    "https://www.instagram.com/staurinoofficial/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "manufacturer",
+    "high-jewelry"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Valenza high-jewellery manufacturer (Staurino Fratelli), RJC member.",
+  "drop_reason": ""
+}
