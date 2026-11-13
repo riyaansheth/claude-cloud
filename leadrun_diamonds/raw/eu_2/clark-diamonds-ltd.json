@@ -1,0 +1,40 @@
+{
+  "business": "Clark Diamonds Ltd",
+  "category_as_listed": "Diamonds and coloured gemstones trader, cutter and/or polisher",
+  "phone": "0121 236 1724",
+  "email": "info@clarkdiamonds.co.uk",
+  "email_source": "https://www.clarkdiamonds.co.uk/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "David Kimberley",
+  "role": "Director",
+  "contact_source": "https://find-and-update.company-information.service.gov.uk/company/01846352/officers",
+  "website": "https://www.clarkdiamonds.co.uk",
+  "address": "62 Tenby Street North, Birmingham B1 3EG",
+  "city": "Birmingham",
+  "state": "GB",
+  "market": "Birmingham, United Kingdom",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/clark-diamonds-ltd/",
+  "tel_numbers": [
+    "0121 236 1724"
+  ],
+  "tel_source": "https://www.clarkdiamonds.co.uk/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "wholesale",
+    "loose-polished",
+    "family",
+    "tracr"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "RJC member (forum: diamonds trader/cutter/polisher); own site 'Loose Polished Retail Diamonds - Birmingham'; trade press: family-run diamond wholesaler supplying UK/EU manufacturing and retail trade.",
+  "drop_reason": ""
+}
