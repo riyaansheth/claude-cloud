@@ -1,16 +1,16 @@
 {
-  "business": "Diamant Centrum",
+  "business": "Diamant Centrum (Diamond Factory Holland)",
   "category_as_listed": "Wholesale of watches and jewellery",
-  "phone": "",
-  "email": "",
-  "email_source": "",
+  "phone": "+31 20 - 697 4418",
+  "email": "info@diamantcentrum.nl",
+  "email_source": "https://www.diamondfactoryholland.nl/en/contact.php",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "",
   "role": "",
   "contact_source": "",
-  "website": "",
-  "address": "Prof. W.H. Keesomlaan 12, 1183 DJ",
+  "website": "https://www.diamondfactoryholland.nl",
+  "address": "Prof. W.H. Keesomlaan 12, 3e Verdieping, Kantoor nr. 5, 1183 DJ",
   "city": "Amstelveen",
   "state": "NL",
   "market": "Amsterdam, Netherlands",
@@ -18,19 +18,27 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.liza.nl/en/95723307/diamant-centrum",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "+31 20 - 697 4418",
+    "+31621357062"
+  ],
+  "tel_source": "https://www.diamondfactoryholland.nl/en/",
   "socials": [
     "https://www.facebook.com/DiamantCentrumAmstelveen/"
   ],
   "building": "Amsterdamse Diamantbeurs",
-  "suite": "",
-  "trade_memberships": [],
+  "suite": "3e verdieping, kantoor 5",
+  "trade_memberships": [
+    "Amsterdam Diamond Exchange",
+    "WFDB"
+  ],
   "hooks": [
     "since-1992",
-    "wholesale"
+    "estate-diamonds",
+    "bourse-member",
+    "antique-diamonds"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "BV (trade name Harmony Jewels) est. 1992 at the Amsterdam Diamond Exchange building, principal activity wholesale of watches and jewellery; no website/phone found.",
+  "scope_reason": "Diamant Centrum BV (est. 1992, Keesomlaan 12 = Amsterdam Diamond Exchange) trading as Diamond Factory Holland: trades at the Amsterdam Diamond Bourse, carries WFDB mark, buys diamonds/gems/jewellery; 1stDibs 'Diamond Center Amsterdam' (Amstelveen 1183 DJ) shows same owner-manager text and sells antique Amsterdam-cut diamonds. WhatsApp +31621357062 differs from main line. Also buys old gold (secondary).",
   "drop_reason": ""
 }

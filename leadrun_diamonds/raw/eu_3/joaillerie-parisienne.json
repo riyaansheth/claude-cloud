@@ -6,9 +6,9 @@
   "email_source": "https://www.joaillerieparisienne.com/",
   "linkedin_url": "",
   "linkedin_source": "",
-  "contact_person": "",
-  "role": "",
-  "contact_source": "",
+  "contact_person": "Amélie Lacassin",
+  "role": "President",
+  "contact_source": "https://www.societe.com/societe/joaillerie-parisienne-529427379.html",
   "website": "https://www.joaillerieparisienne.com",
   "address": "",
   "city": "Paris",
@@ -32,7 +32,7 @@
     "manufacturer",
     "haute-joaillerie"
   ],
-  "is_diamond_trade": true,
-  "scope_reason": "RJC-certified Paris high-jewellery manufacturer ('conseil, création et fabrication haute joaillerie'), member since 2015.",
-  "drop_reason": ""
+  "is_diamond_trade": false,
+  "scope_reason": "RJC-certified Paris high-jewellery manufacturer ('conseil, création et fabrication haute joaillerie'), member since 2015. Verif lists parent company Compagnie Financière Richemont SA (captive workshop of a global brand group) — dropped per brief's global-brand rule.",
+  "drop_reason": "chain"
 }

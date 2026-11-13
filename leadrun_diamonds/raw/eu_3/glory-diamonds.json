@@ -1,0 +1,36 @@
+{
+  "business": "Glory Diamonds",
+  "category_as_listed": "",
+  "phone": "",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "",
+  "city": "Amsterdam",
+  "state": "NL",
+  "market": "Amsterdam, Netherlands",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.facebook.com/people/Glory-Diamonds/100076145851572/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/people/Glory-Diamonds/100076145851572/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Amsterdam Diamond Exchange",
+    "Antwerpsche Diamantkring"
+  ],
+  "hooks": [],
+  "is_diamond_trade": true,
+  "scope_reason": "Facebook page states membership of the Antwerpsche Diamantkring and the Amsterdam Diamond Bourse. No website or contact details found.",
+  "drop_reason": ""
+}
