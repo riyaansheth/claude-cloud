@@ -2,8 +2,8 @@
   "business": "KARAT - Diamant-Gems",
   "category_as_listed": "",
   "phone": "01 47 42 56 56",
-  "email": "",
-  "email_source": "",
+  "email": "contact@diamant-gems.com",
+  "email_source": "https://www.diamant-gems.com/contact/",
   "linkedin_url": "",
   "linkedin_source": "",
   "contact_person": "Nicolas de Saint Yvi",
@@ -38,6 +38,6 @@
     "loose-diamonds"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "KARAT SAS, created 2006 by diamond trader Nicolas de Saint Yvi (in the diamond market since 1997); sells natural loose diamonds by appointment at 10 place Vendôme and at a partner in the Antwerp Diamond Bourse. WhatsApp 06 49 57 64 70.",
+  "scope_reason": "KARAT SAS, created 2006 by diamond trader Nicolas de Saint Yvi (in the diamond market since 1997); sells natural loose diamonds by appointment at 10 place Vendôme and at a partner in the Antwerp Diamond Bourse. WhatsApp 06 49 57 64 70. Email from page HTML (Cloudflare email-protection encoded).",
   "drop_reason": ""
 }

@@ -4,11 +4,11 @@
   "phone": "01 84 60 31 78",
   "email": "bonjour@breidal.com",
   "email_source": "https://www.breidal.com/pages/nous-contacter",
-  "linkedin_url": "",
-  "linkedin_source": "",
-  "contact_person": "Nathalie Cilingiriant",
-  "role": "Founder",
-  "contact_source": "https://www.breidal.com/pages/joaillerie-maison-breidal-paris-notre-histoire",
+  "linkedin_url": "https://www.linkedin.com/in/gregory-cilingiriant-9a839012a/",
+  "linkedin_source": "WebSearch extended: \"Gregory Cilingiriant\" SO MUST haute joaillerie LinkedIn (result: Gregory Cilingiriant - SO MUST; company page links him to Triple Ex Company)",
+  "contact_person": "Grégory Cilingiriant",
+  "role": "President",
+  "contact_source": "https://www.verif.com/societe/BREIDAL-848981502/",
   "website": "https://www.breidal.com",
   "address": "",
   "city": "Paris",
@@ -35,6 +35,6 @@
     "bridal"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Sibling-run Paris joaillerie: Grégory (30 yrs, works for haute-joaillerie houses) is also a diamond trader ('négociant en diamants') who selects the stones; co-founder Nathalie Cilingiriant. Own workshop, made in France.",
+  "scope_reason": "Sibling-run Paris joaillerie: Grégory (30 yrs, works for haute-joaillerie houses) is also a diamond trader ('négociant en diamants') who selects the stones; co-founder Nathalie Cilingiriant. Own workshop, made in France. Registry: BREIDAL (Paris 9) presided by Grégory Cilingiriant; LinkedIn company-page snippet shows him as CEO of SO MUST (haute-joaillerie manufacturing, RJC member) and co-founder of Triple Ex Company (diamonds).",
   "drop_reason": ""
 }
