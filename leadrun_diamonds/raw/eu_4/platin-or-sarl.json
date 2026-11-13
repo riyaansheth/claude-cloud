@@ -1,0 +1,38 @@
+{
+  "business": "Platin'or Sàrl",
+  "category_as_listed": "Diamonds and coloured gemstones trader, cutter and/or polisher",
+  "phone": "+41 22 300 41 94",
+  "email": "tl@platinor.ch",
+  "email_source": "https://www.platinor.ch/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.platinor.ch",
+  "address": "",
+  "city": "Geneva",
+  "state": "CH",
+  "market": "Geneva, Switzerland",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/platinor-sarl/",
+  "tel_numbers": [
+    "+41 22 300 41 94"
+  ],
+  "tel_source": "https://www.platinor.ch/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "cutting-workshop-geneva",
+    "diamond-due-diligence"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "RJC trader/cutter forum; site: 'Toutes nos pierres sont taillées dans notre atelier à Genève' and due diligence 'concernant l'approvisionnement en diamants et pierres précieuses'.",
+  "drop_reason": ""
+}

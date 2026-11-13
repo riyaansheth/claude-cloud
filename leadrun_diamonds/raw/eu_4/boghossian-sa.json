@@ -1,0 +1,42 @@
+{
+  "business": "Boghossian SA",
+  "category_as_listed": "Bijouterie / Jewellery and watch retailer (RJC)",
+  "phone": "+41 22 738 83 00",
+  "email": "contact@boghossianjewels.com",
+  "email_source": "https://www.boghossianjewels.com/pages/contact",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.boghossianjewels.com",
+  "address": "Rue Guillaume-Tell 10, 1201 Genève",
+  "city": "Geneva",
+  "state": "CH",
+  "market": "Geneva, Switzerland",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.local.ch/fr/d/geneve/1201/bijouterie/boghossian-sa-0HxGgp_oFFghzPh_pTuVcg",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.instagram.com/boghossianjewels",
+    "https://www.facebook.com/@Boghossianjewels/",
+    "https://www.linkedin.com/company/boghossian/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "high-jewellery-house",
+    "6-generations",
+    "family-run",
+    "sources-own-stones"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Geneva family high-jewellery Maison ('Jewellers for six generations'), stone-led house sourcing its own diamonds and gems (sister firm Bomare supplies coloured diamonds); not a global chain. No phone on own site (local.ch number used).",
+  "drop_reason": ""
+}

@@ -1,0 +1,39 @@
+{
+  "business": "SwissDiam Genève SA",
+  "category_as_listed": "Diamonds - Coloured Diamonds - Emeralds - Rubies - Sapphires",
+  "phone": "+41 22 818 5888",
+  "email": "geneva@swissdiam.com",
+  "email_source": "https://www.swissdiam.com/contact.cfm (Cloudflare-protected, decoded from page HTML; GemGenève lists geneva@swissdiam.ch)",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Christiane Farah",
+  "role": "Manager",
+  "contact_source": "https://www.swissdiam.com/contact.cfm",
+  "website": "https://www.swissdiam.com",
+  "address": "Rue de la Rôtisserie 11, 1204 Genève",
+  "city": "Geneva",
+  "state": "CH",
+  "market": "Geneva, Switzerland",
+  "lead_origin": "Trade Show",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://gemgeneve.com/exposant/swissdiam-geneve/",
+  "tel_numbers": [
+    "+41 22 818 5888"
+  ],
+  "tel_source": "https://www.swissdiam.com/contact.cfm",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "diamonds",
+    "coloured-diamonds",
+    "new-york-47th-st-office",
+    "hong-kong-office",
+    "diamond-search"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Diamond trading group (Geneva, 50 W 47th St New York, Hong Kong) with online diamond search; GemGenève categories Diamonds/Coloured Diamonds. Second number +41 22 818 5880 is a fax.",
+  "drop_reason": ""
+}

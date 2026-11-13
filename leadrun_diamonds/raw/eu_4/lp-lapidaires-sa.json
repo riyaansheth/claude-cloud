@@ -1,0 +1,36 @@
+{
+  "business": "LP Lapidaires SA",
+  "category_as_listed": "Diamonds and coloured gemstones trader, cutter and/or polisher",
+  "phone": "+41 22 310 36 37",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "",
+  "address": "Rue du Marché 18, 1204 Genève",
+  "city": "Geneva",
+  "state": "CH",
+  "market": "Geneva, Switzerland",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/lp-lapidaires-sa/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "lapidary",
+    "cutter"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "RJC member, Geneva head office, forum 'Diamonds and coloured gemstones trader, cutter and/or polisher'. No website/email found.",
+  "drop_reason": ""
+}
