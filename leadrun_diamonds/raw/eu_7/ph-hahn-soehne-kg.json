@@ -1,0 +1,43 @@
+{
+  "business": "Ph. Hahn Söhne KG",
+  "category_as_listed": "Diamantschleiferei und -handlung",
+  "phone": "+49 6781 94940",
+  "email": "info@hahn-diamanten.de",
+  "email_source": "https://hahn-diamanten.de/impressum.html",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Dieter Hahn",
+  "role": "Member",
+  "contact_source": "https://diamant-edelstein-boerse.de/mitgliederverzeichnis-liste/",
+  "website": "https://hahn-diamanten.de",
+  "address": "Mainzer Straße 82, 55743 Idar-Oberstein",
+  "city": "Idar-Oberstein",
+  "state": "DE",
+  "market": "Idar-Oberstein, Germany",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://diamant-edelstein-boerse.de/mitgliederverzeichnis-liste/",
+  "tel_numbers": [
+    "(06781) 94 94 0"
+  ],
+  "tel_source": "https://hahn-diamanten.de/impressum.html",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Diamant- und Edelsteinbörse Idar-Oberstein",
+    "Bundesverband der Edelstein- und Diamantindustrie"
+  ],
+  "hooks": [
+    "cutter",
+    "5th-generation",
+    "since-1886",
+    "natural",
+    "rough-diamonds",
+    "fancy-cuts"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: 'beschäftigen wir uns bereits in der fünften Generation ausschließlich mit Diamanten ... älteste Diamantschleiferei Deutschlands'; sells to Händler (Einzelsteine, Partieware). Bourse also lists Christian Klein for this firm.",
+  "drop_reason": ""
+}
