@@ -15,7 +15,8 @@ BRANCHES=(leadrun/worker-1 leadrun/worker-2 leadrun/worker-3 leadrun/worker-4 le
           leadrun/r9-0 leadrun/r9-1 leadrun/r9-2 leadrun/r9-3 leadrun/r9-4 leadrun/r9-5 leadrun/r9-6 leadrun/r9-7 leadrun/r9-8 leadrun/r9-9 \
           leadrun/r10-0 leadrun/r10-1 leadrun/r10-2 leadrun/r10-3 leadrun/r10-4 leadrun/r10-5 leadrun/r10-6 leadrun/r10-7 leadrun/r10-8 leadrun/r10-9 leadrun/r10-10 leadrun/r10-11 \
           leadrun/r11-0 leadrun/r11-1 leadrun/r11-2 leadrun/r11-3 leadrun/r11-4 leadrun/r11-5 leadrun/r11-6 leadrun/r11-7 leadrun/r11-8 leadrun/r11-9 \
-          leadrun/r12-0 leadrun/r12-1 leadrun/r12-2 leadrun/r12-3 leadrun/r12-4 leadrun/r12-5 leadrun/r12-6 leadrun/r12-7 leadrun/r12-8 leadrun/r12-9)
+          leadrun/r12-0 leadrun/r12-1 leadrun/r12-2 leadrun/r12-3 leadrun/r12-4 leadrun/r12-5 leadrun/r12-6 leadrun/r12-7 leadrun/r12-8 leadrun/r12-9 \
+          leadrun/eu-0 leadrun/eu-1 leadrun/eu-2 leadrun/eu-3 leadrun/eu-4 leadrun/eu-5 leadrun/eu-6 leadrun/eu-7 leadrun/eu-8 leadrun/eu-9 leadrun/eu-10 leadrun/eu-11)
 for b in "${BRANCHES[@]}"; do
   if git fetch -q origin "$b" 2>/dev/null; then
     # only the files this worker itself changed since it forked — never its stale copies of others' files

@@ -69,9 +69,10 @@ def extract(html, base):
         if h.lower().startswith("mailto:"):
             emails.setdefault(h[7:].split("?")[0].strip().lower(), base)
         elif h.lower().startswith("tel:"):
-            d = phone_digits(h[4:])
+            raw = h[4:].strip()
+            d = phone_digits(raw) or (raw if len(re.sub(r"\D", "", raw)) >= 8 else "")
             if d and d not in tels:
-                tels.append(d)
+                tels.append(d)  # US digits, or the raw international string (build.py normalises per market)
         elif SOCIAL_RX.match(h):
             socials.append(h.split("?")[0])
     text = soup.get_text(" ", strip=True)

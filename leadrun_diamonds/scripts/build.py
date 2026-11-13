@@ -15,7 +15,7 @@ from collections import Counter, defaultdict
 
 from common import (COLUMNS, CORE_COLUMNS, DB_PATH, LEAD_ORIGINS, RUN_DIR, SEGMENT, classify_email,
                     clean_linkedin, host_of, is_role_email, is_toll_free, kill_reason,
-                    linkedin_is_personal, norm_name, phone_digits, root_url, site_domain)
+                    linkedin_is_personal, market_cc, norm_name, phone_digits, root_url, site_domain)
 
 SOCIAL_HOSTS = ("facebook.com", "instagram.com", "x.com", "twitter.com", "tiktok.com",
                 "linkedin.com", "youtube.com", "pinterest.com")
@@ -103,7 +103,8 @@ def prep(rec):
     """Normalise one listing in place."""
     rec["_name_n"] = norm_name(rec.get("business", ""))
     rec["_market"] = (rec.get("market") or "").strip()
-    rec["_phone_d"] = phone_digits(rec.get("phone", ""))
+    rec["_cc"] = market_cc(rec["_market"])
+    rec["_phone_d"] = phone_digits(rec.get("phone", ""), rec["_cc"])
     email, est = classify_email(rec.get("email", ""))
     rec["_email"], rec["_email_status"] = email, est
     rec["_domain"] = site_domain(rec.get("website", ""))
@@ -211,19 +212,21 @@ def merge_cluster(cluster, shared_phone):
     return base
 
 
-def mobile_candidates(main_d, tels):
+def mobile_candidates(main_d, tels, cc="1"):
     seen, cands = set(), []
     for t in tels:
-        d = phone_digits(t)
+        d = phone_digits(t, cc)
         if d and d != main_d and d not in seen:
             seen.add(d)
             cands.append(d)
     # most-likely-mobile first: not toll-free, not on the main line's exchange, then the rest
-    cands.sort(key=lambda d: (is_toll_free(d), bool(main_d) and d[:6] == main_d[:6]))
+    cands.sort(key=lambda d: (is_toll_free(d, cc), bool(main_d) and d[:6] == main_d[:6]))
     return cands
 
 
-def fmt(d):
+def fmt(d, cc="1"):
+    if cc != "1":
+        return f"+{cc} {d[len(cc):]}"
     return f"({d[:3]}) {d[3:6]}-{d[6:]}"
 
 
@@ -232,18 +235,19 @@ def build_row(b):
     li = clean_linkedin(b.get("linkedin_url"))
     person = " ".join((b.get("contact_person") or "").split())
     li_ok = bool(li) and linkedin_is_personal(li, b.get("business", ""), person)
-    cands = mobile_candidates(b["_phone_d"], b["_tels"])
+    cc = b.get("_cc", "1")
+    cands = mobile_candidates(b["_phone_d"], b["_tels"], cc)
     phone_from_site = False
     if not b["_phone_d"] and cands:
         # no directory-listed main line: the site's first local number IS the main line, not a direct one
-        main = next((d for d in cands if not is_toll_free(d)), cands[0])
-        b["_phone_d"], b["phone"], phone_from_site = main, fmt(main), True
+        main = next((d for d in cands if not is_toll_free(d, cc)), cands[0])
+        b["_phone_d"], b["phone"], phone_from_site = main, fmt(main, cc), True
         cands = [d for d in cands if d != main]
     # a number on the main line's exchange within a few digits of it is a fax / rollover, not a direct line
     def adjacent(d):
         m = b["_phone_d"]
         return bool(m) and d[:6] == m[:6] and abs(int(d[6:]) - int(m[6:])) <= 5
-    direct_ok = any(not is_toll_free(d) and not adjacent(d) for d in cands)
+    direct_ok = any(not is_toll_free(d, cc) and not adjacent(d) for d in cands)
     score = email_ok + li_ok + direct_ok
 
     signals = [f"{score} of 3"]
@@ -273,7 +277,7 @@ def build_row(b):
     flags = []
     if not (b.get("address") or "").strip():
         flags.append("no-address")
-    if b["_phone_d"] and is_toll_free(b["_phone_d"]):
+    if b["_phone_d"] and is_toll_free(b["_phone_d"], b.get("_cc", "1")):
         flags.append("toll-free")
     if kill_reason(b.get("business", "")) == "chain":
         flags.append("chain")
@@ -317,7 +321,7 @@ def build_row(b):
         "Found At": b["_found_at"],
         "Also Listed As": ", ".join(also), "Other Markets": ", ".join(other_mk),
         "Merged Listings": len(others), "Flags": ", ".join(flags),
-        "Mobile Candidates": ", ".join(fmt(d) for d in cands),
+        "Mobile Candidates": ", ".join(fmt(d, cc) for d in cands),
         "Socials": ", ".join(s for s in b["_socials"] if any(h in s for h in SOCIAL_HOSTS)),
         "Building / Suite": bs, "Trade Memberships": ", ".join(mems),
     }

@@ -116,3 +116,31 @@ Never fabricate — an unfilled field beats an invented one. Budget ≤ 120 WebS
    push to your outcome branch every ~20 files and at the end.
 Report per market: qualified before → after, new businesses added, upgrades made (emails / LinkedIn /
 direct lines), and why the market stopped short of 50 if it did.
+
+## Europe worker (given MARKETS and OUT=eu_<k>) — 10+ EXCELLENT leads per city
+Same rules as AGENT_BRIEF.md and the Qualify-push worker, adapted for Europe:
+- `market` is "City, Country" with the full English country name, e.g. "Antwerp, Belgium", "London, United
+  Kingdom", "Valenza, Italy". `city` = real city/commune, `state` = 2-letter ISO country code (BE, GB, IT...).
+- Phones: write them as seen; international form (+32 3 ...) preferred. The builder normalises per country.
+- EXCELLENT = qualified (2 of 3: own-site email / personal linkedin.com/in/ of a named owner-founder-director /
+  a direct or mobile line from the own site that differs from the main line), ideally all 3. Target: at least
+  10 per city, more for the big hubs; stop when honestly exhausted.
+- In scope: diamond dealers/wholesalers, importers/exporters, brokers, cutters/polishers, manufacturers,
+  certified-stone traders, lab-grown growers/distributors, trade estate-diamond buyers, high-jewellery houses
+  that source their own loose stones. OUT: global brands/chains (Cartier, Bulgari, Tiffany, Graff, Chopard,
+  De Beers stores, Pandora, Swarovski...), plain retail, cash-for-gold (compro oro / goud opkoper / rachat
+  d'or), pawn, costume, appraisal labs without inventory (HRD/IGI/GIA labs themselves are OUT).
+- Where to look: Antwerp World Diamond Centre (AWDC) registered-dealer info, the four Antwerp bourses
+  (Diamond Club of Antwerp, Beurs voor Diamanthandel, Vrije Diamanthandel, Antwerpsche Diamantkring),
+  London Diamond Bourse / Hatton Garden, Birmingham Jewellery Quarter, Responsible Jewellery Council member
+  pages (the RJC member sitemap worked well for Rome), IDEX/RapNet member listings, Federorafi / Valenza
+  "Club degli Orafi", Vicenzaoro & Inhorgenta exhibitor lists, Bundesverband Edelsteine (Idar-Oberstein),
+  Union Française de la Bijouterie, national company registers, and searches in the local language.
+- Each business's own site: fetch /, contact, about/team pages (Bash + requests, CA bundle
+  /root/.ccr/ca-bundle.crt) for mailto:/tel:. LinkedIn: WebSearch mode "extended" `"First Last" <Business>
+  LinkedIn`; record only a linkedin.com/in/ URL that literally appears and ties to the business.
+- Measure: `cd scripts && python3 ingest.py && python3 build.py`, then count rows for your markets in
+  ../diamonds_qualified.csv. Budget ≤ 120 WebSearch calls. Never fabricate.
+- Write one JSON per business to raw/<OUT>/ (also dropped ones with drop_reason). Commit ONLY
+  leadrun_diamonds/raw/<OUT>/; push to your outcome branch every ~15 files and at the end.
+Report per city: businesses found, qualified (and how many meet all 3), what blocked you.

@@ -73,18 +73,53 @@ def norm_name(name: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
-def phone_digits(p: str) -> str:
-    d = re.sub(r"\D", "", p or "")
-    if len(d) == 11 and d.startswith("1"):
-        d = d[1:]
-    return d if len(d) == 10 and d[0] not in "01" else ""
+# Non-US markets are written "City, Country" (full English country name); everything else is US.
+COUNTRY_CC = {"belgium": "32", "united kingdom": "44", "netherlands": "31", "france": "33",
+              "switzerland": "41", "italy": "39", "germany": "49", "spain": "34", "portugal": "351",
+              "austria": "43", "greece": "30", "turkey": "90", "ireland": "353", "denmark": "45",
+              "sweden": "46", "norway": "47", "poland": "48", "czech republic": "420", "monaco": "377",
+              "luxembourg": "352", "israel": "972"}
+KEEP_TRUNK_ZERO = {"39", "377"}  # Italy / Monaco keep the leading 0 in international form
+
+
+def market_cc(market: str) -> str:
+    """Country calling code for a market string; '1' (US) unless it ends in a known country name."""
+    tail = (market or "").rsplit(",", 1)[-1].strip().lower()
+    if tail in ("it", "italy"):
+        return "39"
+    return COUNTRY_CC.get(tail, "1")
+
+
+def phone_digits(p: str, cc: str = "1") -> str:
+    """US: 10-digit NANP number. Elsewhere: digits in international form, country code first."""
+    raw = (p or "").strip()
+    d = re.sub(r"\D", "", raw)
+    if cc == "1":
+        if raw.startswith("+") and not d.startswith("1"):
+            return ""
+        if len(d) == 11 and d.startswith("1"):
+            d = d[1:]
+        return d if len(d) == 10 and d[0] not in "01" else ""
+    if raw.startswith("+"):
+        pass
+    elif d.startswith("00"):
+        d = d[2:]
+    elif not d.startswith(cc) or len(d) < 9:
+        if d.startswith("0") and cc not in KEEP_TRUNK_ZERO:
+            d = d[1:]
+        d = cc + d
+    return d if 8 <= len(d) <= 15 else ""
 
 
 TOLL_FREE = ("800", "833", "844", "855", "866", "877", "888")
+INTL_TOLL_FREE = ("800", "803", "808", "0800", "0805", "900")
 
 
-def is_toll_free(digits: str) -> bool:
-    return digits[:3] in TOLL_FREE
+def is_toll_free(digits: str, cc: str = "1") -> bool:
+    if cc == "1" or len(digits) == 10:
+        return digits[:3] in TOLL_FREE
+    rest = digits[len(cc):] if digits.startswith(cc) else digits
+    return rest.startswith(INTL_TOLL_FREE)
 
 
 def host_of(url: str) -> str:
