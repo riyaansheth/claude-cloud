@@ -1,0 +1,39 @@
+{
+  "business": "Perodri Joyeros",
+  "category_as_listed": "Alta Joyería - taller propio",
+  "phone": "+34 915 783 140",
+  "email": "info@perodri.es",
+  "email_source": "https://www.perodri.es/aviso-legal/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.perodri.es",
+  "address": "Calle Serrano 17, Madrid",
+  "city": "Madrid",
+  "state": "ES",
+  "market": "Madrid, Spain",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.perodri.es/en/diamonds/",
+  "tel_numbers": [
+    "+34915783140",
+    "+34688733427"
+  ],
+  "tel_source": "https://www.perodri.es/en/jewelry-madrid-serrano/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1961",
+    "manufacturer",
+    "natural",
+    "gia"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: began 1961 as a jewellery workshop manufacturing for jewellers across Spain; own workshops; 'team of gemologists at Perodri Joyeros' selects the small share of diamonds suitable for its pieces. Madrid Serrano 17 boutique since 1988 (group also in Bilbao, Burgos, León, Santander, Vitoria).",
+  "drop_reason": ""
+}

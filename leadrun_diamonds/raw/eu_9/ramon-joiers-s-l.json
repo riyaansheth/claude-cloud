@@ -1,0 +1,41 @@
+{
+  "business": "RAMON Joiers S.L.",
+  "category_as_listed": "Jewellery manufacturer and/or wholesaler",
+  "phone": "+34 934 34 30 00",
+  "email": "info@ramon.es",
+  "email_source": "https://ramon.es/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://ramon.es",
+  "address": "Carrer de la Gleva, 36, Sarrià-Sant Gervasi, 08006 Barcelona",
+  "city": "Barcelona",
+  "state": "ES",
+  "market": "Barcelona, Spain",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/ramon-joiers-s-l/",
+  "tel_numbers": [
+    "+34 934 34 30 00"
+  ],
+  "tel_source": "https://ramon.es/aviso-legal/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "manufacturer",
+    "wholesale",
+    "rjc-certified",
+    "50-years",
+    "natural"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "RJC member since 2013, forum 'jewellery manufacturer and/or wholesaler', Barcelona; own site: 50+ years making gold chains and collections 'con diamantes y piedras preciosas' (design, fabricación in-house).",
+  "drop_reason": ""
+}
