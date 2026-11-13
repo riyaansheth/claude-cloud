@@ -1,0 +1,9 @@
+{
+  "business": "Mon Atelier Parisien",
+  "market": "Paris, France",
+  "source_url": "https://monatelierparisien.com/",
+  "drop_reason": "retail-only",
+  "scope_reason": "Jewellery fabrication & repair workshop (Etsy shop); no diamond trade.",
+  "is_diamond_trade": false,
+  "website": "https://monatelierparisien.com"
+}

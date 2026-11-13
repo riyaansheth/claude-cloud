@@ -1,0 +1,42 @@
+{
+  "business": "Haddad Joaillerie",
+  "category_as_listed": "",
+  "phone": "+33 6 30 34 51 17",
+  "email": "nicolas@haddadparis.com",
+  "email_source": "https://haddadjoaillerie.com/contact/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Nicolas Haddad",
+  "role": "Founder",
+  "contact_source": "https://haddadjoaillerie.com/notre-histoire/",
+  "website": "https://haddadjoaillerie.com",
+  "address": "48 rue La Fayette, 75009",
+  "city": "Paris",
+  "state": "FR",
+  "market": "Paris, France",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://haddadjoaillerie.com/notre-histoire/",
+  "tel_numbers": [
+    "+33630345117"
+  ],
+  "tel_source": "https://haddadjoaillerie.com/contact/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA"
+  ],
+  "hooks": [
+    "gia-gg",
+    "since-2018",
+    "2nd-generation",
+    "bridal",
+    "certified",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Founded 2018 by Nicolas Haddad, son of a Parisian diamantaire, GIA-trained; joined family diamond firm 2015; bespoke engagement rings with certified, traced diamonds at 48 rue La Fayette (same address as diamantaire Diamprest).",
+  "drop_reason": ""
+}
