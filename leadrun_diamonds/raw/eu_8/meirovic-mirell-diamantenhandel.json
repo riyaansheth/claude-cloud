@@ -1,0 +1,37 @@
+{
+ "business": "Meirovic Mirell Diamantenhandel",
+ "category_as_listed": "Edelsteine",
+ "phone": "069 58 85 88",
+ "email": "m@meirovic.de",
+ "email_source": "http://www.meirovic.de/index20.php",
+ "linkedin_url": "",
+ "linkedin_source": "",
+ "contact_person": "Mirell Meirovic",
+ "role": "Owner",
+ "contact_source": "http://www.meirovic.de/index20.php",
+ "website": "http://www.meirovic.de",
+ "address": "Antoninusstr. 60, 60439 Frankfurt am Main",
+ "city": "Frankfurt am Main",
+ "state": "DE",
+ "market": "Frankfurt, Germany",
+ "lead_origin": "YellowPages",
+ "rating": "",
+ "reviews": "",
+ "source_url": "https://www.gelbeseiten.de/gsbiz/b0e777ba-17ab-45f4-a916-86bd2e96b2b9",
+ "tel_numbers": [
+  "069 / 29 29 25"
+ ],
+ "tel_source": "http://www.meirovic.de/index20.php",
+ "socials": [],
+ "building": "",
+ "suite": "",
+ "trade_memberships": [],
+ "hooks": [
+  "to-the-trade",
+  "natural",
+  "wholesale"
+ ],
+ "is_diamond_trade": true,
+ "scope_reason": "Own site 'Ihr Diamantengroßhändler': 'Wir führen Brillanten in allen gängigen Größen und Qualitäten' and 'Wir beliefern nur den Fachhandel. Bitte fordern Sie unsere Preisliste an.' (Note: the site's mailto link has a typo, m@meirovice.de; the page text shows m@meirovic.de.)",
+ "drop_reason": ""
+}
