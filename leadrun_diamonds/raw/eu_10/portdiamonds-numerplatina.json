@@ -10,7 +10,7 @@
   "role": "CEO",
   "contact_source": "https://www.diamondworld.net/amp/story/news/12814",
   "website": "https://portdiamonds.pt",
-  "address": "",
+  "address": "Avenida Marechal Craveiro Lopes, 1700-284 Lisboa (per casamentos.pt listing 'Port Diamonds', seen in WebSearch result; page itself not fetchable)",
   "city": "Lisbon",
   "state": "PT",
   "market": "Lisbon, Portugal",
@@ -32,6 +32,6 @@
     "natural"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "DiamondWorld: 'Lisbon-based rough diamond trading company' exporting KP-certified rough from Sierra Leone to Dubai; CEO Vitor Rita. Own site portdiamonds.pt returned 503 (unreachable).",
+  "scope_reason": "DiamondWorld: 'Lisbon-based rough diamond trading company' exporting KP-certified rough from Sierra Leone to Dubai; CEO Vitor Rita. Own site portdiamonds.pt returned 503 (unreachable). casamentos.pt (via search): 'faz a ligação directa entre a bolsa de diamantes e o consumidor final'.",
   "drop_reason": ""
 }

@@ -1,0 +1,44 @@
+{
+  "business": "PETROS TASOULIS JEWELLERY",
+  "category_as_listed": "Κοσμήματα",
+  "phone": "+30 210 862 2462",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.petrostasoulis.gr",
+  "address": "Patision 157, Plateia Amerikis, 11252",
+  "city": "Athens",
+  "state": "GR",
+  "market": "Athens, Greece",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.vrisko.gr/dir/kosmimata/athina/?page=9",
+  "tel_numbers": [
+    "+30 6955707378",
+    "+30 210 3636 999",
+    "+30 210 522 1988",
+    "+30 210 862 2462"
+  ],
+  "tel_source": "https://www.petrostasoulis.gr/contact/",
+  "socials": [
+    "https://www.facebook.com/petros.tasoulis.jewellery/",
+    "https://www.instagram.com/petrostasoulisjewellery/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1970",
+    "manufacturer",
+    "diamond-collection",
+    "engagement-rings"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'Since 1970, we have been crafting jewelry'; dedicated Diamond Collection and engagement rings; multiple Athens stores. Own loose-stone sourcing not explicitly stated.",
+  "drop_reason": ""
+}
