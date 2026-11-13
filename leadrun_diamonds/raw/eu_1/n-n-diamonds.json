@@ -1,0 +1,40 @@
+{
+  "business": "N.N. Diamonds",
+  "category_as_listed": "diamonds",
+  "phone": "+32 3 232 68 78",
+  "email": "info@nndiamonds.com",
+  "email_source": "https://www.nndiamonds.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.nndiamonds.com",
+  "address": "Hoveniersstraat 2, Room 201, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bsearch.be/en/diamonds/",
+  "tel_numbers": [
+    "+32 486 53 52 32",
+    "+32 486 53 56 23"
+  ],
+  "tel_source": "https://www.nndiamonds.com/",
+  "socials": [],
+  "building": "Hoveniersstraat 2",
+  "suite": "Room 201",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1991",
+    "2nd-generation",
+    "manufacturer-india",
+    "buying-agent",
+    "B2B"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: Antwerp diamond company (est. 1991) with manufacturing unit Jain Diamond Industry in Mumbai, supplying wholesalers, retailers and jewellers; buying agent.",
+  "drop_reason": ""
+}
