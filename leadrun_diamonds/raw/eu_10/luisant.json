@@ -1,0 +1,44 @@
+{
+  "business": "LUISANT",
+  "category_as_listed": "e-shop Κοσμήματα",
+  "phone": "+30 210 331 7211",
+  "email": "info@luisant.gr",
+  "email_source": "https://luisant.gr/contact-bright/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://luisant.gr",
+  "address": "Aristofanous 24, Psyrri Square, 10554",
+  "city": "Athens",
+  "state": "GR",
+  "market": "Athens, Greece",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.vrisko.gr/dir/kosmimata/athina/?page=3",
+  "tel_numbers": [
+    "+302103317211",
+    "+302130494336"
+  ],
+  "tel_source": "https://luisant.gr/contact-bright/",
+  "socials": [
+    "https://www.facebook.com/luisantjewelry/",
+    "https://www.instagram.com/luisant.gr/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "loose-stones",
+    "stone-trade",
+    "gia",
+    "igl",
+    "manufacturer",
+    "family-business"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: 'design, trade and carving of precious and semi-precious stones' and manufacture of gold jewellery with diamonds; large collection of loose stones incl. diamonds; free IGL & GIA certifications.",
+  "drop_reason": ""
+}

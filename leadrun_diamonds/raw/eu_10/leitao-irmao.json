@@ -1,0 +1,47 @@
+{
+  "business": "Leitão & Irmão",
+  "category_as_listed": "Joalharia",
+  "phone": "+351 21 325 7870",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.leitao-irmao.com",
+  "address": "Largo do Chiado 17",
+  "city": "Lisbon",
+  "state": "PT",
+  "market": "Lisbon, Portugal",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.leitao-irmao.com/historia/",
+  "tel_numbers": [
+    "00351211349608",
+    "00351211994104",
+    "00351213257870",
+    "00351213424107"
+  ],
+  "tel_source": "https://www.leitao-irmao.com/contacte-nos/",
+  "socials": [
+    "https://www.facebook.com/leitaoirmao/",
+    "https://www.instagram.com/leitaoeirmao/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "since-1822",
+    "6th-generation",
+    "own-workshop",
+    "high-jewellery",
+    "crown-jewellers",
+    "patented-diamond-setting",
+    "bespoke"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: Crown Jewellers with own Bairro Alto workshops (since 1889) that manufacture the house's pieces; 2009 patent for an innovative diamond setting (Solitário collection). Wikipedia: owned/managed by 6th generation of the Leitão family.",
+  "drop_reason": ""
+}

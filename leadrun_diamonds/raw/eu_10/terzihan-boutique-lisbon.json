@@ -1,0 +1,41 @@
+{
+  "business": "Terzihan Boutique Lisbon",
+  "category_as_listed": "",
+  "phone": "+351 211 330 703",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://terzihan.com",
+  "address": "Avenida da Liberdade 247A",
+  "city": "Lisbon",
+  "state": "PT",
+  "market": "Lisbon, Portugal",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.dn.pt/arquivo/diario-de-noticias/o-brilho-da-alta-joalharia-turca-14860689.html",
+  "tel_numbers": [
+    "+351 211 330 703",
+    "+90 533 090 53 33"
+  ],
+  "tel_source": "https://terzihan.com/pages/contact",
+  "socials": [
+    "https://www.instagram.com/terzihan/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "high-jewellery",
+    "manufacturer",
+    "since-1974",
+    "own-atelier"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "High-jewellery house (atelier Istanbul, since 1974) with Lisbon boutique; DN: produces fully diamond-set pieces itself (necklace 'todo cravado em diamantes'); site sells 'All Diamonds Edition' pieces.",
+  "drop_reason": ""
+}
