@@ -1,0 +1,42 @@
+{
+  "business": "City Diamonds",
+  "category_as_listed": "",
+  "phone": "+31 20 6256121",
+  "email": "info@city-diamonds.nl",
+  "email_source": "https://city-diamonds.nl/contact-met-city-diamonds/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://city-diamonds.nl",
+  "address": "Kalverstraat 51, 1012 NZ",
+  "city": "Amsterdam",
+  "state": "NL",
+  "market": "Amsterdam, Netherlands",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://city-diamonds.nl/over-ons/",
+  "tel_numbers": [
+    "(+31) (0) 20 6256121"
+  ],
+  "tel_source": "https://city-diamonds.nl/contact-met-city-diamonds/",
+  "socials": [
+    "https://www.facebook.com/citydiamondsamsterdam"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Amsterdam Diamond Exchange"
+  ],
+  "hooks": [
+    "since-1985",
+    "cutter",
+    "loose-diamonds",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Site: member of the Amsterdam diamond bourse, large collection of loose certified diamonds, diamonds cut on premises, designs and manufactures diamond jewellery; founded 1985 (also watch dealer).",
+  "drop_reason": ""
+}

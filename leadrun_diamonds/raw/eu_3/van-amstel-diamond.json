@@ -1,0 +1,40 @@
+{
+  "business": "Van Amstel Diamond",
+  "category_as_listed": "Groothandel in juwelen",
+  "phone": "+31 (0)202 447 512",
+  "email": "contact@vanamsteldiamant.nl",
+  "email_source": "https://www.vanamsteldiamant.nl/contacts",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.vanamsteldiamant.nl",
+  "address": "",
+  "city": "Amsterdam",
+  "state": "NL",
+  "market": "Amsterdam, Netherlands",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.yoys.nl/phone,31-208946451,Groothandel-in-juwelen,Amsterdam,NL18904.html",
+  "tel_numbers": [
+    "+31202447512"
+  ],
+  "tel_source": "https://www.vanamsteldiamant.nl/contacts",
+  "socials": [
+    "https://www.facebook.com/vanamsteldiamond",
+    "https://www.instagram.com/_vanamsteldiamond/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "natural",
+    "loose-diamonds",
+    "manufacturer"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Described as a diamond trading company and jewellery manufacturer headquartered in Amsterdam; site sells loose natural diamonds and custom jewellery.",
+  "drop_reason": ""
+}
