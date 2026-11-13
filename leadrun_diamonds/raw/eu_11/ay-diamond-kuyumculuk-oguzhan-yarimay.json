@@ -1,0 +1,37 @@
+{
+  "business": "AY DİAMOND KUYUMCULUK - OĞUZHAN YARIMAY",
+  "category_as_listed": "Borsa İstanbul - authorised trader, Kıymetli Madenler ve Kıymetli Taşlar Piyasası (Gerçek/Tüzel Kişi Kuyumcular)",
+  "phone": "+90 212 513 85 11",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Oğuzhan Yarımay",
+  "role": "Owner",
+  "contact_source": "https://borsaistanbul.com/uye-listesi/yetki-verilenlere-iliskin-bilgiler?authId=10",
+  "website": "https://aydiamond.com",
+  "address": "",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://borsaistanbul.com/uye-listesi/yetki-verilenlere-iliskin-bilgiler?authId=10",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://instagram.com/aydiamondofficial"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Borsa Istanbul"
+  ],
+  "hooks": [
+    "borsa-istanbul-diamond-market"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Borsa İstanbul as an authorised trader on its precious metals & precious stones (diamond) market (operation code WR3); trade name contains PIRLANTA/DIAMOND/DEĞERLİ TAŞ. Sole proprietorship registered in the owner's name (Oğuzhan Yarımay).",
+  "drop_reason": ""
+}

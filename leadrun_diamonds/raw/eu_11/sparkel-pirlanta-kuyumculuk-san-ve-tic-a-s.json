@@ -1,0 +1,41 @@
+{
+  "business": "SPARKEL PIRLANTA KUYUMCULUK SAN. VE TİC. A.Ş.",
+  "category_as_listed": "Borsa İstanbul - authorised trader, Kıymetli Madenler ve Kıymetli Taşlar Piyasası (Gerçek/Tüzel Kişi Kuyumcular)",
+  "phone": "+90 535 654 94 13",
+  "email": "info@sparkeldiamonds.com",
+  "email_source": "https://www.sparkeldiamonds.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.sparkeldiamonds.com",
+  "address": "",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://borsaistanbul.com/uye-listesi/yetki-verilenlere-iliskin-bilgiler?authId=10",
+  "tel_numbers": [
+    "+90 535 654 94 13"
+  ],
+  "tel_source": "https://www.sparkeldiamonds.com/",
+  "socials": [
+    "http://instagram.com/sparkeldiamonds",
+    "https://www.instagram.com/sparkeldiamonds",
+    "https://www.facebook.com/Sparkel.Diamonds/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Borsa Istanbul"
+  ],
+  "hooks": [
+    "borsa-istanbul-diamond-market"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Borsa İstanbul as an authorised trader on its precious metals & precious stones (diamond) market (operation code WO7); trade name contains PIRLANTA/DIAMOND/DEĞERLİ TAŞ.",
+  "drop_reason": ""
+}

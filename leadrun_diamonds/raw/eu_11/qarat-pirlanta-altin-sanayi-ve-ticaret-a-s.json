@@ -1,0 +1,43 @@
+{
+  "business": "QARAT PIRLANTA ALTIN SANAYİ VE TİCARET A.Ş.",
+  "category_as_listed": "Borsa İstanbul - authorised trader, Kıymetli Madenler ve Kıymetli Taşlar Piyasası (Gerçek/Tüzel Kişi Kuyumcular)",
+  "phone": "+90 212 603 10 41",
+  "email": "info@qarat.com.tr",
+  "email_source": "https://www.qarat.com.tr/index.php?route=common/home",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.qarat.com.tr",
+  "address": "",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://borsaistanbul.com/uye-listesi/yetki-verilenlere-iliskin-bilgiler?authId=10",
+  "tel_numbers": [
+    "02126031041",
+    "+90 507 377 27 28"
+  ],
+  "tel_source": "https://www.qarat.com.tr/index.php?route=common/home",
+  "socials": [
+    "https://www.instagram.com/qaratpirlanta/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Borsa Istanbul"
+  ],
+  "hooks": [
+    "borsa-istanbul-diamond-market",
+    "wholesale",
+    "certified-stones",
+    "gia"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Borsa İstanbul as an authorised trader on its precious metals & precious stones (diamond) market (operation code WV7); trade name contains PIRLANTA/DIAMOND/DEĞERLİ TAŞ. Site (qarat.com.tr): 'Kuyumcuların Güvendiği Pırlanta Adresi - GIA, HRD, IGI sertifikalı pırlanta' (trade supplier to jewellers, has a jeweller login panel).",
+  "drop_reason": ""
+}

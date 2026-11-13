@@ -1,0 +1,42 @@
+{
+  "business": "Sina Diamond",
+  "category_as_listed": "Diamond Jewellery Companies (Turkish Jewellery Exporters Association directory)",
+  "phone": "+90 212 527 50 80",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Utku Can Lek",
+  "role": "",
+  "contact_source": "https://www.turkishjewellery.org/sina",
+  "website": "",
+  "address": "Molla Fenari Mah. Şerefefendi Cad. No: 59 Nuruosmaniye ,Fatih, İstanbul",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.turkishjewellery.org/sina",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.facebook.com/sinapirlanta",
+    "https://www.twitter.com/sinapirlanta",
+    "https://www.instagram.com/sinapirlanta"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "JTR (Türkiye Jewellery Exporters Association)",
+    "Borsa Istanbul"
+  ],
+  "hooks": [
+    "manufacturer",
+    "exporter",
+    "borsa-istanbul-diamond-market"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Türkiye Jewellery Exporters Association (turkishjewellery.org) under DIAMOND JEWELLERY COMPANIES - Istanbul diamond jewellery manufacturer/exporter. About: ",
+  "drop_reason": ""
+}

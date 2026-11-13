@@ -1,0 +1,41 @@
+{
+  "business": "THALES PIRLANTA İÇ VE DIŞ TİCARET LTD. ŞTİ.",
+  "category_as_listed": "Borsa İstanbul - authorised trader, Kıymetli Madenler ve Kıymetli Taşlar Piyasası (Gerçek/Tüzel Kişi Kuyumcular)",
+  "phone": "+90 506 376 87 66",
+  "email": "destek@thalespirlanta.com",
+  "email_source": "https://www.thalespirlanta.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.thalespirlanta.com",
+  "address": "Mollafenari Mahallesi Nuruosmaniye Caddesi Atasaray İş merkezi Giriş Kat No:23/6, 34110 Fatih/İstanbul",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://borsaistanbul.com/uye-listesi/yetki-verilenlere-iliskin-bilgiler?authId=10",
+  "tel_numbers": [
+    "+902126322270"
+  ],
+  "tel_source": "https://www.thalespirlanta.com/",
+  "socials": [
+    "https://www.facebook.com/thalespirlanta",
+    "https://www.instagram.com/thalespirlanta",
+    "https://x.com/thalespirlanta"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Borsa Istanbul"
+  ],
+  "hooks": [
+    "borsa-istanbul-diamond-market"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Borsa İstanbul as an authorised trader on its precious metals & precious stones (diamond) market (operation code W4F); trade name contains PIRLANTA/DIAMOND/DEĞERLİ TAŞ.",
+  "drop_reason": ""
+}

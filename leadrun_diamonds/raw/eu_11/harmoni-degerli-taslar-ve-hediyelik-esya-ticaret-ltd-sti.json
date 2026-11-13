@@ -1,0 +1,37 @@
+{
+  "business": "HARMONİ DEĞERLİ TAŞLAR VE HEDİYELİK EŞYA TİCARET LTD. ŞTİ.",
+  "category_as_listed": "Borsa İstanbul - authorised trader, Kıymetli Madenler ve Kıymetli Taşlar Piyasası (Gerçek/Tüzel Kişi Kuyumcular)",
+  "phone": "+90 212 513 50 61",
+  "email": "info@harmonydegerlitaslar.com",
+  "email_source": "https://www.harmonydegerlitaslar.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.harmonydegerlitaslar.com",
+  "address": "",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://borsaistanbul.com/uye-listesi/yetki-verilenlere-iliskin-bilgiler?authId=10",
+  "tel_numbers": [
+    "+90 554 499 7372"
+  ],
+  "tel_source": "https://www.harmonydegerlitaslar.com/",
+  "socials": [],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "Borsa Istanbul"
+  ],
+  "hooks": [
+    "borsa-istanbul-diamond-market"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Borsa İstanbul as an authorised trader on its precious metals & precious stones (diamond) market (operation code WXC); trade name contains PIRLANTA/DIAMOND/DEĞERLİ TAŞ. Site describes itself as a gemstone ('mücevher taşları') supplier; diamond line not explicit.",
+  "drop_reason": ""
+}

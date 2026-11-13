@@ -1,0 +1,47 @@
+{
+  "business": "Uzman Jewellery",
+  "category_as_listed": "Diamond Jewellery Companies (Turkish Jewellery Exporters Association directory)",
+  "phone": "+90 212 551 23 32",
+  "email": "emre.imamoglu@uzmanjewellery.com",
+  "email_source": "https://www.turkishjewellery.org/uzmanjewellery",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Emre İmamoğlu",
+  "role": "",
+  "contact_source": "https://www.turkishjewellery.org/uzmanjewellery",
+  "website": "https://www.uzmanjewellery.com",
+  "address": "Doğu Sanayi Sitesi, 2. Blok No:14 Yenibosna ,Bahçelievler, İstanbul",
+  "city": "Istanbul",
+  "state": "TR",
+  "market": "Istanbul, Turkey",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.turkishjewellery.org/uzmanjewellery",
+  "tel_numbers": [
+    "+902125512332"
+  ],
+  "tel_source": "https://www.uzmanjewellery.com/",
+  "socials": [
+    "https://www.facebook.com/uzman.jewellery",
+    "https://www.instagram.com/uzman.jewellery",
+    "https://www.facebook.com/uzman.jewellery/",
+    "https://www.instagram.com/uzman.jewellery/",
+    "https://www.linkedin.com/company/uzman-jewellery/about/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "JTR (Türkiye Jewellery Exporters Association)",
+    "Borsa Istanbul"
+  ],
+  "hooks": [
+    "manufacturer",
+    "exporter",
+    "borsa-istanbul-diamond-market",
+    "since-1975"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Listed by Türkiye Jewellery Exporters Association (turkishjewellery.org) under DIAMOND JEWELLERY COMPANIES - Istanbul diamond jewellery manufacturer/exporter. About: UZMAN JEWELLERY Uzman Jewellery was founded in 1975 in Istanbul’s Grand Bazaar and has been run by the same family for three-generations. We supply responsibly sourced jewels to more than 50 cou",
+  "drop_reason": ""
+}
