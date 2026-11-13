@@ -1,0 +1,46 @@
+{
+  "business": "J.K. Diamonds Suppliers (Jorge Juan Joyeros)",
+  "category_as_listed": "Diamonds and precious stones wholesaler",
+  "phone": "+34 917 022 151",
+  "email": "contacto@jorgejuanjoyeros.es",
+  "email_source": "https://www.jorgejuanjoyeros.es/contacto",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Karina Kawai",
+  "role": "CEO",
+  "contact_source": "https://www.responsiblejewellery.com/files/News-Release-J.K.Diamonds-Suppliers.pdf",
+  "website": "https://www.jorgejuanjoyeros.es",
+  "address": "Calle Fernando el Santo 24, Madrid",
+  "city": "Madrid",
+  "state": "ES",
+  "market": "Madrid, Spain",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/files/News-Release-J.K.Diamonds-Suppliers.pdf",
+  "tel_numbers": [
+    "+34 917 022 151"
+  ],
+  "tel_source": "https://www.jorgejuanjoyeros.es/contacto",
+  "socials": [
+    "https://www.facebook.com/jorgejuanjoyero/",
+    "https://www.instagram.com/jorgejuanjoyeros/",
+    "https://x.com/joyerojorgejuan/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC",
+    "GIA"
+  ],
+  "hooks": [
+    "since-2001",
+    "wholesale",
+    "natural",
+    "rjc-certified",
+    "antwerp-office"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "RJC release: 'story begins in 2001 in Madrid as a diamonds and precious stones wholesalers company'; retail arm Jorge Juan Joyeros (Fernando el Santo 24, Serrano 81) sells GIA diamonds.",
+  "drop_reason": ""
+}

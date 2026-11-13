@@ -1,0 +1,42 @@
+{
+  "business": "D'Or Joiers S.A.",
+  "category_as_listed": "Jewellery Manufacturer",
+  "phone": "+34 933 208 933",
+  "email": "dorjoiers@dorjoiers.com",
+  "email_source": "https://www.dorjoiers.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.dorjoiers.com",
+  "address": "C/ Bolivia, 18-24, 08018 Barcelona",
+  "city": "Barcelona",
+  "state": "ES",
+  "market": "Barcelona, Spain",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.dorjoiers.com/about",
+  "tel_numbers": [
+    "+34933208933"
+  ],
+  "tel_source": "https://www.dorjoiers.com/about",
+  "socials": [
+    "https://es.linkedin.com/company/dorjoiers"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "since-1964",
+    "manufacturer",
+    "natural",
+    "rjc-certified"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "RJC-certified Barcelona manufacturer of diamond-set fine jewellery since 1964 (founded by Ramón López and Rafel Carbonell); site states KP/WDC System of Warranties policy across its diamond supply chain.",
+  "drop_reason": ""
+}

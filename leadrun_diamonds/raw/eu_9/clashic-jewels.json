@@ -1,0 +1,37 @@
+{
+  "business": "Clashic Jewels",
+  "category_as_listed": "Taller de joyería y despacho de gemas y diamantes",
+  "phone": "",
+  "email": "info@clashicjewels.com",
+  "email_source": "https://www.clashicjewels.com/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://www.clashicjewels.com",
+  "address": "",
+  "city": "Madrid",
+  "state": "ES",
+  "market": "Madrid, Spain",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.clashicjewels.com/",
+  "tel_numbers": [],
+  "tel_source": "",
+  "socials": [
+    "https://www.instagram.com/clashicjewels/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "manufacturer",
+    "gia",
+    "bespoke"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: own workshop, 'Gemología y graduación de diamantes', bespoke pieces; search snippet places its taller/despacho de gemas y diamantes on calle Don Ramón de la Cruz, Madrid. Small bespoke house selecting its own stones (borderline).",
+  "drop_reason": ""
+}
