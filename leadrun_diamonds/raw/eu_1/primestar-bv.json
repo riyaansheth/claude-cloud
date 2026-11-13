@@ -1,0 +1,44 @@
+{
+  "business": "Primestar BV",
+  "category_as_listed": "RJC Member",
+  "phone": "+32 3 535 88 88",
+  "email": "info@primestardiamonds.com",
+  "email_source": "https://primestardiamonds.com/contact-us/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Raj Kothari",
+  "role": "Founder",
+  "contact_source": "https://primestardiamonds.com/about-us/ ('its founders, Raj Kothari and Priti Parikh, moved to Antwerp')",
+  "website": "https://primestardiamonds.com",
+  "address": "Hoveniersstraat 51, P.O. Box 18, 2nd Floor, Office 1212, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.responsiblejewellery.com/member/primestar-bv/",
+  "tel_numbers": [
+    "+32 3 5358888",
+    "+971 4 4107385"
+  ],
+  "tel_source": "https://primestardiamonds.com/contact-us/",
+  "socials": [
+    "https://www.instagram.com/_primestardiamonds"
+  ],
+  "building": "",
+  "suite": "Office 1212",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "family-run",
+    "2nd-generation",
+    "calibrated-rounds",
+    "traceable",
+    "supplies-luxury-brands"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: family-run diamond company supplying traceable natural diamonds and bespoke diamond solutions to luxury brands; Antwerp HQ.",
+  "drop_reason": ""
+}

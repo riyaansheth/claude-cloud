@@ -1,0 +1,43 @@
+{
+  "business": "Starlite Diamonds BV",
+  "category_as_listed": "diamonds",
+  "phone": "+32 3 233 87 66",
+  "email": "",
+  "email_source": "",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://starlitediamonds.com",
+  "address": "Hoveniersstraat 30, Office 129, First Floor, 2018 Antwerp",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Trade Directory",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.bsearch.be/en/diamonds/",
+  "tel_numbers": [
+    "+32 3 233 87 66"
+  ],
+  "tel_source": "https://starlitediamonds.com/about-us.php",
+  "socials": [
+    "https://www.facebook.com/starlitediamonds",
+    "https://www.instagram.com/wearestarlitediamonds/"
+  ],
+  "building": "",
+  "suite": "Office 129",
+  "trade_memberships": [
+    "RJC"
+  ],
+  "hooks": [
+    "since-1982",
+    "wholesale",
+    "precision-cut",
+    "watch-and-jewellery-houses"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Own site: wholesaler of high-quality precision cut diamonds in Antwerp for 40+ years, supplying fine jewellery & watchmaking houses. Email is Cloudflare-obfuscated (not recorded).",
+  "drop_reason": ""
+}
