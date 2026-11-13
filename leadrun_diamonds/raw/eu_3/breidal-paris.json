@@ -1,0 +1,40 @@
+{
+  "business": "Breidal Paris",
+  "category_as_listed": "",
+  "phone": "01 84 60 31 78",
+  "email": "bonjour@breidal.com",
+  "email_source": "https://www.breidal.com/pages/nous-contacter",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "Nathalie Cilingiriant",
+  "role": "Founder",
+  "contact_source": "https://www.breidal.com/pages/joaillerie-maison-breidal-paris-notre-histoire",
+  "website": "https://www.breidal.com",
+  "address": "",
+  "city": "Paris",
+  "state": "FR",
+  "market": "Paris, France",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://www.breidal.com/pages/joaillerie-maison-breidal-paris-notre-histoire",
+  "tel_numbers": [
+    "+33184603178"
+  ],
+  "tel_source": "https://www.breidal.com/pages/nous-contacter",
+  "socials": [
+    "https://www.facebook.com/Breidal.paris/",
+    "https://www.instagram.com/breidal_paris/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [],
+  "hooks": [
+    "natural",
+    "manufacturer",
+    "bridal"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "Sibling-run Paris joaillerie: Grégory (30 yrs, works for haute-joaillerie houses) is also a diamond trader ('négociant en diamants') who selects the stones; co-founder Nathalie Cilingiriant. Own workshop, made in France.",
+  "drop_reason": ""
+}
