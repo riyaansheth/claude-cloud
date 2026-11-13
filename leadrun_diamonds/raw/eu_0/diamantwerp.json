@@ -1,0 +1,45 @@
+{
+  "business": "Diamantwerp",
+  "category_as_listed": "Certified Diamond Dealer Antwerp (own site)",
+  "phone": "+32 471 01 79 97",
+  "email": "questions@diamantwerp.be",
+  "email_source": "https://diamantwerp.be/contact-us/",
+  "linkedin_url": "",
+  "linkedin_source": "",
+  "contact_person": "",
+  "role": "",
+  "contact_source": "",
+  "website": "https://diamantwerp.be",
+  "address": "Pelikaanstraat 62, 2018 Antwerpen",
+  "city": "Antwerp",
+  "state": "BE",
+  "market": "Antwerp, Belgium",
+  "lead_origin": "Web Search",
+  "rating": "",
+  "reviews": "",
+  "source_url": "https://diamantwerp.be/about-us/",
+  "tel_numbers": [
+    "+32 471 01 79 97"
+  ],
+  "tel_source": "https://diamantwerp.be/contact-us/",
+  "socials": [
+    "https://www.facebook.com/diamantwerp",
+    "https://www.instagram.com/diam.antwerp/"
+  ],
+  "building": "",
+  "suite": "",
+  "trade_memberships": [
+    "GIA",
+    "HRD",
+    "IGI"
+  ],
+  "hooks": [
+    "since-1987",
+    "natural",
+    "certified",
+    "loose-diamonds"
+  ],
+  "is_diamond_trade": true,
+  "scope_reason": "diamantwerp.be: 'Established as a diamond trading firm in the heart of the Antwerp Diamond District, Pelikaanstraat' (1987); sells certified loose natural diamonds, B2B trade expanded to private buyers",
+  "drop_reason": ""
+}
