@@ -9,7 +9,7 @@
   "contact_person": "Mevlüt Yavuz",
   "role": "",
   "contact_source": "https://www.turkishjewellery.org/Vivo",
-  "website": "",
+  "website": "https://vivopirlanta.com",
   "address": "Alemder Mah. Bab-ı Ali Cad. No:36 D:301 ,Fatih, İstanbul",
   "city": "Istanbul",
   "state": "TR",
@@ -18,8 +18,10 @@
   "rating": "",
   "reviews": "",
   "source_url": "https://www.turkishjewellery.org/Vivo",
-  "tel_numbers": [],
-  "tel_source": "",
+  "tel_numbers": [
+    "+905322871485"
+  ],
+  "tel_source": "https://vivopirlanta.com/",
   "socials": [
     "https://www.facebook.com/https://tr-tr.facebook.com/vivopirlanta/",
     "https://www.instagram.com/https://www.instagram.com/vivopirlanta/?hl=tr"

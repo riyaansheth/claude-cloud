@@ -31,9 +31,10 @@
     "Borsa Istanbul"
   ],
   "hooks": [
-    "borsa-istanbul-diamond-market"
+    "borsa-istanbul-diamond-market",
+    "wholesale"
   ],
   "is_diamond_trade": true,
-  "scope_reason": "Listed by Borsa İstanbul as an authorised trader on its precious metals & precious stones (diamond) market (operation code W8D); trade name contains PIRLANTA/DIAMOND/DEĞERLİ TAŞ.",
+  "scope_reason": "Listed by Borsa İstanbul as an authorised trader on its precious metals & precious stones (diamond) market (operation code W8D); trade name contains PIRLANTA/DIAMOND/DEĞERLİ TAŞ. Site (rolpirlanta.com/hakkimizda, per search result): supplies certified diamonds to jewellers across Turkey from its Kapalıçarşı/Nuruosmaniye office.",
   "drop_reason": ""
 }
